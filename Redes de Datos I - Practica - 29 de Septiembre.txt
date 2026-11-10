@@ -1,0 +1,3901 @@
+01:04 Right. Right.
+01:36 
+
+01:36 Buenas, ¿me escuchan?
+01:40 
+
+01:40 Sí, profe.
+01:41 
+
+01:41 Sí, profe.
+01:43 
+
+01:43 Esperemos que se terminen
+02:24 
+
+02:24 Bueno, eh hoy nos vamos a retirar un
+02:26 
+
+02:26 poquito más temprano,
+02:30 
+
+02:30 así que vamos a empezar ya no más. Eh,
+02:33 
+
+02:33 coméntenme un poco qué vieron con el
+02:35 
+
+02:35 profe Martín.
+02:40 
+
+02:40 Estuvimos viendo lo que es el modelo OSI
+02:43 
+
+02:43 protocolos y el modelo TCPIP. Ah, bien,
+02:47 
+
+02:47 bien, bien.
+02:51 
+
+02:51 E Ah,
+03:16 
+
+03:16 Bien.
+03:42 
+
+03:42 Bueno, e
+03:45 
+
+03:45 la vez pasada habíamos visto
+03:49 
+
+03:49 eh el tema de bueno de del
+03:53 
+
+03:53 direccionamiento IP
+03:56 
+
+03:56 este
+03:59 
+
+03:59 y bueno, ya habíamos conversado también
+04:01 
+
+04:01 de
+04:04 
+
+04:04 de
+04:06 
+
+04:06 la de las dificultades que había
+04:11 
+
+04:11 eh
+04:12 
+
+04:12 con el con el tema de de
+04:18 
+
+04:18 con el tema de de del direccionamiento,
+04:21 
+
+04:21 porque eh esto no no fue pensado
+04:25 
+
+04:25 para para que haya tantas direcciones
+04:30 
+
+04:30 eh o tantos dispositivos que ocupan
+04:33 
+
+04:33 direcciones. Por ejemplo, soy
+04:35 
+
+04:35 reiterativo con el ejemplo, pero el
+04:36 
+
+04:36 internet de las cosas es uno de ellos.
+04:38 
+
+04:38 Como decíamos en algún momento, eh hoy
+04:43 
+
+04:43 muchos dispositivos pueden tener este
+04:46 
+
+04:46 pueden tener este una direction IP y y y
+04:50 
+
+04:50 como está pasando se están se están
+04:52 
+
+04:52 acabando las direcciones IP. Entonces,
+04:56 
+
+04:56 eh para
+04:59 
+
+04:59 uno de los motivos para para
+05:04 
+
+05:04 eh eh eh
+05:06 
+
+05:06 aprovechar esa ese esas direcciones,
+05:10 
+
+05:10 este
+05:12 
+
+05:12 y y también este por el por el tema de
+05:16 
+
+05:16 de un
+05:19 
+
+05:19 de un orden,
+05:20 
+
+05:20 este
+05:23 
+
+05:23 tenemos que que que empezar a dividir.
+05:24 
+
+05:24 Por ejemplo, a ver, yo tengo,
+05:26 
+
+05:26 supongamos, yo les lo he comentado, eh
+05:31 
+
+05:31 en base a mi experiencia
+05:35 
+
+05:35 en en el trabajo, bueno, en el Banco
+05:37 
+
+05:37 Rioja hace muchos años, eh
+05:43 
+
+05:43 vi vi un en un manual que venían equipos
+05:47 
+
+05:47 que
+05:49 
+
+05:49 antes los manuales venían impresos y ha
+05:53 
+
+05:53 habido una habitación, pero llenas de
+05:55 
+
+05:55 manuales, parvas de manuales y había
+05:58 
+
+05:58 visto lo que era TCP. Imagínense, no
+05:60 
+
+05:60 había internet todavía y y manual y me
+06:05 
+
+06:05 pongo a ver qué era TSP, por su momento
+06:07 
+
+06:07 estaba token Ring. Eh, esto es una
+06:10 
+
+06:10 experiencia propia, ¿no? Y y uno empieza
+06:13 
+
+06:13 y empezó a descubrir que era el TCP y
+06:16 
+
+06:16 bueno, y qué mejor qué mejor manera de
+06:20 
+
+06:20 de
+06:22 
+
+06:22 de aprender que ponerlo en la práctica.
+06:24 
+
+06:24 Así queamos un laboratorio y comenzamos
+06:27 
+
+06:27 con la famosa 192 168 11
+06:31 
+
+06:31 y fuimos creciendo, creciendo, creciendo
+06:35 
+
+06:35 eh
+06:37 
+
+06:37 este y se fueron eh mezclando, digamos,
+06:42 
+
+06:42 todo lo todos los sectores, todas las
+06:44 
+
+06:44 áreas, era todo una sola cosa.
+06:49 
+
+06:49 Entonces llega un momento que que
+06:54 
+
+06:54 llega un momento en que
+06:57 
+
+06:57 en que se se hace tan grande esa red que
+07:01 
+
+07:01 que ya no es no es fácil este
+07:05 
+
+07:05 administrarla, ¿no? porque ahí están
+07:07 
+
+07:07 mezclando eh bueno, ahí hay ahí hay un
+07:11 
+
+07:11 un un escenario inicial, estamos
+07:13 
+
+07:13 mezclando diferentes áreas este eh o o
+07:18 
+
+07:18 por ejemplo si si lo traemos a la a la a
+07:22 
+
+07:22 la universidad, ¿sí? Entonces, estamos
+07:25 
+
+07:25 tratando eh de resolver un problema. Sí.
+07:30 
+
+07:30 Entonces, eh y si lo llevamos para acá
+07:33 
+
+07:33 para la para la para la universidad, por
+07:38 
+
+07:38 ejemplo, tenemos PC o dispositivos que
+07:41 
+
+07:41 están en en
+07:43 
+
+07:43 bueno, no no no
+07:46 
+
+07:46 nos enfoquemos en el en la ciencia, en
+07:50 
+
+07:50 el departamento de ciencias. Exacto.
+07:54 
+
+07:54 Tenemos peces de administración, tenemos
+07:56 
+
+07:56 peces que están en y hablamos solamente
+07:58 
+
+07:58 de PC, hay muchos dispositivos, pero lo
+07:60 
+
+07:60 vamos a limitar. PC que están en la
+08:03 
+
+08:03 administración, PC que están en el
+08:04 
+
+08:04 laboratorio, tenemos servidores,
+08:07 
+
+08:07 impresoras, access point, cámara y lo
+08:10 
+
+08:10 que se le ocurra también. O sea, eh
+08:14 
+
+08:14 por eso le digo por ahí no no no nos
+08:16 
+
+08:16 limitemos las PC, pero puede haber
+08:18 
+
+08:18 muchos dispositivos y están y todos
+08:20 
+
+08:20 ellos pueden estar dentro de la misma
+08:22 
+
+08:22 red. Entonces uno uno se puede
+08:25 
+
+08:25 preguntar, pero si está andando bien,
+08:27 
+
+08:27 ¿para qué lo voy a cambiar?
+08:29 
+
+08:29 Este,
+08:31 
+
+08:31 y justamente cuando son 10, 20, 30
+08:35 
+
+08:35 equipos, está bien, se lo puede por ahí
+08:38 
+
+08:38 administrar manualmente, pero cuando ya
+08:39 
+
+08:39 empieza a crecer y cada y cada
+08:45 
+
+08:45 sector, área, departamento
+08:48 
+
+08:48 o lo que sea, eh tienen tienen
+08:50 
+
+08:50 necesidades diferentes, eh se empieza a
+08:54 
+
+08:54 complicar. ¿Por qué? Y una de las
+08:57 
+
+08:57 cuestiones, por ejemplo, puede ser el el
+09:01 
+
+09:01 dominio del broadcasting. ¿Se acuerda
+09:02 
+
+09:02 que cuando el broadcast es cuando eh yo
+09:06 
+
+09:06 hablo me escuchan todos? Pero suponen,
+09:10 
+
+09:10 supongan que están ustedes están
+09:12 
+
+09:12 separados en grupo. Grupo uno, cada uno
+09:15 
+
+09:15 sabe quién quién es a qué grupo
+09:18 
+
+09:18 pertenece. Grupo uno, grupo dos, grupo
+09:20 
+
+09:20 tres, grupo cuatro. Entonces, le voy a
+09:22 
+
+09:22 decir, "A ver, el grupo tres y me van a
+09:24 
+
+09:24 responder los que saben que pertenecen
+09:26 
+
+09:26 al grupo tres y al y al resto no lo no
+09:30 
+
+09:30 lo van a
+09:32 
+
+09:32 lo va a desestimar al mensaje." Bueno,
+09:35 
+
+09:35 entonces eh eh algo similar pasa, ¿no?
+09:39 
+
+09:39 mejor ejemplo, pero algo similar pasa
+09:40 
+
+09:40 cuando estamos e eh si tenemos todo en
+09:45 
+
+09:45 en una en una única red, los mensajes
+09:49 
+
+09:49 del broadcasting van a ser van a ser
+09:52 
+
+09:52 recibidos por todos los dispositivos.
+09:55 
+
+09:55 ¿Sí?
+09:56 
+
+09:56 Por ejemplo, yo tengo eh si yo tengo 20
+09:59 
+
+09:59 equipos y tal vez no haya no haya tanto
+10:02 
+
+10:02 problema, pero ya tengo 200 equipos, eh
+10:08 
+
+10:08 cada vez hay más equipos participando
+10:10 
+
+10:10 del mismo del mismo dominio de de
+10:13 
+
+10:13 broadcasting
+10:14 
+
+10:14 o de broadcast. Entonces,
+10:17 
+
+10:17 eh eh
+10:22 
+
+10:22 no no quiere decir que va a funcionar
+10:24 
+
+10:24 mal, eh pero la cuo cuanto mayor es el
+10:29 
+
+10:29 dominio de broadcast, mayor es la
+10:30 
+
+10:30 cantidad de dispositivos que pueden
+10:32 
+
+10:32 recibir ese tráfico y deja de ser este
+10:35 
+
+10:35 y y deja de ser óptimo. Entonces dividir
+10:38 
+
+10:38 esa red nos va a reducir el alcance de
+10:41 
+
+10:41 esos broadcast.
+10:43 
+
+10:43 Otro
+10:45 
+
+10:45 otro problema que podemos llegar a a
+10:49 
+
+10:49 solucionar en la organización, como le
+10:51 
+
+10:51 decíamos recién, si tenemos eh
+10:54 
+
+10:54 departamento,
+10:55 
+
+10:55 eh administración, laboratorio,
+10:59 
+
+10:59 sala de servidores, eh no sé eh
+11:02 
+
+11:02 impresoras departamentales, después
+11:04 
+
+11:04 tenemos eh bueno, cámaras IP, eh el
+11:09 
+
+11:09 Wi-Fi para invitado, pero todo pertenece
+11:12 
+
+11:12 en la misma red, por ejemplo, como dice
+11:13 
+
+11:13 ahí, la 192 168 1.0,
+11:20 
+
+11:20 eh, puede funcionar la red, pero
+11:23 
+
+11:23 administrarlo se vuelve complicado.
+11:26 
+
+11:26 Entonces, si yo, por ejemplo, digo e y
+11:30 
+
+11:30 empiezo a dividir la red y digo, esta
+11:32 
+
+11:32 red va a ser de administración,
+11:36 
+
+11:36 esta otra red va a ser de laboratorio,
+11:39 
+
+11:39 esta otra red de docentes y así y
+11:42 
+
+11:42 servidores y así. Entonces, eh ahí el
+11:46 
+
+11:46 subnet va teniendo un sentido un sentido
+11:50 
+
+11:50 práctico.
+11:52 
+
+11:52 Por otro lado, también puede ser una
+11:54 
+
+11:54 cuestión de de control.
+11:59 
+
+11:59 Por ejemplo, eh yo tengo e eh en su
+12:05 
+
+12:05 casa, su en su casa, eh ustedes pueden
+12:08 
+
+12:08 tener cuando viene alguien le pide la
+12:10 
+
+12:10 contraseña
+12:13 
+
+12:13 y clar que todos estamos acostumbrando
+12:15 
+
+12:15 acostumbrados a darle la contraseña.
+12:20 
+
+12:20 Yo en mi casa, en, por ejemplo, yo tengo
+12:23 
+
+12:23 configurada una shelfsid
+12:26 
+
+12:26 que se llama invitados.
+12:29 
+
+12:29 Entonces, cuando viene alguien, yo le
+12:32 
+
+12:32 dice, "Tené internet, si me da la
+12:34 
+
+12:34 clave." Sí, y es una un wifi para
+12:37 
+
+12:37 invitados que ya está ya está isolado,
+12:39 
+
+12:39 está está controlado, tiene no tiene
+12:44 
+
+12:44 todo el ancho de banda que uno puede
+12:46 
+
+12:46 llegar a tener para su red propio.
+12:49 
+
+12:49 Entonces este
+12:52 
+
+12:52 eh y bueno, pero si estamos en si
+12:55 
+
+12:55 estamos en en en una organización, yo no
+12:59 
+
+12:59 quiero que y y y yo soy el y yo soy el
+13:03 
+
+13:03 el administrador. Yo no quiero que la
+13:06 
+
+13:06 persona que venga tenga el mismo la
+13:08 
+
+13:08 misma el mismo direccionamiento que los
+13:12 
+
+13:12 servidores, que la especie
+13:14 
+
+13:14 administrativa, ¿no? O sea, por
+13:17 
+
+13:17 cualquier cosa, o sea, uno te tiene que
+13:20 
+
+13:20 que cuidar, digamos. Entonces ahí la
+13:24 
+
+13:24 división de subseder nos va a permitir
+13:26 
+
+13:26 separar lógicamente
+13:28 
+
+13:28 los grupos de de dispositivo. ¿Sí?
+13:32 
+
+13:32 E y bueno, ese es un una una cuestión de
+13:37 
+
+13:37 seguridad, pero después si queremos
+13:40 
+
+13:40 eh con los con los firewor, las
+13:42 
+
+13:42 políticas de acceso, ahí puedo decir
+13:45 
+
+13:45 decidir qué qué comunicaciones le puedo
+13:50 
+
+13:50 le puedo permitir a esas redes, ¿no?
+13:53 
+
+13:53 Entonces,
+13:55 
+
+13:55 e
+13:59 
+
+13:59 el subnet por sí solo no nos va a dar
+14:02 
+
+14:02 seguridad,
+14:04 
+
+14:04 pero nos crea una separación lógica
+14:08 
+
+14:08 que nos va a permitir aplicar ciertos
+14:11 
+
+14:11 controles entre las redes.
+14:13 
+
+14:13 [carraspeo]
+14:15 
+
+14:15 Este,
+14:18 
+
+14:18 bien.
+14:20 
+
+14:20 E
+14:25 
+
+14:25 ahora
+14:27 
+
+14:27 recién vimos por qué puede ser necesario
+14:31 
+
+14:31 dividir una red.
+14:34 
+
+14:34 Ahora, ¿qué si qué entienden ustedes? Si
+14:39 
+
+14:39 si hago un subneteo de una red, ¿estoy
+14:43 
+
+14:43 creando direcciones o nuevas direcciones
+14:45 
+
+14:45 IP?
+14:49 
+
+14:49 Yo creo que sí.
+14:55 
+
+14:55 El subneteo no crea nuevas direcciones,
+15:00 
+
+15:00 lo que hace es reorganizar
+15:04 
+
+15:04 el espacio de direcciones que ya tené.
+15:07 
+
+15:07 Sí,
+15:09 
+
+15:09 por ejemplo, acá estamos siguiendo un
+15:12 
+
+15:12 ejemplo.
+15:15 
+
+15:15 Eh,
+15:17 
+
+15:17 tenemos la red 192.168.1.0
+15:24 
+
+15:24 barra 24. ¿Qué quiere decir ese barra
+15:27 
+
+15:27 24?
+15:32 
+
+15:32 ¿Qué opina? ¿Qué opinan? ¿Qué creen
+15:35 
+
+15:35 ustedes? ¿Por
+15:38 
+
+15:38 qué el v?
+15:43 
+
+15:43 A ver,
+15:44 
+
+15:44 no era la anotación 6.
+15:47 
+
+15:47 Sí, pero qué significa
+15:51 
+
+15:51 dividir la IP que ya tengo
+15:54 
+
+15:54 eh de dónde obtengo yo el barra 24.
+15:57 
+
+15:57 Es por los bit que nos quedaron
+15:58 
+
+15:58 restantes.
+16:01 
+
+16:01 Eh, a ver, lo vamos a decir así, ¿eh?
+16:07 
+
+16:07 En este caso tenemos una una red clase
+16:09 
+
+16:09 C.
+16:11 
+
+16:11 ¿Cuánta
+16:13 
+
+16:13 [carraspeo] cuánta
+16:17 
+
+16:17 cuántos bits
+16:19 
+
+16:19 del del de los cuatro octetos?
+16:22 
+
+16:22 Sí, de los cuatro octetos. 192 un
+16:26 
+
+16:26 octeto. Un octeto. 168 es un octeto. Uno
+16:30 
+
+16:30 es un octeto y cero es otro octeto. De
+16:33 
+
+16:33 los cuatro octetos,
+16:37 
+
+16:37 ¿cuántos obtetos pertenecen a Red y
+16:41 
+
+16:41 cuántos obtetos pertenecen a host? En
+16:44 
+
+16:44 este caso, cuando dice reda original,
+16:48 
+
+16:48 tres para red y uno para host. Bien,
+16:52 
+
+16:52 bien. Entonces, si si tres oetos
+16:57 
+
+16:57 eh a ver, ¿cuántos bit tiene un obteto?
+17:04 
+
+17:04 Ocho, profe.
+17:06 
+
+17:06 ¿Cuántos obtetos tenemos de red?
+17:08 
+
+17:08 Cuatro
+17:09 
+
+17:09 de red.
+17:12 
+
+17:12 Ah, tres, profe.
+17:13 
+
+17:13 3. 8* 3
+17:18 
+
+17:18 24.
+17:20 
+
+17:20 Bueno, de ahí sale el 24. Entonces, en
+17:23 
+
+17:23 la red original decimos 192 168.1.0.
+17:28 
+
+17:28 El cer me identifica que es una red. Si
+17:30 
+
+17:30 yo tuviera punto 1,
+17:34 
+
+17:34 lo tomemos con pinza, pero si yo diga
+17:36 
+
+17:36 192 168.1.1,
+17:40 
+
+17:40 ahí estoy hablando de un host. Eh, si yo
+17:44 
+
+17:44 digo 192 168.1.10/24
+17:47 
+
+17:47 10/24.
+17:49 
+
+17:49 Sigo hablando de host. Sí.
+17:52 
+
+17:52 Bien. Eh, bueno, entonces ya sabemos que
+17:55 
+
+17:55 una una red barra 24 tiene 256
+18:01 
+
+18:01 direcciones totales.
+18:07 
+
+18:07 Es así.
+18:11 
+
+18:11 ¿Cómo, profe, podrías repetirlo?
+18:14 
+
+18:14 una red e una red este barra 24
+18:21 
+
+18:21 eh tiene 256
+18:24 
+
+18:24 direcciones totales. ¿Por qué sería
+18:35 
+
+18:35 sale del do a la 8?
+18:38 
+
+18:38 De 0 a 255.
+18:47 
+
+18:47 Claro.
+18:48 
+
+18:48 Eh,
+18:50 
+
+18:50 2 a la 8 256 combinaciones y ahí y ahí
+18:55 
+
+18:55 tengo eh
+18:58 
+
+18:58 este
+19:01 
+
+19:01 tengo
+19:03 
+
+19:03 la parte que me va a identificar la red
+19:05 
+
+19:05 y la parte que me va a identificar al
+19:07 
+
+19:07 broadcast. Por eso de de las 256
+19:12 
+
+19:12 no las uso a todas para host. Bien,
+19:17 
+
+19:17 la fórmula es eh 2 a la n - 2 a la 8 256
+19:25 
+
+19:25 - 2. ¿Por qué -2? Uno va para uno va
+19:29 
+
+19:29 para red que sería el punto 0 192
+19:34 
+
+19:34 168.1.0.
+19:37 
+
+19:37 Esa es la parte de red y el 192
+19:40 
+
+19:40 168.1.255
+19:44 
+
+19:44 va para la parte broadcast. Entonces
+19:46 
+
+19:46 esas dos esas dos direcciones yo no las
+19:49 
+
+19:49 puedo asignar como como si fuera un
+19:51 
+
+19:51 dispositivo.
+19:53 
+
+19:53 Sí. Bueno.
+19:56 
+
+19:56 E
+19:59 
+
+19:59 bueno, entonces e si yo si yo lo veo el
+20:02 
+
+20:02 bloque completo, voy a tener 192 168.1
+20:06 
+
+20:06 1.0 hasta 192 168.1.25.
+20:12 
+
+20:12 Entre 0 y 255 hay 256
+20:15 
+
+20:15 eh números. ¿Sí? Entonces ese bloque ya
+20:20 
+
+20:20 está. Subnet no agranda ese espacio. Lo
+20:22 
+
+20:22 que hace es partirlo en en bloque más
+20:25 
+
+20:25 chico, digamos. Entonces, ¿qué significa
+20:28 
+
+20:28 dividir la red? Bueno, yo lo voy a hacer
+20:31 
+
+20:31 para de acuerdo a la a la configuración
+20:33 
+
+20:33 que yo tenga en la empresa o la
+20:35 
+
+20:35 universidad donde yo esté trabajando.
+20:37 
+
+20:37 Entonces, yo voy a decir si si como como
+20:40 
+
+20:40 había dicho el ejemplo, si yo tengo
+20:42 
+
+20:42 administración,
+20:44 
+
+20:44 laboratorio,
+20:46 
+
+20:46 un grupo para servidores y un grupo para
+20:49 
+
+20:49 WiFi invitado, en lugar dejar todo para
+20:52 
+
+20:52 en una única red barra24, la vamos a
+20:56 
+
+20:56 dividir en el mismo espacio, pero en
+20:59 
+
+20:59 subredes. ¿Sí? Y ahí me figura su
+21:02 
+
+21:02 resultante de 64 direcciones.
+21:06 
+
+21:06 Eh, una barra barra 26 son todos, pero
+21:11 
+
+21:11 la red yo la estoy dividiendo en cuatro
+21:13 
+
+21:13 subredes y la prim subred es 10 192 168
+21:19 
+
+21:19 1.0/26.
+21:21 
+
+21:21 La segunda subred 192 1684/26
+21:26 
+
+21:26 y la tercera ya 128 y 192. Sí. Cada una
+21:30 
+
+21:30 tiene 64 direcciones. Entonces, ¿qué
+21:35 
+
+21:35 tengo? Cuatro subredes de 64
+21:38 
+
+21:38 direcciones. 64 * 4 256 dirección. Sigo
+21:43 
+
+21:43 teniendo las mismas 256 direcciones del
+21:45 
+
+21:45 bloque original. No ganamos direcciones,
+21:47 
+
+21:47 la estamos redistribuyendo. Sí.
+21:51 
+
+21:51 E
+21:53 
+
+21:53 bueno, ¿qué cambia cuando cuando
+21:56 
+
+21:56 hacemos el subneteo?
+21:59 
+
+21:59 Antes yo tenía una sola red barra 24 con
+22:01 
+
+22:01 mucho hot junto. Después tenemos varias
+22:04 
+
+22:04 sub de barra 26, pero menos host menos
+22:09 
+
+22:09 host por cada una de esas divisiones.
+22:13 
+
+22:13 Entonces cuantas más subredes creamos,
+22:17 
+
+22:17 menos host van a estar disponible en
+22:22 
+
+22:22 cada sub. ¿Se entiende lo que estoy
+22:24 
+
+22:24 diciendo?
+22:29 
+
+22:29 Se entiende lo que estoy diciendo. Sí,
+22:30 
+
+22:30 profe. Bien, bien, bien,
+22:34 
+
+22:34 bien. Entonces, e
+22:38 
+
+22:38 de dónde salen esa esa
+22:43 
+
+22:43 esas nuevas subred.
+22:46 
+
+22:46 Bueno, para que para repasando el el
+22:51 
+
+22:51 neting no crea nuevas direcciones, sino
+22:54 
+
+22:54 que reorganiza el espacio. Bien,
+22:58 
+
+22:58 entonces, ¿y cómo hago yo para crear
+23:00 
+
+23:00 subedes? Para crear subedes yo lo que
+23:03 
+
+23:03 voy haciendo es tomar,
+23:05 
+
+23:05 dijimos que yo les pregunté el primero,
+23:09 
+
+23:09 ¿cuáles son los obtetos que identifican
+23:12 
+
+23:12 a la shed?
+23:14 
+
+23:14 ¿Cuáles son los objetos que identifican
+23:16 
+
+23:16 la red?
+23:21 
+
+23:21 Tres, profe.
+23:22 
+
+23:22 Los primeros tres. 192 168 un cierto
+23:26 
+
+23:26 bueno. Y y la y la última parte, el
+23:30 
+
+23:30 cero,
+23:31 
+
+23:31 o sea, yo separo los tres primeros y me
+23:33 
+
+23:33 queda el punto cero. De eso, de esos ese
+23:37 
+
+23:37 punto cero está integrado por 8 bits
+23:39 
+
+23:39 también. En este caso no es como que no
+23:41 
+
+23:41 lo estaría usando, por decirlo de alguna
+23:43 
+
+23:43 manera. Entonces, para crear subede voy
+23:47 
+
+23:47 tomando alguno de los bits que
+23:49 
+
+23:49 pertenecían
+23:51 
+
+23:51 a la parte de host, es decir, se lo saco
+23:54 
+
+23:54 de la parte de host y lo y lo meto en la
+23:57 
+
+23:57 parte de red. Entonces, si yo
+24:01 
+
+24:01 originalmente, ¿cuántos
+24:04 
+
+24:04 cuánto
+24:07 
+
+24:07 eh cuántos bits tenía?
+24:10 
+
+24:10 En la parte de red
+24:13 
+
+24:13 ocho.
+24:16 
+
+24:16 Ah, no, en la parte de red. Sí, dije la
+24:19 
+
+24:19 de host, ¿no? E 24, si me equivoco.
+24:22 
+
+24:22 24, sí. Y si yo le saco uno a a la parte
+24:27 
+
+24:27 de Jost, ¿cuánto me va a quedar en la
+24:28 
+
+24:28 parte de shed? ¿Cuánto?
+24:31 
+
+24:31 25.
+24:32 
+
+24:32 25. Si le saco dos, 26. Y así sí estamos
+24:36 
+
+24:36 de acuerdo.
+24:38 
+
+24:38 Entonces, partimos partimos del ejemplo
+24:42 
+
+24:42 192 168 1.0/24.
+24:47 
+
+24:47 ¿Qué quiere decir eso? Que tiene 24 bit
+24:50 
+
+24:50 de red y 8 bit de host. Sí. Eh,
+24:55 
+
+24:55 y hay una sola red. Quiero obtener
+24:58 
+
+24:58 cuatro subred. Habíamos dicho que
+25:00 
+
+25:00 estamos en la universidad y quiero y
+25:03 
+
+25:03 quiero poner, no sé, administración,
+25:05 
+
+25:05 laboratorio,
+25:07 
+
+25:07 grupos de, o sea, eh
+25:10 
+
+25:10 yo tengo que separar, por ejemplo,
+25:12 
+
+25:12 servidores. Yo originalmente, ¿cómo
+25:14 
+
+25:14 hacía yo antes cuando cuando era cuando
+25:17 
+
+25:17 era administr administrado de red? Yo
+25:19 
+
+25:19 separaba una parte para servidores, una
+25:23 
+
+25:23 parte para impresoras,
+25:26 
+
+25:26 una parte para
+25:28 
+
+25:28 para los empleados y bueno, no teníamos
+25:32 
+
+25:32 wifi invitado todavía, pero esa era la
+25:35 
+
+25:35 la una distribución lógica, si se
+25:37 
+
+25:37 quiere, en ese momento.
+25:40 
+
+25:40 Ahora, para este caso práctico, estamos
+25:43 
+
+25:43 diciendo, bueno, tenemos administración,
+25:45 
+
+25:45 laboratorio, servidores y wifi.
+25:49 
+
+25:49 E entonces,
+25:52 
+
+25:52 ¿cuántos bits necesitaríamos tomar de la
+25:55 
+
+25:55 parte de host para poder eh formar
+25:59 
+
+25:59 cuatro combinaciones diferentes?
+26:03 
+
+26:03 Hay una formulita
+26:05 
+
+26:05 que es
+26:08 
+
+26:08 eh que si yo tomo un bit eh si yo tomo
+26:13 
+
+26:13 eh en este caso dice bit prestado dos
+26:16 
+
+26:16 dice
+26:17 
+
+26:17 2 a la 2 4 entonces puedo tener posible
+26:22 
+
+26:22 eh sub es posible cuatro subes.
+26:26 
+
+26:26 Entonces, si yo y yo, ¿cuál eran mis
+26:28 
+
+26:28 problemas? Quería separar
+26:30 
+
+26:30 administración, laboratorio, servidor y
+26:33 
+
+26:33 wifi invitado. Son cuatro cuatro grupos
+26:36 
+
+26:36 diferentes. Bueno, entonces tengo que
+26:39 
+
+26:39 tengo que pedirle prestado o sacarle o
+26:41 
+
+26:41 lo que sea a la parte de host dos 2
+26:45 
+
+26:45 bits.
+26:47 
+
+26:47 Eh, y si le saco uno, por ejemplo, si le
+26:50 
+
+26:50 saco uno, ¿cuántas subes podría ser?
+26:56 
+
+26:56 dos.
+26:57 
+
+26:57 ¿Por qué?
+27:02 
+
+27:02 La usando la formulita
+27:07 
+
+27:07 y porque a la
+27:09 
+
+27:09 2 a la 1 va a dar dos.
+27:11 
+
+27:11 2 a la 1
+27:13 
+
+27:13 2 a la 1 va a dar 2 a la un va a dar va
+27:16 
+
+27:16 a dar dos. Entonces, si yo le saco un
+27:19 
+
+27:19 bit y uso la formulita 2 a la 1 2,
+27:22 
+
+27:22 entonces puedo tener dos grupos. Si le
+27:25 
+
+27:25 saco 2 bit, 2 a la 2 4. Si le saco 3 bit
+27:29 
+
+27:29 y así.
+27:31 
+
+27:31 Sí se entiende
+27:35 
+
+27:35 bien.
+27:37 
+
+27:37 Entonces, como yo necesito sacar eh
+27:40 
+
+27:40 necesito dividir o asignar o o o separar
+27:44 
+
+27:44 eh cuatro sub cuatro subes, [carraspeo]
+27:49 
+
+27:49 necesitamos 2 bit. Bueno, le saco los
+27:51 
+
+27:51 dos bit. ¿Y qué pasa con el prefijo? Yo
+27:54 
+
+27:54 había dicho que comenzamos con 192
+27:57 
+
+27:57 168.1.0/
+27:60 
+
+27:60 vaya 24. Ahora, ¿cómo cómo quedaría
+28:04 
+
+28:04 que con 26 o no? 24 + 2 24 + 2.
+28:09 
+
+28:09 Sí. Entonces, la estructura va a quedar
+28:11 
+
+28:11 26 bit de red y cuántos bit de host
+28:19 
+
+28:19 eh, seis.
+28:20 
+
+28:20 Seis. ¿Por qué? Porque tenía ocho. Le
+28:23 
+
+28:23 saque dos, me quedan seis. Y esos dos
+28:26 
+
+28:26 pasaron para los 24 que estaban del otro
+28:28 
+
+28:28 lado. 24 + 2, 26. ¿Cuánto mezclan de
+28:31 
+
+28:31 dos? 6.
+28:33 
+
+28:33 Sí. Bueno,
+28:36 
+
+28:36 e
+28:37 
+
+28:37 esos bits yo los puedo combinar y me va
+28:41 
+
+28:41 a quedar acá. Ah, que no me están viendo
+28:43 
+
+28:43 ustedes cómo se el mouse
+28:47 
+
+28:47 acá. ¿Están viendo cómo se mueve el
+28:49 
+
+28:49 mouse? Ahí.
+28:51 
+
+28:51 Sí, profe.
+28:51 
+
+28:51 Bien. E acá yo le puedo poner 00, o sea,
+28:55 
+
+28:55 me va a quedar 00 1 o 1 1. Esa las
+29:00 
+
+29:00 combinaciones que tengo con 2 bit.
+29:04 
+
+29:04 Sí.
+29:07 
+
+29:07 Entonces,
+29:08 
+
+29:08 eh, entonces yo tengo cuatro
+29:11 
+
+29:11 combinaciones diferentes que puedo
+29:12 
+
+29:12 tener, 0 y el resto
+29:16 
+
+29:16 sería la subred
+29:18 
+
+29:18 01 y el resto de cer la subjet 2
+29:24 
+
+29:24 1 y el resto de ceros la sub 3, la
+29:28 
+
+29:28 subjet 3 y 1 y como está ahí 1 y el
+29:32 
+
+29:32 resto 0, la sub
+29:35 
+
+29:35 ¿Se entiende lo que estoy diciendo?
+29:39 
+
+29:39 Sí,
+29:42 
+
+29:42 se entiende o no se entiende?
+29:44 
+
+29:44 Sí, profe.
+29:45 
+
+29:45 Bueno, o sea, esos dos esos dos bits que
+29:47 
+
+29:47 yo le saqué lo voy combinando. O sea, ¿y
+29:50 
+
+29:50 qué puede valer? 00 1 10 1 o 1? No hay
+29:54 
+
+29:54 más. Bien. Entonces,
+29:57 
+
+29:57 eh, y ahí aparece el origen de las
+29:60 
+
+29:60 cuatro
+30:01 
+
+30:01 de las cuatro subredes. ¿Sí?
+30:04 
+
+30:04 Bueno, e
+30:08 
+
+30:08 nos queda el side bit de host
+30:11 
+
+30:11 y con esos bit, ¿cuántos
+30:13 
+
+30:13 cuánto
+30:16 
+
+30:16 cuántas direcciones podemos o cuántos
+30:18 
+
+30:18 host podrían representar esos 6 bit de
+30:20 
+
+30:20 host?
+30:24 
+
+30:24 ¿Cuántas direcciones?
+30:25 
+
+30:25 64.
+30:27 
+
+30:27 ¿Por qué?
+30:29 
+
+30:29 Porque 2 a la 6.
+30:30 
+
+30:30 2 a la 6 es 64. Sí, pero siempre hay que
+30:34 
+
+30:34 tener en cuenta siempre tener en cuenta
+30:36 
+
+30:36 que
+30:38 
+
+30:38 de esa de esas direcciones yo tengo que
+30:40 
+
+30:40 sacar dos siempre voy a sacar una para
+30:43 
+
+30:43 qué
+30:44 
+
+30:44 para la dirección y del brocast.
+30:46 
+
+30:46 Exactamente. 64 men 2 62.
+30:52 
+
+30:52 Estamos bien hasta ahí.
+30:54 
+
+30:54 Sí, profe.
+30:56 
+
+30:56 Bien. [carraspeo]
+31:02 
+
+31:02 Bueno, eh antes teníamos una red B 24
+31:06 
+
+31:06 con 254. Ahora vamos a tener cuatro
+31:08 
+
+31:08 subredes de 26 con62 host utilizables
+31:12 
+
+31:12 por cada subjet.
+31:15 
+
+31:15 Y ahí pueden ver ustedes que cuanto más
+31:19 
+
+31:19 cuanto más bit vamos tomando de la parte
+31:21 
+
+31:21 de host, yo puedo ir dos a la uno, ¿se
+31:24 
+
+31:24 acuerdan que decíamos? Dos a la un
+31:27 
+
+31:27 eh dos a la 1, dos a la dos a la un
+31:30 
+
+31:30 tengo dos subredes. Dos a la dos tengo
+31:32 
+
+31:32 cuatro subredes. Dos a la tres,
+31:35 
+
+31:35 ¿cuántas subredes?
+31:41 
+
+31:41 ocho.
+31:42 
+
+31:42 Ocho. Y y y cada vez los host por cada
+31:46 
+
+31:46 subfed van a ser menos. Sí.
+31:50 
+
+31:50 Bueno, eh ya. Bueno, acá ya lo vamos a
+31:53 
+
+31:53 ver cómo se hace, pero la las subredes
+31:56 
+
+31:56 resultantes
+31:58 
+
+31:58 es la 10 192 168.1.0/26
+32:04 
+
+32:04 192 168.64 64 es otra sub. Es otra sub
+32:10 
+
+32:10 digo, barra 26 192 168.1.128/26
+32:16 
+
+32:16 en la tercera y la 192. Sí, así no
+32:20 
+
+32:20 quieren la la las cuatro las cuatro
+32:24 
+
+32:24 subs.
+32:28 
+
+32:28 Bien.
+32:36 
+
+32:37 [carraspeo]
+32:46 
+
+32:46 ¿Qué cambia con el subnet de Net?
+32:51 
+
+32:51 Eh, bueno, habíamos dicho que si que
+32:54 
+
+32:54 vamos tomando bit de la parte de host.
+32:57 
+
+32:57 Si yo tomo un bit, me va a quedar en
+32:59 
+
+32:59 lugar de Si yo tomo un bit de la parte
+33:01 
+
+33:01 de host en la parte de red, en lugar de
+33:04 
+
+33:04 que ver barra 24, me va a quedar barra
+33:07 
+
+33:07 25.
+33:08 
+
+33:08 Eso quiere decir que me voy a tener 25
+33:11 
+
+33:11 bit de de red y 7 bit de host. Y la
+33:16 
+
+33:16 máscara pasa a ser 255 255
+33:22 
+
+33:22 eh 255 128. ¿Por qué creen que que es
+33:26 
+
+33:26 128?
+33:29 
+
+33:29 ¿De dónde sale ese número?
+33:36 
+
+33:36 Conviertan. Mir, acuérdense lo que yo yo
+33:38 
+
+33:38 que les dije. Tomamos
+33:43 
+
+33:43 1 2 3.
+33:46 
+
+33:46 A ver si estoy bien. Uno, no estoy
+33:47 
+
+33:47 viendo bien. 1 2 3.
+33:56 
+
+33:56 Porque porque el último obteto quedaría
+34:01 
+
+34:01 1
+34:03 
+
+34:03 y si eso lo convertimos a decimal me va
+34:06 
+
+34:06 a dar 128.
+34:09 
+
+34:09 Eh, ustedes vayan haciendo variar
+34:11 
+
+34:11 e
+34:14 
+
+34:14 los dos primeros los dos primeros
+34:16 
+
+34:16 dígitos. Bueno, pero el número 128 sale
+34:19 
+
+34:19 así. Eh, yo le saqué un bit de host,
+34:22 
+
+34:22 entonces estaban todos en cero. Prendo
+34:24 
+
+34:24 el primer bit de la izquierda y me va a
+34:26 
+
+34:26 quedar 1 Si yo lo yo lo pongo en
+34:30 
+
+34:30 decimal, me va a dar 128.
+34:33 
+
+34:33 ¿Sí?
+34:37 
+
+34:37 Eh, bueno, y lo mismo pasa si tomamos 2
+34:40 
+
+34:40 bit, ahora pasamos de una de una barra
+34:42 
+
+34:42 24 a una barra 26. Entonces, ¿qué quiere
+34:46 
+
+34:46 decir eso? 26 bit de red, 6 bit de host
+34:49 
+
+34:49 y la máscara me va a quedar 255 255 255
+34:54 
+
+34:54 192. ¿Por qué 192? Porque el último
+34:57 
+
+34:57 obteto es 1 1 y 60.
+35:01 
+
+35:01 Sí,
+35:04 
+
+35:04 de ahí va saliendo, de ahí va saliendo
+35:08 
+
+35:08 ese ese número. Bueno, y la y entonces,
+35:12 
+
+35:12 ¿cómo resumimos? Que una barra 24 tiene
+35:16 
+
+35:16 triple 255.0,
+35:18 
+
+35:18 una barra 25 tiene triple 255.128
+35:23 
+
+35:23 y una barra 26 tiene triple 255.192.
+35:28 
+
+35:28 Bueno, como veníamos diciendo, a medida
+35:30 
+
+35:30 que aumenta a medida que aumenta el
+35:32 
+
+35:32 prefijo, aumentan los bit, se disminuyen
+35:36 
+
+35:36 los los bit host,
+35:39 
+
+35:39 eh,
+35:41 
+
+35:41 aumentan la cantidad de sub
+35:45 
+
+35:45 y disminuye la cantidad de host por sub.
+35:52 
+
+35:52 Eh, ahora,
+35:55 
+
+35:55 ¿qué pasa si,
+35:58 
+
+35:58 o sea, cuando cuando yo tengo que
+36:03 
+
+36:03 que diseñar o que calcular una una red,
+36:08 
+
+36:08 lo primero que que tengo que que
+36:11 
+
+36:11 plantear es o o o plante bien el
+36:14 
+
+36:14 problema, ¿cuántas subes necesito?
+36:19 
+
+36:19 Por ejemplo, es en el caso de de que me
+36:21 
+
+36:21 me están llamando, mira, yo necesito que
+36:23 
+
+36:23 me organice la red porque se puesto muy
+36:25 
+
+36:25 lento acá, no es un lío administrarla,
+36:29 
+
+36:29 qué sé yo. Entonces, necesito organizar
+36:32 
+
+36:32 un organizar un poco mejor todo este
+36:35 
+
+36:35 tema de la administración, de la
+36:36 
+
+36:36 gestión. Bueno, y vos estás viendo que
+36:38 
+
+36:38 que tiene una sede en el interior, que
+36:41 
+
+36:41 acá dentro están separados por
+36:42 
+
+36:42 departamento,
+36:44 
+
+36:44 eh, y así. Bueno, entonces eh las
+36:47 
+
+36:47 preguntas básicas sería, ¿cuántas
+36:49 
+
+36:49 subredes necesito y cuál es la mayor
+36:52 
+
+36:52 cantidad de host que vos tenés dentro de
+36:53 
+
+36:53 cada sub? Sí, primero lo vamos a hacer
+36:59 
+
+36:59 eh lineal, por decirlo de alguna manera.
+37:04 
+
+37:04 Es como que es como que no vamos no
+37:07 
+
+37:07 vamos a vamos a hacer de cuenta que todo
+37:09 
+
+37:09 es
+37:11 
+
+37:11 fijo. Necesito 64
+37:14 
+
+37:14 host por cada sub para que para que
+37:18 
+
+37:18 para que lo vamos sacando más fácil.
+37:21 
+
+37:21 Pero en la vida real
+37:23 
+
+37:23 no es que tengo la misma cantidad.
+37:26 
+
+37:26 Siempre yo puedo tener, no sé, eh en el
+37:29 
+
+37:29 laboratorio puedo tener 64 máquinas,
+37:32 
+
+37:32 pero en en en el en el decanato puedo
+37:36 
+
+37:36 tener cinco 10.
+37:39 
+
+37:39 Entonces y y si yo reservo 64, estoy
+37:42 
+
+37:42 desperdiciando, estoy contradiciendo.
+37:48 
+
+37:48 Entonces, [carraspeo]
+37:51 
+
+37:51 ¿cuántas redes necesito? Bueno, si eh si
+37:55 
+
+37:55 si decíamos que partimos de red barra
+37:57 
+
+37:57 24, puedo obtener cuatro subredes, bla
+37:60 
+
+37:60 bla bla, todo lo que venimos, todo lo
+38:02 
+
+38:02 que venimos hablando. Después, ¿cuántos
+38:05 
+
+38:05 cost?
+38:07 
+
+38:07 Bueno, eh ahora tenemos que verificar si
+38:10 
+
+38:10 después de haber tomado los bits todavía
+38:14 
+
+38:14 quedan suficiente eh bit para los host.
+38:17 
+
+38:17 En una barra 24, 8 bit de host. tomo dos
+38:20 
+
+38:20 para la subset y me quedan 6 bit de
+38:23 
+
+38:23 host.
+38:25 
+
+38:25 2 a la 6 64 dirección. Sí, pero siempre
+38:30 
+
+38:30 tenemos que tomar en cuenta que de esa
+38:32 
+
+38:32 64, de ese espacio de direccionamiento
+38:34 
+
+38:34 de 64,
+38:36 
+
+38:36 uno va a ser para host y otro eh uno uno
+38:39 
+
+38:39 va a ser para red y otro para broadcast.
+38:42 
+
+38:42 ¿Sí? Entonces, 2 a la h - 2 2 a la h dos
+38:47 
+
+38:47 a la eh bueno, número de ahí está la
+38:50 
+
+38:50 fórmula. Eh, cantidad la h son cantidad
+38:53 
+
+38:53 de bit que queda en la parte de jos. Sí.
+38:56 
+
+38:56 Bueno, esa es la formulita que tenemos
+38:58 
+
+38:58 que ir este que tenemos que ir tomando.
+39:04 
+
+39:04 Eh,
+39:06 
+
+39:06 bueno, eh, y vamos un a un a un caso.
+39:09 
+
+39:09 Eh, seguimos con el mismo ejemplo.
+39:11 
+
+39:11 Tenemos que obtener dos redes iguales.
+39:14 
+
+39:14 Entonces, como decíamos recién, ¿qué
+39:15 
+
+39:15 pregunta me tengo que hacer? ¿Cuánto bit
+39:17 
+
+39:17 necesito para crear red? Bueno, recién
+39:20 
+
+39:20 lo dijimos. 2 a la 1 2. Entonces,
+39:23 
+
+39:23 alcanza con tomar un bit. Sí. Entonces y
+39:27 
+
+39:27 y bueno, para cambiar el prefijo, yo
+39:29 
+
+39:29 tenía yo partí de un barra 24, si tomo
+39:32 
+
+39:32 un bit, 24 + 1, 25, entonces la nueva
+39:36 
+
+39:36 surya me va a quedar como barra 25 y la
+39:39 
+
+39:39 y la y la máscara va a ser 255 255 255
+39:44 
+
+39:44 128. Sí. Entonces, eh, ¿qué cambian los
+39:49 
+
+39:49 bit? Bueno, antes yo tenía 24 bit de
+39:51 
+
+39:51 red, 8 bit de host. Ahora en una barra
+39:53 
+
+39:53 25 voy a tener 25 bit y 7 bit de host.
+39:57 
+
+39:57 Sí. Este y la primera subsed.
+40:02 
+
+40:02 Eh,
+40:04 
+
+40:04 yo lo esos bit ese bit que yo tome,
+40:09 
+
+40:09 ¿qué valores pueden tomar el bit que yo
+40:11 
+
+40:11 tome?
+40:15 
+
+40:15 Un bit, ¿qué valores puede toma? 0 y un
+40:17 
+
+40:17 0 y un cuando valga er0
+40:21 
+
+40:21 yo voy a tener la red 192 168 1 0
+40:26 
+
+40:26 eso va va a ocupar el rango eh hasta la
+40:32 
+
+40:32 hasta la 127
+40:34 
+
+40:34 eh y y la dirección va a ser 192 168 1.0
+40:39 
+
+40:39 el broadcast 192 168 1.127 127 y los
+40:43 
+
+40:43 costables van a ser 192 168.1.1
+40:48 
+
+40:48 hasta 192 168
+40:52 
+
+40:52 126.
+40:53 
+
+40:53 Y la segunda subset, cuando el bit
+40:56 
+
+40:56 tomado valga uno,
+40:58 
+
+40:58 entonces cuando valga uno, entonces la
+41:02 
+
+41:02 la red va a ser 192 168.1.128
+41:08 
+
+41:08 barra 25. Sí. Entonces, si yo tomo los
+41:12 
+
+41:12 dos o o o le saco los dos para las dos
+41:17 
+
+41:17 direcciones para para red y para
+41:19 
+
+41:19 broadcast, entonces va va a variar entre
+41:23 
+
+41:23 el broadcast va a ser 192 168.255
+41:27 
+
+41:27 y la red va a ser 192 168 1 128 y las
+41:31 
+
+41:31 direcciones disponibles 192 168.119
+41:37 
+
+41:37 y la hasta la 254.
+41:41 
+
+41:41 Y así va, vamos trabajar. Se va
+41:44 
+
+41:44 entendiendo. Está ahí, ¿no?
+41:48 
+
+41:48 Se entiende o un trabal.
+41:50 
+
+41:50 Sí, profe. Sí, sí, profe.
+41:52 
+
+41:52 Bien.
+41:53 
+
+41:53 Bueno, ahí tenemos lo que se llaman.
+41:55 
+
+41:55 Ustedes van a escuchar. Yo se lo pongo
+41:57 
+
+41:57 esto porque por ahí por ahí este van a
+42:00 
+
+42:00 escuchar salto.
+42:03 
+
+42:03 Eh,
+42:09 
+
+42:09 entonces el salto, ¿qué sería el salto?
+42:12 
+
+42:12 El
+42:14 
+
+42:14 cada cuánto comienza una nueva sub. Eso
+42:16 
+
+42:16 sería el salto. Sí.
+42:18 
+
+42:18 Entonces,
+42:20 
+
+42:20 eh
+42:24 
+
+42:24 e bueno, partiendo de de la máscara que
+42:27 
+
+42:27 pasamos de 255 255 25
+42:31 
+
+42:31 a 255 255 25.
+42:39 
+
+42:39 Entonces a nosotros nos interesa el
+42:40 
+
+42:40 obteto donde cambio la máscara. ¿Cuál
+42:43 
+
+42:43 sería el obteto donde cambio la máscara?
+42:46 
+
+42:46 El último,
+42:47 
+
+42:47 el último,
+42:48 
+
+42:48 el último,
+42:49 
+
+42:49 el último. Entonces, ¿cómo obtenemos ese
+42:52 
+
+42:52 salto? Bueno, tengo un espacio de
+42:53 
+
+42:53 direccionamiento de 256.
+42:56 
+
+42:56 ¿Cuál es el octeto que el cuál es el el
+42:59 
+
+42:59 en el cuarto o teto donde cambio la
+43:01 
+
+43:01 máscara? ¿Qué valor tiene ahora? 128.
+43:03 
+
+43:03 Bueno, para obtener el salto 256 menos
+43:07 
+
+43:07 el valor del cteto de la máscara. 256 -
+43:10 
+
+43:10 128 128. Entonces, quiere decir que el
+43:13 
+
+43:13 tamaño de bloque o salto es 128. Eh, es
+43:17 
+
+43:17 así, no no tiene otro eh en otro
+43:23 
+
+43:23 otra otra explicación, digamos.
+43:27 
+
+43:27 ¿Por
+43:34 
+
+43:34 qué?
+43:39 
+
+43:39 ¿Por qué usamos?
+43:41 
+
+43:41 [carraspeo]
+43:44 
+
+43:44 Si yo digo que tengo valores
+43:48 
+
+43:48 este
+43:51 
+
+43:51 256
+43:56 
+
+43:56 e
+43:57 
+
+43:57 direcciones,
+43:59 
+
+43:59 ¿cuántas usamos?
+44:09 
+
+44:09 O sea, son 256 valores, posibles. O sea,
+44:12 
+
+44:12 es para que no nos confundamos,
+44:13 
+
+44:13 simplemente voy a decir esto. Si bien se
+44:15 
+
+44:15 habla de 256 valores posibles, van del 0
+44:20 
+
+44:20 al 255. Eso por ahí es, paréceme, una
+44:25 
+
+44:25 obviedad, pero a veces no nos damos
+44:27 
+
+44:27 cuenta. Eh eh hay 256 valores, pero
+44:32 
+
+44:32 vamos del 0 al 255.
+44:34 
+
+44:34 El cer0 es un valor y y y suma un orden,
+44:38 
+
+44:38 por decirlo de una manera. El 255 es un
+44:41 
+
+44:41 valor y suma un orden. Pero si yo
+44:44 
+
+44:44 comienzo a que el cer tiene el orden 1,
+44:49 
+
+44:49 el 255 va a tener el orden 256.
+44:52 
+
+44:52 ¿Me me hago entender con lo que eso?
+44:55 
+
+44:55 Sí, profe.
+44:56 
+
+44:56 Bien.
+44:58 
+
+44:58 Eh,
+45:01 
+
+45:01 bueno, y acá hay una especie de
+45:05 
+
+45:05 lo que venimos hablando así muy en el
+45:07 
+
+45:07 aire de de los altos, de
+45:15 
+
+45:15 eh
+45:16 
+
+45:16 de cómo me quedaría eh de cómo me
+45:19 
+
+45:19 quedaría
+45:21 
+
+45:21 el eh configurada configurada la
+45:23 
+
+45:23 subsred. Sí. Entonces, eh estamos
+45:27 
+
+45:27 diciendo, por ejemplo, que tenemos dos
+45:29 
+
+45:29 dos subsedes.
+45:31 
+
+45:31 Eh hay que identificar cuatro datos
+45:34 
+
+45:34 siempre por cada subset. Hay que
+45:37 
+
+45:37 identificar cuatro datos por cada subset
+45:40 
+
+45:40 este que para cuando estamos haciendo un
+45:43 
+
+45:43 ejercicio de subnet. ¿Cuáles serían esos
+45:45 
+
+45:45 cuatro datos? La dirección de red, el
+45:49 
+
+45:49 primer host, el último host y la
+45:52 
+
+45:52 dirección de de broadcast. Sí.
+45:57 
+
+45:57 Entonces,
+45:58 
+
+45:58 eh bueno, ahí como dice ahí, eh
+46:02 
+
+46:02 sabiendo que que comienza en 10 192
+46:06 
+
+46:06 168.1.0
+46:09 
+
+46:09 como como el salto es 128 la siguiente
+46:13 
+
+46:13 red subred comienza en qué?
+46:23 
+
+46:23 Subs1. 192 168 10 el salto es 128 cuánto
+46:28 
+
+46:28 me comienza la sub 2.
+46:36 
+
+46:36 Hm.
+46:39 
+
+46:39 La surf do si el salto es de 128, ¿en
+46:41 
+
+46:41 qué número comienza?
+46:45 
+
+46:45 En 128.
+46:46 
+
+46:46 En 128. Y y ¿cuál sería el rango de
+46:49 
+
+46:49 direction de la subfred 1?
+46:52 
+
+46:52 256.
+46:54 
+
+46:54 La red un, perdón, red 1 256 el espacio
+46:58 
+
+46:58 total, pero la dividimos, la
+46:60 
+
+46:60 redistribuimos. El azul red 1 ahí dice
+47:04 
+
+47:04 entre 0 y 127
+47:07 
+
+47:07 y la subred 2 entre 128 y 255. Ambas
+47:11 
+
+47:11 subredes tienen 128 divisiones.
+47:14 
+
+47:14 Distribuimos
+47:15 
+
+47:15 las 256 mitad y mitad.
+47:19 
+
+47:19 Entonces,
+47:21 
+
+47:21 esto nos da una una regla práctica por
+47:24 
+
+47:24 decir el broadcast de una red es la
+47:27 
+
+47:27 dirección inmediatamente anterior
+47:32 
+
+47:32 al comienzo de la siguiente subred.
+47:36 
+
+47:36 El broadcast acá en sub un dice eh
+47:40 
+
+47:40 division de red primer host último host
+47:43 
+
+47:43 broadcast 192 168.1.12
+47:47 
+
+47:47 127.
+47:49 
+
+47:49 Entonces, la regla práctica, ¿qué me
+47:51 
+
+47:51 dice?
+47:52 
+
+47:52 El broadcast de una subjetor
+47:58 
+
+47:58 al comienzo de la siguiente subjet.
+48:00 
+
+48:00 ¿Cuál es el comienzo de la siguiente
+48:02 
+
+48:02 subjet? 192 168.1.128.
+48:08 
+
+48:08 ¿Sí?
+48:10 
+
+48:10 Em,
+48:14 
+
+48:14 bueno, a ver, ¿qué otra cosa dice ahí?
+48:18 
+
+48:18 Vale.
+48:25 
+
+48:25 Y si tengo que dividir una barra 24 en
+48:27 
+
+48:27 cuatro subseds,
+48:30 
+
+48:30 eh, bueno, habíamos habíamos hecho el
+48:32 
+
+48:32 ejercicio dos a la le tengo que sacar
+48:35 
+
+48:35 dos dos bit a la parte de a la parte de
+48:38 
+
+48:38 de host, eh, y bueno, dos a la dos a la
+48:42 
+
+48:42 dos cuatro. Bien, entonces ya tengo que
+48:45 
+
+48:45 eh eh me van a quedar un un barra 26.
+48:50 
+
+48:50 Entonces, la máscara eh la máscara que
+48:53 
+
+48:53 corresponde a a barra 26 es 255 255 255
+48:59 
+
+48:59 192. ¿De dónde sale el 192?
+49:07 
+
+49:07 ¿De dónde sale el 192?
+49:15 
+
+49:15 Yo saqué 2 bits de la parte del cuarto o
+49:20 
+
+49:20 2 bits
+49:22 
+
+49:22 de host pasan a formar parte de la red.
+49:25 
+
+49:25 Entonces me va a quedar
+49:27 
+
+49:27 me va a quedar
+49:29 
+
+49:29 eh eh me van a quedar 1
+49:33 
+
+49:33 y 6 cer
+49:35 
+
+49:35 ese ese número en binario 1 1 y 6 ceros
+49:39 
+
+49:39 más
+49:41 
+
+49:41 me representa
+49:43 
+
+49:43 el 192.
+49:49 
+
+49:49 E se se entiende o o o me estoy
+49:54 
+
+49:54 o no sé claro.
+49:60 
+
+49:60 Se entendió esto.
+50:02 
+
+50:02 Se entiende, profe.
+50:03 
+
+50:03 Bien, bien, bien.
+50:05 
+
+50:05 Entonces, e
+50:09 
+
+50:09 bueno, y ahí ahí también este el tamaño
+50:11 
+
+50:11 del bloque o el salto este y y así como
+50:16 
+
+50:16 cómo va quedando este como yo les decía,
+50:20 
+
+50:20 cada vez que hacemos un ejercicio de
+50:21 
+
+50:21 subnet tiene que quedar en cuatro datos.
+50:25 
+
+50:25 la direction de red, el primer host, el
+50:28 
+
+50:28 último host, el broadcast y el rango de
+50:31 
+
+50:31 host si se quiere también tenerlo, pero
+50:33 
+
+50:33 ya ya sabemos que ya sabemos cuál es
+50:36 
+
+50:36 cuál es cuáles sería
+50:39 
+
+50:39 eso. Si si yo quiero dividir en cuatro
+50:42 
+
+50:42 subredes,
+50:43 
+
+50:43 eh bueno, el salto, ¿por qué de 64?
+50:46 
+
+50:46 Bueno, eh
+50:49 
+
+50:49 e
+50:51 
+
+50:51 hay hay sigue la misma explicación. lo
+50:54 
+
+50:54 voy haciendo paso por paso nada más,
+50:56 
+
+50:56 pero ya lo venimos hablando, o sea,
+50:59 
+
+50:59 eh, y bueno, y cuando tenemos que hacer
+51:01 
+
+51:01 una una tabla completa, ahí lo tenemos,
+51:06 
+
+51:06 está bien explicado.
+51:09 
+
+51:09 Después este
+51:12 
+
+51:12 cómo cómo
+51:15 
+
+51:15 elegir este
+51:18 
+
+51:18 [carraspeo]
+51:21 
+
+51:21 cómo elegir una máscara una máscara
+51:23 
+
+51:23 según la cantidad de host.
+51:25 
+
+51:25 Eso, eso.
+51:27 
+
+51:27 Eh, e si yo si si conozco cuántos host
+51:32 
+
+51:32 necesito en una sub, porque muchas veces
+51:35 
+
+51:35 me dicen eh eh necesito
+51:41 
+
+51:41 necesito tanto host para una sub. Bueno,
+51:45 
+
+51:45 ¿cómo entonces, cómo determino qué
+51:47 
+
+51:47 máscara me alcanza? Y bueno, entonces yo
+51:50 
+
+51:50 puedo partir de la cantidad de host.
+51:53 
+
+51:53 Supongamos me piden eh para el
+51:55 
+
+51:55 laboratorio de redes eh tengo 50
+51:59 
+
+51:59 máquinas o 50 c 50 máquinas eh
+52:05 
+
+52:05 50 máquinas. Entonces si yo elijo una
+52:09 
+
+52:09 barra 24, ¿está bien?
+52:12 
+
+52:12 No, profe, no alcanza
+52:16 
+
+52:16 con con una barra 24, ¿cuánto tendría?
+52:22 
+
+52:22 serían dos.
+52:26 
+
+52:26 Una barra 24 serían dos.
+52:29 
+
+52:29 Entonces, ¿alcan los host?
+52:32 
+
+52:32 No, profe.
+52:35 
+
+52:35 Yo creo que sí.
+52:39 
+
+52:39 Una valla 24. ¿Cuántas eh eh
+52:44 
+
+52:44 cuántos host tiene? Ah, sería 2 a la 8,
+52:46 
+
+52:46 profe.
+52:48 
+
+52:48 Eh, yo tendría 250 un espacio de
+52:50 
+
+52:50 direccionamiento de 2564.
+52:56 
+
+52:56 Entonces,
+52:56 
+
+52:56 una baja 24.
+52:59 
+
+52:59 Sí, yo sé que anda. Es lo más fácil,
+53:02 
+
+53:02 ¿eh? Porque voy a tener del 192 168.1.1
+53:08 
+
+53:08 al 192 168.1.254.
+53:13 
+
+53:13 Yo sé que Pero a mí me están pidiendo,
+53:14 
+
+53:14 ¿cuántas cuántas
+53:17 
+
+53:17 direcciones me están pidiendo?
+53:20 
+
+53:20 50.
+53:21 
+
+53:21 50. Entonces, ¿qué qué estoy haciendo
+53:23 
+
+53:23 ahí? estoy
+53:26 
+
+53:26 estoy desperdiciando.
+53:30 
+
+53:30 Si yo uso un barra 24, yo estoy
+53:32 
+
+53:32 desperdiciando.
+53:34 
+
+53:34 Entonces, como dijimos que hay un
+53:35 
+
+53:35 problema de direccionamiento que no
+53:38 
+
+53:38 alcanza la dirección, eso por un lado.
+53:41 
+
+53:41 Eh, entonces trato de de organizarme de
+53:44 
+
+53:44 la mejor manera.
+53:45 
+
+53:45 Entonces, si yo saco
+53:49 
+
+53:49 e
+53:50 
+
+53:50 yo hago un ejercicio y digo que eh no sé
+53:55 
+
+53:55 e
+53:57 
+
+53:57 2 a la 1 eh eh saco cinco, la cantidad
+54:03 
+
+54:03 de host eh 2 a la 5
+54:08 
+
+54:08 no alcanza, profe. 2 a la 5 - 2 me da
+54:11 
+
+54:11 cuánto me da
+54:15 
+
+54:15 30.
+54:15 
+
+54:15 30 me alcanza o no me alcanza.
+54:18 
+
+54:18 No.
+54:19 
+
+54:19 Bueno, entonces tengo que ir al
+54:21 
+
+54:21 siguiente. 2 a la 6 men 2
+54:25 
+
+54:25 62
+54:25 
+
+54:25 62.
+54:26 
+
+54:26 ¿Me alcanza o no me alcanza?
+54:29 
+
+54:29 Entonces, ¿qué quiere decir? Que
+54:30 
+
+54:30 necesito 6 bit de host. Entonces, ¿cuál
+54:33 
+
+54:33 ser la máscara?
+54:37 
+
+54:37 26.
+54:40 
+
+54:40 Entonces, eh si yo tengo size B de host,
+54:43 
+
+54:43 bueno, 32 men side 26, entonces el pref
+54:48 
+
+54:48 ya ya lo hicimos así, le sacamos
+54:49 
+
+54:49 directamente dos y le sumamos a la 24,
+54:51 
+
+54:51 ya me queda 26. Entonces eso quiere
+54:53 
+
+54:53 decir que una barra 26 la máscara va a
+54:56 
+
+54:56 ser 255 255 192.
+54:60 
+
+54:60 Sí.
+55:02 
+
+55:02 E
+55:05 
+
+55:05 y si uso una barra 25
+55:11 
+
+55:11 también quedaría, pero estaría
+55:12 
+
+55:12 desaprovechando
+55:13 
+
+55:13 exactamente porque voy a tener 126 host
+55:18 
+
+55:18 2 a la 7 128 - 2 126.
+55:27 
+
+55:27 Bueno, eso básicamente.
+55:32 
+
+55:32 Bueno, ahí ahí va el el el paso a paso,
+55:36 
+
+55:36 digamos, de lo que venimos hablando. Eh,
+55:39 
+
+55:39 como eh para hacer un ejercicio de
+55:42 
+
+55:42 subnet, ¿sí?
+55:44 
+
+55:44 este, vayan sacándole impresión de
+55:46 
+
+55:46 pantalla, lo que sea para que lo vayan
+55:49 
+
+55:49 teniendo.
+55:51 
+
+55:51 Eh, bueno, y de ahí los errores, los
+55:55 
+
+55:55 cuando uno está comenzando
+55:57 
+
+55:57 eh seguramente va a tener algunos de
+55:59 
+
+55:59 estos errores. Eh, por eso, ¿qué se
+56:03 
+
+56:03 suele hacer? Se puede se suele se suele
+56:06 
+
+56:06 usar una una tablita
+56:09 
+
+56:09 eh para que vamos vamos calcular
+56:13 
+
+56:13 em
+56:16 
+
+56:16 básicamente es eso.
+56:22 
+
+56:22 Bueno, y esto esto es lo que yo le
+56:23 
+
+56:23 hablaba ve eh una una empresa con varios
+56:28 
+
+56:28 sectores. Entonces,
+56:31 
+
+56:31 y esto ya es una ya esto es una
+56:37 
+
+56:37 un poco más parecido una situación real,
+56:39 
+
+56:39 o sea, no es que yo voy a dividir en
+56:41 
+
+56:41 cuatro subredes y cuatro subredes
+56:43 
+
+56:43 iguales, ¿no? Eh, ¿por qué? Porque una
+56:46 
+
+56:46 un un un sector de la empresa, un área
+56:48 
+
+56:48 de la empresa, lo que sea, o o de la
+56:51 
+
+56:51 universidad, no es lo mismo. No voy a
+56:53 
+
+56:53 tener la misma cantidad, por ejemplo, en
+56:54 
+
+56:54 el laboratorio que en la secretaría del
+56:57 
+
+56:57 decano, ¿no? Sí. Entonces, eh tenemos
+57:02 
+
+57:02 que partir de esa de esa realidad. Y
+57:05 
+
+57:05 bueno, siguiendo con el mismo ejemplo,
+57:06 
+
+57:06 si tengo parto de la red 192
+57:10 
+
+57:10 168, bueno, en este caso le puse 1024
+57:14 
+
+57:14 y tengo cuatro sectores con necesidades
+57:18 
+
+57:18 diferentes. Ahí dice, por ejemplo,
+57:21 
+
+57:21 administración
+57:23 
+
+57:23 o bueno, necesita 50 host, sistema 30
+57:26 
+
+57:26 host, 20 ventas 20 host, invitado 10
+57:30 
+
+57:30 host.
+57:33 
+
+57:33 Entonces, la pregunta [carraspeo]
+57:38 
+
+57:38 la pregunta ahora no va a ser cuántas
+57:40 
+
+57:40 subredes necesitan
+57:43 
+
+57:43 sino la pregunta pasa a ser,
+57:48 
+
+57:48 ¿qué tamaño necesita cada una de esas
+57:51 
+
+57:51 subredes?
+57:52 
+
+57:52 Entonces, ¿qué tendría que hacer?
+57:55 
+
+57:55 Primero eh ordenarlo de mayor a menor.
+57:59 
+
+57:59 Entonces,
+58:02 
+
+58:02 ahí dice el paso para resolver. Ordenar
+58:05 
+
+58:05 los requerimientos de mayor a menor.
+58:08 
+
+58:08 Tengo que ir determinando la cantidad
+58:12 
+
+58:12 eh
+58:15 
+
+58:15 eh
+58:17 
+
+58:17 determinamos la la máscara, digamos. Eh,
+58:21 
+
+58:21 bueno, e, ¿por qué empezamos por el
+58:23 
+
+58:23 mayor? Este, porque necesitamos primero
+58:26 
+
+58:26 reservar los bloques más grandes, los
+58:27 
+
+58:27 saltos más grande y después podemos
+58:29 
+
+58:29 ubicar a los bloques más chicos en el
+58:31 
+
+58:31 espacio que va quedando. Eso tiene que
+58:33 
+
+58:33 ser así. Entonces, de mayor a menor,
+58:36 
+
+58:36 esto para evitar conflictos y
+58:38 
+
+58:38 superposiciones que se pueden dar ahí
+58:41 
+
+58:41 cuando cuando le haya mostrado un
+58:43 
+
+58:43 poquito los errores más comunes. Bueno,
+58:47 
+
+58:47 si si por ejemplo me dice administración
+58:50 
+
+58:50 [carraspeo]
+58:51 
+
+58:51 administración 50,
+58:55 
+
+58:55 estoy quedando sin voz. Administración
+58:57 
+
+58:57 50 host.
+58:59 
+
+58:59 E
+59:01 
+
+59:01 necesitamos que que la red pueda alojar
+59:04 
+
+59:04 al menos 50 host. Entonces si yo tengo
+59:07 
+
+59:07 una una barra 27, ¿cuántos host tengo?
+59:16 
+
+59:16 27.
+59:26 
+
+59:26 con el barra 27, profe.
+59:28 
+
+59:28 Sí.
+59:38 
+
+59:38 ¿Cuánto sería?
+59:39 
+
+59:39 30 no sería.
+59:40 
+
+59:40 Sí, 30 alcanza.
+59:45 
+
+59:45 No,
+59:45 
+
+59:45 no.
+59:47 
+
+59:47 Eh, y un baris
+59:50 
+
+59:50 62.
+59:51 
+
+59:51 Sí, tiene 62. Se alcanza. Entonces, ¿qué
+59:55 
+
+59:55 qué máscara le debería o o qué prefijo
+59:58 
+
+59:58 le debería poner [carraspeo] a la
+60:01 
+
+60:01 administración?
+60:02 
+
+60:02 Barra 26 bar 26. Entonces, me va a
+60:05 
+
+60:05 quedar 192 168
+60:10 
+
+60:10 e
+60:11 
+
+60:11 el punto 10.0 hasta
+60:18 
+
+60:18 hasta 10.62 62
+60:26 
+
+60:26 no es eh mira comienza en cero y termina
+60:30 
+
+60:30 terminaría en
+60:31 
+
+60:31 63
+60:32 
+
+60:32 63
+60:36 
+
+60:36 Entonces si yo tengo la tablita esa, me
+60:38 
+
+60:38 va a decir la red 192 168 10.0
+60:44 
+
+60:44 primer host 192 168 10.1 1 Último host
+60:51 
+
+60:51 192 168.10
+60:53 
+
+60:53 1.62
+60:56 
+
+60:56 y el broadcast 192 168 10.63
+61:04 
+
+61:04 y el siguiente espacio, ¿en qué
+61:06 
+
+61:06 comenzaría?
+61:10 
+
+61:10 En 64.
+61:12 
+
+61:12 En 64. Y de ahí, ¿qué? ¿Qué? Bueno, yo
+61:16 
+
+61:16 sé que comienzo en 64. Es mi punto de
+61:18 
+
+61:18 inicio. ¿Cuántos me están pidiendo para
+61:20 
+
+61:20 sistema?
+61:24 
+
+61:24 30.
+61:25 
+
+61:25 30.
+61:26 
+
+61:26 ¿Qué qué
+61:28 
+
+61:28 debería usar?
+61:31 
+
+61:31 Y el prefijo v 27.
+61:33 
+
+61:33 Claro. Entonces 2 v 5 - 2 30 me da
+61:37 
+
+61:37 justo. Entonces el prefijo barra 27.
+61:41 
+
+61:41 Entonces hagamos la tablita.
+61:45 
+
+61:45 Me va a quedar 10 eh 192.168.10.64
+61:53 
+
+61:53 barra
+61:56 
+
+61:56 27.
+61:58 
+
+61:58 ¿Cuántas direcciones tiene un barra 27?
+62:04 
+
+62:04 30
+62:05 
+
+62:05 y dos.
+62:08 
+
+62:08 Entonces me va a quedar
+62:11 
+
+62:11 red. comienza,
+62:14 
+
+62:14 recuerden que dijimos en 64, 192, 168,
+62:18 
+
+62:18 10.64.
+62:20 
+
+62:20 El primer host, ¿cómo quedaría? Bueno,
+62:22 
+
+62:22 ahí lo están viendo. 192 168
+62:27 
+
+62:27 10.65.
+62:29 
+
+62:29 Último host 192, 168.
+62:33 
+
+62:33 El 64 sería como el cero, el punto de
+62:36 
+
+62:36 inicio, por eso no le da 96. Supongo que
+62:40 
+
+62:40 estamos confundidos ahí.
+62:42 
+
+62:42 Eh, entiende por qué no da 96 y por qué
+62:44 
+
+62:44 da 95.
+62:49 
+
+62:49 Es como que estamos partiendo
+62:51 
+
+62:51 del 192 168.1.0
+62:57 
+
+62:57 al 127, por ejemplo, no da al 128 porque
+63:00 
+
+63:00 estamos el cero es el orden, es el el
+63:04 
+
+63:04 perdón, el cero es un valor que tiene
+63:06 
+
+63:06 orden el 127 es un valor que tiene valor
+63:11 
+
+63:11 orden 128.
+63:13 
+
+63:13 Eh, si yo enumero una planilla de
+63:16 
+
+63:16 cálculo y pongo del uno, necesito 128
+63:20 
+
+63:20 posición, el el el valor el la posición
+63:24 
+
+63:24 número uno está va a estar compuesta por
+63:28 
+
+63:28 el valor cer. La posición 128 va a estar
+63:32 
+
+63:32 compuesta por el valor 127. Ahí tengo un
+63:35 
+
+63:35 rango de 128 números.
+63:38 
+
+63:38 ¿Me explico cuando hablo de orden?
+63:42 
+
+63:42 Sí, profe.
+63:43 
+
+63:43 Bien, bien. Entonces, por eso tal vez
+63:46 
+
+63:46 queda 95.
+63:49 
+
+63:49 Bueno, el siguiente espacio eh me dice
+63:52 
+
+63:52 ventas
+63:53 
+
+63:53 20 equipos.
+63:58 
+
+63:58 ¿Cómo debería quedar la máscara o el
+64:00 
+
+64:00 prefijo?
+64:03 
+
+64:03 27
+64:07 
+
+64:07 para 20 host. A ver, hagamos hagamos el
+64:09 
+
+64:09 cálculo. Dos a la 1, dos e dos a la dos.
+64:17 
+
+64:17 Así va. Eh, vamos haciendo el ejercicio.
+64:19 
+
+64:19 A ver.
+64:25 
+
+64:25 2 a la 5
+64:27 
+
+64:27 son 32.
+64:31 
+
+64:31 Menos dos que uno menos dos direcciones
+64:33 
+
+64:33 que van uno para C y uno para Brock. me
+64:36 
+
+64:36 queda 30 equipos.
+64:40 
+
+64:40 Eh,
+64:42 
+
+64:42 entonces este
+64:45 
+
+64:45 si yo lo haría 2 a la 4, 2 a la 4 me da
+64:49 
+
+64:49 16 - 2 14 me están pidiendo 20 no me da
+64:54 
+
+64:54 no me dan. Entonces, eh, entonces tengo
+64:59 
+
+64:59 que poner un tengo que tomar 3 bit,
+65:02 
+
+65:02 entonces dos eh me queda un barra 27,
+65:05 
+
+65:05 quiere decir que tengo 30 host
+65:08 
+
+65:08 utilizado.
+65:10 
+
+65:10 Entonces
+65:11 
+
+65:11 eh eh
+65:14 
+
+65:14 me va a quedar
+65:17 
+
+65:17 192 168.10.96/27.
+65:24 
+
+65:24 me va me va a ocupar del 96 al 127 y ahí
+65:28 
+
+65:28 me queda toda la distribución. Eh,
+65:32 
+
+65:32 dirección de red, dirección de primer
+65:34 
+
+65:34 host, último host y broadcast.
+65:38 
+
+65:38 Bueno, y de ahí viene para invitados
+65:42 
+
+65:42 también. Eh, me p una red, una red para
+65:47 
+
+65:47 10 host.
+65:49 
+
+65:49 Eh,
+65:51 
+
+65:51 si yo tomo un barra 29,
+65:54 
+
+65:54 un barra 29, ¿cuántos cuántos bit le
+65:56 
+
+65:56 estoy sacando yo a la parte de host
+66:01 
+
+66:01 en un bar 29?
+66:05 
+
+66:05 cinco.
+66:06 
+
+66:06 Cinco.
+66:09 
+
+66:09 Entonces, si yo tomo un barra 29,
+66:13 
+
+66:13 eh, me alcanza.
+66:20 
+
+66:20 No, no le alcanzaría.
+66:21 
+
+66:21 No, no.
+66:24 
+
+66:24 ¿Por qué?
+66:33 
+
+66:33 Porque serían seis host no más.
+66:35 
+
+66:35 Claro, exactamente.
+66:36 
+
+66:36 Claro.
+66:37 
+
+66:37 Entonces,
+66:39 
+
+66:39 eh si tomo un barra 28,
+66:48 
+
+66:48 voy probando con un
+66:50 
+
+66:50 bar 28.
+66:54 
+
+66:54 Ese sí alcanza.
+66:55 
+
+66:55 ¿Cuánto me quedaría?
+66:57 
+
+66:57 Porque 2 a las 4 es 14.
+66:59 
+
+66:59 16 - 2 14.
+67:01 
+
+67:01 Exactamente.
+67:03 
+
+67:03 Entonces asignamos la dirección 190. O
+67:06 
+
+67:06 sea, ya comenzamos. Eh, antes habíamos
+67:09 
+
+67:09 dicho que debería la siguiente el
+67:11 
+
+67:11 siguiente red debería comenzar en 128.
+67:14 
+
+67:14 Bueno, 192 168.10.128/28.
+67:21 
+
+67:21 Sí.
+67:22 
+
+67:22 Entonces, eh,
+67:26 
+
+67:26 me me ya ahí ya me quedaría ahí todo,
+67:28 
+
+67:28 como dice la tablita.
+67:33 
+
+67:33 Bueno, ¿qué diferencia tenemos con con
+67:36 
+
+67:36 lo que se venía haciendo antes? Que
+67:37 
+
+67:37 antes era el mismo tamaño, ahora eh
+67:41 
+
+67:41 tenemos tamaño variable. Sí. Este y eso
+67:45 
+
+67:45 evita que que digamos que
+67:48 
+
+67:48 que que desperdiciemos, ¿sí? que
+67:51 
+
+67:51 despareciciemos la la la dirección.
+67:57 
+
+67:57 Bueno, una vez que hacemos eso, un un
+68:00 
+
+68:00 ejercicio subnetting, bueno, lo podemos
+68:04 
+
+68:04 con en nuestra configuración de Windows,
+68:08 
+
+68:08 eh, lo vamos aplicando. O sea, a ver, ya
+68:11 
+
+68:11 tengo el espacio de direccionamiento de
+68:13 
+
+68:13 eh para, no sé, y esta puede ser
+68:15 
+
+68:15 cualquier PC. Bueno, de desde esas
+68:18 
+
+68:18 direcciones que del primer host se los
+68:21 
+
+68:21 puedo asignar a las máquinas de de
+68:27 
+
+68:27 supongamos que tenemos Windows en
+68:28 
+
+68:28 nuestra en nuestro laboratorio o o en la
+68:32 
+
+68:32 secretaría o a donde sea.
+68:35 
+
+68:35 Entonces, bueno, le voy asignando una
+68:37 
+
+68:37 dirección IP. En este caso, si lo quiero
+68:38 
+
+68:38 hacer manual, no se no se recomienda
+68:41 
+
+68:41 para esto el DHCP, pero bueno, lo
+68:43 
+
+68:43 estamos haciendo manual, ¿eh? Y le vamos
+68:46 
+
+68:46 poniendo direcciones que yo las anoté,
+68:50 
+
+68:50 obviamente que las tengo que anotar en
+68:52 
+
+68:52 algún lado para saber cómo me voy a
+68:53 
+
+68:53 manejar. Y le voy asignando la IP. Eh,
+68:57 
+
+68:57 bueno, después voy ejecutando. Primero
+68:60 
+
+68:60 le asigno la IP acá en en la
+69:03 
+
+69:03 configuración de Windows. Segundo, veo
+69:05 
+
+69:05 la configuración con IP config. A ver
+69:07 
+
+69:07 cómo si realmente está así. Eh, quiero
+69:11 
+
+69:11 ver más detalles. Bien. Eh, le doy le
+69:16 
+
+69:16 doy este IP config/ all. ¿Qué quiere
+69:19 
+
+69:19 decir IP config/ all? Me muestra
+69:21 
+
+69:21 absolutamente toda la la configuración
+69:23 
+
+69:23 de la de la interfaz. me muestra la
+69:26 
+
+69:26 edition IPv4, la máscara, la puerta de
+69:29 
+
+69:29 enlace, los servidores DNS, la el DHCP,
+69:33 
+
+69:33 el la MAC, la MACRE,
+69:36 
+
+69:36 todo eso.
+69:38 
+
+69:38 Bueno, y después vamos a probar el host.
+69:43 
+
+69:43 ¿Con qué se prueba o con qué se prueba
+69:46 
+
+69:46 esa esa configuración que hice? Con un
+69:48 
+
+69:48 comando ping. ¿Qué es el comando pingle?
+69:52 
+
+69:52 El comando ping es un eco. Es es como
+69:55 
+
+69:55 que imagínense ustedes se paran ahí en
+69:59 
+
+69:59 la montaña y dicen hola y del otro lado
+70:02 
+
+70:02 va a decir hola, hola, hola. Bueno, eso
+70:04 
+
+70:04 es un eco. Entonces, eh, ¿qué hace el
+70:08 
+
+70:08 team? va y choca con choca hace entre
+70:12 
+
+70:12 comillas choca contra el contra la
+70:14 
+
+70:14 máquina que tiene que tiene la direction
+70:17 
+
+70:17 IP y le devuelve y dice respuesta desde
+70:22 
+
+70:22 [carraspeo] ustedes si están en su casa
+70:23 
+
+70:23 pueden hacer un pin a a no sé al al
+70:28 
+
+70:28 default gateway supongamos default
+70:30 
+
+70:30 gateway es el es la puerta de enlace que
+70:33 
+
+70:33 si ustedes hacen config van a ver puerta
+70:35 
+
+70:35 de enlace predeterminada bueno en este
+70:38 
+
+70:38 caso dice 192, 168.1.64.
+70:42 
+
+70:42 Yo le hago un ping. Si me devuelve,
+70:44 
+
+70:44 quiere decir que está andando bien la
+70:45 
+
+70:45 red. Me está funcionando.
+70:49 
+
+70:49 Sí.
+70:51 
+
+70:51 Eh, bueno, e
+70:60 
+
+70:60 y de ahí,
+71:02 
+
+71:02 ¿qué dice? Probar conectiv dentro de la
+71:04 
+
+71:04 red. Pin, probar divisiones fuera de la
+71:06 
+
+71:06 red.
+71:08 
+
+71:08 Bueno, puedo puedo
+71:11 
+
+71:11 puedo hacer este un ping a a otra red
+71:14 
+
+71:14 para ver si si me están dando el gateway
+71:17 
+
+71:17 y toda esa historia. O sea, es ya ahí ya
+71:20 
+
+71:20 me está diciendo, sí, tu tu red está
+71:23 
+
+71:23 funcionando.
+71:25 
+
+71:25 Después lo pueden, yo les pido que lo
+71:27 
+
+71:27 ocupen esos o que lo hagan a esos a esos
+71:30 
+
+71:30 comandos para que vayan viendo qué le
+71:31 
+
+71:31 está respondiendo.
+71:34 
+
+71:34 Este sería, este sería
+71:38 
+
+71:38 eh un caso integrador, digamos, de todo
+71:40 
+
+71:40 lo que se de todo lo que se vio eh eh
+71:44 
+
+71:44 para que en un ejercicio para que lo
+71:46 
+
+71:46 vayan lo vayan lo vayan haciendo usted.
+71:49 
+
+71:49 Sí, yo le voy a subir un ejercicio
+71:51 
+
+71:51 similar a este
+71:53 
+
+71:53 para que ustedes lo hagan y y vayan
+71:56 
+
+71:56 practicando. ¿Sí
+71:59 
+
+71:59 quedó claro?
+72:02 
+
+72:02 Sí, profe.
+72:08 
+
+72:08 Tomo asist.

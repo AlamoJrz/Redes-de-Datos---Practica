@@ -1,0 +1,5005 @@
+00:01 Pero yo estoy viendo que nunca
+00:02 
+
+00:02 participaste. Entonces, la nota por no
+00:06 
+
+00:06 participar no no es la no es la o es
+00:10 
+
+00:10 diferente a uno que sí participa.
+00:13 
+
+00:13 Bien, les pregunto por por segunda vez,
+00:16 
+
+00:16 eh, ¿alguien vio el modelo OSI o lo
+00:19 
+
+00:19 conocen el modelo Osi?
+00:21 
+
+00:21 Profe, ¿nos escucha?
+00:25 
+
+00:25 Mm, no sé quién.
+00:28 
+
+00:28 Hola, hola, hola, hola. Creo que no nos
+00:30 
+
+00:30 escucha.
+00:31 
+
+00:31 Agustín, no te estoy escuchando. Si
+00:32 
+
+00:32 estás hablando.
+00:38 
+
+00:38 Bueno, a ver, Pablo Galar, ¿qué sabe del
+00:41 
+
+00:41 modelo?
+00:43 
+
+00:43 Hola, profe, ¿me escuchas?
+00:50 
+
+00:50 Hola.
+00:52 
+
+00:52 Ah, no lo escucho ninguno. Bien, bien. A
+00:54 
+
+00:54 ver, deme un segundo entonces.
+00:57 
+
+00:57 ¿Me
+01:00 
+
+01:00 escuchan ahí?
+01:02 
+
+01:02 Hola. Sí, profe.
+01:04 
+
+01:04 Bien. Ahora, ahora lo
+01:08 
+
+01:08 ahora lo les consulto. Bajen todas las
+01:10 
+
+01:10 manos. A ver, este, ¿qué? ¿Alguien
+01:14 
+
+01:14 conoce el modelo?
+01:18 
+
+01:18 Yo
+01:18 
+
+01:18 no, profe, yo no.
+01:20 
+
+01:20 Yo por encima, profe,
+01:24 
+
+01:24 lo conozco. No sé qué está pasando acá.
+01:39 
+
+01:39 Cambia de cambia de auricular.
+01:49 
+
+01:49 Ahí está. ¿Me escuchan ahí?
+01:52 
+
+01:52 Hola. Hola,
+01:53 
+
+01:53 profe. Se escucha.
+01:54 
+
+01:54 Sí, profe.
+01:54 
+
+01:54 Bien. Hay hay cambio de
+01:58 
+
+01:58 A ver. Hola. Hola.
+02:01 
+
+02:01 Sí, se le escucha, profe.
+02:03 
+
+02:03 Ahí se le escucha, profe.
+02:05 
+
+02:05 Alt voces.
+02:18 
+
+02:18 Ahí está, ahí está. Bien. Eh, me decían,
+02:22 
+
+02:22 ¿qué saben? ¿Escucharon hablar del
+02:24 
+
+02:24 modelo?
+02:26 
+
+02:26 No, profe.
+02:27 
+
+02:27 Yo no, profe.
+02:28 
+
+02:28 No, profe.
+02:29 
+
+02:29 En mi caso, no plantea, pero hasta ahí.
+02:32 
+
+02:32 Bien.
+02:33 
+
+02:33 Bueno, entonces eh a ver, la idea de
+02:37 
+
+02:37 esto es solamente
+02:39 
+
+02:39 le estoy diciendo, estamos aprendiendo,
+02:40 
+
+02:40 ¿sí? Estamos aprendiendo. Cuando yo
+02:42 
+
+02:42 pregunte, si no saben, o sea, cuando
+02:45 
+
+02:45 pregunten por algo que que que se
+02:48 
+
+02:48 entiende que algo que que no lo vimos
+02:50 
+
+02:50 todavía y me dice, "No, no lo sé, no lo
+02:52 
+
+02:52 conozco, está bien, está todo bien, pero
+02:54 
+
+02:54 cuando ya sobre algo que ya vimos ahí la
+02:56 
+
+02:56 cosa cambia." Bien, vamos a empezar
+02:59 
+
+02:59 ahora.
+03:03 
+
+03:03 Em,
+03:07 
+
+03:07 ahí está.
+03:09 
+
+03:09 El otro día hablábamos o ahí mismo
+03:11 
+
+03:11 también hay hay un hay un
+03:15 
+
+03:15 un gráfico en donde hablábamos que que
+03:20 
+
+03:20 para conversar dos personas este
+03:24 
+
+03:24 eh tienen que haber una cierta una
+03:27 
+
+03:27 cierta o se tienen que dar una una serie
+03:30 
+
+03:30 de ciertos condiciones para que se pueda
+03:34 
+
+03:34 establecer una una comunicación. A ver,
+03:38 
+
+03:38 si yo me paro a hablar delante de un de
+03:41 
+
+03:41 un japonés o de un chino, eh la
+03:45 
+
+03:45 comunicación se está efectuando porque
+03:48 
+
+03:48 estamos hablando eh y no estamos
+03:51 
+
+03:51 escuchando.
+03:53 
+
+03:53 Eh eh pero e no no nos podemos llegar a
+03:58 
+
+03:58 entender. Sí. En cambio, si hay, por
+04:01 
+
+04:01 ejemplo, eh estamos hablando en español,
+04:03 
+
+04:03 los dos eh eh conocemos el significado
+04:06 
+
+04:06 de las palabras, uno habla y el otro
+04:09 
+
+04:09 interpreta, hay un orden en la
+04:11 
+
+04:11 conversación,
+04:13 
+
+04:13 eh no no me no me entienden y me piden
+04:15 
+
+04:15 que me que lo que lo aclare. Bueno,
+04:19 
+
+04:19 entonces ahí se produjo una
+04:21 
+
+04:21 conversación. Entonces, en en la red
+04:24 
+
+04:24 pasa lo pasa lo mismo. Entonces, dos dos
+04:28 
+
+04:28 dispositivos
+04:30 
+
+04:30 eh no necesitan hablar eh en español, en
+04:34 
+
+04:34 inglés, pero sí tienen que coincidir
+04:37 
+
+04:37 en cómo representar o enviar o
+04:39 
+
+04:39 interpretar una una información. Bueno,
+04:44 
+
+04:44 eh y eso es lo es lo que estamos
+04:46 
+
+04:46 hablando de de protocolo. y y y si no
+04:49 
+
+04:49 existiera protocolos comunes, eh
+04:54 
+
+04:54 este no una computadora se maneja
+04:59 
+
+04:59 eh
+05:01 
+
+05:01 por por secuencias de información,
+05:05 
+
+05:05 pero si si esa si esa esa secuencia de
+05:10 
+
+05:10 información, por ejemplo, que ya lo
+05:12 
+
+05:12 vamos a ver, pero eh son paquetes
+05:16 
+
+05:16 eh Ahora vamos a decir que se llama que
+05:18 
+
+05:18 es un paquete eh por ahora. Entonces, eh
+05:23 
+
+05:23 ese o ese mensaje
+05:25 
+
+05:25 tiene que tener un inicio, tiene que
+05:28 
+
+05:28 tener un fin, un final, tiene que tener
+05:32 
+
+05:32 un formato, tiene que decir quién lo
+05:35 
+
+05:35 envió, a dónde va y qué pasa si llega
+05:41 
+
+05:41 incompleto.
+05:43 
+
+05:43 Entonces,
+05:46 
+
+05:46 entonces la conectividad física y la
+05:49 
+
+05:49 comunicación son dos cosas distintas. E
+05:54 
+
+05:54 por ejemplo, recién teníamos
+05:58 
+
+05:58 conectividad física
+06:00 
+
+06:00 y yo les preguntaba, ¿me entienden? ¿Me
+06:03 
+
+06:03 escuchan? y resulta que ustedes me
+06:06 
+
+06:06 escuchaban, pero yo no lo escuchaba a
+06:08 
+
+06:08 ustedes. Entonces, faltaba un elemento
+06:11 
+
+06:11 de la para que se
+06:15 
+
+06:15 un elemento de varios que son necesarios
+06:18 
+
+06:18 para establecer la comunicación. Sí, uno
+06:21 
+
+06:21 de esos elementos eh es un protocolo. Eh
+06:27 
+
+06:27 eh ahí, bueno, hay ahí habla un poquito
+06:30 
+
+06:30 qué qué es un protocolo, pero ya lo
+06:32 
+
+06:32 vamos a ir este ya lo vamos a ir este eh
+06:36 
+
+06:36 desglosando.
+06:39 
+
+06:39 Eh, bueno,
+06:43 
+
+06:43 em
+06:47 
+
+06:47 decíamos que hacen falta reglas comunes.
+06:50 
+
+06:50 ¿Ustedes sienten ruido de afuera o o
+06:52 
+
+06:52 tengo o no no sienteno ruido de afuera?
+06:55 
+
+06:55 No, profe.
+06:56 
+
+06:56 No, profe.
+06:57 
+
+06:57 Bien, bien, mejor. Entonces, eh,
+07:01 
+
+07:01 bueno, habíamos hablado de que de que
+07:03 
+
+07:03 para entrar dos equipos o para que dos
+07:06 
+
+07:06 equipos se puedan entender tienen que
+07:08 
+
+07:08 haber reglas. Sí, esa regla es eh un
+07:13 
+
+07:13 protocolo y entonces eh cómo cómo debe
+07:16 
+
+07:16 producirse esa comunicación para que el
+07:19 
+
+07:19 mensaje pueda ser interpretado.
+07:21 
+
+07:21 Entonces, no
+07:24 
+
+07:24 hablando de la de la misma analogía que
+07:26 
+
+07:26 decíamos recién, que dos personas se
+07:28 
+
+07:28 ponen a conversar, no alcanza con hablar
+07:31 
+
+07:31 el mismo idioma. Entonces, hay otras
+07:34 
+
+07:34 cuestiones, como decíamos recién, dónde
+07:36 
+
+07:36 empieza, qué formato, en qué orden, ¿sí?
+07:39 
+
+07:39 Y qué hace y qué y si qué hacemos si
+07:42 
+
+07:42 algo falla. Entonces, el formato, ¿qué
+07:46 
+
+07:46 define? Define cómo se estructura la
+07:49 
+
+07:49 información. Por ejemplo, si yo te estoy
+07:51 
+
+07:51 mandando un un
+07:54 
+
+07:54 una imagen, te tengo que mandar un un
+07:58 
+
+07:58 archivo, bueno, una un archivo en un
+08:01 
+
+08:01 formato eh eh PNG, por ejemplo, el orden
+08:07 
+
+08:07 y la sincronización.
+08:09 
+
+08:09 Establece cuándo se envían los cuándo se
+08:12 
+
+08:12 envían los mensajes y en qué secuencia.
+08:13 
+
+08:13 Por ejemplo, yo hoy, bueno, en este
+08:16 
+
+08:16 momento yo estoy hablando
+08:18 
+
+08:18 y los y los paquetes los paquetes llegan
+08:23 
+
+08:23 eh en un orden. Entonces, por eso
+08:27 
+
+08:27 ustedes me están entendiendo, si se si
+08:28 
+
+08:28 se perderían los paquetes y no llegado,
+08:39 
+
+08:39 digamos, este
+08:42 
+
+08:42 eh
+08:44 
+
+08:44 y no y no con una secuencia lógica.
+08:47 
+
+08:47 Entonces, el por ahí el formato, el oro
+08:49 
+
+08:49 no va a llegar bien y el mensaje no va a
+08:51 
+
+08:51 ser bien interpretado. Bueno, y la
+08:53 
+
+08:53 entrega y la confirmación, mientras uno
+08:56 
+
+08:56 está hablando van miles de paquetitos,
+08:58 
+
+08:58 miles de mensajes eh
+09:02 
+
+09:02 desde mi desde el micrófono que a la voz
+09:05 
+
+09:05 mía la convierte en en
+09:11 
+
+09:11 eh o la codifica en bits.
+09:15 
+
+09:15 la codifican bits y y se van se van
+09:18 
+
+09:18 transmitiendo por las diferentes capas
+09:20 
+
+09:20 que ya lo vamos a ver. Bueno, y el
+09:22 
+
+09:22 manejo de errores, si se pierde un
+09:24 
+
+09:24 mensaje, por ejemplo, si yo estoy
+09:27 
+
+09:27 hablando
+09:28 
+
+09:28 y se pierde un mensaje, por ejemplo, no
+09:31 
+
+09:31 me acuerdo si era acá o en otra otra
+09:33 
+
+09:33 clase, me dice, se le entre corta.
+09:37 
+
+09:37 Bueno, cuando se entre corta eh se están
+09:40 
+
+09:40 se están
+09:46 
+
+09:46 riendo ciertos paquetes, ¿sí? Pero solo
+09:50 
+
+09:50 que no tiene e que no es orientado a la
+09:53 
+
+09:53 conexión. Entonces yo hablo y no se
+10:02 
+
+10:02 intenta enviar ese paquete que yo hablo
+10:05 
+
+10:05 y si tengo microcortes en la
+10:06 
+
+10:06 comunicación, ese paquete eh no se no se
+10:11 
+
+10:11 reintenta eh retransmitir, entonces se
+10:14 
+
+10:14 corta la comunicación, se pierde el
+10:16 
+
+10:16 paquete, entonces
+10:18 
+
+10:18 así algo así entre corta. En cambio, si
+10:21 
+
+10:21 yo estoy haciendo una transacción, por
+10:22 
+
+10:22 ejemplo, una transacción bancaria o o
+10:25 
+
+10:25 estoy pagando, no sé, estoy en el
+10:26 
+
+10:26 supermercado y estoy pagando con Mercado
+10:28 
+
+10:28 Pago, eh ahí yo tengo que asegurarme sí
+10:32 
+
+10:32 o sí de todo lo de que todos los
+10:35 
+
+10:35 paquetes que salgan le lleguen al
+10:36 
+
+10:36 receptor. Entonces, y si hay alguna
+10:39 
+
+10:39 falla, el sistema se encarga de
+10:43 
+
+10:43 retransmitir
+10:45 
+
+10:45 ese paquete. O sea, es toda una
+10:48 
+
+10:48 secuencia que sale un paquete, el
+10:50 
+
+10:50 receptor le dice, "Sí, lo recibí, lo
+10:53 
+
+10:53 recibí, lo recibí." Cuando llega un
+10:54 
+
+10:54 paquete que no lo recibió, dice, "No, lo
+10:56 
+
+10:56 recibí, retransmitilo." Y se retransmite
+10:58 
+
+10:58 el paquete. Entonces,
+11:01 
+
+11:01 eso es el manejo de el eh eh la entrega,
+11:06 
+
+11:06 la confirmación que algunos protocolos
+11:08 
+
+11:08 permite verificar si la información
+11:10 
+
+11:10 llegó correctamente. El bueno, y esto es
+11:13 
+
+11:13 lo que le está diciendo, el manejo de
+11:14 
+
+11:14 errores, si un mensaje se pierde, llega
+11:16 
+
+11:16 llega dañado o fuera de orden. Hay
+11:19 
+
+11:19 protocolos que dice que deciden qué
+11:21 
+
+11:21 hacer. Y de ahí tenemos también el tema
+11:24 
+
+11:24 del control de acceso, eh, que
+11:29 
+
+11:29 que se establece quién puede iniciar una
+11:31 
+
+11:31 comunicación o qué tipo de información
+11:34 
+
+11:34 puede intercambiarse
+11:36 
+
+11:36 y vamos a ver, pero no todos los
+11:38 
+
+11:38 protocolos resuelven estos problemas,
+11:40 
+
+11:40 cada uno se concentra en una función
+11:44 
+
+11:44 específica. Por eso ya vamos a ir
+11:47 
+
+11:47 avanzando de a poco, pero eh tenemos que
+11:50 
+
+11:50 tener en cuenta que cuando estamos
+11:52 
+
+11:52 hablando del famoso TCP barra IP o
+11:58 
+
+11:58 comúnmente denominado TCPIP,
+12:01 
+
+12:01 no hablamos de un protocolo, hablamos de
+12:03 
+
+12:03 una pila de protocolo. Son muchos
+12:06 
+
+12:06 protocolos que están eh
+12:10 
+
+12:10 ahí adentro. Bueno, acá, bueno, ahí
+12:14 
+
+12:14 tenemos un pequeño mensaje que un
+12:16 
+
+12:16 pequeño ejemplo que ya lo vamos a ir
+12:18 
+
+12:18 este avanzando simplemente ahora para
+12:20 
+
+12:20 que lo veamos. Sí.
+12:28 
+
+12:28 Bien.
+12:30 
+
+12:30 Eh, ahora
+12:33 
+
+12:33 eh
+12:36 
+
+12:36 dijimos que había protocolos para
+12:39 
+
+12:39 comunicarse,
+12:44 
+
+12:44 pero en el medio
+12:47 
+
+12:47 eh hay
+12:52 
+
+12:52 A ver, le voy a hacer una pregunta.
+12:53 
+
+12:53 Todos tienen
+12:57 
+
+12:57 o le voy a hacer una pregunta, eh, todos
+12:58 
+
+12:58 tienen este
+13:01 
+
+13:01 teléfonos con con Android
+13:06 
+
+13:06 o la mayoría capas que tengas teléfonos
+13:08 
+
+13:08 con Android, pero otros capas que no lo
+13:10 
+
+13:10 tienen.
+13:11 
+
+13:11 ¿Es así?
+13:16 
+
+13:16 Sí, profe.
+13:16 
+
+13:16 Sí, profe.
+13:19 
+
+13:19 ¿Y qué? Y todos tienen e las
+13:23 
+
+13:23 computadoras de la misma marca,
+13:27 
+
+13:27 ¿no? Bien,
+13:30 
+
+13:30 entonces
+13:32 
+
+13:32 hay eh hay muchos fabricantes, por eso
+13:37 
+
+13:37 tenemos computadora de diferentes marca,
+13:39 
+
+13:39 celulares. Yo preguntaba de Android,
+13:42 
+
+13:42 está bien, muchos pueden tener Android,
+13:45 
+
+13:45 pero pero
+13:47 
+
+13:47 no necesariamente el mismo teléfono, la
+13:49 
+
+13:49 misma la misma marca y menos que menos
+13:51 
+
+13:51 modelo de teléfono puede coincidir,
+13:53 
+
+13:53 puede, pero es muy raro que que dos
+13:56 
+
+13:56 justo tengan el mismo teléfono dos
+13:58 
+
+13:58 personas porque hay tanta variedad.
+14:01 
+
+14:01 Entonces existen muchos fabricantes,
+14:04 
+
+14:04 existen diferentes sistemas operativos,
+14:08 
+
+14:08 mucho eh dispositivo, marca, modelo y
+14:12 
+
+14:12 cómo y cómo se hace para que
+14:18 
+
+14:18 para que todo eso ese ese esa mezcla de
+14:22 
+
+14:22 de marca, modelo, fabricantes,
+14:27 
+
+14:27 eh sistemas operativos,
+14:30 
+
+14:30 se entiende.
+14:32 
+
+14:32 Bueno, ahí entran lo que se llama las
+14:34 
+
+14:34 normas, los estándares y los y los o los
+14:39 
+
+14:39 los los organismos de estandarización.
+14:45 
+
+14:45 Entonces, ¿qué es una norma?
+14:48 
+
+14:48 una norma
+14:50 
+
+14:50 establece
+14:52 
+
+14:52 e
+14:54 
+
+14:54 los requisitos que deben cumplirse
+14:58 
+
+14:58 en un determinado contexto. ¿Sí?
+15:01 
+
+15:01 Entonces, ¿por qué? Porque puede estar
+15:03 
+
+15:03 vinculado a la a la a la a la seguridad,
+15:08 
+
+15:08 a la calidad,
+15:10 
+
+15:10 a a la a las cuestiones técnicas. Sí, un
+15:14 
+
+15:14 estándar.
+15:16 
+
+15:16 En cambio, es es una es una
+15:18 
+
+15:18 especificación técnica acordada y
+15:21 
+
+15:21 publicada por un organismo reconocido.
+15:23 
+
+15:23 Entonces, define cómo debe funcionar la
+15:27 
+
+15:27 tecnología. Por ejemplo, la trip la la I
+15:31 
+
+15:31 triple e la 802.3
+15:34 
+
+15:34 define los aspectos fundamentales de
+15:37 
+
+15:37 Ethernet. Sí. La 802.11
+15:42 
+
+15:42 del WiFi. Sí. Y así.
+15:45 
+
+15:45 e eh y un protocolo
+15:49 
+
+15:49 es el conjunto de esas reglas que los
+15:52 
+
+15:52 los dispositivos lo utilizan
+15:55 
+
+15:55 efectivamente para comunicarse. Por
+15:57 
+
+15:57 ejemplo, en el caso de lo que hacíamos
+15:60 
+
+15:60 hay un hay un hay una pila de protocolos
+16:03 
+
+16:03 que se que se llama TCP bar IP, pero hay
+16:07 
+
+16:07 dos protocolos principales que engloban
+16:11 
+
+16:11 a otros protocolos TCP.
+16:22 
+
+16:22 Entonces, define
+16:25 
+
+16:25 eh eh tercer y mantener una comunicación
+16:27 
+
+16:27 confiable. Entonces, de forma simple, la
+16:30 
+
+16:30 norma, los requisitos, el estándar, cómo
+16:34 
+
+16:34 debe implementarse la tecnología y el
+16:36 
+
+16:36 protocolo, cómo se comunican los
+16:39 
+
+16:39 dispositivos. Sí. norma, requisito,
+16:42 
+
+16:42 estándar, cómo se implementa y el
+16:44 
+
+16:44 protocolo, cómo se comunica. Ahora,
+16:49 
+
+16:49 ¿quién define esos estándares? Y ahí
+16:52 
+
+16:52 aparecen los los tres organismos más
+16:55 
+
+16:55 importantes, digamos, la IE, como
+16:58 
+
+16:58 decíamos recién, define o trabaja mucho
+17:01 
+
+17:01 sobre las tecnologías de redes locales.
+17:04 
+
+17:04 Sí. Y ahí tenemos, como decíamos recién,
+17:06 
+
+17:06 802.3 3 Ethernet, 802.11
+17:11 
+
+17:11 WiFi 8021Q
+17:14 
+
+17:14 la van. Entonces, cuando compramos una
+17:18 
+
+17:18 placa de red de una marca
+17:21 
+
+17:21 y un switch de otra marca,
+17:25 
+
+17:25 eh
+17:27 
+
+17:27 pueden interoperar porque implementan
+17:30 
+
+17:30 estándares comunes. Por ejemplo, eh eh
+17:33 
+
+17:33 nosotros no nos tenemos que preocupar,
+17:36 
+
+17:36 por ejemplo, a ver, eh si yo pregunto
+17:38 
+
+17:38 ahora, ¿qué tienen? ¿Qué qué provider de
+17:42 
+
+17:42 internet tienen en la casa,
+17:44 
+
+17:44 algunos me van a decir, este, tengo
+17:46 
+
+17:46 flow. Otros me van a decir, tengo
+17:48 
+
+17:48 internet para todo. Otro, bueno, no sé
+17:51 
+
+17:51 qué qué otr qué otros hay. Eh, ¿qué
+17:54 
+
+17:54 otros hay? Pregunta. A ver, ya me
+17:56 
+
+17:56 olvidé.
+17:58 
+
+17:58 Flog internet para todo. ¿Qué otro
+18:00 
+
+18:00 tiene?
+18:03 
+
+18:03 Super
+18:03 
+
+18:03 canal creo que también hay profe.
+18:04 
+
+18:04 Ah, super canal.
+18:05 
+
+18:05 El Starling, profe.
+18:07 
+
+18:07 Ah, bueno. Starling. Starling. Eh, super
+18:10 
+
+18:10 canal. ¿Qué tal anda super canal?
+18:15 
+
+18:15 Eh, creo que está hace poco, pero no
+18:17 
+
+18:17 sabría decirle cómo anda.
+18:19 
+
+18:19 Y había otro que se llama, ¿cómo que se
+18:22 
+
+18:22 llama? ¿Cómo que se llama? Uno que está
+18:23 
+
+18:23 por la ventana
+18:24 
+
+18:24 RBA,
+18:25 
+
+18:25 no RBA es lo que RBA es el que el que
+18:28 
+
+18:28 instala los cables
+18:30 
+
+18:30 del cable. Es una división de internet
+18:32 
+
+18:32 para todo que instala el cable.
+18:36 
+
+18:36 Eh, ¿cómo que se llama ese que está por
+18:39 
+
+18:39 la de la Vega? Eh, internet, ¿cómo?
+18:45 
+
+18:45 Por aire, no me acuerdo cómo se llama
+18:47 
+
+18:47 ahora. Bueno, pero básicamente entonces
+18:50 
+
+18:50 cada uno tiene un proveedor de internet.
+18:54 
+
+18:54 y
+18:57 
+
+18:57 no le está no no se están preocupando,
+18:60 
+
+18:60 eh, ah, eh, tengo que comprar un
+19:02 
+
+19:02 adaptador porque va a venir flow o tengo
+19:05 
+
+19:05 que comprar un adaptador porque va a
+19:06 
+
+19:06 venir este va a venir este internet para
+19:09 
+
+19:09 todo, ¿no?
+19:13 
+
+19:13 Simplemente le bajan internet, le ponen
+19:16 
+
+19:16 en un en un shooter y bueno y ustedes le
+19:19 
+
+19:19 dicen, "Bueno, este, el SSID, conéctense
+19:22 
+
+19:22 acá y esta es la contraseña." Pá.
+19:26 
+
+19:26 Entonces, ¿por qué? ¿Por qué pasa eso?
+19:29 
+
+19:29 porque están eh se puede interoperar
+19:32 
+
+19:32 porque están implementando estándares.
+19:37 
+
+19:37 Estándares. Lo mismo, por ejemplo, eh,
+19:49 
+
+19:49 bueno, no sé, e
+19:53 
+
+19:53 el cargador de los celulares.
+19:56 
+
+19:56 ¿Cómo era el tema de los cargadores de
+19:58 
+
+19:58 los celulares?
+20:03 
+
+20:03 ¿Qué pasaba con eso? ¿Se acuerdan o no
+20:06 
+
+20:06 lo han vivido? Esa parte de ustedes era
+20:07 
+
+20:07 muy chico.
+20:12 
+
+20:12 Todos los cargadores eran los mismos
+20:13 
+
+20:13 para todos los teléfonos.
+20:16 
+
+20:16 No, profe.
+20:17 
+
+20:17 Eh, tenía diferentes entradas más que
+20:19 
+
+20:19 todo para conectar. Claro. Eh, había
+20:23 
+
+20:23 para los que no han vivido eso, por las
+20:25 
+
+20:25 dudas los coment
+20:27 
+
+20:27 eh hoy, bueno, hoy se habla de la antes
+20:33 
+
+20:33 se hablaba de la transformación digital.
+20:36 
+
+20:36 Sí. Eh, bueno, vino una época en que se
+20:39 
+
+20:39 hablaba todo el tema de la
+20:40 
+
+20:40 transformación digital, transformación
+20:41 
+
+20:41 digital. Por donde vayan ustedes van a
+20:43 
+
+20:43 escuchar que se habla de transformación
+20:44 
+
+20:44 digital. Y hoy ya no hablamos de
+20:47 
+
+20:47 transformación digital, hoy hablamos de
+20:51 
+
+20:51 de velocidad
+20:53 
+
+20:53 de transformación digital, porque es tan
+20:56 
+
+20:56 tan
+20:57 
+
+20:57 este
+20:60 
+
+20:60 está avanzando tan rápido la tecnología
+21:02 
+
+21:02 que no y no da tiempo a a adoptarla, que
+21:07 
+
+21:07 que ya se pone vieja,
+21:10 
+
+21:10 ¿eh? Y esto que yo les hablo habrá sido
+21:13 
+
+21:13 un, no sé, hace 5, 7, 10 años tal vez,
+21:17 
+
+21:17 eh, era un problemón porque yo tenía un
+21:21 
+
+21:21 teléfono y me venía con ese cargador y
+21:24 
+
+21:24 yo no le podía pedir al al del lado,
+21:27 
+
+21:27 préstame un cargador. Hoy hoy a lo sumo
+21:30 
+
+21:30 eh, bueno, si tiene un iPhone, pero la
+21:33 
+
+21:33 mayoría la mayoría tiene un USBC,
+21:38 
+
+21:38 entonces
+21:39 
+
+21:39 es es un es un estándar para todo. O
+21:42 
+
+21:42 sea, por más que yo tenga, no sé, un
+21:45 
+
+21:45 diferente, mientras sea Android, la
+21:47 
+
+21:47 mayoría tienen tienen un la ficha USBC.
+21:52 
+
+21:52 Simplemente hoy preguntamos, ¿es USBC?
+21:55 
+
+21:55 Eh, y te dicen, ¿sí o no? Ah, bueno,
+21:57 
+
+21:57 y préstamelo del cargador y así. Pero
+21:60 
+
+21:60 antes se te rompía el cargador y tenía
+22:02 
+
+22:02 que, no sé, que consigan una ficha o
+22:05 
+
+22:05 algo para o o o a dónde compra ese mismo
+22:09 
+
+22:09 cargador.
+22:12 
+
+22:12 Entonces, eso es lo que los estándares
+22:14 
+
+22:14 no no no
+22:17 
+
+22:17 nos vienen la solución de la vida. Este,
+22:19 
+
+22:19 bueno, después está la IETF,
+22:23 
+
+22:23 este,
+22:24 
+
+22:24 que desarrolla gran parte la gran
+22:26 
+
+22:26 mayoría de los protocolos que se
+22:28 
+
+22:28 utilizan en internet. Eh, la la
+22:33 
+
+22:33 las especificaciones
+22:36 
+
+22:36 se suelen publicar como RFC, request for
+22:39 
+
+22:39 comments. ¿Han escuchado hablar lo que
+22:41 
+
+22:41 es una RFC? ¿O han leído alguna vez lo
+22:43 
+
+22:43 que es una RFC?
+22:48 
+
+22:48 No, profe, no, profe.
+22:50 
+
+22:50 La RFC,
+22:52 
+
+22:52 eh, si ustedes buscan eh por ejemplo, yo
+22:55 
+
+22:55 quiero implementar o quiero
+22:58 
+
+22:58 e quiero quiero quiero un servidor de
+23:02 
+
+23:02 correo
+23:04 
+
+23:04 para un pop 3 o un SMTP para o o para
+23:08 
+
+23:08 para
+23:11 
+
+23:11 enviar correo, para recibir correo.
+23:14 
+
+23:14 Bien, entonces yo puedo bajar la la RFC
+23:19 
+
+23:19 y ahí me dice todo lo todos los
+23:22 
+
+23:22 requisitos que tienen que que tengo que
+23:25 
+
+23:25 cumplir para armar un un servidor de
+23:29 
+
+23:29 correo y yo me puedo armar un
+23:30 
+
+23:30 servidorito de correo que eh aparte de
+23:33 
+
+23:33 línea de comando con
+23:36 
+
+23:36 C, por ejemplo, y puedo y puedo eh tener
+23:39 
+
+23:39 mi propio servidor de correo
+23:42 
+
+23:42 siguiendo la RFC. Y al seguir la RFC,
+23:46 
+
+23:46 eh, estoy cumpliendo con el protocolo,
+23:49 
+
+23:49 por lo cual me puedo comunicar con
+23:51 
+
+23:51 cualquier servidor de correo. Sí.
+23:55 
+
+23:55 Entonces, eh internet
+23:59 
+
+23:59 como como estamos viendo, no depende de
+24:01 
+
+24:01 de un único fabricante, funciona sobre
+24:04 
+
+24:04 especificaciones abiertas y compartidas.
+24:06 
+
+24:06 Y bueno, después tenemos lo que es la
+24:08 
+
+24:08 ISO, que la ISO eh desarrolla estándares
+24:13 
+
+24:13 en muchas áreas. Por ejemplo, escucharon
+24:15 
+
+24:15 hablar de la ISO 27001,
+24:18 
+
+24:18 la ISO
+24:20 
+
+24:20 la ISO
+24:22 
+
+24:22 9001, todo eso, eso, esas hizo, no
+24:24 
+
+24:24 escuchó hablar o hizo, no sé, algún
+24:27 
+
+24:27 número raro.
+24:30 
+
+24:30 ¿Qué cuál hizo? ¿Ecarron hablar? Por
+24:33 
+
+24:33 ejemplo,
+24:35 
+
+24:35 lo hizo 27001, creo que también,
+24:37 
+
+24:37 profesor.
+24:38 
+
+24:38 Bien. Eh
+24:42 
+
+24:42 eh no me acuerdo cuál la hizo que está.
+24:44 
+
+24:44 A ver, ya les digo. Yo estoy haciendo
+24:48 
+
+24:48 yo estoy haciendo
+24:52 
+
+24:52 eh
+24:54 
+
+24:54 un un trabajo de tesis.
+24:58 
+
+24:58 eh
+25:00 
+
+25:00 un trabajo de tesis eh sobre bueno,
+25:04 
+
+25:04 estoy haciendo una maestría
+25:07 
+
+25:07 eh
+25:11 
+
+25:11 y
+25:13 
+
+25:13 estoy trabajando sobre sobre la
+25:15 
+
+25:15 resiliencia organizacional
+25:18 
+
+25:18 y tal ahí hay una ISO que se llama la
+25:20 
+
+25:20 ISO 22301
+25:22 
+
+25:22 que habla de la seguridad y la
+25:25 
+
+25:25 resiliencia para la continua de negocio.
+25:27 
+
+25:27 Sí, eso habla, por ejemplo, bueno, ya ya
+25:30 
+
+25:30 vamos a medida que vamos avanzando vamos
+25:33 
+
+25:33 a ir viendo, pero eh por ejemplo un
+25:36 
+
+25:36 hospital, un hospital no se es
+25:40 
+
+25:40 inadmisible que se quede sin sistema,
+25:42 
+
+25:42 por ejemplo, un banco, un banco no
+25:45 
+
+25:45 debería quedarse sin sistema. Sí.
+25:48 
+
+25:48 Entonces, eh, ¿cómo se hace para
+25:54 
+
+25:54 darle la continuidad del negocio, para
+25:56 
+
+25:56 darle la resiliencia operativa? Bueno,
+25:59 
+
+25:59 entonces hay un ISO que te dice qué
+26:02 
+
+26:02 hacer.
+26:04 
+
+26:04 Bueno, y ahí tenes que empezar a mezclar
+26:06 
+
+26:06 las ISO con con otras metodologías para
+26:10 
+
+26:10 para tener el qué, el cómo, el cuándo y
+26:12 
+
+26:12 así se va trabajando.
+26:16 
+
+26:16 Bueno, en este caso la ISO es la que
+26:21 
+
+26:21 el organismo
+26:23 
+
+26:23 que creó el modelo OSI que
+26:27 
+
+26:27 que que
+26:31 
+
+26:31 que organiza la comunicación de la red
+26:35 
+
+26:35 en capas.
+26:37 
+
+26:37 Eso vamos a ver. Y de ahí aparecen otros
+26:41 
+
+26:41 otro otro modelo.
+26:43 
+
+26:43 Eh, bueno, el modelo OSI, ¿qué sería el
+26:46 
+
+26:46 modelo OSI? No es algo que yo lo voy a
+26:48 
+
+26:48 tocar,
+26:50 
+
+26:50 es un modelo conceptual, es un modelo de
+26:52 
+
+26:52 referencia. Sí, que entonces eh por eso
+26:59 
+
+26:59 le digo, no es algo que exista. A ver,
+27:00 
+
+27:00 yo lo puedo tocar el modelo si no no lo
+27:02 
+
+27:02 puedes tocar porque es como decir e eh
+27:06 
+
+27:06 divido divido eh al problema en capas.
+27:11 
+
+27:11 ¿Para qué? Para entenderlo.
+27:14 
+
+27:14 Eh, hay hay un hay un dicho que me gusta
+27:16 
+
+27:16 a mí, eh, cómo se come un elefante
+27:20 
+
+27:20 de avocados o cómo se come un chancho de
+27:23 
+
+27:23 abocado. No te puedes comer el chancho
+27:25 
+
+27:25 entero, ¿eh? Pero si lo comes de de a
+27:27 
+
+27:27 pedacito, lo va lo va a ir comiendo.
+27:29 
+
+27:29 Bien, entonces el el modelo OSI es eso,
+27:33 
+
+27:33 divide la comunicación en capas para
+27:35 
+
+27:35 para que podamos entender, o sea, e
+27:41 
+
+27:41 al problema muy complejo lo divide en
+27:44 
+
+27:44 problemas más simples. Ponele que es más
+27:48 
+
+27:48 simple. Cada capa tiene una complejidad,
+27:51 
+
+27:51 pero si no hubiera sido por esa división
+27:56 
+
+27:56 eh sería
+27:59 
+
+27:59 extremadamente complejo. Entonces, a la
+28:01 
+
+28:01 comunicación la divide en capas. ¿Para
+28:03 
+
+28:03 qué? Para entenderla, para diseñar, para
+28:05 
+
+28:05 analizar, para diagnosticar.
+28:08 
+
+28:08 Este, no quiere decir, y eso quiero que
+28:10 
+
+28:10 quede claro, no quiere decir que
+28:12 
+
+28:12 internet funcione como siete capas
+28:14 
+
+28:14 separadas. Sí.
+28:16 
+
+28:16 Este, bueno,
+28:19 
+
+28:19 e
+28:25 
+
+28:25 profe, diga
+28:28 
+
+28:28 acá de este modelo sale cuando se dice,
+28:30 
+
+28:30 por ejemplo, el chiste de error de capa
+28:32 
+
+28:32 8, ¿sale o no?
+28:35 
+
+28:35 Eh, sí, el 8,
+28:36 
+
+28:36 no se refiere al usuario, digamos. al
+28:38 
+
+28:38 usuario. Exactamente, al usuario. Hoy
+28:42 
+
+28:42 hoy tuve un error de K8. Me dicen, eh,
+28:45 
+
+28:45 no, el sistema está fallando. El sistema
+28:48 
+
+28:48 está fallando. Yo quiero imprimir un
+28:50 
+
+28:50 archivo que me pasaron. No anda. Bueno,
+28:52 
+
+28:52 mando a la gente y resulta que tenía esa
+28:56 
+
+28:56 persona tenía
+28:58 
+
+28:58 eh le mandaron un un archivo en en
+29:05 
+
+29:05 Excel y no tenía instalado el Excel.
+29:08 
+
+29:08 Bueno, no es no es que no ande, no es
+29:10 
+
+29:10 que no ande el sistema, o sea, es tu
+29:14 
+
+29:14 computadora que no tiene instalado el
+29:17 
+
+29:17 Excel y no eh y no sabe interpretar
+29:22 
+
+29:22 el formato o la codificación que viene
+29:24 
+
+29:24 el archivo. Entonces, para que nos demos
+29:26 
+
+29:26 una idea, eh la complejidad que tiene eh
+29:32 
+
+29:32 todo esto, que nosotros eh damos un
+29:36 
+
+29:36 doble clic y ya está, pero atrás de eso,
+29:40 
+
+29:40 como dice Confucio,
+29:42 
+
+29:42 Confucio dice,
+29:45 
+
+29:45 eh, lo difícil es hacerlo fácil, o sea,
+29:50 
+
+29:50 para que nosotros le demos tic tic doble
+29:52 
+
+29:52 clic y atrás hay una ingeniería
+29:55 
+
+29:55 tremenda. Por eso yo siempre les digo,
+29:58 
+
+29:58 eh,
+29:60 
+
+29:60 el doble clic lo dejemos para nuestra
+30:03 
+
+30:03 mamá, nuestro papá, nuestra abuela,
+30:05 
+
+30:05 nuestra tía, doña Rosa, como se dice
+30:07 
+
+30:07 vulgarmente, para que ellos hablan doble
+30:10 
+
+30:10 clic y nosotros tenemos que saber o
+30:12 
+
+30:12 estar preparados o nos estamos
+30:13 
+
+30:13 preparando para para saber qué
+30:19 
+
+30:19 qué hay detrás de ese doble clic
+30:24 
+
+30:24 y Eso y hay una hay una hay una realidad
+30:27 
+
+30:27 muy
+30:30 
+
+30:30 eh
+30:31 
+
+30:31 que nos está tocando a todos y yo les yo
+30:34 
+
+30:34 le les transmito la experiencia.
+30:39 
+
+30:39 Así como en algún momento les decía, no
+30:41 
+
+30:41 nos acostumbremos
+30:44 
+
+30:44 al doble click.
+30:47 
+
+30:47 Nosotros tenemos que ir más allá.
+30:49 
+
+30:49 Tenemos que acostumbrarnos en algún
+30:51 
+
+30:51 momento a ver este la pantalla.
+30:54 
+
+30:54 en modo texto para entender cómo
+30:58 
+
+30:58 funciona. O sea, después en la vida
+30:60 
+
+30:60 diaria yo puedo trabajar
+31:02 
+
+31:02 en formatográfico totalmente, pero
+31:05 
+
+31:05 también tengo que saber trabajar en en
+31:07 
+
+31:07 modo texto. Eh, ¿por qué? Porque eso nos
+31:11 
+
+31:11 da una capa de abstracción tal que
+31:14 
+
+31:14 después el día que que tengamos que ver,
+31:18 
+
+31:18 tengamos un problema, tenemos que ver
+31:21 
+
+31:21 qué pasa atrás.
+31:23 
+
+31:23 Y si no estamos preparados o no tenemos
+31:25 
+
+31:25 el conocimiento para verlo,
+31:29 
+
+31:29 eh, vamos a estar en problema. Lo mismo
+31:32 
+
+31:32 hoy está pasando con la guía.
+31:34 
+
+31:34 A los chicos que a los estudiantes,
+31:38 
+
+31:38 yo les digo,
+31:39 
+
+31:39 e la IA
+31:43 
+
+31:43 vino para quedarse.
+31:49 
+
+31:49 Hoy se habla de que va a reemplazar un
+31:51 
+
+31:51 montón de de puestos de trabajo, tal vez
+31:55 
+
+31:55 sí, seguramente que sí, pero
+31:60 
+
+31:60 eh depende de nosotros dejarnos
+32:03 
+
+32:03 reemplazar. Hay un hay un dicho que
+32:05 
+
+32:05 dice, "Si la vida te da limones,
+32:09 
+
+32:09 hace limonada."
+32:10 
+
+32:10 Bien, entonces si la la está la
+32:13 
+
+32:13 utilicemos, pero la utilicemos bien.
+32:17 
+
+32:17 Eh, la vez pasada,
+32:21 
+
+32:21 bueno, estuve en un congreso en Buenos
+32:23 
+
+32:23 Aires y me
+32:25 
+
+32:25 me invitaron para que vaya a disertar
+32:27 
+
+32:27 allá y se llama Amba 360 y hablábamos de
+32:31 
+
+32:31 la guía
+32:33 
+
+32:33 y ahí yo le decía
+32:35 
+
+32:35 eh porque dice, ¿qué va a pasar en el
+32:38 
+
+32:38 futuro? Y no sé qué va a pasar en el
+32:39 
+
+32:39 futuro, pero sí sé que la es como, ¿se
+32:43 
+
+32:43 acuerdan cuando o vieron ustedes los
+32:45 
+
+32:45 dibujitos de del fuego? han descubierto
+32:48 
+
+32:48 el fuego.
+32:50 
+
+32:50 Cuando el ser humano descubrió el fuego,
+32:53 
+
+32:53 eh, para qué lo usó en un principio al
+32:56 
+
+32:56 fuego lo uso para para qué lo uso al
+32:59 
+
+32:59 fuego en un principio,
+33:03 
+
+33:03 para cocinar, eh,
+33:06 
+
+33:06 para calentarse.
+33:07 
+
+33:07 Para calentarse.
+33:08 
+
+33:08 Claro. Bueno, y a medida que lo fueron
+33:11 
+
+33:11 perfeccionando, ¿para qué lo usaron
+33:12 
+
+33:12 después?
+33:20 
+
+33:20 para destruir.
+33:23 
+
+33:23 Eh, lo us lo usaron, han descubierto la
+33:26 
+
+33:26 pólvora, han mezclado con el fuego y han
+33:28 
+
+33:28 empezado a las guerras y con el fuego,
+33:33 
+
+33:33 eh, si yo lo uso bien, lo uso para
+33:36 
+
+33:36 comer, para para alimentarme, para para
+33:41 
+
+33:41 calentarme y si lo uso mal, lo uso para
+33:43 
+
+33:43 una guerra. La pasa lo mismo. Si la uso
+33:47 
+
+33:47 bien, la puedo usar para descubrir la el
+33:51 
+
+33:51 cáncer, la la la vacuna contra el
+33:53 
+
+33:53 cáncer, pero si la uso mal, la uso para
+33:55 
+
+33:55 destruir todo. Sí. Entonces, la guía es
+33:60 
+
+33:60 como el fuego, depende de la ética
+34:02 
+
+34:02 nuestra, cómo lo vamos a usar,
+34:05 
+
+34:05 eh, es la orientación que le vamos a
+34:08 
+
+34:08 dar. Bien, ahora como estudiantes
+34:11 
+
+34:11 eh a la guía la por ejemplo acá esta
+34:15 
+
+34:15 esta
+34:17 
+
+34:17 slide estas slide yo las tengo hace un
+34:19 
+
+34:19 montón de tiempo. Eh, a mí me llevaba,
+34:22 
+
+34:22 no sé,
+34:25 
+
+34:25 tres días preparando una materia.
+34:28 
+
+34:28 Eh, ¿por qué? porque tiene que buscar un
+34:30 
+
+34:30 libro, ir poniendo, armándolo, armando a
+34:32 
+
+34:32 pata lo a mano lo los PowerPoint
+34:37 
+
+34:37 y y mucha información la tenía suelta.
+34:41 
+
+34:41 Ahora la la junté todo y y lo que yo ya
+34:46 
+
+34:46 simplemente me lo acomodó, me lo ordenó
+34:49 
+
+34:49 y y está más bonito. Entonces, me ayudan
+34:53 
+
+34:53 a a preparar
+34:57 
+
+34:57 las clases en forma o la visualización
+34:59 
+
+34:59 de las clases,
+35:02 
+
+35:02 pero yo tengo un conocimiento y una
+35:05 
+
+35:05 experiencia previa que la estoy usando
+35:07 
+
+35:07 para eso y la guía y y eso tienen que
+35:11 
+
+35:11 tener muchísimo cuidado y eso se lo
+35:15 
+
+35:15 resalto, muchísimo cuidado. No dejen que
+35:18 
+
+35:18 la decida por ustedes. Ustedes tienen
+35:21 
+
+35:21 que decidir. Sí. Por ejemplo, yo armo
+35:24 
+
+35:24 algo y me lo arma. No, esto no me gusta
+35:26 
+
+35:26 porque está mal. Esto tiene que estar
+35:28 
+
+35:28 así. Ya está. Por ejemplo, el eh miren,
+35:32 
+
+35:32 miren, va a sonar gracioso,
+35:35 
+
+35:35 va a sonar como como algo humorístico,
+35:38 
+
+35:38 pero pero es real. Yo le puedo preguntar
+35:41 
+
+35:41 aí a eh, me duele la cabeza, ¿qué puedo
+35:44 
+
+35:44 tomar? Y me voy a decir, "Tómate una
+35:47 
+
+35:47 pastilla de gamesan." Ahí me tomo una
+35:49 
+
+35:49 pasta y llegaba. Listo, la guía me dijo,
+35:51 
+
+35:51 pum. Y le digo, me duele la cabeza, me
+35:54 
+
+35:54 estoy sale espuma por la boca. Ah,
+35:56 
+
+35:56 perdón, me equivoqué. Te voy a decir la
+35:57 
+
+35:57 y ya está. Se equivocó y pero ya lo
+35:59 
+
+35:59 tomaste. ¿Por qué? Porque no
+36:01 
+
+36:01 verificaste.
+36:03 
+
+36:03 ¿Me entiendes lo que les quiero decir?
+36:04 
+
+36:04 Capa que es muy burdo el ejemplo, pero
+36:07 
+
+36:07 tenemos que verificar lo que nos da.
+36:10 
+
+36:10 Bien, ya me fui por la lam. Eh,
+36:14 
+
+36:14 bueno, ¿por qué por qué usamos ambos
+36:17 
+
+36:17 capas?
+36:18 
+
+36:18 Eh, dijimos que las redes son sistemas
+36:21 
+
+36:21 muy complejos, pero extremadamente
+36:22 
+
+36:22 complejos. Está compuesto, pero miles de
+36:25 
+
+36:25 de de componentes que tienen que
+36:28 
+
+36:28 sincronizarse uno con otro. Es una
+36:29 
+
+36:29 ingeniería perfecta. Entonces, en una
+36:32 
+
+36:32 comunicación
+36:34 
+
+36:34 van a intervenir aplicaciones. ¿Qué más?
+36:38 
+
+36:38 Protocolo, direcciones, equipos, medios
+36:41 
+
+36:41 físicos, procesos.
+36:44 
+
+36:44 Si quisiera estudiar todo junto, no lo
+36:47 
+
+36:47 es muy difícil entender lo que hace cada
+36:49 
+
+36:49 parte y sobre todo buscar cuando hay acá
+36:54 
+
+36:54 acá entra el dicho buscar una aguja en
+36:56 
+
+36:56 un pájar porque es imposible. En cambio,
+36:60 
+
+36:60 si yo separo y voy buscando en en
+37:02 
+
+37:02 diferentes montoncitos, capre más
+37:04 
+
+37:04 rápido. Por eso usamos las capas. ¿Sí?
+37:07 
+
+37:07 Entonces, como vuelvo a repetir, la idea
+37:10 
+
+37:10 es dividir un problema grande en parte
+37:12 
+
+37:12 más pequeña, donde cada capa tenga una
+37:15 
+
+37:15 función específica. Entonces, e
+37:20 
+
+37:20 cada capa va a tener va a tener una
+37:23 
+
+37:23 parte del problema y cada capa usa los
+37:27 
+
+37:27 servicios de la capa inferior. Si la
+37:29 
+
+37:29 vemos de arriba para abajo, eh, 7 6 5 4
+37:34 
+
+37:34 3 2 1. Sí, lo miramos de arriba para
+37:37 
+
+37:37 abajo. Siete capas, 76.
+37:41 
+
+37:41 La capa de abajo le da servicio a la
+37:44 
+
+37:44 capa superior. Sí.
+37:47 
+
+37:47 Y bueno, ¿y qué ventaja tenemos? Eh,
+37:49 
+
+37:49 bueno, la interoperabilidad,
+37:53 
+
+37:53 eh,
+37:55 
+
+37:55 es lo que hablamos recién, yo puedo
+37:57 
+
+37:57 tener este
+37:59 
+
+37:59 eh equipo distinto, marcas distintas,
+38:02 
+
+38:02 sistema operativos distintos, eh pero eh
+38:05 
+
+38:05 hace que todas esas tecnologías eh
+38:09 
+
+38:09 diferentes puedan trabajar juntos.
+38:11 
+
+38:11 también el tema del mantenimiento y el
+38:13 
+
+38:13 diagnóstico. Eh, esto desde un punto de
+38:16 
+
+38:16 vista práctico, porque si algo falla eh
+38:21 
+
+38:21 el compañero decía un problema de capa
+38:23 
+
+38:23 8. Bien. ¿Cuál sería el un un
+38:27 
+
+38:27 problema de capa un?
+38:31 
+
+38:31 ¿Qué creen ustedes?
+38:38 
+
+38:38 un problema de capa un
+38:42 
+
+38:42 sería, ver, por ejemplo, que la
+38:44 
+
+38:44 aplicación directamente crashee al
+38:46 
+
+38:46 iniciar,
+38:48 
+
+38:48 ¿no?
+38:49 
+
+38:49 Que se corta un cable.
+38:51 
+
+38:51 Exactamente, un cable. Entonces, yo me
+38:54 
+
+38:54 yo me puedo preguntar, ¿hay señal más
+38:58 
+
+38:58 hay señal física? O sea, si estoy en una
+38:59 
+
+38:59 LAN, hay señal física, hay enlace y voy
+39:04 
+
+39:04 subiendo, hay conectividad IP, funciona
+39:08 
+
+39:08 TCP, están dando la aplicación, ahí
+39:10 
+
+39:10 entra lo que dice el compañero de la
+39:12 
+
+39:12 aplicación Crasher. Entonces, en lugar
+39:15 
+
+39:15 de probar cualquier cosa, vamos acotando
+39:18 
+
+39:18 el problema por capas.
+39:21 
+
+39:21 Sí.
+39:22 
+
+39:22 Bueno, ahí hay una analogía de enviar
+39:24 
+
+39:24 una carta que ya ya lo vamos a ir este
+39:26 
+
+39:26 ya lo vamos a ir viendo también, pero
+39:28 
+
+39:28 bueno, lo traigamos, síganos con el con
+39:30 
+
+39:30 el ejemplo de de de
+39:34 
+
+39:34 de
+39:36 
+
+39:36 dentro de abre una página web desde una
+39:38 
+
+39:38 notebook, por ejemplo. A ver, yo me
+39:41 
+
+39:41 puedo conectar por internet, me puedo
+39:44 
+
+39:44 conectar por Wi-Fi, por los datos del
+39:47 
+
+39:47 teléfono y el y el y el teléfono y el y
+39:51 
+
+39:51 el navegador siempre va a seguir
+39:53 
+
+39:53 utilizando el el protocolo HTTP o HTTPS.
+39:57 
+
+39:57 Hoy, por ejemplo, muchos están sentados
+40:01 
+
+40:01 eh frente o conectado con una máquina de
+40:06 
+
+40:06 escritorio, otros con una notebook, otro
+40:09 
+
+40:09 con una tablet, otro con un teléfono.
+40:13 
+
+40:13 Cambia eh la forma y y cada uno tiene
+40:17 
+
+40:17 una forma diferente de acceso. Por
+40:18 
+
+40:18 ejemplo, los que están con una PC de
+40:20 
+
+40:20 extensorio cap que están con un cable,
+40:22 
+
+40:22 los que están con una notebook por
+40:23 
+
+40:23 Wi-Fi, bueno, y y tablet también y y
+40:26 
+
+40:26 teléfono, cap se han quedado sin sin
+40:29 
+
+40:29 Wi-Fi y estoy con datos.
+40:32 
+
+40:32 Eh, entonces cambiamos la forma física
+40:34 
+
+40:34 de acceso, pero la aplicación sigue
+40:37 
+
+40:37 funcionando. Sí, eso es el tema de el
+40:40 
+
+40:40 tema de de trabajar sin con capa. Bueno,
+40:43 
+
+40:43 ¿y qué pasaría si si no tenemos capa?
+40:47 
+
+40:47 cualquier cambio de hardware nos puede
+40:49 
+
+40:49 obligar a modificar. Imagínense lo que
+40:52 
+
+40:52 es este lo que es este
+40:56 
+
+40:56 eh
+40:59 
+
+40:59 esa ese poder de abstracción que nos da
+41:02 
+
+41:02 esto, que antes nosotros decíamos e que
+41:07 
+
+41:07 por ejemplo yo cambio, no sé, a ver, eh
+41:11 
+
+41:11 tengo el el algo tan sencillo como
+41:14 
+
+41:14 decir, yo les puedo preguntar qué
+41:16 
+
+41:16 navegador están usando y muchos me van a
+41:18 
+
+41:18 decir, yo uso
+41:20 
+
+41:20 Microsoft Edge, yo uso Mila Firefox, yo
+41:24 
+
+41:24 uso Chrome, yo uso Chromium, yo uso
+41:27 
+
+41:27 Brive y me tiron un montón y simplemente
+41:31 
+
+41:31 lo instalo, lo abro y ya está y me da
+41:34 
+
+41:34 una. ¿Por qué? Porque porque tengo esa
+41:38 
+
+41:38 cuestión de las capas. Ahora si yo no
+41:39 
+
+41:39 tuviera eso a nivel de aplicación, ahora
+41:42 
+
+41:42 si cambio el hardware,
+41:44 
+
+41:44 cualquier cambio de hardware, si yo no
+41:46 
+
+41:46 tuviera todo este tema de las capas, me
+41:48 
+
+41:48 podría obligar a modificar aplicaciones,
+41:51 
+
+41:51 protocolos, servicios y cuando me
+41:53 
+
+41:53 aparezca un problema sería mucho más
+41:56 
+
+41:56 difícil determinar dónde está la falla.
+41:58 
+
+41:58 Sí, esa esa es la la la ventaja de
+42:00 
+
+42:00 utilizar capas.
+42:03 
+
+42:03 E
+42:06 
+
+42:06 bueno, eso es lo mismo de lo que
+42:07 
+
+42:07 estábamos viendo de de lo de lo de los
+42:11 
+
+42:11 estándares. Esto un poquito un poquito
+42:13 
+
+42:13 más de más de info. Eh, bueno, y el
+42:17 
+
+42:17 modelo OSI,
+42:19 
+
+42:19 el modelo OSI, eso es lo que me me
+42:21 
+
+42:21 interesa.
+42:23 
+
+42:23 Eh, como les digo, es un modelo
+42:27 
+
+42:27 conceptual, no lo toco, no existe, no no
+42:29 
+
+42:29 no
+42:31 
+
+42:31 es dividir el problema en capas.
+42:33 
+
+42:33 Entonces, el modelo OSI eh
+42:39 
+
+42:39 organiza la comunicación en siete capas,
+42:42 
+
+42:42 mirándolo de arriba para abajo, eh se
+42:45 
+
+42:45 van se van numerando de arriba para
+42:47 
+
+42:47 abajo. Entonces,
+42:51 
+
+42:51 o si es un protocolo,
+42:57 
+
+42:57 les pregunto, ¿o si sería un protocolo,
+43:05 
+
+43:05 ¿qué creen ustedes?
+43:11 
+
+43:11 Eh, no sería
+43:13 
+
+43:13 Yo creería que no.
+43:14 
+
+43:14 Creo que no, profe.
+43:15 
+
+43:15 No, profe, también creo que no.
+43:18 
+
+43:18 Bueno, o si no es un protocolo ni
+43:20 
+
+43:20 tampoco es internet,
+43:23 
+
+43:23 es un modelo conceptual que utilizamos
+43:26 
+
+43:26 para entender, para analizar, para
+43:30 
+
+43:30 diagnosticar cómo ocurre una
+43:32 
+
+43:32 comunicación. ¿Sí? Entonces, eso
+43:36 
+
+43:36 ténganlo bien presente. O si no es un
+43:38 
+
+43:38 protocolo, es un módulo conceptual que
+43:40 
+
+43:40 se usa para entender la comunicación.
+43:44 
+
+43:44 Bien, ahí si si lo si lo si lo vemos de
+43:49 
+
+43:49 arriba para abajo
+43:51 
+
+43:51 tenemos las diferentes capas. Al
+43:54 
+
+43:54 compañero, vuelve a nombrarlo de nuevo,
+43:55 
+
+43:55 él decía capa 8 somos nosotros. La capa
+43:58 
+
+43:58 si, ahí viene la parte realmente
+44:01 
+
+44:01 inteligente. La aplicación es la capa
+44:04 
+
+44:04 más cercana al usuario. Sí, acá aparecen
+44:09 
+
+44:09 protocolos eh
+44:12 
+
+44:12 y servicio, digamos, que usan
+44:14 
+
+44:14 directamente las aplicaciones. ¿Ustedes
+44:16 
+
+44:16 han visto o han sentido hablar de HTTP,
+44:19 
+
+44:19 de HTTPS,
+44:21 
+
+44:21 de DNS, de SMTP, de FTP? ¿Han escuchado
+44:25 
+
+44:25 hablar de esos protocolos?
+44:28 
+
+44:28 Sí, profe.
+44:30 
+
+44:30 ¿Qué haría DNS, por ejemplo,
+44:36 
+
+44:36 traduce la dirección IP de la página a
+44:38 
+
+44:38 un dominio que podamos entender
+44:40 
+
+44:40 nosotros, que se recuerde más fácil?
+44:43 
+
+44:43 Sí, exactamente. Vendría a ser el alias
+44:45 
+
+44:45 así como como
+44:49 
+
+44:49 de la transferencia
+44:50 
+
+44:50 para traerlo a una
+44:54 
+
+44:54 a una Si yo te pregunto, dame tu CBU y
+44:57 
+
+44:57 me va a dar un número de 22 dígitos y yo
+44:59 
+
+44:59 no me voy a acordar el tercer dígito.
+45:01 
+
+45:01 ¿Cómo era el otro? Así en cambio, en
+45:04 
+
+45:04 cambio si me decí, no sé, zapato, tela,
+45:09 
+
+45:09 rama, eh, me es más fácil acordar.
+45:13 
+
+45:13 Bueno, acá pasa lo mismo, un una
+45:14 
+
+45:14 dirección IP es un es un son cuatro
+45:17 
+
+45:17 dígitos, cuatro octetos
+45:22 
+
+45:22 e
+45:24 
+
+45:24 que no no es fácil acordarse. Entonces,
+45:26 
+
+45:26 es más fácil acordarse un nombre. Bien.
+45:30 
+
+45:30 Eh, entonces si abrimos una página web,
+45:33 
+
+45:33 el navegador me va a generar una
+45:35 
+
+45:35 solicitud http o https de acuerdo si
+45:37 
+
+45:37 tiene o no seguridad y y la aplicación
+45:40 
+
+45:40 no se preocupa por cómo van a viajar los
+45:43 
+
+45:43 los bits. Ella simplemente dice,
+45:47 
+
+45:47 "Necesito un servicio de comunicación."
+45:49 
+
+45:49 P abro y ya está. Me preocupo de eso.
+45:53 
+
+45:53 ¿Qué pasa después? Y es problema del
+45:55 
+
+45:55 otro. Yo hago lo mío. Bien. Y la capa se
+45:60 
+
+45:60 ocupa de que los datos tengan un formato
+46:02 
+
+46:02 que ambos extremos, porque acá estoy
+46:05 
+
+46:05 acá, acá yo eh imagínense de un lado del
+46:10 
+
+46:10 lado izquierdo voy a tener
+46:13 
+
+46:13 el punto A o el origen y al lado derecho
+46:17 
+
+46:17 se va a repetir lo mismo, pero es el
+46:19 
+
+46:19 destino y ese por ejemplo, ahora yo
+46:22 
+
+46:22 estoy acá en mi casa y estoy puuesto al
+46:26 
+
+46:26 representado por por un por un modelo
+46:28 
+
+46:28 osi y ustedes están en su casa y también
+46:32 
+
+46:32 están representados por un modelo o con
+46:34 
+
+46:34 las siete capas.
+46:36 
+
+46:36 Entonces yo e estoy hablando
+46:40 
+
+46:40 o les puedo mandar un a ver le digo, les
+46:43 
+
+46:43 comparto el archivo tal. Entonces la
+46:47 
+
+46:47 capas se va a ocupar de que los datos
+46:50 
+
+46:50 tengan un formato
+46:53 
+
+46:53 que ambos extremos puedan interpretar.
+46:55 
+
+46:55 Por ejemplo, yo le voy decir, les paso
+46:56 
+
+46:56 el PDF. ¿Ustedes qué tienen que tener
+46:58 
+
+46:58 del otro lado?
+47:04 
+
+47:04 El
+47:04 
+
+47:04 lector,
+47:05 
+
+47:05 el lector de PDF.
+47:07 
+
+47:07 Y si no lo tienen, ¿qué va a pasar?
+47:11 
+
+47:11 No vamos a poder abrir el documento.
+47:13 
+
+47:13 Podemos abrirlo también naador.
+47:16 
+
+47:16 Exactamente. No, no lo van a poder abrir
+47:17 
+
+47:17 el documento. Es lo que le comenté esta
+47:19 
+
+47:19 mañana del del problema de K 8, eh
+47:24 
+
+47:24 que la persona le mandaba un Excel y no
+47:27 
+
+47:27 tenía instalado el Excel y bueno y no no
+47:29 
+
+47:29 lo puedo abrir. Dice y más vale no lo
+47:30 
+
+47:30 puede poder abrir si no tenes el Excel.
+47:32 
+
+47:32 Eso es un problema de capa 8.
+47:35 
+
+47:35 Entonces, eh
+47:38 
+
+47:38 se se la capa de presentación se ocupa
+47:41 
+
+47:41 que los datos tengan un formato que
+47:42 
+
+47:42 ambos extremos pueden interpretar.
+47:44 
+
+47:44 Entonces, ¿qué qué tareas interviene? La
+47:47 
+
+47:47 codificación, la comprensión y el
+47:49 
+
+47:49 cifrado. La compresión, no comprensión.
+47:53 
+
+47:53 Eh,
+47:55 
+
+47:55 bueno, en la capa de sesión
+47:57 
+
+47:57 se relaciona ya con el establecimiento.
+48:02 
+
+48:02 Eh,
+48:06 
+
+48:06 el sí, sería así, el establecimiento, el
+48:08 
+
+48:08 mantenimiento y la finalización del
+48:11 
+
+48:11 diálogo entre las aplicaciones. Por
+48:13 
+
+48:13 ejemplo, eh una aplicación puede
+48:16 
+
+48:16 necesitar mantener una interacción
+48:17 
+
+48:17 cierto tiempo con un servidor. Sí, eso
+48:20 
+
+48:20 puede ser. Este
+48:23 
+
+48:23 eh y bueno, eh y y se y se y se produce
+48:27 
+
+48:27 la se produce un
+48:31 
+
+48:31 que a nivel de session se establezca se
+48:33 
+
+48:33 establezca esa sesión. Eh, eh, por
+48:36 
+
+48:36 ejemplo, el ya y ya tenemos esos
+48:38 
+
+48:38 protocolos NetBO, RPC, ZIP, eh, y a
+48:42 
+
+48:42 medida que vamos bajando aparece una
+48:44 
+
+48:44 función muy importante que es la
+48:46 
+
+48:46 comunicación extremo a extremo. Los
+48:49 
+
+48:49 protocolos más conocidos son el TCP y el
+48:53 
+
+48:53 UDP.
+48:55 
+
+48:55 ¿Qué hace el TCP? El TCP se encarga de
+48:59 
+
+48:59 segmentar la información, controlar el
+49:02 
+
+49:02 orden de los paquetes. Por ejemplo, yo
+49:03 
+
+49:03 estoy hablando
+49:05 
+
+49:05 y le va llegando con una secuencia que
+49:08 
+
+49:08 si yo si este este TCP no funcionaría,
+49:13 
+
+49:13 le llega el el
+49:17 
+
+49:17 eh la voz mía o el mensaje que yo le
+49:20 
+
+49:20 quiero mandar, le llega en una en una
+49:22 
+
+49:22 secuencia cambiada y no no van a
+49:24 
+
+49:24 entender nada. Entonces, eh me detecta
+49:27 
+
+49:27 pérdida, me me da me da una entrega
+49:29 
+
+49:29 confiable. En cambio, eh el UDP,
+49:33 
+
+49:33 el UDP e
+49:36 
+
+49:36 perdón, eh si yo estoy si yo el TCP es
+49:39 
+
+49:39 orientado a la conexión y el UDP es no
+49:41 
+
+49:41 orientado a la conexión. El TCP lo
+49:44 
+
+49:44 usaría para una transacción bancaria,
+49:46 
+
+49:46 por ejemplo, y el UDP cuando yo estoy
+49:48 
+
+49:48 hablando, pero también si si no si los
+49:50 
+
+49:50 paquetes no llegan secuenciales, se va a
+49:52 
+
+49:52 escuchar cualquier cosa. Entonces, pero
+49:54 
+
+49:54 no el el UDP no se preocupa en en
+49:57 
+
+49:57 control del orden, simplemente se
+49:59 
+
+49:59 pierde, se pierde y se perdió. No me da
+50:01 
+
+50:01 una entrega confiable. La capa de tres
+50:03 
+
+50:03 de shed se ocupa del direccionamiento
+50:05 
+
+50:05 lógico y el encaminamiento entre las
+50:09 
+
+50:09 redes. Acá aparece lo que es la otra
+50:11 
+
+50:11 parte del protocolo. Dijimos que se
+50:12 
+
+50:12 llamaba TCP/IP.
+50:14 
+
+50:14 Bueno, acá quién aparece IP. En la capa
+50:17 
+
+50:17 4 aparece TCP. En la capa 3 IP. nuestro
+50:20 
+
+50:20 equipo, como por ejemplo ahora e
+50:25 
+
+50:25 eh bueno, yo puedo tener un un yo puedo
+50:28 
+
+50:28 estar ahora en una LAN acá en mi casa,
+50:30 
+
+50:30 en una red land area network y el server
+50:34 
+
+50:34 web a miles de kilómetros, no sé, yo
+50:37 
+
+50:37 quiero quiero
+50:40 
+
+50:40 quiero consultar cualquier cosa de un
+50:43 
+
+50:43 servidor que está lejísimo. Bueno, la
+50:45 
+
+50:45 capa de red me permite eso. ¿A qué
+50:47 
+
+50:47 dirección IP queremos llegar y por qué
+50:51 
+
+50:51 camino deben avanzar los paquetes? Esa
+50:52 
+
+50:52 era la pregunta. ¿Quiénes trabajan acá?
+50:55 
+
+50:55 Los routers. Los router. Sí. Entonces,
+50:60 
+
+50:60 la lo que veíamos el otro día, el el
+51:02 
+
+51:02 alling one ese que nos dan de internet
+51:04 
+
+51:04 para todos,
+51:07 
+
+51:07 una de esas funciones es es de shooter.
+51:10 
+
+51:10 La capa dos es de enlace de datos.
+51:14 
+
+51:14 Ya estamos bajando. ¿Ven cómo vamos
+51:15 
+
+51:15 bajando? No, ya nos estamos acercando a
+51:18 
+
+51:18 la a la LAN local, a la red local. Esta
+51:21 
+
+51:21 capa se ocupa de mover la información
+51:24 
+
+51:24 dentro de un enlace o segmento local. Y
+51:28 
+
+51:28 acá, ¿qué conceptos empiezan a aparecer?
+51:30 
+
+51:30 Ethernet, Wi-Fi, direcciones, Mac,
+51:33 
+
+51:33 trama. Eso lo vamos a ir viendo, pero
+51:35 
+
+51:35 más adelante, pero simplemente ahora se
+51:36 
+
+51:36 lo voy mencionando. Por ejemplo, eh para
+51:40 
+
+51:40 que una PC entregue una trama al
+51:43 
+
+51:43 siguiente dispositivo de la LAN,
+51:46 
+
+51:46 necesita mecanismo propio de la de la de
+51:49 
+
+51:49 la capa esta. ¿Quiénes trabajan acá? Los
+51:52 
+
+51:52 switch. ¿Ven? Entonces, un switch
+51:56 
+
+51:56 trabaja en capa dos, un un router
+51:60 
+
+51:60 trabaja en capa tres. Bueno, ahora hay s
+52:02 
+
+52:02 de capa 3 también, pero bueno. Este, y
+52:05 
+
+52:05 de ahí más abajo está la capa física, es
+52:08 
+
+52:08 el medio, el medio físico. Acá ya no
+52:11 
+
+52:11 estoy hablando de página web, no estoy
+52:14 
+
+52:14 hablando de direction IP, no estoy
+52:16 
+
+52:16 hablando de DNS. Acá estoy hablando de
+52:18 
+
+52:18 bits, de pulsos eléctricos, de luz, de
+52:22 
+
+52:22 radiofrecuencia, de cable, eso que le
+52:24 
+
+52:24 muestro el ingeniero Cobre el lunes.
+52:28 
+
+52:28 Bueno, toda esa parte de los medios
+52:31 
+
+52:31 entra acá. ¿Se dieron cuenta cómo fue
+52:35 
+
+52:35 fuimos separando lo lo
+52:39 
+
+52:39 eh cómo fuimos separando el problema?
+52:42 
+
+52:42 Acá quiénes entran. Eh, bueno, lo que
+52:46 
+
+52:46 dec
+52:48 
+
+52:48 el profe, no sé si le llevo un un cable,
+52:51 
+
+52:51 un UTP, una fibra óptica. Sí,
+52:55 
+
+52:55 es eso que le muestro más el tema del
+52:57 
+
+52:57 wifi son tecnologías relacionadas a la
+53:01 
+
+53:01 capa o a la transmisión. física.
+53:04 
+
+53:04 Eh, no, la idea no es que memoricen
+53:07 
+
+53:07 todas las definiciones, pero es
+53:09 
+
+53:09 importante que lo que lo conozcan. Por
+53:12 
+
+53:12 ejemplo, ¿en qué nivel está ocurriendo
+53:14 
+
+53:14 el problema?
+53:16 
+
+53:16 Recién decía eh,
+53:19 
+
+53:19 no me acuerdo quién quién quién
+53:20 
+
+53:20 mencionaba eh un cable desconectado.
+53:23 
+
+53:23 Bueno, un cable desconectado, problema
+53:25 
+
+53:25 de qué capa sería.
+53:29 
+
+53:29 Eh, una
+53:30 
+
+53:30 capa física. Muy bien. Un problema de
+53:32 
+
+53:32 Mac o de Switch.
+53:36 
+
+53:36 Capa
+53:40 
+
+53:40 capa de enlace. Un problema de IP o de
+53:43 
+
+53:43 routing. Capa de red. Tengo un puerto
+53:47 
+
+53:47 TSP bloqueado. Capa de transporte. Me da
+53:49 
+
+53:49 error en la en la web, capa de aplic en
+53:52 
+
+53:52 la página web capa de aplicación. Sí.
+53:54 
+
+53:54 Por eso se vuelve práctico o sí, porque
+53:57 
+
+53:57 me permite conceptualmente separarlo al
+54:01 
+
+54:01 problema.
+54:04 
+
+54:04 Bien. Eh, bueno, y acá hay un un una
+54:12 
+
+54:12 un una aplicación práctica de de del
+54:16 
+
+54:16 modelo del modelo OSI. Entonces, a
+54:19 
+
+54:19 partir del,
+54:21 
+
+54:21 bueno, mover encapsulación de esa
+54:23 
+
+54:23 encapsulación lo ver más más en detalle,
+54:27 
+
+54:27 pero eh por ejemplo, cuando cuando
+54:30 
+
+54:30 alguien quiere abrir una una página web,
+54:34 
+
+54:34 ¿qué pasa? El navegador, la capa 8
+54:37 
+
+54:37 quiere ab una página web. Entonces,
+54:40 
+
+54:40 sigue la la capa de aplicación. El
+54:42 
+
+54:42 navegador genera una solicitud web
+54:45 
+
+54:45 utilizando los protocolos HTTP. o https,
+54:49 
+
+54:49 por ejemplo, pongo yo https 2.ww
+54:54 
+
+54:54 no sé, unlar.edu.ar.
+54:56 
+
+54:56 Le doy enter.
+54:58 
+
+54:58 Simplemente hice eso. Kapa 8, capa 7 WW
+55:03 
+
+55:03 y ya empieza a bajar.
+55:05 
+
+55:05 Eh
+55:07 
+
+55:07 eh
+55:09 
+
+55:09 estamos hablando del contenido que
+55:10 
+
+55:10 necesita la aplicación. Entonces, ¿qué
+55:13 
+
+55:13 pasa? Ya necesito, si estamos utilizando
+55:16 
+
+55:16 https,
+55:19 
+
+55:19 ¿qué estoy diciendo? Estoy usando un
+55:20 
+
+55:20 protocolo seguro. El HTTP no es seguro.
+55:24 
+
+55:24 El HTTPS es seguro. Entonces, ¿qué estoy
+55:27 
+
+55:27 diciendo? La información debe viajar
+55:29 
+
+55:29 protegida. Bien, entonces acá tengo que
+55:33 
+
+55:33 pensar conceptualmente en funciones que
+55:35 
+
+55:35 si tiene que viajar protegida, ¿qué se
+55:37 
+
+55:37 me viene la cabeza?
+55:43 
+
+55:43 ¿Qué piensan ustedes?
+55:52 
+
+55:52 El cifrado,
+55:54 
+
+55:54 el cifrado,
+55:57 
+
+55:57 la representación de los datos, la
+55:58 
+
+55:58 codificación.
+55:60 
+
+55:60 Entonces, la idea es que los datos
+56:02 
+
+56:02 lleguen en un formato.
+56:07 
+
+56:07 Acá entra el cifrado porque es https,
+56:09 
+
+56:09 pero también si te estoy mandando un
+56:12 
+
+56:12 PDF, te lo tengo que mandar en PDF, en
+56:15 
+
+56:15 una codificación de PDF para que del
+56:17 
+
+56:17 otro lado lo pueda interpretar. Sí.
+56:20 
+
+56:20 Bueno, de ahí sigue la sesión. La
+56:23 
+
+56:23 comunicación necesita mantener un
+56:24 
+
+56:24 diálogo entre el navegador y el
+56:27 
+
+56:27 servidor. Entonces,
+56:31 
+
+56:31 esta capa, ¿qué hace? Eh, inicia una
+56:35 
+
+56:35 sesión, la mantiene, o sea, se se se
+56:39 
+
+56:39 establece un socket, se se inicia la
+56:42 
+
+56:42 sesión. Ustedes cuando hagan el net a,
+56:45 
+
+56:45 bueno, para mover, hay un comando que se
+56:46 
+
+56:46 llama net. Entonces, eh ahí vamos a ver
+56:49 
+
+56:49 cómo se inicia una sesión. eh dura un
+56:52 
+
+56:52 ratito y se y se finaliza. O hay otras
+56:55 
+
+56:55 que duran un montón de tiempo porque son
+56:57 
+
+56:57 necesarias para por el tipo de
+56:59 
+
+56:59 comunicación que está haciendo.
+57:00 
+
+57:00 Entonces, ¿qué qué hace acá? Inicia,
+57:03 
+
+57:03 mantiene y finaliza una sesión entre las
+57:07 
+
+57:07 aplicaciones.
+57:11 
+
+57:11 En la capa de transporte, ahí aparece lo
+57:13 
+
+57:13 que decíamos PC. ¿Qué hace la capa de
+57:17 
+
+57:17 transporte? toma los datos, lo divide
+57:20 
+
+57:20 por lo divide en unidades más pequeñas y
+57:23 
+
+57:23 le va agregando información
+57:26 
+
+57:26 de ¿qué? De puertas, número de
+57:29 
+
+57:29 secuencia, control de entrega, por
+57:31 
+
+57:31 ejemplo, https. ¿Qué qué puerto usa? ¿En
+57:37 
+
+57:37 qué puerto usa https?
+57:45 
+
+57:45 No, profe.
+57:47 
+
+57:47 El https usa el puerto 443.
+57:51 
+
+57:51 El el DNS usa el puerto 53. El DH el SSH
+57:57 
+
+57:57 usa el puerto 22. Un Telnet usa un
+58:00 
+
+58:00 puerto 23. Un SMTP o un POP 3, un 25 y
+58:04 
+
+58:04 un 110. Y así cada eh hay puertos
+58:09 
+
+58:09 well se llama los puertos más conocidos
+58:11 
+
+58:11 que son entre el 1 y el 1024 están
+58:13 
+
+58:13 reservados para todo este tipo de
+58:15 
+
+58:15 servicio.
+58:17 
+
+58:17 Bueno, de ahí sigue. Bueno, el objetivo
+58:19 
+
+58:19 de esto sería que la información pueda
+58:22 
+
+58:22 llegar correctamente de la aplicación
+58:24 
+
+58:24 origen hasta la aplicación destino. Y
+58:26 
+
+58:26 ahí entra, vamos bajando, entra la capa
+58:29 
+
+58:29 de red. Ahí se van a incorporar recién
+58:32 
+
+58:32 las direcciones IP.
+58:35 
+
+58:35 Ahora ya tengo que identificar IP de
+58:37 
+
+58:37 origen a IP de destino. Sí. Entonces,
+58:41 
+
+58:41 ¿por qué? Porque el paquete que estoy
+58:42 
+
+58:42 mandando, imagínense yo, para llegar
+58:46 
+
+58:46 e a ver, a ver, así hacemos ya
+58:52 
+
+58:52 un comandito. A ver, abran inicio.
+58:57 
+
+58:57 Inicio, ejecutar cmd. Pongan
+59:04 
+
+59:04 eh,
+59:07 
+
+59:07 ¿cómo era esa página?
+59:23 
+
+59:23 Ah, no la tengo instalada. Bueno, eh,
+59:26 
+
+59:26 hay una no me acuerdo en Windows cómo
+59:28 
+
+59:28 es. Si trasert, pongan así
+59:38 
+
+59:38 tracert www.clarin.com.ar
+59:45 
+
+59:45 alguien puede compartir la pantalla 2
+59:47 
+
+59:47 minutos.
+59:52 
+
+59:52 ¿Quién va a ser el primero que va a
+59:53 
+
+59:53 tener una buena nota?
+59:57 
+
+59:57 Ahí comparto, profe, si quieres.
+59:59 
+
+59:59 Muy bien, Pablo. Excelente.
+60:03 
+
+60:03 Bien.
+60:09 
+
+60:09 Ya dejo de compartir yo.
+60:16 
+
+60:16 Compartido. Ver.
+60:29 
+
+60:29 Se ve
+60:30 
+
+60:30 bien. Entonces, ¿qué pusiste? Vamos a
+60:33 
+
+60:33 poner control C. Pon para que cancele.
+60:35 
+
+60:35 Ah, control C. Bueno, esos son eso que
+60:38 
+
+60:38 acabamos de hacer. E
+60:41 
+
+60:41 es una una señal comunicación. Eso se
+60:44 
+
+60:44 llama comunicación entre proceso. Que
+60:46 
+
+60:46 eso lo vamos a ver en
+60:48 
+
+60:48 ¿Dónde lo vemos eso?
+60:51 
+
+60:51 en en sistemas operativos avanzados
+60:55 
+
+60:55 que se llama IPC
+60:57 
+
+60:57 eh interprocess communication. Bueno, eh
+61:00 
+
+61:00 ¿qué hicimos ahí? Ahí le pusimos traer
+61:04 
+
+61:04 tr es me hace un un trazado de la ruta
+61:08 
+
+61:08 desde mi máquina hasta el servidor donde
+61:11 
+
+61:11 está alojado Clarin y él me muestra que
+61:13 
+
+61:13 Clarin e es lo que yo le decía recién en
+61:17 
+
+61:17 DNS, es mucho más fácil acordarse
+61:20 
+
+61:20 www.clarin.com.ar
+61:23 
+
+61:23 que 104.21.60.49.
+61:27 
+
+61:27 es mucho más fácil acordarse. Bueno, ahí
+61:29 
+
+61:29 está trabajando el protocolo DNS. De ahí
+61:32 
+
+61:32 cuando hicimos un trasert, nosotros
+61:34 
+
+61:34 salimos ahí van a ver que dice de la 192
+61:38 
+
+61:38 168 11. ¿Quién es la capas que la pone?
+61:42 
+
+61:42 IP config. Saca eso, saca eso de ahí. IP
+61:45 
+
+61:45 config. Vos la la IP la IP de tu máquina
+61:49 
+
+61:49 es 192 168 1.11.
+61:53 
+
+61:53 De ahí de la máquina tuya salta al
+61:55 
+
+61:55 Default Gateway que es el router. Es la
+61:57 
+
+61:57 dirección IP 192 168 1.1. De ahí salta y
+62:02 
+
+62:02 se va para internet para todo. De ahí
+62:04 
+
+62:04 salta se va a una red 10501.
+62:07 
+
+62:07 De ahí salta se va a un host de Telecom.
+62:10 
+
+62:10 Se pierden porque capaz que alguien no
+62:13 
+
+62:13 quiera que que se no quiera publicar su
+62:17 
+
+62:17 no me está dejando. Ah, no, para porque
+62:19 
+
+62:19 lo cancelaste. E
+62:22 
+
+62:22 no, igual esto tiró time out que lo
+62:24 
+
+62:24 cancele.
+62:26 
+
+62:26 Bueno, pero puede ser porque o está
+62:29 
+
+62:29 congestionado o porque no no quiere que
+62:31 
+
+62:31 no te no te da el feedback. A ver, de
+62:34 
+
+62:34 nuevo, dale enter.
+62:56 
+
+62:56 Lentito, eh.
+62:58 
+
+62:58 Sí, no.
+63:06 
+
+63:06 Bueno, va va eligiendo el camino. Hay va
+63:10 
+
+63:10 eligiendo el camino e
+63:14 
+
+63:14 eh
+63:18 
+
+63:18 va, o sea, va va
+63:20 
+
+63:20 atravesando diferentes routers
+63:24 
+
+63:24 antes de llegar al destino
+63:27 
+
+63:27 o al servidor.
+63:29 
+
+63:29 están haciendo siete saltos, nueve
+63:32 
+
+63:32 saltos
+63:36 
+
+63:36 y ahí encontró en el en el en el en el
+63:38 
+
+63:38 en el salto número, o sea, tuvo que ir
+63:40 
+
+63:40 por por nueve routers
+63:44 
+
+63:44 para llegar al des. Eh, gracias, Pablo,
+63:49 
+
+63:49 deja de compartir, por favor.
+63:57 
+
+63:57 Entonces hizo todo ese camino
+64:00 
+
+64:00 para llegar a al destino que nosotros
+64:03 
+
+64:03 queremos. Bueno, de ahí sigue la capa de
+64:06 
+
+64:06 enlace. Cuando tiene que eh cuando el
+64:09 
+
+64:09 paquete tiene que moverse por la red
+64:11 
+
+64:11 local, necesitamos otro tipo de
+64:13 
+
+64:13 información. Ahí aparece lo que se llama
+64:14 
+
+64:14 las direcciones Mac y se construye una
+64:17 
+
+64:17 trama Ethernet o o lo o o de Wi-Fi,
+64:21 
+
+64:21 digamos. Esta capa no está eh, o sea, si
+64:25 
+
+64:25 yo lo miro de abajo para arriba, esta
+64:27 
+
+64:27 capa no está pensando en internet, está
+64:30 
+
+64:30 resolviendo sola, ella se preocupa
+64:31 
+
+64:31 solamente de la función que le toca a
+64:33 
+
+64:33 ella, cómo entregar la información al
+64:37 
+
+64:37 siguiente dispositivo dentro del enlace
+64:39 
+
+64:39 local, dentro de la LAN. ¿Sí? Entonces,
+64:42 
+
+64:42 tenemos el PC, la PC, el switch y el
+64:47 
+
+64:47 shooter. Sí. Y viene la parte física o
+64:50 
+
+64:50 la capa física.
+64:53 
+
+64:53 Y acá todo se convierte en bits y luego
+64:56 
+
+64:56 en una señal física. Dependiendo del
+64:59 
+
+64:59 medio puede ser. Eh, bueno, si tengo un
+65:02 
+
+65:02 tengo mi PC conectada por por por cable
+65:06 
+
+65:06 UTP, va a venir una señal eléctrica. Si
+65:10 
+
+65:10 estoy si estoy conectado por fibra
+65:11 
+
+65:11 óptica, luz. Si estoy conectado por
+65:14 
+
+65:14 Wi-Fi, ondas electromagnéticas.
+65:17 
+
+65:17 Entonces, eh después de toda la la
+65:20 
+
+65:20 preparación lógica, llega el momento en
+65:23 
+
+65:23 que la información viaja por el medio.
+65:26 
+
+65:26 Sí.
+65:28 
+
+65:28 Bueno,
+65:31 
+
+65:31 eh, bueno, esto básicamente es lo mismo,
+65:35 
+
+65:35 un poquito está hablando un un poco un
+65:38 
+
+65:38 poco más de lo
+65:40 
+
+65:40 un poco más del con más más datos,
+65:42 
+
+65:42 digamos, este, que no me quiero no me
+65:45 
+
+65:45 quiero
+65:48 
+
+65:48 no me quiero parar ahí.
+65:51 
+
+65:51 Eh, bueno, y acá
+65:54 
+
+65:54 eh vamos a ver en algunos lados que cómo
+65:58 
+
+65:58 si estamos hablando del modelo del
+66:00 
+
+66:00 modelo OS y ahora me están hablando del
+66:02 
+
+66:02 modelo TCPIP.
+66:05 
+
+66:05 Eh,
+66:08 
+
+66:08 la idea principal de esto o si nos ayuda
+66:12 
+
+66:12 a comprender
+66:13 
+
+66:13 y diagnosticar, digamos,
+66:16 
+
+66:16 TCPIP nos muestra cómo se implementa
+66:20 
+
+66:20 realmente la comunicación en internet.
+66:23 
+
+66:23 Entonces, ojos, eh TCP,
+66:26 
+
+66:26 el modelo TCP, TCP, este
+66:30 
+
+66:30 es como que
+66:33 
+
+66:33 como que agrupa las capas y lo hace más
+66:36 
+
+66:36 corto, digamos. Entonces, si yo quiero
+66:39 
+
+66:39 saber eh y vuelvo a decir esto todo
+66:41 
+
+66:41 conceptual, si yo quiero saber eh dónde
+66:44 
+
+66:44 está el problema, uso o
+66:47 
+
+66:47 eh eh
+66:50 
+
+66:50 y pero para para
+66:53 
+
+66:53 ver cómo se implementa realmente la
+66:54 
+
+66:54 comunicación en internet es el modelo
+66:56 
+
+66:56 TCP que simplifica esa estructura y las
+66:58 
+
+66:58 agrupa en cuatro capas. Entonces, en la
+67:01 
+
+67:01 parte izquierda vemos el modelo OSI,
+67:05 
+
+67:05 este, las capas de aplicación,
+67:07 
+
+67:07 presentación, sesión en TCP se agrupan
+67:10 
+
+67:10 en una sola que se llama aplicación.
+67:12 
+
+67:12 Para TCP esas tres cosas separadas se
+67:16 
+
+67:16 agrupan una sola aplicación.
+67:19 
+
+67:19 Porque en tiene sentido porque en la
+67:22 
+
+67:22 práctica eh muchas de esas funciones
+67:24 
+
+67:24 aparecen combinadas dentro de protocolo
+67:27 
+
+67:27 y aplicaciones reales. Por ejemplo,
+67:29 
+
+67:29 cuando usamos el navegador, genera la la
+67:32 
+
+67:32 solicitud web, maneja los formatos y
+67:36 
+
+67:36 mantiene la interaction con el servidor.
+67:38 
+
+67:38 Eh, todo eso va a quedar dentro de una
+67:40 
+
+67:40 sola capa de aplicación. La capa de
+67:42 
+
+67:42 transporte
+67:44 
+
+67:44 ya ya es igual, digamos, o es
+67:48 
+
+67:48 equivalente entre ambos modelos. ¿Por
+67:50 
+
+67:50 qué? Porque acá aparece el protocolo TCP
+67:53 
+
+67:53 UDP. Entonces, la función es gestionar
+67:56 
+
+67:56 la comunicación extremo a extremo y de
+67:59 
+
+67:59 ahí viene la capa de den un segundo, un
+68:02 
+
+68:02 segundo que me No.
+68:34 
+
+68:34 Este y ahí viene la capa de la capa de
+68:36 
+
+68:36 shed
+68:38 
+
+68:38 que corresponde se corresponde con la
+68:40 
+
+68:40 capa de internet en TSP en la capa de de
+68:44 
+
+68:44 OSIS se corresponde con la capa de de
+68:46 
+
+68:46 internet de TSP. Sí, que bueno, como
+68:49 
+
+68:49 decíamos recién se ocupa del del
+68:52 
+
+68:52 direccionamiento y y el envío de
+68:54 
+
+68:54 paquetes entre redes
+68:56 
+
+68:56 o si separa la capa de enlace y la capa
+69:00 
+
+69:00 física y TCP las agrupa en en una en una
+69:06 
+
+69:06 capa de acceso.
+69:08 
+
+69:08 Bueno, como decíamos recién, es lo
+69:10 
+
+69:10 mismo. Tenemos la tecnología de
+69:13 
+
+69:13 internet, de Wi-Fi, de cable. Sí.
+69:17 
+
+69:17 Eh, bueno, vuelvo a repetir, o sí nos va
+69:20 
+
+69:20 a servir para pensar y diagnosticar
+69:22 
+
+69:22 dónde está el problema y nos ayuda a
+69:25 
+
+69:25 acotar el problema. Y la otra es la
+69:27 
+
+69:27 comunicación real.
+69:30 
+
+69:30 Eh, por ejemplo, em
+69:35 
+
+69:35 si yo tengo una,
+69:40 
+
+69:40 ¿cómo sé yo que una tiene link?
+69:52 
+
+69:52 ¿Cómo
+70:03 
+
+70:03 ustedes?
+70:09 
+
+70:09 Disculpe, profe, creo que se le cortó.
+70:12 
+
+70:12 ¿Me están escuchando ahora? Hola, hola,
+70:13 
+
+70:13 hola. ¿Me escuchan?
+70:14 
+
+70:14 Sí.
+70:15 
+
+70:15 Bien. Una, ¿cómo? ¿Cómo cómo
+70:21 
+
+70:21 determinan ustedes que una PC tenga link
+70:24 
+
+70:24 con el switch al menos?
+70:29 
+
+70:29 Mirando, ¿qué?
+70:31 
+
+70:31 Si la luz está prendida.
+70:32 
+
+70:32 Claro, si la luz está prendida.
+70:34 
+
+70:34 Entonces, una PC tiene link con el
+70:36 
+
+70:36 switch, pero no tengo conectividad IP.
+70:40 
+
+70:40 ¿Dónde buscaría?
+70:46 
+
+70:46 Si la luz, si la PC tiene link, ¿qué
+70:48 
+
+70:48 descarto? Ya, ¿qué capa descarto?
+70:53 
+
+70:53 Mirando lo de abajo para arriba. Si la
+70:56 
+
+70:56 si la PC, yo me doy vuelta así para para
+70:58 
+
+70:58 atrás de la PC, veo la fichita de red y
+71:02 
+
+71:02 veo que la lucecita está prendida y está
+71:04 
+
+71:04 titilando.
+71:05 
+
+71:05 Eh, ¿qué capa descarto?
+71:07 
+
+71:07 Se descarta la primera y se fija en la
+71:09 
+
+71:09 segunda.
+71:10 
+
+71:10 Ya me descarté. descarte la la IP, la
+71:14 
+
+71:14 IP, descarte la
+71:15 
+
+71:15 descarta la
+71:17 
+
+71:17 la física descarte la física
+71:20 
+
+71:20 estoy diciendo, pero no tengo
+71:21 
+
+71:21 conectividad IP. Yo hago, bueno, hay un
+71:24 
+
+71:24 comando que se llama, bueno, si ustedes
+71:26 
+
+71:26 ejecutan ahora voy después lo vamos a
+71:27 
+
+71:27 practicar, pero si ejecutan ya, por
+71:30 
+
+71:30 ejemplo, yo entiendo que, bueno, Pablo
+71:32 
+
+71:32 ahí me muestra su conectividad, él tiene
+71:34 
+
+71:34 la IP en su máquina, la 192 168.1.11,
+71:39 
+
+71:39 11. El Default Gateway, que es el
+71:41 
+
+71:41 shootercito de internet para todos,
+71:42 
+
+71:42 tiene la IP 192 168.1.1.
+71:47 
+
+71:47 Entonces, ¿qué hago yo? Ping p espacio
+71:51 
+
+71:51 desde mi PC p espacio 192.168.1.1
+71:57 
+
+71:57 un y ahí me va a decir respuesta desde
+72:01 
+
+72:01 en caso de que yo no tengo conectividad
+72:03 
+
+72:03 IP,
+72:06 
+
+72:06 eh ya tengo que empezar a revisar la eh
+72:10 
+
+72:10 si si me dice no se ha obtenido
+72:12 
+
+72:12 respuesta por entonces ah tengo problema
+72:16 
+
+72:16 IP. Entonces, la capa física no es
+72:19 
+
+72:19 porque tengo link,
+72:21 
+
+72:21 la capa de enlace no es porque eh eh
+72:24 
+
+72:24 justamente me está accediendo con el o
+72:26 
+
+72:26 se está comunicando con el switch y la
+72:28 
+
+72:28 capa tres eh eh tengo que empezar a
+72:32 
+
+72:32 revisar la parte de la configuración IP,
+72:35 
+
+72:35 DHCP, gateway, capa de red. Sí. Entonces
+72:39 
+
+72:39 eso es el valor de pensar por capas.
+72:44 
+
+72:44 Eh, bueno, y acá los protocolos que
+72:46 
+
+72:46 usamos
+72:47 
+
+72:47 todos los días y no nos damos cuenta
+72:49 
+
+72:49 porque eh como les digo, eh, como le
+72:52 
+
+72:52 dije hace un rato e doña Rosa,
+72:55 
+
+72:55 la la nuestra abuela, nuestra tía, eh
+72:59 
+
+72:59 nuestros padres por ahí dice,
+73:02 
+
+73:02 "No me dan la internet", dicen ellos.
+73:04 
+
+73:04 Ese ese es el diagnóstico que te dan y
+73:07 
+
+73:07 vos tenés que empezar a revisar en
+73:09 
+
+73:09 función del pensamiento por capas.
+73:12 
+
+73:12 Entonces, y ahí cada y y y cuando
+73:15 
+
+73:15 empezamos a revisar eso, nos damos
+73:17 
+
+73:17 cuenta que estamos usando un montón de
+73:19 
+
+73:19 protocolos sin darnos cuenta.
+73:22 
+
+73:22 A ver, un segundo.
+73:30 
+
+73:30 esto de ser de ser este de trabajar en
+73:33 
+
+73:33 en temas no tiene horas, están todo el
+73:38 
+
+73:38 tiempo eh llaman usted
+73:52 
+
+73:52 em
+73:54 
+
+73:54 bien,
+73:57 
+
+73:57 Houston, tenemos un problema
+74:00 
+
+74:00 cuando
+74:03 
+
+74:03 e uy, me desconcente.
+74:05 
+
+74:05 Eh, cada capa decíamos que tiene un un
+74:08 
+
+74:08 problema específico. Bueno, ah, eso de
+74:10 
+
+74:10 que de que resuelve un problema
+74:11 
+
+74:11 específico y de ahí que usamos muchos
+74:15 
+
+74:15 protocolos sin darnos cuenta. Por
+74:16 
+
+74:16 ejemplo, el HTTP, el HTTPS,
+74:20 
+
+74:20 eh estamos en la capa de aplicación, el
+74:23 
+
+74:23 DNS que que también este lo utilizamos
+74:26 
+
+74:26 sin darnos cuenta, es lo que le acabamos
+74:28 
+
+74:28 de decir, un LAR Eduar, el TCP trabaja
+74:31 
+
+74:31 la capa de transporte, se utiliza para
+74:33 
+
+74:33 que para una una comunicación confiable,
+74:36 
+
+74:36 por ejemplo, una transferencia de
+74:38 
+
+74:38 archivo, una página web, un correo y ya
+74:41 
+
+74:41 habíamos dicho que controla aspectos
+74:43 
+
+74:43 como el orden, la entrega, los errores.
+74:44 
+
+74:44 DP también trabaja en la en la en la
+74:47 
+
+74:47 capa de transporte, pero tiene otro
+74:49 
+
+74:49 objetivo. Prioriza la velocidad, pero no
+74:53 
+
+74:53 la no la no te asegura que va a llegar
+74:55 
+
+74:55 todos los paquetes. Por ejemplo, se usa
+74:57 
+
+74:57 en los streaming, en los en los juegos
+74:60 
+
+74:60 en línea, el DNS, o sea, no no no eh si
+75:04 
+
+75:04 se pierde un paquete no reintenta
+75:06 
+
+75:06 enviarlo. Bueno, después tenemos en la
+75:08 
+
+75:08 capa de internet, en la capa en la capa
+75:11 
+
+75:11 de IP, eh es llevar los paquetes entre
+75:15 
+
+75:15 redes diferentes para el encaminamiento,
+75:18 
+
+75:18 como veíamos recién con el compañero
+75:20 
+
+75:20 ejecutó el traser de para ir de un lugar
+75:23 
+
+75:23 a otro tuvo que eh se van comunicando
+75:25 
+
+75:25 los routers eh para llegar y dio en este
+75:29 
+
+75:29 caso dio nueve saltos para ir a a
+75:31 
+
+75:31 Clarín. Sí.
+75:34 
+
+75:34 Entonces, este protocolo, eh qué
+75:36 
+
+75:36 responde,
+75:38 
+
+75:38 eh a qué dirección quiero llegar y por
+75:40 
+
+75:40 qué redes tengo que pasar hace eso. Sí.
+75:43 
+
+75:43 Y finalmente, bueno, la capa de acceso a
+75:45 
+
+75:45 la red aparecen la tecnología de
+75:48 
+
+75:48 Ethernet, de WiFi,
+75:50 
+
+75:50 este, eh, y acá tenemos y acá tenemos
+75:53 
+
+75:53 este
+75:55 
+
+75:55 eh bueno, los 802. Entonces, eh
+76:01 
+
+76:01 tenemos una serie de una serie de de
+76:03 
+
+76:03 protocolos que que lo estamos usando y
+76:06 
+
+76:06 no no nos damos cuenta. E bueno, y acá
+76:10 
+
+76:10 cómo cambia el nombre. Le meto más
+76:13 
+
+76:13 velocidad porque no si no no llegamos.
+76:14 
+
+76:14 ¿Cómo cambia el nombre de los datos a
+76:16 
+
+76:16 medida que vamos bajando e
+76:21 
+
+76:21 a medida que vamos bajando en
+76:25 
+
+76:25 en las capas? Mirando los
+76:28 
+
+76:28 nosotros cuando cuando hablemos de capas
+76:31 
+
+76:31 nos
+76:34 
+
+76:34 enmarcamos nos enmarquemos dentro del
+76:36 
+
+76:36 dentro del modelo OSI. Sí. Para que
+76:40 
+
+76:40 cuando yo le diga específicamente el
+76:41 
+
+76:41 modelo TCP, no nos vamos a concentrar en
+76:44 
+
+76:44 TCP, pero normalmente vamos cuando
+76:46 
+
+76:46 hablemos de capas es OC. Bueno,
+76:50 
+
+76:50 vamos a profundizar algo que ya veníamos
+76:53 
+
+76:53 viendo. Cada capa le agrega información
+76:57 
+
+76:57 propia
+76:59 
+
+76:59 y por ejemplo, a ver, eh
+77:05 
+
+77:05 la unidad de datos,
+77:07 
+
+77:07 o sea, un paquete
+77:11 
+
+77:11 de acuerdo a la capa en que esté va a
+77:14 
+
+77:14 tener un nombre. ¿Sí? Entonces, eh
+77:19 
+
+77:19 normalmente a a la unidad le vamos a
+77:21 
+
+77:21 llamar PDU, ¿sí? ¿Qué es PDU? Unidad
+77:26 
+
+77:26 protocol data data unit. Sí. Entonces,
+77:29 
+
+77:29 ¿cuál es la idea de esto? Cada capa lo
+77:33 
+
+77:33 le le le envuelve. Es como que yo te
+77:38 
+
+77:38 pongo un paquete y a medida que va
+77:41 
+
+77:41 bajando le voy metiendo así como las
+77:43 
+
+77:43 bolsas de mercado Mercadolibre. que le
+77:46 
+
+77:46 van metido una bolsa, otra bolsa, otra
+77:48 
+
+77:48 bolsa y y cada bolsa tiene o cada
+77:52 
+
+77:52 envoltura tiene un un papel con datos.
+77:55 
+
+77:55 Lo miremos así. A medida que baja, el
+77:59 
+
+77:59 que lo va recibiendo le pone una bolsa,
+78:01 
+
+78:01 un un una bolsa negra con un con un con
+78:05 
+
+78:05 un rótul. Así lo lo imaginé.
+78:09 
+
+78:09 Entonces, comenzamos con la capa de
+78:11 
+
+78:11 aplicación.
+78:13 
+
+78:13 Eh, el navegador puede generar una
+78:17 
+
+78:17 solicitud ahí, como dice ahí, un get.
+78:20 
+
+78:20 Eh, estamos hablando de datos de
+78:23 
+
+78:23 aplicación.
+78:26 
+
+78:26 eh
+78:28 
+
+78:28 vamos a ir bajando.
+78:30 
+
+78:30 E y bueno, y ahí tenemos también el tema
+78:34 
+
+78:34 de como habíamos hablado de la
+78:36 
+
+78:36 codificación
+78:38 
+
+78:38 de del
+78:41 
+
+78:41 de si es seguridad de si este es eh es
+78:44 
+
+78:44 un https lega eh cifrado y toda esa
+78:48 
+
+78:48 historia. Entonces,
+78:51 
+
+78:51 en la en la capa de transporte
+78:55 
+
+78:55 eh le agrega la información de control.
+78:59 
+
+78:59 Si usamos TSP, la PDU pasa a llamarte
+79:02 
+
+79:02 segmento.
+79:04 
+
+79:04 Si estoy usando el protocolo TCP, la la
+79:08 
+
+79:08 PDU se llama segmento. En cambio, si yo
+79:11 
+
+79:11 estoy usando el protocolo UDP, se llama
+79:18 
+
+79:18 datagrama. Sí.
+79:22 
+
+79:22 Cada paquete a media que baja de de de
+79:24 
+
+79:24 de de de de capa se le agrega un rótulo.
+79:28 
+
+79:28 Y en ese rótulo, ¿qué tiene? ¿Qué datos
+79:30 
+
+79:30 tiene ese rótulo? Puerto origen, puerto
+79:32 
+
+79:32 destino, información de control, la
+79:34 
+
+79:34 secuencia. Sí. Bueno, en la capa de
+79:38 
+
+79:38 internet
+79:39 
+
+79:39 eh le agrega le agrega otro otra
+79:43 
+
+79:43 cabecera, digamos, otra envoltorio y se
+79:45 
+
+79:45 llama paquete IP. ¿Sí? Entonces, ahí qué
+79:48 
+
+79:48 datos tiene la IP origen y la IP
+79:51 
+
+79:51 destina. Ahora, la red ya sabe entre qué
+79:54 
+
+79:54 host debe viajar la información. En la
+79:57 
+
+79:57 capa de acceso a la red eh se se
+80:00 
+
+80:00 encapsula dentro eh dentro de lo que se
+80:04 
+
+80:04 llama una trama. Entonces, la PDU pasa a
+80:06 
+
+80:06 llamarse trama. Entonces, para que vamos
+80:09 
+
+80:09 viendo cómo cómo viene cambiando.
+80:12 
+
+80:12 Originalmente es un dato, a medida que
+80:15 
+
+80:15 va bajando se llama segmento o
+80:16 
+
+80:16 datagrama. Sigue bajando, se llama
+80:19 
+
+80:19 paquete, sigue bajando, se llama trama y
+80:22 
+
+80:22 sigue bajando, ya son bits.
+80:26 
+
+80:26 Sí.
+80:27 
+
+80:27 Eh, y es como como le venimos diciendo,
+80:29 
+
+80:29 es el es el tema de
+80:32 
+
+80:32 de de es el tema de del packet en en
+80:37 
+
+80:37 Mercadolibre. Eh, bueno, básicamente
+80:39 
+
+80:39 eso, lo que le estaba diciendo y eso se
+80:40 
+
+80:40 llama encapsulación.
+80:43 
+
+80:43 Sí, encapsulación.
+80:45 
+
+80:45 Entonces, si yo mando el dato desde la
+80:48 
+
+80:48 capa 7 para abajo, lo va encapsulando.
+80:52 
+
+80:52 Y cuando recibe del otro lado,
+80:55 
+
+80:55 si yo mando de la capa siete
+80:59 
+
+80:59 y si va de arriba para abajo, del otro
+81:02 
+
+81:02 lado, ¿de dónde lo recibe? ¿En qué capa
+81:04 
+
+81:04 lo recibe?
+81:11 
+
+81:11 ¿Qué creen ustedes?
+81:18 
+
+81:18 El dato se convirtió,
+81:22 
+
+81:22 se codificó, se cifró,
+81:25 
+
+81:25 le fuimos agregando eh información de
+81:28 
+
+81:28 protocolo y bajó hasta que se convirtió
+81:31 
+
+81:31 en bit. Al otro lado, ¿qué se recibe y
+81:36 
+
+81:36 dónde se recibe? ¿Por qué capa se
+81:38 
+
+81:38 recibe?
+81:42 
+
+81:42 ¿Qué creen ustedes?
+81:46 
+
+81:46 Se recibe desde la una y va subiendo.
+81:48 
+
+81:48 Exactamente. Exactamente. Y ahí es lo
+81:52 
+
+81:52 que se llama
+81:56 
+
+81:56 la desencapsulación.
+81:59 
+
+81:59 Sí.
+81:60 
+
+81:60 Bueno, lo mismo. Llega la trama, llega
+82:03 
+
+82:03 una una
+82:05 
+
+82:05 trama o llega el bit y ya empieza el
+82:10 
+
+82:10 acceso a la red. Eh,
+82:13 
+
+82:13 entonces, ¿qué viene? Viene vienen bits
+82:17 
+
+82:17 y después empieza le empiezo a sacar los
+82:20 
+
+82:20 lo las bolsas negras con los con los con
+82:23 
+
+82:23 los rótulos y viene la dirección Mac, la
+82:26 
+
+82:26 Bueno, de ahí viene la íntegre de la de
+82:27 
+
+82:27 la trama. Si es correcto, le saco esa
+82:30 
+
+82:30 envoltura y lo paso para el siguiente.
+82:32 
+
+82:32 ¿Qué es lo que sigue? Un paquete. Ajá. Y
+82:35 
+
+82:35 y y sigue para arriba. Bueno, va para la
+82:39 
+
+82:39 para eh va para la capa de internet.
+82:42 
+
+82:42 Bien. Entonces tiene la IP la IP
+82:45 
+
+82:45 destino, la IP de control y así va
+82:47 
+
+82:47 subiendo. Sí.
+82:49 
+
+82:49 y lo va desencapsulando. Le voy sacando
+82:52 
+
+82:52 todo lo todo lo
+82:55 
+
+82:55 los rótulos que tenía que tenía antes.
+82:58 
+
+82:58 Bueno, esto es un un
+83:02 
+
+83:02 caso práctico que más básicamente es lo
+83:05 
+
+83:05 que es lo mismo de lo que lo que
+83:08 
+
+83:08 lo que venimos hablando. Sí, ahí está
+83:11 
+
+83:11 como para que más o menos lo entiendan.
+83:13 
+
+83:13 Este
+83:15 
+
+83:15 y esto y esto sería
+83:19 
+
+83:19 bueno. Esto esto, ¿dónde está la falla?
+83:21 
+
+83:21 Es lo que venimos hablando. Pensar por
+83:23 
+
+83:23 capas. Si si la aplicación falla, no
+83:28 
+
+83:28 carga la página. ¿Dónde está el error?
+83:29 
+
+83:29 En la capa de aplicación. V transporte y
+83:33 
+
+83:33 así.
+83:35 
+
+83:35 Este,
+83:40 
+
+83:40 bueno, y esto y esto es un
+83:43 
+
+83:43 una especie de trabajo práctico. Ya lo
+83:45 
+
+83:45 voy a pasar después un trabajo práctico.
+83:47 
+
+83:47 La semana que viene es examen o cuándo
+83:50 
+
+83:50 es examen.
+83:51 
+
+83:51 Sí, profe, hay semanas finales.
+83:55 
+
+83:55 Bueno, la semana que viene no vamos a
+83:56 
+
+83:56 tener clase. pasan un trabajo práctico
+83:59 
+
+83:59 para que lo lo vayan armando y y yo se
+84:03 
+
+84:03 lo voy a subir a la plataforma. Sí, esto
+84:06 
+
+84:06 como para más o menos para que
+84:06 
+
+84:06 practiquen, para que tengan idea y
+84:10 
+
+84:10 y ya vamos a
+84:14 
+
+84:14 y ya pasa el trabajo práctico. Bien,
+84:17 
+
+84:17 ahora les voy a tomar asistencias.

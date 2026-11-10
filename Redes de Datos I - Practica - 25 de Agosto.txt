@@ -1,0 +1,6277 @@
+00:25 Bueno, e cuénteme un poco qué vieron.
+00:28 
+
+00:28 ¿Tuvieron la primera clase con el profe
+00:30 
+
+00:30 Cobre? Sí.
+00:35 
+
+00:35 Sí, profe.
+00:42 
+
+00:42 Chicos,
+00:45 
+
+00:45 sí, profe,
+00:48 
+
+00:48 ¿me escuchan o no me escuchan?
+00:53 
+
+00:53 Sí, profe, sí se lo escucha.
+00:55 
+
+00:55 Bueno, les pregunto, ¿tuvieron la clase
+00:57 
+
+00:57 con el profe Cob? Sí, que vieron,
+01:04 
+
+01:04 hicimos un repaso de lo que es redes y
+01:07 
+
+01:07 no te estoy escuchando. Dame un segundo,
+01:08 
+
+01:08 dame un segundo, dame un
+01:19 
+
+01:19 abre alguien que hable para escucharlo,
+01:22 
+
+01:22 por favor. No lo estoy escuchando.
+01:25 
+
+01:25 Hola, profe.
+01:30 
+
+01:30 Hola. Hola.
+01:34 
+
+01:34 Hola, profe, ¿nos escucha?
+01:36 
+
+01:36 No, no, no lo escucho. Dem un segundo.
+01:38 
+
+01:38 Dme un segundo.
+01:49 
+
+01:49 Hola, ¿me escuchan?
+01:52 
+
+01:52 Yo no lo escucho a ustedes. Sí, a usted
+01:54 
+
+01:54 sí se lo escucha, profe. A ver el car
+02:10 
+
+02:10 Ha.
+02:39 
+
+02:39 Ahí me escuchan ustedes.
+02:42 
+
+02:42 Sí, profe, si se escucha.
+02:43 
+
+02:43 Ahí está bien. Ahí lo escucho yo. A
+02:45 
+
+02:45 usted. Bueno, el tengo que sacar el
+02:48 
+
+02:48 Bien. Disculpen, coment
+02:55 
+
+02:55 la topología
+02:57 
+
+02:57 de redes.
+02:59 
+
+02:59 Bien.
+03:01 
+
+03:01 La vez pasada nosotros este
+03:05 
+
+03:05 habíamos hecho una
+03:07 
+
+03:07 una
+03:09 
+
+03:09 una pequeña introducción
+03:13 
+
+03:13 e
+03:16 
+
+03:16 este bueno, donde donde veíamos eh qué
+03:21 
+
+03:21 es una red, eh para qué sirve,
+03:25 
+
+03:25 este
+03:27 
+
+03:27 para que la para qué la construimos
+03:29 
+
+03:29 algunos los componentes básicos, o sea,
+03:32 
+
+03:32 es un un un dispositivo finales,
+03:35 
+
+03:35 una un ya corrido,
+03:39 
+
+03:39 un ya corrido muy muy por arriba.
+03:43 
+
+03:43 E
+03:44 
+
+03:44 y ahora la idea es avanzar en el
+03:50 
+
+03:50 viendo lo
+03:52 
+
+03:52 viendo lo
+03:55 
+
+03:55 los medios físicos y el hard.
+04:16 
+
+04:16 Este,
+04:24 
+
+04:24 bien. E
+04:27 
+
+04:27 cuando
+04:31 
+
+04:31 paso esto ahorita
+04:34 
+
+04:34 eh cuando queremos conectar cuando
+04:36 
+
+04:36 queremos conectar una red,
+04:38 
+
+04:38 eh
+04:41 
+
+04:41 cuando queremos conectar una red, este y
+04:45 
+
+04:45 tengo varios dispositivos, ¿sí? Eh,
+04:49 
+
+04:49 ¿cómo lo los conecto para que me formen
+04:52 
+
+04:52 una una red?
+04:57 
+
+04:57 Eh, chicos, una cosa,
+05:00 
+
+05:00 eh, habemos dicho que comenzamos 2015
+05:04 
+
+05:04 para que todos tengan tiempo de llegar y
+05:09 
+
+05:09 y se sumen a las 2015 o hasta las 2015.
+05:14 
+
+05:14 Eh, no podemos seguir eh eh hasta no sé,
+05:17 
+
+05:17 ya van pasando 10 minutos y y todavía
+05:20 
+
+05:20 seguimos
+05:22 
+
+05:22 seguimos ingresando. O sea, eh la idea
+05:24 
+
+05:24 de esto es respetar a los que están
+05:26 
+
+05:26 desde temprano y y así todos podemos
+05:31 
+
+05:31 no tenemos interrupción. Bien,
+05:36 
+
+05:36 cuando tenemos diferentes
+05:39 
+
+05:39 dispositivos,
+05:41 
+
+05:41 eh yo lo tengo que conectar de alguna
+05:43 
+
+05:43 manera para que me formen con me formen
+05:47 
+
+05:47 una red. Bueno, eh, ejemplo, por
+05:50 
+
+05:50 ejemplo, no sé, en el laboratorio de la
+05:52 
+
+05:52 UNLAR o en una o en una oficina, ahí
+05:56 
+
+05:56 tenemos PC dispositivo, como dice ahí,
+05:59 
+
+05:59 PC, ¿no? Impresora,
+06:02 
+
+06:02 este,
+06:05 
+
+06:05 todos sus equipos se conectan de la
+06:07 
+
+06:07 misma manera.
+06:13 
+
+06:13 No,
+06:14 
+
+06:14 no, eh, no necesariamente.
+06:19 
+
+06:19 Eh, ¿por qué? Porque una PS de
+06:21 
+
+06:21 escritorio, ¿cómo podría estar conectado
+06:28 
+
+06:28 a través de una red inalámbrica o cable?
+06:30 
+
+06:30 También podría ser.
+06:31 
+
+06:31 Claro, si es una si es una una PC de
+06:34 
+
+06:34 escritorio, normalmente puede ser por
+06:37 
+
+06:37 cable. Si es una notebook, por una
+06:40 
+
+06:40 cuestión de de movilidad, puede ser que
+06:43 
+
+06:43 esté conectado en forma inalámbrica. Sí.
+06:47 
+
+06:47 Eh,
+06:49 
+
+06:49 un servidor, ¿qué creen ustedes?
+06:55 
+
+06:55 Un servidor, ¿cómo lo conectaría yo?
+07:01 
+
+07:01 [carraspeo]
+07:02 
+
+07:02 Forma cableada.
+07:04 
+
+07:04 ¿Por qué?
+07:07 
+
+07:07 Porque, o sea, a ver, estamos
+07:09 
+
+07:09 aprendiendo todos, ¿no? No, no es que no
+07:12 
+
+07:12 es que los estoy evaluando, simplemente
+07:14 
+
+07:14 estamos
+07:16 
+
+07:16 eh eh aprendiendo.
+07:20 
+
+07:20 Yo considero que sería conveniente que
+07:22 
+
+07:22 sea cableado el servidor porque sería
+07:28 
+
+07:28 menos este
+07:30 
+
+07:30 menos probable que tenga más fallas en
+07:32 
+
+07:32 la conexión que si es inalámbrico, que
+07:34 
+
+07:34 pueda depender de de otros elementos
+07:35 
+
+07:35 también.
+07:36 
+
+07:36 Claro. Buena respuesta. Entonces, ¿por
+07:38 
+
+07:38 qué? Porque yo necesito estabilidad,
+07:40 
+
+07:40 necesito un buen rendimiento, necesito
+07:43 
+
+07:43 bueno, alta disponibilidad, entonces la
+07:46 
+
+07:46 conexión debería ser cableada. Sí.
+07:49 
+
+07:49 Entonces, a la hora de conectar
+07:51 
+
+07:51 cualquier dispositivo, yo tengo que
+07:53 
+
+07:53 pensar
+07:55 
+
+07:55 dos o tengo que pensar en dos preguntas
+07:58 
+
+07:58 básicas, digamos. Eh, ¿por qué medio lo
+08:00 
+
+08:00 voy a conectar?
+08:02 
+
+08:02 Es lo que estamos hablando y después a
+08:06 
+
+08:06 qué dispositivo de red lo voy a
+08:08 
+
+08:08 conectar.
+08:14 
+
+08:14 E
+08:17 
+
+08:17 bueno, y eso sería más o menos lo que
+08:20 
+
+08:20 vamos a vamos a a ver ahora. Por un
+08:23 
+
+08:23 lado, los medios de de transmisión, que
+08:25 
+
+08:25 son
+08:28 
+
+08:28 las vías por donde van a viajar, van a
+08:30 
+
+08:30 viajar la físicamente los datos. Y
+08:33 
+
+08:33 entonces eh ese medio de transmisión, la
+08:35 
+
+08:35 otra día veíamos que cuando una persona
+08:37 
+
+08:37 estaba hablando, ese medio de
+08:39 
+
+08:39 transmisión es el aire. Eh, cuando
+08:41 
+
+08:41 estamos hablando de cableado
+08:42 
+
+08:42 generalmente es cobre. Sí. Eh, y bueno,
+08:46 
+
+08:46 lo que hoy se usa un un cable de par
+08:48 
+
+08:48 trenzado, puede ser fibra óptica o como
+08:52 
+
+08:52 como hablamos del inalámbrico, el wifi.
+08:55 
+
+08:55 Sí.
+08:56 
+
+08:56 Eh,
+08:58 
+
+08:58 cada uno sirve
+09:00 
+
+09:00 eh eh para escenario diferente. Y bueno,
+09:03 
+
+09:03 y de ahí tenemos el hardware de Red que
+09:06 
+
+09:06 ahí, bueno, ahí estamos viendo eh eh una
+09:09 
+
+09:09 Nick, que es un vendría a ser una
+09:13 
+
+09:13 tarjeta de red, un switch, un shooter,
+09:16 
+
+09:16 un access point, el firew y los
+09:20 
+
+09:20 servidores.
+09:22 
+
+09:22 Entonces cada uno de esos dispositivos
+09:25 
+
+09:25 que está ahí eh aparece
+09:31 
+
+09:31 o está porque porque nos viene a
+09:33 
+
+09:33 resolver un problema en concreto.
+09:36 
+
+09:36 Por ejemplo, yo tengo 20 pes en en un en
+09:40 
+
+09:40 un en un en un laboratorio,
+09:45 
+
+09:45 ¿dónde dónde conectaría todos esos
+09:47 
+
+09:47 cables? Suponiendo que la red fuera
+09:49 
+
+09:49 cableada
+09:51 
+
+09:51 en un switch.
+09:52 
+
+09:52 En un switch. Bien. Y si tengo celulares
+09:55 
+
+09:55 en
+09:57 
+
+09:57 lo que está ahí en los en el hard que se
+09:59 
+
+09:59 muestra ahí en la lista en la imagen
+10:02 
+
+10:02 con un router
+10:03 
+
+10:03 con un con un no con un access point
+10:07 
+
+10:07 porque estamos un celular y una notebook
+10:10 
+
+10:10 no van por cable van por bueno, como en
+10:14 
+
+10:14 la casa, van por por un por por
+10:18 
+
+10:18 inalámbrico. Sí. Entonces sería por
+10:20 
+
+10:20 WiFi. Yo quiero acceder a internet, eh,
+10:24 
+
+10:24 y y si tengo una una red cableada,
+10:30 
+
+10:30 lo voy a conectar a un router. Y si y si
+10:32 
+
+10:32 quiero acceder a internet y tengo y
+10:35 
+
+10:35 tengo un equipo, una tablet,
+10:39 
+
+10:39 más allá de que le pueda meter un un
+10:45 
+
+10:45 USB con una placa con un para meter un
+10:49 
+
+10:49 RJ45,
+10:51 
+
+10:51 eh generalmente es este
+10:54 
+
+10:54 es este [carraspeo]
+10:57 
+
+10:57 es wifi.
+10:60 
+
+10:60 E
+11:02 
+
+11:02 bien
+11:13 
+
+11:13 para la gente que acaba de de llegar,
+11:16 
+
+11:16 les pido por favor que no que respeten
+11:18 
+
+11:18 el horario. Dijimos 155, el horario es
+11:21 
+
+11:21 las 19, lo pusimos a las 15 para que
+11:24 
+
+11:24 todos estén y no puede ser que estén
+11:26 
+
+11:26 llegando tarde. Sí.
+11:29 
+
+11:29 Entonces, 15. Eh, la próxima vez más más
+11:33 
+
+11:33 adelante ese horario yo no lo voy a
+11:34 
+
+11:34 admitir porque estamos interrumpiéndolo
+11:38 
+
+11:38 a los compañeros. Lleguemos temprano.
+11:41 
+
+11:41 Bien. Eh,
+11:46 
+
+11:46 bueno, ahí se habla de la NIC. Bueno, lo
+11:48 
+
+11:48 que decíamos recién, la NIC es una eh es
+11:53 
+
+11:53 una placa de red eh que le va a permitir
+11:56 
+
+11:56 una a un dispositivo, llámese ese
+11:59 
+
+11:59 dispositivo, computadora, escritorio,
+12:01 
+
+12:01 una notebook, un servidor, una
+12:03 
+
+12:03 impresora, todo eso tienen placas de
+12:05 
+
+12:05 red. Van a permitir que se conecten la
+12:07 
+
+12:07 red. ¿Y cómo se conecta la red? A través
+12:10 
+
+12:10 de un cable. Sí. Bueno, y y también como
+12:13 
+
+12:13 dijimos recién, puede ser vía
+12:16 
+
+12:16 inalámbrica.
+12:17 
+
+12:17 Entonces, pero ¿cuál es la la idea de
+12:20 
+
+12:20 esto? Que necesita una interfaz de red.
+12:23 
+
+12:23 Sí. Eh, ustedes hoy ven, por ejemplo, a
+12:27 
+
+12:27 toda la
+12:29 
+
+12:29 o a todos los dispositivos,
+12:31 
+
+12:31 eh, ya viene con placa de red. Es como
+12:34 
+
+12:34 que de, no sé, es como decir el eh un
+12:38 
+
+12:38 televisor con control remoto es normal,
+12:40 
+
+12:40 pero antes no era no traía todos los
+12:43 
+
+12:43 equipos placa de red y había que y había
+12:45 
+
+12:45 que que que incorporarlo. Por eso este
+12:50 
+
+12:50 ahí está ahí se muestra en en el gráfico
+12:54 
+
+12:54 se muestra los diferentes tipos de nick
+12:56 
+
+12:56 que podemos encontrar
+12:58 
+
+12:58 hoy. Como como le decía recién, la
+13:01 
+
+13:01 mayoría ya viene integrada, es algo
+13:03 
+
+13:03 normal, ¿eh? Entonces, nosotros, ¿qué
+13:06 
+
+13:06 vemos? Vemos un puerto RJ45.
+13:09 
+
+13:09 ¿Ustedes conocen la ficha RJ45?
+13:14 
+
+13:14 Sí, es la del Ethernet. La de la es la
+13:17 
+
+13:17 más la más bueno, iba a decir la del
+13:21 
+
+13:21 teléfono, pero ya no se usa el teléfono
+13:23 
+
+13:23 fijo. Antes el RJ11 era el era el era el
+13:27 
+
+13:27 la fichita que se conectaba al teléfono.
+13:29 
+
+13:29 Ya no existe eso ya. Eh, ahora bueno, el
+13:32 
+
+13:32 H4
+13:33 
+
+13:33 eh cada vez menos se se lo utiliza para
+13:37 
+
+13:37 los para las PC, pero bueno, este
+13:41 
+
+13:41 eh eh nosotros lo que vemos atrás de una
+13:44 
+
+13:44 computadora es un puerto RJ45
+13:47 
+
+13:47 hembra, este o un módulo de WiFi en un
+13:51 
+
+13:51 en una en un equipo que que se conecte
+13:53 
+
+13:53 en forma inalámbra.
+13:56 
+
+13:56 Eh, bueno, pero como antes, como le
+13:58 
+
+13:58 decía recién, hay equipo o hay
+14:01 
+
+14:01 situaciones, por ejemplo, se me puede
+14:04 
+
+14:04 haber quemado la placa de red de la
+14:05 
+
+14:05 motherbard,
+14:07 
+
+14:07 la que viene la que viene integrada.
+14:10 
+
+14:10 Y bueno, si si mi motherboard tiene un
+14:13 
+
+14:13 un un puerto PCI, yo le puedo meter un
+14:18 
+
+14:18 una placa, comprar una placa y y
+14:20 
+
+14:20 insertarle ahí para que para que pueda
+14:23 
+
+14:23 para que pueda tener conexión a red. si
+14:25 
+
+14:25 se me quemó el el que viene integrado o
+14:30 
+
+14:30 caso contrario, si mi si mi equipo tiene
+14:33 
+
+14:33 USB, le puedo le puedo poner con con el
+14:36 
+
+14:36 adaptador externo ese que figura ahí.
+14:38 
+
+14:38 Sí. Entonces, este, esas son la la
+14:44 
+
+14:44 manera de de de conectar este un equipo
+14:47 
+
+14:47 de red eh por la interfaz y bueno, ahí
+14:50 
+
+14:50 en esa en las tarjetas de red teníamos
+14:53 
+
+14:53 tarjetas de red de diferentes
+14:54 
+
+14:54 velocidades eh de 1 gig o vienen vienen
+14:58 
+
+14:58 en realidad una eh si yo quiero conectar
+15:01 
+
+15:01 este
+15:03 
+
+15:03 eh eh una una PC solamente y bueno, capa
+15:08 
+
+15:08 que le ponga teng un y si una pieza de
+15:10 
+
+15:10 escritorio y si y si le tengo que poner
+15:12 
+
+15:12 una placa externa y capaz de que de 1
+15:15 
+
+15:15 giga me sirva, pero vienen de uno, de
+15:18 
+
+15:18 cu, de 8, de 16. Sí. Entonces este
+15:23 
+
+15:23 vienen de diferente de acuerdo a la
+15:25 
+
+15:25 utilidad que le voy a dar. Por ejemplo,
+15:26 
+
+15:26 si le pongo un servidor o si necesito
+15:29 
+
+15:29 instalar un servidor, no le voy a poner
+15:31 
+
+15:31 una placa de 1 gig, debería poner una de
+15:32 
+
+15:32 10. ¿Por qué? porque el servidor me
+15:35 
+
+15:35 concentra
+15:37 
+
+15:37 eh todos los datos. Supongamos, yo estoy
+15:39 
+
+15:39 en un laboratorio de de la UNLAB y tengo
+15:42 
+
+15:42 20 máquinas y si conectan a un servidor,
+15:45 
+
+15:45 ese servidor me va a concentrar todos
+15:47 
+
+15:47 datos. Entonces, por por lógica, no más
+15:50 
+
+15:50 ya tiene que tener un una placa que que
+15:53 
+
+15:53 que admita eh velocidades
+15:57 
+
+15:57 mayores, digamos.
+15:59 
+
+15:59 Bueno, es e bueno, eh,
+16:04 
+
+16:04 y bueno, hay la placa en la placa
+16:08 
+
+16:08 en en el en la en el en el cuarto RJ45
+16:11 
+
+16:11 que figura ahí. Nosotros normalmente
+16:14 
+
+16:14 cuando damos vuelta a la computadora o
+16:16 
+
+16:16 le miramos el el puerto de el puerto de
+16:19 
+
+16:19 de red,
+16:22 
+
+16:22 eh
+16:23 
+
+16:23 ahí aparecen dos lucecitas, digamos.
+16:26 
+
+16:26 Eh, una, como dice ahí, una la la
+16:30 
+
+16:30 LED link que me que me dice que hay
+16:34 
+
+16:34 cuando empieza a titular que hay hay
+16:36 
+
+16:36 enlace hay cuando me muestra luz, hay
+16:39 
+
+16:39 enlace físico y la actividad cuando
+16:41 
+
+16:41 empieza a a traficar datos eh empieza a
+16:45 
+
+16:45 parpadear. Sí, eso me dice, por lo menos
+16:48 
+
+16:48 está andando, está recibiendo datos. Eso
+16:51 
+
+16:51 es un es muy útil eso cuando cuando
+16:55 
+
+16:55 somos administrador de red y yo conecto
+16:58 
+
+16:58 el yo conecto el el
+17:03 
+
+17:03 eh conecto el cable y y no enciende
+17:06 
+
+17:06 ninguna LED. Bueno, antes de buscar si
+17:09 
+
+17:09 tengo problema de IP
+17:12 
+
+17:12 o algo de eso, yo simplemente por una
+17:14 
+
+17:14 por un una por observación eh veo que no
+17:19 
+
+17:19 veo que no no titila o no parpadea.
+17:23 
+
+17:23 Bueno, ahí está pasando algo. Sí. Y
+17:25 
+
+17:25 bueno, de ahí pasamos a la dirección
+17:28 
+
+17:28 Mac, que eso lo vamos a ver más
+17:29 
+
+17:29 adelante. Sí, solamente lo vamos a
+17:32 
+
+17:32 mencionar
+17:34 
+
+17:34 eh eh que es parte de todo esto. E a
+17:40 
+
+17:40 ver, si nosotros ejecutamos en Windows,
+17:44 
+
+17:44 acá vemos una pantallita que el otro día
+17:45 
+
+17:45 lo ejecutamos. Yo le decía que
+17:47 
+
+17:47 configuren o o que ejecuten el comando
+17:49 
+
+17:49 pink y no me acuerdo si le dije el IP
+17:51 
+
+17:51 config.
+17:53 
+
+17:53 De todas maneras, si lo si lo si tienen
+17:55 
+
+17:55 la computadora, abran un una
+17:60 
+
+17:60 inicio ejecutar cmd y ponen el comando
+18:03 
+
+18:03 cmd y le va a y de ahí ponen el comando
+18:06 
+
+18:06 IP configo bar all.
+18:10 
+
+18:10 Eh, y ahí nos va a mostrar la interface
+18:12 
+
+18:12 que tenemos disponible. Si nosotros
+18:14 
+
+18:14 tenemos una una
+18:18 
+
+18:18 un una una, ¿cómo se llama?, una una
+18:21 
+
+18:21 placa de red eh integrada, nos va a
+18:24 
+
+18:24 figurar la placa de red integrada y nos
+18:27 
+
+18:27 va a figurar después si tenemos
+18:28 
+
+18:28 inalámbrico eh este también la interfaz.
+18:32 
+
+18:32 Entonces, ¿eso qué quiere decir? Que una
+18:34 
+
+18:34 computadora puede tener más de una nick.
+18:36 
+
+18:36 Sí. Eh, bueno, como le decía recién, la
+18:40 
+
+18:40 Ethernet integrada, el Wi-Fi integrado,
+18:44 
+
+18:44 si yo le adapté un USB externo o si le
+18:46 
+
+18:46 puse una placa PCI, ¿sí? Y cada placa,
+18:51 
+
+18:51 cada placa es independiente, puede tener
+18:54 
+
+18:54 su propia configuración. Por ejemplo, yo
+18:56 
+
+18:56 para para mi placa de de
+19:00 
+
+19:00 inalámbrica puedo tener una dirección IP
+19:03 
+
+19:03 y para la otra placa de que está
+19:05 
+
+19:05 cableada puedo tener otra otra pregunta
+19:09 
+
+19:09 eh otra
+19:12 
+
+19:12 otra otra configuración. Otra
+19:13 
+
+19:13 configuración este eh IP. Sí. Bien.
+19:19 
+
+19:19 Eh,
+19:23 
+
+19:23 ¿qué cable usaríamos? Eso es lo que
+19:25 
+
+19:25 habíamos hablado la vez pasada.
+19:28 
+
+19:28 Eh eh de acuerdo al al
+19:32 
+
+19:32 a la situación vamos a usar eh un cable
+19:36 
+
+19:36 u otro cable, pero habíamos hablado la
+19:38 
+
+19:38 vez pasada eh del trenzado. Sí.
+19:43 
+
+19:43 Eh, y hablamos de pares o el par
+19:46 
+
+19:46 trenzado. Entonces, cuando cuando
+19:48 
+
+19:48 hablamos de un par trenzado, estamos
+19:50 
+
+19:50 hablando por un cable que tiene cuatro
+19:53 
+
+19:53 pares de hilo o de o de o de cablecitos
+19:57 
+
+19:57 de cobre que tienen una que tienen
+19:59 
+
+19:59 diferentes colores. ¿Sí? Entonces son
+20:02 
+
+20:02 ocho conductores
+20:04 
+
+20:04 y como les decía la vez pasada el
+20:06 
+
+20:06 trenzado no es por un por cuestión de de
+20:10 
+
+20:10 capricho, de estética o lo que se o que
+20:13 
+
+20:13 se le llama o como se le quiera llamar,
+20:15 
+
+20:15 eh se trenzan para que habíamos dicho
+20:20 
+
+20:20 por el tipo de conexión que queremos
+20:22 
+
+20:22 tener de transmisión de datos. Eh,
+20:26 
+
+20:26 recuerden que habíamos dicho se trenza
+20:28 
+
+20:28 cuando dos dos cables están paralelos.
+20:32 
+
+20:32 Sí, se forma una antena perfecta
+20:36 
+
+20:36 cuando, o sea, es como que tengo eh eh
+20:41 
+
+20:41 una la una polaridad, digamos, y yo lo
+20:44 
+
+20:44 voy trenzando y se va anulando esa
+20:46 
+
+20:46 polaridad. Sí. eh se va se va anulando y
+20:50 
+
+20:50 ahí eh reduzco las interferencias
+20:54 
+
+20:54 electromagnéticas. ¿Sí?
+20:57 
+
+20:57 Entonces, eh e
+21:00 
+
+21:00 cuando yo lo tengo paralelo, le entra
+21:03 
+
+21:03 ruido. Hay como figura el dibujito o o o
+21:07 
+
+21:07 sin trenzar, le entra ruido y cuando y
+21:09 
+
+21:09 cuando y cuando no está y cuando está
+21:13 
+
+21:13 bien bien trenzado, digamos, le es más
+21:18 
+
+21:18 difícil que le entre ruido. No quiere
+21:19 
+
+21:19 decir que se que no le entre, pero es es
+21:21 
+
+21:21 más difícil. Este,
+21:24 
+
+21:24 ¿por qué? Porque los datos, ¿qué son?
+21:26 
+
+21:26 Cuando cuando tenemos Ethernet,
+21:29 
+
+21:29 en forma de que viajan los datos
+21:32 
+
+21:32 de pulsos eléctricos,
+21:33 
+
+21:33 de señales eléctrica y en la fibra
+21:38 
+
+21:38 eh como luz.
+21:40 
+
+21:40 Claro.
+21:41 
+
+21:41 Fotol.
+21:42 
+
+21:42 Exactamente. Entonces,
+21:44 
+
+21:44 entonces cuando cuando los datos viajan
+21:48 
+
+21:48 como señales eléctricas y yo le meto un
+21:50 
+
+21:50 pulso eléctrico, se llama ruido. Y
+21:53 
+
+21:53 entonces se puede degradar la
+21:55 
+
+21:55 comunicación. Y de ahí entran a jugar eh
+21:58 
+
+21:58 los tipos de cable.
+22:01 
+
+22:01 El cable UTP, que es un par que no está
+22:05 
+
+22:05 no está no está eh mallado, digamos. V
+22:08 
+
+22:08 que ven que el de la izquierda no tiene
+22:10 
+
+22:10 malla. Después del gris no tiene
+22:13 
+
+22:13 malla y el otro sí tiene malla. Bien,
+22:16 
+
+22:16 esa es la diferencia en el entre el UTP
+22:18 
+
+22:18 y el y el STP.
+22:21 
+
+22:21 Este, ¿qué pasa? Eh, por eso por eso eh
+22:25 
+
+22:25 el UTP es más barato, eh se se dobla se
+22:29 
+
+22:29 dobla es más flexible, es más fácil de
+22:33 
+
+22:33 instalar. Sí. Entonces, si yo tengo que
+22:36 
+
+22:36 pasar eh por ejemplo en el laboratorio
+22:38 
+
+22:38 de la UNLAB, tengo que pasar este eh vo
+22:43 
+
+22:43 a hacer una instalación
+22:45 
+
+22:45 eh con el UTP me alcanza. Pero, ¿qué
+22:48 
+
+22:48 pasa si yo cable justo lo estoy pasando
+22:51 
+
+22:51 por el lado de un motor de aire
+22:53 
+
+22:53 acondicionado? Ahí tengo que tener
+22:55 
+
+22:55 cuidado. A mí una vez me tocó me tocó
+23:00 
+
+23:00 eh estuve bueno hace muchos años en
+23:05 
+
+23:05 Buenos Aires. Me tocó ir a a cablear un
+23:07 
+
+23:07 un edificio
+23:10 
+
+23:10 y resulta que eh bueno, estamos metiendo
+23:14 
+
+23:14 un TP por todos lados y lo y lo
+23:16 
+
+23:16 pasábamos por afuera del edificio.
+23:18 
+
+23:18 hacíamos un hoje en la pared, salía por
+23:20 
+
+23:20 afuera y y resulta que estábamos a a la
+23:24 
+
+23:24 noche y
+23:27 
+
+23:27 probamos todo, pero todo, todo. Anda de
+23:29 
+
+23:29 10. Bueno, listo, volvemos mañana para
+23:33 
+
+23:33 para hacer anda los servidor y temprano
+23:36 
+
+23:36 empezó a andar. Volvimos a las 8 de la
+23:38 
+
+23:38 mañana, 8, 9 de la mañana y como las
+23:40 
+
+23:40 oficinas en Buenos Aires arrancan a las
+23:42 
+
+23:42 10 más o men, eh, está todo perfecto.
+23:45 
+
+23:45 Sí. Bueno, pum, se cae la comunicación.
+23:48 
+
+23:48 Se cae, se cae, se cae y empezab a
+23:51 
+
+23:51 revisar placa, empez a revisar cable,
+23:54 
+
+23:54 empezas a revisar configuración y no le
+23:57 
+
+23:57 encontr nada. Entonces, eh, y al ratito
+24:01 
+
+24:01 andaba, ah, bueno, no sé qué habrá sido.
+24:04 
+
+24:04 ¿Qué pasaba? Había un aire
+24:05 
+
+24:05 acondicionado, eh, arrancaba el motor,
+24:09 
+
+24:09 se caía toda la comunicación,
+24:12 
+
+24:12 se paraba el motor del aire, volvía la
+24:14 
+
+24:14 comunicación y eso te desorientaba,
+24:17 
+
+24:17 pero totalmente, no sabías por dónde
+24:20 
+
+24:20 dónde estaba la fallo. Y han pasado
+24:22 
+
+24:22 varios días hasta que nos dimos cuenta
+24:23 
+
+24:23 que que ha habido un motor ahí. Por eso
+24:26 
+
+24:26 eh eso te lo da la experiencia y te
+24:28 
+
+24:28 tienes que chocar 200 veces con con la
+24:31 
+
+24:31 misma piedra para darte cuenta de eso.
+24:33 
+
+24:33 Eh, bueno, y acá yo se lo estoy
+24:35 
+
+24:35 diciendo, una experiencia. Por eso
+24:38 
+
+24:38 cuando uno tiene tiene o hace una
+24:40 
+
+24:40 instalación,
+24:42 
+
+24:42 eh tiene que tener en cuenta eso, ese
+24:45 
+
+24:45 blindaje que tiene eh e cuando estamos
+24:48 
+
+24:48 en un ambiente de de ruido eléctrico,
+24:50 
+
+24:50 como le decía, el motor de un aire
+24:52 
+
+24:52 acondicionado, un tablero, un tablero
+24:54 
+
+24:54 eléctrico que tira que tira que tira
+24:57 
+
+24:57 este
+24:59 
+
+24:59 eh eh
+25:01 
+
+25:01 bueno, tiene mucha
+25:03 
+
+25:03 muchos cables, terminaciones, varios de
+25:06 
+
+25:06 frecuencia, máquina industrial, cable.
+25:08 
+
+25:08 Sí. Entonces, eh hay que poner ese tipo
+25:11 
+
+25:11 de de cable,
+25:14 
+
+25:14 eh pero también no solamente no
+25:18 
+
+25:18 solamente el
+25:21 
+
+25:21 eh el cable solo. Bueno, es después nos
+25:24 
+
+25:24 ha pasado, por ejemplo, en en Aimogasta
+25:28 
+
+25:28 teníamos teníamos
+25:31 
+
+25:31 e
+25:33 
+
+25:33 también una instalación, este
+25:36 
+
+25:36 está todo bien hecho, pero resulta, ¿qué
+25:39 
+
+25:39 pasa? Vos ahí estás este hace entre
+25:43 
+
+25:43 comillas absorbiendo el ruido,
+25:46 
+
+25:46 pero si no lo descargas
+25:49 
+
+25:49 eh
+25:51 
+
+25:51 no
+25:53 
+
+25:53 eh no no
+25:56 
+
+25:56 se va a ningular y también tener el
+25:57 
+
+25:57 mismo problema. Entonces, más allá de
+25:60 
+
+25:60 aprovechar el o de utilizar el blindage,
+26:03 
+
+26:03 sí, la instalación debe estar bien
+26:05 
+
+26:05 hecha. Por ejemplo, si muchos arm cuando
+26:09 
+
+26:09 hay una somos somos muy muchos ahora,
+26:12 
+
+26:12 pero antes hacíamos una clase de de
+26:14 
+
+26:14 armado de cab este y qué pasaba eh si
+26:24 
+
+26:24 hay si lo armas al al RJ45 y y le
+26:28 
+
+26:28 desarmas el trenzado y le pones el el
+26:30 
+
+26:30 RJ45 y te queda un espacio entre el
+26:32 
+
+26:32 forito gris ese y la ficha y Por ahí
+26:36 
+
+26:36 entra ruido porque le rompí el trenzado,
+26:39 
+
+26:39 le decís el trenzado y ese medio
+26:41 
+
+26:41 centímetro que que les rompí el trenzado
+26:45 
+
+26:45 eh le le entra le le entra
+26:49 
+
+26:49 interferencia, ¿sí? O ruido, eh, y
+26:53 
+
+26:53 bueno, y si no tengo la una buena puesta
+26:55 
+
+26:55 tierra,
+26:57 
+
+26:57 no hago la descarga y también puedo
+26:60 
+
+26:60 tener problema. Entonces, eh, no es así,
+27:02 
+
+27:02 no va a decir, "Ah, bueno, acá hay un
+27:03 
+
+27:03 motor, le pongo le pongo le pongo este
+27:07 
+
+27:07 un cable mallado, sino que tengo que
+27:09 
+
+27:09 tener en cuenta esas cosas." Sí.
+27:11 
+
+27:11 Entonces, es más caro. Sí, es más caro.
+27:14 
+
+27:14 Eh, pero bueno, es necesario para evitar
+27:18 
+
+27:18 evitar renegar porque as seguro que se
+27:20 
+
+27:20 reniega un montón.
+27:22 
+
+27:22 Bueno, de ahí tenemos la las categorías
+27:25 
+
+27:25 de los cables. El profe el profe el
+27:27 
+
+27:27 profe Martín suele ir con con un tablero
+27:31 
+
+27:31 así con lleno de de
+27:34 
+
+27:34 pedacito de cable y les muestra eso. No
+27:36 
+
+27:36 sé si lo si lo si lo va a hacer este
+27:39 
+
+27:39 año. Bueno, la el tipo de categoría
+27:43 
+
+27:43 e son son
+27:46 
+
+27:46 de acuerdo al nivel de prestación que
+27:49 
+
+27:49 debe cumplir el cableado.
+27:52 
+
+27:52 Eh, o sea, acá no se define solamente
+27:55 
+
+27:55 por el grosor del cable. Eh,
+27:59 
+
+27:59 estamos midiendo ancho de banda, estamos
+28:02 
+
+28:02 tenemos que ver el tema de la de la
+28:04 
+
+28:04 pérdida de la señal, de la de la
+28:06 
+
+28:06 relación señal ruido, la calidad del
+28:08 
+
+28:08 trenzado, la característica del del
+28:10 
+
+28:10 material, porque mu muchas veces uno
+28:12 
+
+28:12 compra un cable barato y y y no anda, no
+28:16 
+
+28:16 tiene la misma cálida, la cálida del
+28:18 
+
+28:18 trenzado. Sí. Entonces, ¿y cómo está
+28:21 
+
+28:21 hecho el cable? Porque muchas veces
+28:23 
+
+28:23 dice, "Lo voy a armar yo al cable." Y
+28:25 
+
+28:25 como les decía yo recién, uno lo arma,
+28:28 
+
+28:28 eh, cree que está bien y le y le y le y
+28:33 
+
+28:33 le deja medio centímetro o o dos o 2 mm
+28:37 
+
+28:37 de
+28:39 
+
+28:39 le desas el trenzado ahí en la base de
+28:42 
+
+28:42 la ficha y no anda o o o tiene o pierde
+28:48 
+
+28:48 mucha calidad del cable. Entonces, eh no
+28:52 
+
+28:52 es que un cable, por ejemplo, un un
+28:55 
+
+28:55 un categoría 6 es un es un categoría 5e
+28:60 
+
+28:60 con otro color, no hay diferencia.
+29:03 
+
+29:03 Entonces, por ahí como como vemos un un
+29:07 
+
+29:07 categorías
+29:09 
+
+29:09 este trabaja hasta 100 MHz. Sí. ¿Qué es
+29:13 
+
+29:13 eso? ¿Qué es un herzcio? ¿Saben lo que
+29:15 
+
+29:15 es un hercio?
+29:20 
+
+29:20 La unidad de medida de frecuencia.
+29:22 
+
+29:22 Sí. Y y megaherz
+29:29 
+
+29:29 millones.
+29:30 
+
+29:30 Mega era el prefijo para millones, ¿o
+29:32 
+
+29:32 no?
+29:32 
+
+29:32 Claro. Entonces es entonces eso sería
+29:37 
+
+29:37 este e la la la cantidad de veces que
+29:41 
+
+29:41 que va que va que cambie de frecuencia.
+29:44 
+
+29:44 Sí.
+29:45 
+
+29:45 Bueno, e
+29:50 
+
+29:50 estamos diciendo que eh trabaja trabaja
+29:53 
+
+29:53 hasta 100 MHz.
+29:56 
+
+29:56 Este
+29:59 
+
+29:59 eh fue muchos años, fue usado en
+30:02 
+
+30:02 oficinas y todavía sigue sigue
+30:04 
+
+30:04 utilizando. Sí. Este, bueno, después
+30:06 
+
+30:06 tenemos el categoría 6, que se es hasta
+30:11 
+
+30:11 trabaja típicamente hasta
+30:14 
+
+30:14 250 MHz, ¿sí? Tiene mejores
+30:17 
+
+30:17 características a la a la interferencia.
+30:21 
+
+30:21 Entonces, eh
+30:24 
+
+30:24 eh
+30:25 
+
+30:25 me me
+30:27 
+
+30:27 da 1 GB hasta 100 m y 10 GB en
+30:32 
+
+30:32 distancias cortas. Sí, por eso eh cuando
+30:35 
+
+30:35 cuando uno e por eso yo no puedo llevar,
+30:39 
+
+30:39 por ejemplo, a ver, yo tengo mi tengo
+30:41 
+
+30:41 que hacer una una instalación y lo llevo
+30:44 
+
+30:44 y tengo, no sé, el quincho o la casa de
+30:47 
+
+30:47 campo o o estoy conectando el módulo A
+30:51 
+
+30:51 con el módulo B y tengo 100 m.
+30:55 
+
+30:55 Y si yo pongo un cable,
+30:57 
+
+30:57 un cable no adecuado,
+31:00 
+
+31:00 eh hay un concepto que se llama
+31:03 
+
+31:03 atenuación.
+31:04 
+
+31:04 ¿Sí? Entonces, si yo largo, es lo mismo
+31:07 
+
+31:07 que pasa con el wifi, eh yo puedo tener
+31:10 
+
+31:10 una señal muy fuerte acá, pero me a
+31:13 
+
+31:13 medida que me voy alejando, la señal va
+31:16 
+
+31:16 mermando, va o se va poniendo más débil.
+31:19 
+
+31:19 Lo mismo pasa con el cable. Cuanto más
+31:21 
+
+31:21 lejos está, se va produciendo lo que se
+31:24 
+
+31:24 llama la ATVA.
+31:26 
+
+31:26 Entonces, este cable categoría S eh me
+31:30 
+
+31:30 asegura 1 GB hasta 100 m y 10 GB eh
+31:34 
+
+31:34 hasta los 50 m más o menos. Eh,
+31:37 
+
+31:37 dependiendo de la de la de la
+31:39 
+
+31:39 instalación. Este, entonces si yo tengo
+31:42 
+
+31:42 que que cable una oficina,
+31:48 
+
+31:48 un categoría 6, me alcanza me me alcanza
+31:51 
+
+31:51 y me sobra. Eh, y de ahí ya vienen otros
+31:54 
+
+31:54 tipos de cable, como hay figura ahí, el
+31:56 
+
+31:56 6A,
+31:58 
+
+31:58 eh, el 6A es es ya es cuando cuando se
+32:03 
+
+32:03 necesita eh un un tráfico, voy a
+32:08 
+
+32:08 traficar mucha información. Sí.
+32:11 
+
+32:11 Entonces, está diseñado para soportar 10
+32:14 
+
+32:14 GB hasta 100 m.
+32:17 
+
+32:17 Eh, eso quiere decir que eh tengo eh
+32:21 
+
+32:21 para el tema de la eh de los ruidos, sí,
+32:26 
+
+32:26 voy a tener voy a tener más este
+32:29 
+
+32:29 o o de la atenuación, voy a tener más
+32:31 
+
+32:31 este
+32:33 
+
+32:33 eh más tolerancia, pero ¿qué pasa? El
+32:35 
+
+32:35 cable es más grueso, más rígido, más
+32:38 
+
+32:38 caro y y y me y no es la y no son cables
+32:44 
+
+32:44 muy manejables, por decirlo de alguna
+32:46 
+
+32:46 manera, sino que son más más difíciles
+32:49 
+
+32:49 de de
+32:52 
+
+32:52 de de instalar, digamos. ¿Sí? Entonces,
+32:55 
+
+32:55 ¿cuándo lo uso eso? Cuando tengo, cuando
+32:57 
+
+32:57 yo estoy [carraspeo] haciendo una
+32:58 
+
+32:58 previsión de que no sé, a ver, voy a
+33:01 
+
+33:01 tener un escalamiento, voy a tener un un
+33:03 
+
+33:03 crecimiento, voy a tener un crecimiento
+33:06 
+
+33:06 de de mi instalación, voy a ir
+33:08 
+
+33:08 incorporando más máquina o más servicios
+33:10 
+
+33:10 y bueno, entonces ya le meto un cable de
+33:13 
+
+33:13 10 GB o ya directamente debería saltar a
+33:18 
+
+33:18 otra tecnología.
+33:20 
+
+33:20 Entonces,
+33:22 
+
+33:22 eh,
+33:26 
+
+33:26 la bueno, la la para que quede claro ahí
+33:29 
+
+33:29 el tema también, las megaher no son la
+33:31 
+
+33:31 velocidad del cable, ¿no? Este, los meg
+33:35 
+
+33:35 representan el rango de frecuencia
+33:38 
+
+33:38 eh por el cual está especificado el
+33:41 
+
+33:41 cable. La velocidad de Ethernet es lo
+33:44 
+
+33:44 que llamamos 1 Gabit, 10 Gabit, ¿sí?
+33:48 
+
+33:48 Este, y bueno, y ahí hablamos, se habla
+33:51 
+
+33:51 de de distancia de de de 100 m. Sí. Eh,
+33:58 
+
+33:58 eso es un máximo que se toma para en el
+34:02 
+
+34:02 cable estructurado. Es el máximo
+34:04 
+
+34:04 habitual que se toma de de una métrica
+34:08 
+
+34:08 de 100 met. Decimos. Entonces,
+34:10 
+
+34:10 entonces si yo voy a hacer una tirada y
+34:15 
+
+34:15 estamos hablando de 100 m, entonces yo
+34:18 
+
+34:18 lo que puedo decir es lo hago de de 90 m
+34:23 
+
+34:23 a la tirada y de ahí le tengo que
+34:25 
+
+34:25 empezar a sumar los patch
+34:28 
+
+34:28 que ya lo bueno, hay hay figuras lo que
+34:30 
+
+34:30 es un patch. Todos saben lo que es un
+34:31 
+
+34:31 patch
+34:34 
+
+34:34 o todos han visto un patch.
+34:38 
+
+34:38 Sí, es un OTP que ya viene armado.
+34:41 
+
+34:41 Claro. Y eso viene y eso viene de
+34:43 
+
+34:43 diferentes de diferentes met de medio
+34:46 
+
+34:46 metro, de 1 met, de 3 m, 5 m. Bueno,
+34:50 
+
+34:50 normalmente se entiende que un cable
+34:53 
+
+34:53 puede ser de 1 metro, un cable normal,
+34:56 
+
+34:56 un patch normal puede ser de 1 met o
+34:58 
+
+34:58 puede ser de menos también. Entonces yo
+35:01 
+
+35:01 a la tirada le tengo que hacer de 90 m
+35:05 
+
+35:05 más lo bueno o supongamos que yo puse un
+35:09 
+
+35:09 cable de medio metro porque estoy
+35:10 
+
+35:10 sacando de la pachera y quería mover de
+35:12 
+
+35:12 la pachera al switch.
+35:15 
+
+35:15 Eh, bueno, ahí le tengo que empezar a
+35:17 
+
+35:17 sumar esos 10 m restantes. Esos 10 m
+35:21 
+
+35:21 restantes. Eh,
+35:24 
+
+35:24 e esos 10 m restantes, este,
+35:30 
+
+35:30 eh, lo voy sumando con lo que me
+35:33 
+
+35:33 ocuparía.
+35:37 
+
+35:37 E,
+35:40 
+
+35:40 profe,
+35:40 
+
+35:40 diga.
+35:41 
+
+35:41 Eh, tengo una pregunta. Eh, usted dice
+35:44 
+
+35:44 que por ejemplo haríamos de 90 m y
+35:47 
+
+35:47 sacaríamos patchore de la pachera. Esos
+35:49 
+
+35:49 10 m los tenemos que tener en cuenta los
+35:51 
+
+35:51 patch aunque lo saquemos de una pachera,
+35:53 
+
+35:53 digamos.
+35:54 
+
+35:54 Claro, porque vos,
+35:56 
+
+35:56 o sea, hace a la a la atenuación del
+35:58 
+
+35:58 cable, ¿no?
+35:59 
+
+35:59 Exact. Exactamente, exactamente,
+36:02 
+
+36:02 porque si yo le pongo 100 met justo y
+36:04 
+
+36:04 después le empiezo le empiezo a meter
+36:06 
+
+36:06 eh, supongamos de, no sé, de del de un
+36:10 
+
+36:10 de un switch A a un switch B y le meto
+36:14 
+
+36:14 eh 100 eh eh
+36:17 
+
+36:17 100 m o más de 100 m y de ahí empiezo a
+36:22 
+
+36:22 a a conectar también con patch, eso me
+36:24 
+
+36:24 va me va a dar una distancia, no sé, de
+36:26 
+
+36:26 110 m ponel y y y voy a tener una
+36:30 
+
+36:30 atenuación.
+36:32 
+
+36:32 Por eso se dice, usemos 90 y el resto lo
+36:36 
+
+36:36 vamos lo vamos compensando con lo,
+36:39 
+
+36:39 o sea, el resto se va ocupando con los
+36:43 
+
+36:43 ¿cómo se llama? Con los pasos. Sí. Bien.
+36:47 
+
+36:47 E bueno, mejores prácticas. ¿Qué qué qué
+36:51 
+
+36:51 reglas de mejores? Siempre hay mejores
+36:53 
+
+36:53 prácticas.
+36:55 
+
+36:55 Si yo tengo una elatorio de la un o
+37:00 
+
+37:00 supongamos el departamento de ciencia
+37:03 
+
+37:03 Exacto. Y tengo una distancia menor a
+37:06 
+
+37:06 100 m, ¿qué utilizaría?
+37:12 
+
+37:12 ¿Qué cable utilizaría?
+37:15 
+
+37:15 UTP.
+37:16 
+
+37:16 UTP. Eh, pero resulta que estoy pasando
+37:19 
+
+37:19 y tengo el tablero eléctrico,
+37:25 
+
+37:25 un STP.
+37:26 
+
+37:26 Bien, pero resulta que ahora tengo que
+37:29 
+
+37:29 unir el módulo, el rectorado con el
+37:31 
+
+37:31 módulo
+37:33 
+
+37:33 3.
+37:36 
+
+37:36 Son menos de 100 met.
+37:38 
+
+37:38 Y ustedes sabrán cuánto cuántos metros
+37:40 
+
+37:40 son.
+37:43 
+
+37:43 estimado. Estimado.
+37:48 
+
+37:48 Sí, creo que son menos de 100 m,
+37:52 
+
+37:52 ¿o no?
+37:54 
+
+37:54 Y un poquito más.
+37:59 
+
+37:59 ¿Qué metería ahí?
+38:01 
+
+38:01 Ni una fibra. Sií. Es más.
+38:04 
+
+38:04 Bien, bien.
+38:05 
+
+38:05 Un cat a6,
+38:08 
+
+38:08 pero
+38:08 
+
+38:08 una fibra. Si es más, conviene más.
+38:11 
+
+38:11 Tenemos que tener en cuenta, tenemos que
+38:13 
+
+38:13 tener en cuenta que si ya estamos en el
+38:15 
+
+38:15 exterior, eh, vamos a pasar por los
+38:18 
+
+38:18 techo, vamos a pasar, es muy probable
+38:21 
+
+38:21 que tengamos ruido.
+38:24 
+
+38:24 Entonces, ahí yo tendría que evaluar un
+38:27 
+
+38:27 un un
+38:30 
+
+38:30 10a, un 10 un 6, este,
+38:35 
+
+38:35 pero también tengo que evaluar la
+38:37 
+
+38:37 distancia.
+38:38 
+
+38:38 Sí.
+38:40 
+
+38:40 Entonces ya las opciones pasan a ser más
+38:45 
+
+38:45 más este
+38:49 
+
+38:49 o pasan a ser menos, digamos, ya o
+38:52 
+
+38:52 cambio de tecnología
+38:54 
+
+38:54 o o meto, por ejemplo, eh algo que me
+38:57 
+
+38:57 que me regenera la señal, por ejemplo,
+38:60 
+
+38:60 puedo meter el switch en el medio.
+39:02 
+
+39:02 Bueno, pero ¿dónde lo voy a enchufar?
+39:05 
+
+39:05 Entonces ahí ya tengo que evaluar el
+39:07 
+
+39:07 tema de la F.
+39:10 
+
+39:10 Bueno, esto es lo que yo les comentaba
+39:13 
+
+39:13 que que antes lo hacíamos en vivo y en
+39:18 
+
+39:18 directo esto y cada uno, yo le decía que
+39:20 
+
+39:20 vayan a a Prado Electrónica o a
+39:24 
+
+39:24 o a ¿cómo se llama? A Silap y compren
+39:27 
+
+39:27 unos 10 m de cable, 15 m de cable,
+39:30 
+
+39:30 compren 45.
+39:32 
+
+39:32 Eh, teníamos que tener la pinza esa de
+39:36 
+
+39:36 ahí la derecha figura la pinza
+39:37 
+
+39:37 crimpadora. Sí. Eh, bueno, más o menos
+39:42 
+
+39:42 lo voy a explicar, pero antes, es más,
+39:44 
+
+39:44 tengo un video hecho. Eh,
+39:48 
+
+39:48 usted armaron alguna vez un cable.
+39:52 
+
+39:52 Sí, profe,
+39:55 
+
+39:55 somos 89 y [carraspeo] solamente estoy
+39:57 
+
+39:57 escuchando
+39:59 
+
+39:59 de ese tipo. Yo no. El RG6 sí para el
+40:02 
+
+40:02 Coaxil, pero no de
+40:04 
+
+40:04 Ah, Coaxil, ¿para qué armaste Coxil?
+40:06 
+
+40:06 para la tiene.
+40:07 
+
+40:07 Sí, trabajaba haciendo instalación de
+40:09 
+
+40:09 internet.
+40:10 
+
+40:10 Ah, bien. Este,
+40:14 
+
+40:14 sí, yo niego mucho con el coaxil. Yo
+40:16 
+
+40:16 antes
+40:18 
+
+40:18 nosotros teníamos lo que se llamaba
+40:21 
+
+40:21 topología en bus. Bueno, si lo han visto
+40:22 
+
+40:22 ahora con el profe C
+40:25 
+
+40:25 y había que armar los cables esos. Eh,
+40:31 
+
+40:31 ¿qué manera de renegar?
+40:33 
+
+40:33 Eh, bueno, básicamente, ¿cómo cómo
+40:40 
+
+40:40 se arma esto? Eh, o sea, cómo terminar
+40:45 
+
+40:45 un cable, porque el cable viene armado.
+40:47 
+
+40:47 Lo que yo tengo que poner son las
+40:48 
+
+40:48 terminaciones, la dos las dos los dos
+40:52 
+
+40:52 RJ45, que es la fichita ese que dice ahí
+40:54 
+
+40:54 conector, ahí dice ejemplo. Bueno, ahí
+40:57 
+
+40:57 está a la izquierda conector RJ45. Sí.
+41:01 
+
+41:01 E
+41:05 
+
+41:05 eh es esa es la ficha que nosotros lo
+41:07 
+
+41:07 cortamos al cable de la media que
+41:09 
+
+41:09 nosotros necesitamos. Sí. Eh, bueno, el
+41:13 
+
+41:13 Costa 45 tiene, bueno, el cable está
+41:17 
+
+41:17 formado por por cuatro pares de cuatro
+41:22 
+
+41:22 pares de cable, eh, son ocho, ocho
+41:26 
+
+41:26 hilos, digamos, y tiene ocho posiciones
+41:29 
+
+41:29 y ocho contactos, que esos contactos son
+41:33 
+
+41:33 no son como cuchillas. Uno lo mete al
+41:36 
+
+41:36 cable ahí atrás de la fichita, lo mete
+41:38 
+
+41:38 el cable y con la prinza crempiador lo
+41:41 
+
+41:41 que hace. A ver,
+41:44 
+
+41:44 ¿ustedes ven que se mueve el mouse o no?
+41:46 
+
+41:46 No, no se mueve el mouse
+41:50 
+
+41:50 a ver.
+41:53 
+
+41:53 Tendría que convertir más pantalla para
+41:55 
+
+41:55 que lo veamos.
+41:56 
+
+41:56 Ahí ahí se mueve.
+41:57 
+
+41:57 Sí, ahí se ve.
+41:59 
+
+41:59 Eh, esto que estos que que están acá son
+42:03 
+
+42:03 son cuchis. Yo si yo el cable lo meto
+42:05 
+
+42:05 por acá, lo meto por acá, por atrás, eh,
+42:09 
+
+42:09 lo pelo al cable, lo tengo que pelar al
+42:12 
+
+42:12 cable y lo meto por acá. Y el este
+42:15 
+
+42:15 forrito tiene que llegar un 1 mm, 2 mm
+42:19 
+
+42:19 adentro de de acá para que para que no
+42:22 
+
+42:22 se me no quede suelto, no me baile,
+42:24 
+
+42:24 digamos. Entonces yo lo meto a a a los
+42:28 
+
+42:28 pares, lo tengo que lo tengo el cable me
+42:30 
+
+42:30 debería quedar así,
+42:33 
+
+42:33 uno al lado del otro y la mismo.
+42:37 
+
+42:37 Lo meto por acá y la pinza criadora,
+42:39 
+
+42:39 ¿qué hace? Estos que están acá son
+42:41 
+
+42:41 cuchillas, lo lastiman al cable y el
+42:45 
+
+42:45 cobre se conecta con el cable el cobre
+42:48 
+
+42:48 del cable se conecta con las cuchillas.
+42:49 
+
+42:49 Es y ahí ya se produce eh la conexión,
+42:53 
+
+42:53 digamos. Entonces,
+43:02 
+
+43:02 e
+43:04 
+
+43:04 como primera medida cortamos el cable,
+43:08 
+
+43:08 lo de lo despeinamos, como se dice, o le
+43:11 
+
+43:11 sacamos el trenzado. Sí. Y de ahí
+43:14 
+
+43:14 tenemos que elegir eh tenemos que elegir
+43:17 
+
+43:17 una norma. Sí. Eh, los colores no van en
+43:20 
+
+43:20 cualquier orden. Eh, ¿por qué? Porque
+43:23 
+
+43:23 todos los para que todos los equipos eh
+43:27 
+
+43:27 interpreten de la misma forma eh eh al
+43:33 
+
+43:33 al
+43:34 
+
+43:34 a los cables, el conductor, digamos, hay
+43:37 
+
+43:37 estándares, ¿sí? Y esos estándares es la
+43:40 
+
+43:40 norma esa. Te van a decir la norma A o
+43:43 
+
+43:43 la norma B es la 568A
+43:46 
+
+43:46 o la 568B.
+43:50 
+
+43:50 Entonces, ¿cuál elegir? Cualquiera. Las
+43:52 
+
+43:52 dos. Pero si de ahí dijo una, desde el
+43:55 
+
+43:55 comienzo hasta el final de la hora tiene
+43:57 
+
+43:57 que ser la misma. No puedo estar
+43:58 
+
+43:58 cambiando.
+44:00 
+
+44:00 ¿Por qué? Porque no me van a dar las
+44:02 
+
+44:02 conexiones. Así de sencillo.
+44:04 
+
+44:04 Entonces,
+44:06 
+
+44:06 eh y estas son las normas. Eh ustedes si
+44:10 
+
+44:10 si desarman o si cortan un un pedazo de
+44:13 
+
+44:13 cable ethernet UTP, van a ver que que
+44:18 
+
+44:18 son estos los colores. Blanco, verde,
+44:20 
+
+44:20 blanco, verde, verde. ¿Por qué? Porque
+44:22 
+
+44:22 viene un blanco con rayitas verdes y
+44:25 
+
+44:25 después viene uno directamente que es
+44:26 
+
+44:26 todo verde. Sí, eso, eso. Por eso dice
+44:29 
+
+44:29 blanco verde, blanco naranja, blanco
+44:31 
+
+44:31 azul. Sí.
+44:33 
+
+44:33 Eh, bueno, entonces hay
+44:36 
+
+44:36 ese es el orden de si voy a elegir la la
+44:40 
+
+44:40 norma A o la norma B o la 568A o la
+44:45 
+
+44:45 568B.
+44:47 
+
+44:47 Esos colores, la verdad, hay que hay que
+44:50 
+
+44:50 si vos te vas a dedicar a a a armar este
+44:53 
+
+44:53 tipo de cable, ya uno ya sabe los
+44:56 
+
+44:56 colores de memoria.
+44:58 
+
+44:58 Eh,
+45:01 
+
+45:01 entonces si yo hago la norma A en un en
+45:04 
+
+45:04 un extremo, tiene que ser en el otro
+45:07 
+
+45:07 extremo igual, de la misma manera del B
+45:10 
+
+45:10 también. Este,
+45:13 
+
+45:13 bueno, eh,
+45:16 
+
+45:16 ahí va a comentar, profe, la norma
+45:17 
+
+45:17 parece que tiene más sentido porque es
+45:19 
+
+45:19 como va de pares de colores y en el B
+45:23 
+
+45:23 como que cambia de lugar el el verde no
+45:26 
+
+45:26 le veo mucho sentido.
+45:28 
+
+45:28 Sí, lo que pasa es que, bueno, ya lo
+45:30 
+
+45:30 vamos a ver, pero el cable, el B, este
+45:34 
+
+45:34 hay
+45:36 
+
+45:36 eh un un cable directo que se llama eh
+45:40 
+
+45:40 bueno, ya ya lo vamos a ver e
+45:44 
+
+45:44 el cable el cable, por ejemplo, si yo
+45:47 
+
+45:47 tengo dos PC y no tengo un switch,
+45:52 
+
+45:52 eh yo tengo que que usar un cable
+45:55 
+
+45:55 cruzado. Sí.
+45:57 
+
+45:57 Eh eh
+45:60 
+
+45:60 yo tengo que conectar conectar dos PC,
+46:02 
+
+46:02 pero no tengo no no tengo conexión
+46:04 
+
+46:04 inalámbrica.
+46:06 
+
+46:06 Eh
+46:09 
+
+46:09 eh
+46:12 
+
+46:12 cuando veíamos el otro día el tema de el
+46:15 
+
+46:15 tema de
+46:17 
+
+46:17 del peer to peer, por ejemplo, yo no
+46:19 
+
+46:19 tengo un switch
+46:21 
+
+46:21 y y yo tengo que conectar las peces
+46:24 
+
+46:24 entre sí, yo puedo ir metiendo cable
+46:26 
+
+46:26 cruzado
+46:28 
+
+46:28 y
+46:29 
+
+46:29 o si yo tengo conectar un switch con un
+46:31 
+
+46:31 switch. Sí.
+46:33 
+
+46:33 Entonces, un extremo tengo el el A y en
+46:37 
+
+46:37 otro extremo tengo el B.
+46:40 
+
+46:40 ¿Está bien?
+46:48 
+
+46:48 ¿Cómo armamos físicamente el cable?
+46:50 
+
+46:50 Bueno, lo tenemos, como decíamos, lo
+46:53 
+
+46:53 tenemos que pelar.
+46:55 
+
+46:55 Le vamos sacando,
+46:57 
+
+46:57 le vamos sacando porque tiene una un
+46:59 
+
+46:59 alma de
+47:01 
+
+47:01 un hilo tiene eh
+47:04 
+
+47:04 y y lo y lo vamos lo vamos pelando. Eh
+47:08 
+
+47:08 eh nunca se y lo cortamos con una con
+47:12 
+
+47:12 una pincita, con una
+47:14 
+
+47:14 con un alicate, digamos, tiene que ir
+47:16 
+
+47:16 bien derechito, así como es. Tiene que
+47:18 
+
+47:18 bien derechito. De ahí lo ordenamos, lo
+47:21 
+
+47:21 vamos separando. ¿Qué norma voy a usar?
+47:23 
+
+47:23 la A o la B.
+47:25 
+
+47:25 Entonces, como como hemos dicho recién,
+47:28 
+
+47:28 eh si vamos a elegir la A, usamos esa
+47:31 
+
+47:31 misma norma en toda la instalación.
+47:34 
+
+47:34 Bueno, eh lo lo emparejamos, lo metemos
+47:37 
+
+47:37 así como dijimos recién atrás de la
+47:39 
+
+47:39 fichita RJ45.
+47:41 
+
+47:41 Una vez que nos aseguramos que ya está
+47:43 
+
+47:43 que que entraron, que tocaron que
+47:45 
+
+47:45 tocaron que tocaron los los cables en el
+47:50 
+
+47:50 en las cuchillas, le metemos la la pinza
+47:53 
+
+47:53 crimpeadora
+47:56 
+
+47:56 y y bueno, ahí lo lástima el cobre y ya
+47:59 
+
+47:59 queda la queda la queda la ¿cómo se
+48:02 
+
+48:02 llama? La la conexión hecha, digamos.
+48:05 
+
+48:05 Eh, bien, pero antes de de probarlo,
+48:10 
+
+48:10 le tenemos que hacer una una inspección
+48:12 
+
+48:12 visual. Vamos a ver, por ejemplo, yo
+48:15 
+
+48:15 puedo ver este, yo a simple vista puedo
+48:18 
+
+48:18 ver que que está más levantado que los
+48:20 
+
+48:20 otros, por ejemplo. Ven, este está más
+48:23 
+
+48:23 levantado que los otro. Entonces, yo lo
+48:24 
+
+48:24 miro el cable y ya me doy cuenta, este
+48:27 
+
+48:27 no está bien crimpado y después yo le
+48:29 
+
+48:29 voy a pasar.
+48:31 
+
+48:31 Bueno, acá eh acá dice acá, por ejemplo,
+48:35 
+
+48:35 tenemos incorrecto
+48:38 
+
+48:38 eh los conductores fuera de orden eh no
+48:41 
+
+48:41 llegan bien al fondo. ¿Ven que hay unos
+48:43 
+
+48:43 que no llegan al fondo?
+48:45 
+
+48:45 El la cubierta de cable no entra el
+48:47 
+
+48:47 conector. Tiene que entrar el conector
+48:49 
+
+48:49 así como acá 1 mm, 2 mm. Eso eso es un
+48:53 
+
+48:53 crínpado flojo. O la cuchilla ya ya o la
+48:56 
+
+48:56 cuchilla o la o la pinza ya está
+48:58 
+
+48:58 gastada. Ya no, no hace una fuerza una
+49:02 
+
+49:02 fuerza pareja, digamos. Sí.
+49:05 
+
+49:05 E
+49:07 
+
+49:07 bueno,
+49:10 
+
+49:10 y de ahí tenemos
+49:14 
+
+49:14 y luego luego de que hemos hecho la la
+49:18 
+
+49:18 revisión visual, digamos, eh hay algo
+49:21 
+
+49:21 que se llama el el L tester. Esto lo
+49:25 
+
+49:25 venden en todos lados, o sea, no no es
+49:27 
+
+49:27 caro, debe, no sé cuánto estará, pero es
+49:30 
+
+49:30 útil tener esto. Yo yo siempre tengo una
+49:33 
+
+49:33 una prinza una pinza crimeadora,
+49:37 
+
+49:37 un y esto en el y un lanter.
+49:41 
+
+49:41 Eh, vuelvo a decir, si ustedes se
+49:43 
+
+49:43 dedican a esto en la casa, generalmente
+49:46 
+
+49:46 en algún momento van a querer pasar, por
+49:49 
+
+49:49 ejemplo, si alguien tiene una, no sé, la
+49:52 
+
+49:52 piecita del fondo en la casa y y por ahí
+49:55 
+
+49:55 el wifi no me va a llegar, eh, no me va
+49:59 
+
+49:59 a llegar este
+50:01 
+
+50:01 al fondo. Bueno, ¿qué puedo hacer? Y
+50:04 
+
+50:04 algunos ponen
+50:06 
+
+50:06 ponen un repetidor, qué sé yo. Para mí
+50:08 
+
+50:08 lo más lo más la solución más óptima es
+50:13 
+
+50:13 meter otro otro
+50:18 
+
+50:18 shootercito eh conectado por el cable y
+50:21 
+
+50:21 ahí este reforzamos la seña o o alguien
+50:24 
+
+50:24 alguien puede tener una casa de dos
+50:26 
+
+50:26 pisos, entonces eh tenés que pasar un un
+50:30 
+
+50:30 shooter abajo y otro shootercito arriba,
+50:33 
+
+50:33 ¿eh?
+50:34 
+
+50:34 Bueno, una vez que eh que armamos el
+50:38 
+
+50:38 cable,
+50:40 
+
+50:40 le hicimos la inspección visual,
+50:42 
+
+50:42 digamos,
+50:44 
+
+50:44 lo tenemos que le pasamos por el L
+50:46 
+
+50:46 tester. ¿Qué mide esto? La continuidad.
+50:50 
+
+50:50 Entonces, vamos a ver que se nos
+50:51 
+
+50:51 empiezan a prender la lucecita, se nos
+50:53 
+
+50:53 van a aprender el uno un es el master.
+50:57 
+
+50:57 En el má se pone un extremo del cable y
+51:00 
+
+51:00 en el remote, este es el master. y en el
+51:04 
+
+51:04 remote se pone el otro extremo del
+51:06 
+
+51:06 cable. Yo enchufo acá y enchufo acá. Y
+51:10 
+
+51:10 bueno, y cuando yo lo prendo, eh, yo lo
+51:12 
+
+51:12 tengo acá al lado a los dos a los dos
+51:17 
+
+51:17 al master y al remoto, digamos, y
+51:19 
+
+51:19 empieza 1 2 2 3 3. Por me va a salir
+51:22 
+
+51:22 cuatro y del otro lado no se prende
+51:23 
+
+51:23 nada.
+51:26 
+
+51:26 Entonces, eh quiere decir que ahí no
+51:29 
+
+51:29 habría continuidad y ahí ya tengo un
+51:31 
+
+51:31 problema. ¿Qué se hace? Corte la ficha y
+51:34 
+
+51:34 arme de nuevo.
+51:36 
+
+51:36 A veces se agarra la la pinza
+51:38 
+
+51:38 limpiadora, se lo aprieta de nuevo
+51:39 
+
+51:39 fuerte
+51:42 
+
+51:42 y por ahí lo lo rescato al cable, pero
+51:44 
+
+51:44 generalmente no. No. Entonces, y bueno,
+51:49 
+
+51:49 después vienen hay algo que se llama
+51:51 
+
+51:51 certificadores también. Eh eh bueno, que
+51:55 
+
+51:55 ya para darle más más este
+51:59 
+
+51:59 más este
+52:01 
+
+52:01 eh profesionalidad al trabajo, digamos,
+52:04 
+
+52:04 para yo certifico a través de un
+52:05 
+
+52:05 aparatito que ese cable está bien. Tiene
+52:08 
+
+52:08 tiene la la la tiene la
+52:13 
+
+52:13 tiene la
+52:16 
+
+52:16 el, ¿cómo se dice? La la cálida del la
+52:20 
+
+52:20 cálida del cable, ¿eh?
+52:23 
+
+52:23 correspondiente y nos garantiza que el
+52:25 
+
+52:25 cable pueda trabajar correctamente a 1
+52:27 
+
+52:27 GB o a 10 GB. Sí, esos son los
+52:29 
+
+52:29 certificadores.
+52:31 
+
+52:31 Bueno, Jimos, eh, va pasando, nos mide
+52:35 
+
+52:35 continuidad y nos va a tira 1 2 3 y no
+52:40 
+
+52:40 nos muestra nada del otro lado.
+52:43 
+
+52:43 Entonces puede ser que el pin 3 no tiene
+52:46 
+
+52:46 continuidad. ¿Y qué puede pasar? eh o o
+52:50 
+
+52:50 el cable está cortado en algún algún
+52:52 
+
+52:52 lado. El conductor, el el cable de de
+52:56 
+
+52:56 ese de ese del pin 3 eh no llegó al
+52:60 
+
+52:60 fondo.
+53:09 
+
+53:09 problema o
+53:13 
+
+53:13 o por ejemplo voy a estar eh testeando y
+53:17 
+
+53:17 se
+53:25 
+
+53:25 que en ambos casos eh tiene continuidad,
+53:36 
+
+53:36 pero
+53:39 
+
+53:39 Profe, creo que por rato se le corta.
+53:41 
+
+53:41 Puse cruzar.
+53:43 
+
+53:43 No sé si es solo amigo.
+53:55 
+
+53:55 y me tiene un una
+54:02 
+
+54:02 se corta, profe.
+54:12 
+
+54:12 Luz. Entonces, ¿qué pasa?
+54:16 
+
+54:16 Es falso. Eso nos hace renegar un
+54:18 
+
+54:18 montón. ¿Por qué?
+54:26 
+
+54:26 Okay. Mó la computadora o o o
+54:42 
+
+54:42 se le corta.
+54:43 
+
+54:43 No lo hice con la suficiente fuerza.
+54:45 
+
+54:45 Está roto el conector, quebrado. ¿Qué s
+54:48 
+
+54:48 yo? Porque no me llega a ver y luego y
+54:51 
+
+54:51 lo demás y ya.
+54:52 
+
+54:52 Me parece que no nos está escuchando.
+54:55 
+
+54:55 Le afloje la fichit.
+54:58 
+
+54:58 Entonces, Bueno,
+56:33 
+
+56:33 V eso. Corre el cable y se soltó. No, se
+56:37 
+
+56:37 me cortó. Cambie de Se me corto la
+56:40 
+
+56:40 conexión y cambie de cambie de
+56:44 
+
+56:44 Estoy con los datos del teléfono.
+56:47 
+
+56:47 Bien.
+56:48 
+
+56:48 Eh, ah, se no estoy compartiendo.
+57:23 
+
+57:23 Bien,
+57:28 
+
+57:28 bien. decía, eh, no no no accederse de
+57:34 
+
+57:34 los 100 m, eh, no doblarlo al cable
+57:37 
+
+57:37 porque tiene un radio de de curvatura,
+57:41 
+
+57:41 eh, que si yo lo doblo o si me quedan 90
+57:45 
+
+57:45 gr así doblado, lo estoy ahorcando el
+57:48 
+
+57:48 cable, como se dice, o lo estoy
+57:50 
+
+57:50 aplastando, ya estoy ya estoy alterando
+57:53 
+
+57:53 el trenzado.
+57:55 
+
+57:55 Ya estoy alterando el trenzado.
+57:57 
+
+57:57 Entonces, ya las características del
+57:59 
+
+57:59 cable, la calidad del cable ya no es la
+58:01 
+
+58:01 misma. Entonces, eh
+58:05 
+
+58:05 no
+58:06 
+
+58:06 no no tenemos que hacer eso. Bueno, lo
+58:08 
+
+58:08 que le acabo de decir, eh,
+58:12 
+
+58:12 no tirar del cable no es un elástico,
+58:16 
+
+58:16 sobre todo en la instalación,
+58:19 
+
+58:19 eh, el cable me puede parecer que no. Yo
+58:21 
+
+58:21 lo estiré, pero no pasa nada. Sí, pero
+58:23 
+
+58:23 de afuera, eh, de adentro puede estar
+58:27 
+
+58:27 este puede estar dañado.
+58:30 
+
+58:30 Y de ahí algo que que no se tiene en
+58:33 
+
+58:33 cuenta, que no se tiene en cuenta, pero
+58:36 
+
+58:36 es muy importante
+58:39 
+
+58:39 eh
+58:41 
+
+58:41 el tema de del etiquetado.
+58:46 
+
+58:46 ¿Qué pasa? Uno uno va ahí a la sala de
+58:50 
+
+58:50 de comunicaciones,
+58:52 
+
+58:52 hable abre el rack y
+58:56 
+
+58:56 vemos un y vemos un un plato de
+58:59 
+
+58:59 tallerines lleno de de cable y anda sabe
+59:03 
+
+59:03 cuál es cuál,
+59:06 
+
+59:06 no sabes cuál es cuál. Entonces, eh yo,
+59:10 
+
+59:10 ¿cómo comienzo? Yo empiezo conectando
+59:12 
+
+59:12 cable por cable. Bueno, de un extremo le
+59:15 
+
+59:15 pongo, no sé, oficina,
+59:19 
+
+59:19 no sé,
+59:22 
+
+59:22 ciencia
+59:24 
+
+59:24 decanato de un código que que me me
+59:27 
+
+59:27 implique que es el es el decanato de
+59:29 
+
+59:29 ciencia exacta. Y cuando voy al haya al
+59:32 
+
+59:32 me tiene que decir puesto tres o PC04
+59:37 
+
+59:37 eh ciencia exacta y tengo que tener la
+59:40 
+
+59:40 misma la misma etiqueta de ambos lados.
+59:43 
+
+59:43 Entonces, eh cuando yo tenga el
+59:45 
+
+59:45 problema, eh eh
+59:49 
+
+59:49 cuando yo tengo el problema, este tengo
+59:51 
+
+59:51 que eh ya ya lo puedo seguir al cable.
+59:55 
+
+59:55 Sí. Si no hay aparatos que que uno tiene
+59:58 
+
+59:58 una hace un ruido, eh yo eh yo lo
+60:03 
+
+60:03 asiento, no es como un como un
+60:05 
+
+60:05 buscapolo, digamos, eh le tengo que
+60:08 
+
+60:08 poner un conector del otro lado y voy y
+60:10 
+
+60:10 voy testeando por donde hace el ruidito
+60:13 
+
+60:13 el el dispositivo ese, este me me
+60:20 
+
+60:20 quiere decir que que del otro punto del
+60:22 
+
+60:22 otro punto del otro punta es cable, Pero
+60:25 
+
+60:25 más fácil es es prevenir y es prevenir y
+60:30 
+
+60:30 y etiquetar antes. Bien, recién
+60:34 
+
+60:34 decíamos, si yo tengo que pasar un cable
+60:36 
+
+60:36 de un del rectorado a, no sé, a ciencia
+60:40 
+
+60:40 exacta y ya se se va un poquito más de
+60:43 
+
+60:43 100 met, pero lo tengo que pasar por los
+60:45 
+
+60:45 techos, eh el cable por ahí le da le da
+60:51 
+
+60:51 le da este el sol, eh eh
+60:55 
+
+60:55 pasa cerca de motores, eh o si son 200 m
+61:00 
+
+61:00 eh tengo que tener lo puedo lo puedo lo
+61:04 
+
+61:04 puedo, ¿cómo se llama? Lo puedo
+61:08 
+
+61:08 eh lo lo puedo lo puedo meter en un
+61:11 
+
+61:11 switch intermedio
+61:13 
+
+61:13 eh cada 90 100 m, que eso me va a hacer
+61:16 
+
+61:16 como como un regenerador de la señal.
+61:19 
+
+61:19 Sí, obviamente que a necesitar enchufe o
+61:23 
+
+61:23 meter también este repetidores poe e eh
+61:29 
+
+61:29 o extendor
+61:31 
+
+61:31 extensores de Ethernet con con coaxil,
+61:36 
+
+61:36 enlace inalámbrico, puedo poner muchas
+61:39 
+
+61:39 cosas, pero lo más óptimo o sería el
+61:42 
+
+61:42 tema de la fibra. Sí. Entonces, ya
+61:45 
+
+61:45 cuando cuando
+61:47 
+
+61:47 en esa en esas situaciones ya tenemos
+61:49 
+
+61:49 que dejar el cobre y para usar fibra.
+61:53 
+
+61:53 ¿Por qué? Y lo estamos diciendo
+61:55 
+
+61:55 justamente por la distancia.
+61:58 
+
+61:58 Por la distancia el UTP o el STP tenemos
+62:02 
+
+62:02 la la distancia de los 100 m.
+62:06 
+
+62:06 Eh,
+62:08 
+
+62:08 entonces ahí vamos analizando la fibra,
+62:11 
+
+62:11 no solamente por la distancia, sino
+62:12 
+
+62:12 también por la capacidad.
+62:15 
+
+62:15 Eh, la fibra puede trabajar con
+62:17 
+
+62:17 velocidades muy altas y y y puedo y
+62:23 
+
+62:23 puedo
+62:27 
+
+62:27 conectar el backbond. ¿Saben lo que es
+62:28 
+
+62:28 el backb?
+62:34 
+
+62:34 No, profe,
+62:36 
+
+62:36 el backb, [carraspeo]
+62:39 
+
+62:39 por ejemplo, yo tengo yo tengo en mi
+62:42 
+
+62:42 casa
+62:44 
+
+62:44 eh el router de la baja de internet que
+62:46 
+
+62:46 me trae o que me da internet para todo.
+62:49 
+
+62:49 Bien.
+62:50 
+
+62:50 Eh, tengo una piecita en el fondo y no
+62:54 
+
+62:54 me llega internet o tengo el asador ahí
+62:57 
+
+62:57 en el fondo y y bueno, yo ahí hago el
+63:01 
+
+63:01 asado, pero quiero escuchar música y
+63:04 
+
+63:04 pero yo lo pongo el teléfono y tengo que
+63:05 
+
+63:05 usar los datos porque las la la señal no
+63:08 
+
+63:08 me llega. Ah, bueno, podemos poner un
+63:10 
+
+63:10 cable y ponemos otro routercito y ahí ya
+63:13 
+
+63:13 tenemos llevamos internet al fondo. Ese
+63:16 
+
+63:16 cable que conecta ambos routers por
+63:19 
+
+63:19 atrás.
+63:20 
+
+63:20 se llama Backmond. Es el que es el que
+63:23 
+
+63:23 tiene los enlaces troncales.
+63:25 
+
+63:25 Sí. Bien.
+63:28 
+
+63:28 Em,
+63:30 
+
+63:30 dijimos eh la distancia, la capacidad,
+63:35 
+
+63:35 porque me permite llevar, recuerden que
+63:38 
+
+63:38 dijimos eh por ejemplo, si yo tengo un
+63:41 
+
+63:41 en un en un en un laboratorio del del de
+63:44 
+
+63:44 laboratorio de red de la universidad, eh
+63:48 
+
+63:48 eh se puedo llevar para
+63:52 
+
+63:52 conectar el laboratorio A con el
+63:54 
+
+63:54 laboratorio B tener 20 20 máquinas,
+63:56 
+
+63:56 supongamos. y un servidor. Bueno, el
+63:59 
+
+63:59 backbond tiene que tener una capacidad
+64:00 
+
+64:00 mayor a a la sumatoria de todo de todos
+64:04 
+
+64:04 esos cables, digamos, para que pueda
+64:07 
+
+64:07 llevar este
+64:09 
+
+64:09 o o traficar los datos. Eso en
+64:11 
+
+64:11 capacidad. Y otra cuestión muy
+64:13 
+
+64:13 importante,
+64:15 
+
+64:15 nosotros habíamos dicho de las
+64:16 
+
+64:16 interferencias electromagnéticas. Sí,
+64:21 
+
+64:21 como la fibra eh, ¿qué estoy
+64:24 
+
+64:24 transmitiendo yo por por la fibra? Estoy
+64:25 
+
+64:25 transmitiendo luz.
+64:27 
+
+64:27 pulso de luz y no pulso eléctrico,
+64:31 
+
+64:31 entonces no se va a ver afectada por
+64:34 
+
+64:34 motores.
+64:35 
+
+64:35 ¿Sí?
+64:37 
+
+64:37 Entonces, cuando yo estoy en un entorno
+64:39 
+
+64:39 industrial o
+64:43 
+
+64:43 sí, donde tenga o tengo un motor de aire
+64:45 
+
+64:45 acondicionado no más, ya me conviene
+64:48 
+
+64:48 llevar como vacuum la fibra óptica y de
+64:50 
+
+64:50 ahí la fibra eh puede ser multimodo o
+64:54 
+
+64:54 monomodo. Cuando estamos hablando de una
+64:56 
+
+64:56 de una de una fibra multimodo, una fibra
+64:60 
+
+64:60 multimodo tiene un el núcleo, digamos,
+65:03 
+
+65:03 es más grande. ¿Sí? Entonces, ¿qué pasa?
+65:07 
+
+65:07 Hay varios ases de luces que se propagan
+65:11 
+
+65:11 por diferentes caminos o modos. ¿Sí?
+65:16 
+
+65:16 Entonces, ¿y cuándo se utiliza un un
+65:19 
+
+65:19 multimodo? Un multimodo lo puedo
+65:22 
+
+65:22 utilizar en los data center e para
+65:26 
+
+65:26 distancias cortas, un data center en un
+65:29 
+
+65:29 edificio, en una sala técnica, en un
+65:31 
+
+65:31 enlace eh interno. Sí. eh y distancias
+65:35 
+
+65:35 cortas. Eh, ¿por qué? Porque es alta
+65:39 
+
+65:39 velocidad a distancias cortas. Este, y
+65:43 
+
+65:43 cuando yo necesito llevar eh a grande
+65:47 
+
+65:47 distancia, por ejemplo, la fibra que
+65:48 
+
+65:48 está que une Argentina con Europa, esa
+65:52 
+
+65:52 que está, no me acuerdo cómo se llama la
+65:54 
+
+65:54 la tenía en la punta de lengua, se me
+65:55 
+
+65:55 fue. Em,
+65:58 
+
+65:58 bueno, la la fibra submarina que viene,
+66:00 
+
+66:00 sí, eh, es monomodo cuando son mucha
+66:03 
+
+66:03 distancia, la tiene un núcleo más chico
+66:06 
+
+66:06 y está diseñado para que la luz se
+66:08 
+
+66:08 propague por un único modo. Sí.
+66:11 
+
+66:11 Entonces, distancias mucho mayores,
+66:14 
+
+66:14 lo puede usar para, como decíamos
+66:16 
+
+66:16 recién, eh, enlace entre edificios, sí,
+66:19 
+
+66:19 entre campus universitarios, sí, por
+66:21 
+
+66:21 ejemplo, no sé, eh, la un con el
+66:26 
+
+66:26 hospital
+66:28 
+
+66:28 eh hospital de clínica es una distancia
+66:31 
+
+66:31 relativamente considerable, pero tengo
+66:34 
+
+66:34 muchos mucha
+66:36 
+
+66:36 factores de ruido en el medio. sé yo,
+66:39 
+
+66:39 para tener un un punto a punto entre la
+66:41 
+
+66:41 entre la universidad podría poner un una
+66:43 
+
+66:43 conexión de fibra. Por ejemplo, en el
+66:45 
+
+66:45 Banco Rioja, nosotros tenemos los data
+66:47 
+
+66:47 center que están en el parque
+66:49 
+
+66:49 industrial. eh salen salen doble camino
+66:54 
+
+66:54 de fibra por diferente por diferente
+66:57 
+
+66:57 trazado, digamos, o sea, eh un doble
+67:01 
+
+67:01 anillo de fibra, un anillo va por
+67:03 
+
+67:03 determinadas calles y el otro anillo va
+67:06 
+
+67:06 por otras calles, de manera tal de que
+67:08 
+
+67:08 si hay un viento, si se y me tira un me
+67:12 
+
+67:12 tira un árbol o viene del y se pone a
+67:15 
+
+67:15 podar la los árboles y corta una rama y
+67:17 
+
+67:17 cae arriba de la fibra y la corta,
+67:19 
+
+67:19 Bueno, eh, no pasa nada, va, sí pasa, se
+67:23 
+
+67:23 corta, pero tenés alta disponibilidad y
+67:25 
+
+67:25 empieza a salir el los dispositivos que
+67:27 
+
+67:27 hay ahí permiten salir por otra vía. Sí.
+67:31 
+
+67:31 Eh, entonces todas esas cosas este nos
+67:35 
+
+67:35 permite hacer la las fibras las fibras
+67:38 
+
+67:38 monomodo.
+67:40 
+
+67:40 Eh, desde el punto de vista práctico,
+67:44 
+
+67:44 eh, no es decir no es decir, ah, le voy
+67:48 
+
+67:48 a meter un le voy a meter una fibra,
+67:50 
+
+67:50 ¿no? ¿Por qué? Porque la fibra es otra
+67:53 
+
+67:53 tecnología. Sí. Entonces, lo lo los
+67:57 
+
+67:57 switch, por ejemplo, donde yo donde yo
+67:59 
+
+67:59 conecto un un una
+68:03 
+
+68:03 no estoy viendo la pantalla, así que si
+68:04 
+
+68:04 levantan la mano o si hacen estoy viendo
+68:06 
+
+68:06 la presentación para que yo pueda mover
+68:08 
+
+68:08 el mouse, así que yo no estoy viendo la
+68:11 
+
+68:11 la, ¿cómo se llama? la pantalla de
+68:14 
+
+68:14 usted, la la el panel, así que si
+68:18 
+
+68:18 alguien necesita hablar, hable y no me
+68:20 
+
+68:20 mand no no levante la mano. Em,
+68:26 
+
+68:26 como le decía, un switch
+68:28 
+
+68:28 eh yo le yo le conecto un cable, un
+68:31 
+
+68:31 RJ45.
+68:33 
+
+68:33 ¿Por qué? porque vienen vienen este
+68:37 
+
+68:37 las señales como pulso eléctrico. Al
+68:40 
+
+68:40 venir luz, yo tengo que meterle un
+68:42 
+
+68:42 adaptador. ¿Sí?
+68:45 
+
+68:45 Eh, entonces yo tengo que ese adaptador
+68:49 
+
+68:49 me va
+68:52 
+
+68:52 eh eh
+68:54 
+
+68:54 o una ese adaptador o interfaz me va
+68:58 
+
+68:58 le voy a tener que poner un un módulo
+69:01 
+
+69:01 SFP. Sí.
+69:04 
+
+69:04 son esos son los conectores para para
+69:07 
+
+69:07 meter yo la la
+69:10 
+
+69:10 lo la fibra, el adaptador para meter la
+69:13 
+
+69:13 la fibra. ¿Qué es qué es un es un
+69:15 
+
+69:15 transber, un SFP que me convierte la
+69:20 
+
+69:20 señal eléctrica del switch en señal
+69:23 
+
+69:23 óptica para enviarla por la fibra? O si
+69:26 
+
+69:26 viene la fibra me convierte la luz en
+69:28 
+
+69:28 señal el
+69:30 
+
+69:30 Esos son también, profe, los
+69:35 
+
+69:35 la señal.
+69:37 
+
+69:37 Profe,
+69:39 
+
+69:39 escucho.
+69:39 
+
+69:39 Esos son los media convert.
+69:43 
+
+69:43 Sí.
+69:44 
+
+69:44 Ah, okay.
+69:48 
+
+69:48 Entonces, eh,
+69:51 
+
+69:51 yo tengo que convertir, yo tengo que
+69:53 
+
+69:53 tener el dispositivo para convertir eh
+69:57 
+
+69:57 para convertir el el el
+70:01 
+
+70:01 pulso eléctrico en en en luz o luz en
+70:04 
+
+70:04 pulso eléctrico. Y de ahí tenemos
+70:05 
+
+70:05 diferentes conectores,
+70:07 
+
+70:07 el LC y el y el SC que figuran ahí. Eh,
+70:12 
+
+70:12 el LC eh bueno, es más
+70:15 
+
+70:15 más chico, ya es muy habitual ya. Y el
+70:20 
+
+70:20 SC es más grande y yousto que ya medio
+70:23 
+
+70:23 como que ya no se está dejando de usar.
+70:26 
+
+70:26 Sí, simplemente es para que lo conozcan,
+70:28 
+
+70:28 no es para que lo para que lo para que
+70:31 
+
+70:31 lo lo memorice.
+70:34 
+
+70:34 Eh, bueno, y de ahí eh viene la parte de
+70:41 
+
+70:41 de Wi-Fi. Dijimos que
+70:44 
+
+70:44 podemos conectar el medio, puede ser por
+70:48 
+
+70:48 el aire,
+70:49 
+
+70:49 por cable y ese cable era o cobre o
+70:53 
+
+70:53 fibra. Bueno, ahora estamos por el Wi-Fi
+70:56 
+
+70:56 y de ahí nos preguntamos muchas veces.
+70:58 
+
+70:58 Yo le preguntaba recién, ¿qué
+71:01 
+
+71:01 qué se llama? ¿Qué
+71:07 
+
+71:07 eh si yo tengo un servidor, ¿qué qué me
+71:10 
+
+71:10 conviene? Y y hay un compañero decía que
+71:13 
+
+71:13 conviene el cable. Sí. Eh, y esto es
+71:17 
+
+71:17 así.
+71:20 
+
+71:20 Eh, yo tengo que preguntarme siempre si
+71:22 
+
+71:22 yo quiero conectar un equipo a la red.
+71:26 
+
+71:26 Eh,
+71:28 
+
+71:28 no es no es no me tengo que preguntar
+71:31 
+
+71:31 cuál es la tecnología o cuál es la mejor
+71:33 
+
+71:33 tecnología, sino cuál es la más
+71:36 
+
+71:36 conveniente para mi caso. ¿Sí? Entonces,
+71:40 
+
+71:40 como decíamos recién, el cable internet
+71:43 
+
+71:43 es una conexión más estable. recién yo
+71:45 
+
+71:45 estoy conectado en mi notebook y estaba
+71:48 
+
+71:48 trabajaba está estábamos hablando y se
+71:50 
+
+71:50 me ha cortado el wifi y puede pasar.
+71:54 
+
+71:54 Imagínense ustedes están en un hospital
+71:58 
+
+71:58 eh está operando con todos los aparatos,
+72:01 
+
+72:01 se le cae la red y es inadmisible
+72:05 
+
+72:05 en un banco estamos trabajando y por el
+72:08 
+
+72:08 todo por Wi-Fi se me se me cae la red
+72:10 
+
+72:10 cuando estoy haciendo una transferencia
+72:12 
+
+72:12 inadmisible. Sí. Entonces, el cable
+72:15 
+
+72:15 ethernet es una conexión más estable y
+72:18 
+
+72:18 predecible. Eh, es un enlace es un
+72:22 
+
+72:22 enlace entre el dispositivo y el switch.
+72:24 
+
+72:24 Entonces, no hay no hay este eh
+72:28 
+
+72:28 variaciones de que se me baja la señal,
+72:30 
+
+72:30 se me sube la señal, no está andando a
+72:32 
+
+72:32 menos que tenga un problema en el cable.
+72:35 
+
+72:35 Eh, por eso si el equipo es fijo, no lo
+72:38 
+
+72:38 estoy moviendo y y la primera opción es
+72:41 
+
+72:41 el cable. ¿Dónde? en un servidor, en una
+72:44 
+
+72:44 PC de escritorio, en una impresora de
+72:46 
+
+72:46 red. Eh, bueno, cámaras que son
+72:49 
+
+72:49 críticas, cámaras que estoy filmando, no
+72:51 
+
+72:51 sé, eh, en la casa puedo tener en el
+72:54 
+
+72:54 patio una cámara Wi-Fi, pero porque no
+72:57 
+
+72:57 pasa nada, eh, pero si es si es de de
+73:00 
+
+73:00 Mission Crítica, como se llama, le tengo
+73:03 
+
+73:03 que poner un un cable, un access point,
+73:06 
+
+73:06 porque me está dando soporte un montón
+73:07 
+
+73:07 de puntos. [resoplido] Sí. Bueno, en
+73:11 
+
+73:11 cambio, el Wi-Fi nos da algo que el
+73:15 
+
+73:15 cable no nos da, que es el tema de la de
+73:18 
+
+73:18 la de la de la movilidad y la
+73:20 
+
+73:20 flexibilidad. Por ejemplo, el ejemplo de
+73:22 
+
+73:22 que tengo el asador en el fondo y le
+73:24 
+
+73:24 quiero meter este le quiero meter en eh
+73:29 
+
+73:29 un un algo para que me me
+73:33 
+
+73:33 fortalezca la señal afuera. Eh, bueno,
+73:36 
+
+73:36 lo puedo poner eh eh access point y
+73:39 
+
+73:39 access point para que se conecte por
+73:41 
+
+73:41 aire y sí es no es crítico, está bien,
+73:45 
+
+73:45 pero cuando menos cuando empezas a a ver
+73:49 
+
+73:49 que que por ahí no eh se cae, qué s va a
+73:52 
+
+73:52 decir, "No, no quiero más, le meto le
+73:55 
+
+73:55 meto el cable." Por ejemplo, yo acá
+73:59 
+
+73:59 yo tengo una conexión con cable, la puse
+74:01 
+
+74:01 la conexión con cable, pero no la uso.
+74:03 
+
+74:03 ¿Y qué pasó? se me cayó la conexión,
+74:06 
+
+74:06 entonces eh la conexión de Wi-Fi,
+74:09 
+
+74:09 entonces yo debería tener, si estoy en
+74:11 
+
+74:11 medio de hablando ahora eh con ustedes,
+74:14 
+
+74:14 yo debería tener este yo debe tener un
+74:17 
+
+74:17 una eh activa la conexión con con cable,
+74:20 
+
+74:20 no la no la puse nada más. Bueno, e y
+74:24 
+
+74:24 ¿qué problema tenemos con el Wi-Fi? El
+74:26 
+
+74:26 primero, la interferencia.
+74:29 
+
+74:29 Eh, bueno, ¿por qué? Y bueno, porque
+74:31 
+
+74:31 antes eh cuando uno desplegaba, agarraba
+74:35 
+
+74:35 el teléfono y busca los SCID o los
+74:37 
+
+74:37 nombres de la red, eh encontraba uno,
+74:41 
+
+74:41 dos. Ahora eh hay por todos lados
+74:43 
+
+74:43 aparece el nombre de red. ¿Y qué pasa?
+74:47 
+
+74:47 este
+74:48 
+
+74:48 eh eh también eh otras tecnologías como
+74:53 
+
+74:53 por ejemplo el Bluetooth
+74:55 
+
+74:55 e equipo otro equipo electrónico,
+74:60 
+
+74:60 todos esos empiezan a competir o a
+75:02 
+
+75:02 compartir eh y sus señales y pueden
+75:05 
+
+75:05 afectar eh ese espectro. Sí. Por eso eh
+75:10 
+
+75:10 cuando estamos en un edificio vamos a
+75:11 
+
+75:11 ver que hay muchos AP.
+75:15 
+
+75:15 Eh, entonces y y ¿qué y qué pasa? Todo
+75:18 
+
+75:18 el mundo lo pone por default. ¿Qué
+75:20 
+
+75:20 quiere decir eso? Por default que pone
+75:23 
+
+75:23 lo instala y y ya está y que ande y
+75:27 
+
+75:27 después empiezan a ver los problemas de
+75:29 
+
+75:29 red que se me cae la que se me cae la la
+75:33 
+
+75:33 conexión que está débil y bueno, eso
+75:35 
+
+75:35 porque hay interferencias. Sí.
+75:39 
+
+75:39 Bueno, otro factor que tenemos que
+75:41 
+
+75:41 tenemos con el tema del Wi-Fi es la
+75:44 
+
+75:44 distancia.
+75:45 
+
+75:45 Cuanto más lejos estamos es lo que
+75:46 
+
+75:46 decimos del asador en el fondo, cuanto
+75:48 
+
+75:48 más lejos tenemos la señor
+75:51 
+
+75:51 va a ser la señal y la velocidad ni
+75:54 
+
+75:54 habla. Sí. ¿Por qué? Porque puede haber
+75:57 
+
+75:57 un puede haber una planta, puede haber
+75:58 
+
+75:58 un una columna una columna
+76:03 
+
+76:03 con hierro. Sí. Entonces, si yo no si no
+76:06 
+
+76:06 es lo mismo tener eh el AP a 10 m
+76:11 
+
+76:11 eh en línea en línea que no tenga ningún
+76:14 
+
+76:14 obstáculo a que tenga una pared, que
+76:17 
+
+76:17 tenga una columna, sí, que tenga, no sé,
+76:20 
+
+76:20 muebles con el televisor que también y
+76:22 
+
+76:22 ahí todo eso, todo eso me me atenúo la
+76:25 
+
+76:25 señal.
+76:28 
+
+76:28 Y bueno, y después obviamente la
+76:30 
+
+76:30 saturación,
+76:31 
+
+76:31 por ejemplo, si yo tengo un access point
+76:34 
+
+76:34 e
+76:36 
+
+76:36 y se conecta todo el mundo, o sea, en mi
+76:39 
+
+76:39 casa, por ejemplo, yo puedo tener eh
+76:43 
+
+76:43 un access point y
+76:46 
+
+76:46 bueno, somos cinco y está todo bien.
+76:49 
+
+76:49 Usamos los cinco, no pasa nada. Hacemos
+76:50 
+
+76:50 una fiesta, vienen 30 personas y todos
+76:52 
+
+76:52 se quieren conectar y y va a dejar de
+76:54 
+
+76:54 andar.
+76:56 
+
+76:56 Sí. Entonces, eh y ya es cuando cuando
+77:01 
+
+77:01 tenemos que que empezar a a
+77:04 
+
+77:04 preguntarnos, ¿tenés señal? Sí.
+77:07 
+
+77:07 ¿Y tenes buen rendimiento? No. Entonces,
+77:10 
+
+77:10 ¿por qué? Por la saturación.
+77:13 
+
+77:13 Bueno, e
+77:15 
+
+77:15 y bueno, y ahí también tenemos que tener
+77:17 
+
+77:17 el tema o o cuando lo configuramos
+77:20 
+
+77:20 generalmente
+77:22 
+
+77:22 eh dejamos todo por default y no estamos
+77:25 
+
+77:25 considerando el tema de la seguridad.
+77:27 
+
+77:27 Sí. Bueno, un una cuestión básica,
+77:30 
+
+77:30 digamos, sería el tema de de utilizar
+77:33 
+
+77:33 los mecanismos adecuados, la
+77:35 
+
+77:35 autenticación, la la la contraseña
+77:38 
+
+77:38 robusta, ¿sí? Todas esas cosas debemos
+77:41 
+
+77:41 tener en debemos tener en cuenta. Eh,
+77:46 
+
+77:46 bueno, vamos vamos yendo de la placa de
+77:51 
+
+77:51 red al cable al o al medio. E después
+77:56 
+
+77:56 seguimos el el
+78:00 
+
+78:00 los dispositivos intermedios y ahora
+78:03 
+
+78:03 vamos llegando al shack. Sí. Entonces,
+78:06 
+
+78:06 del puesto del trabajo al shack.
+78:10 
+
+78:10 Entonces,
+78:12 
+
+78:12 cuando volviendo el ejemplo del del
+78:15 
+
+78:15 escritorio con la con la con la PC,
+78:19 
+
+78:19 eh
+78:20 
+
+78:20 nosotros cuando tenemos la PC y tenemos
+78:23 
+
+78:23 la instalación de red en la casa, en la
+78:26 
+
+78:26 casa seguramente lo vamos a tener así.
+78:29 
+
+78:29 Yo armo un cable largo y no sé, tengo la
+78:33 
+
+78:33 piecita en el fondo o tengo la pieza
+78:34 
+
+78:34 arriba.
+78:36 
+
+78:36 E
+78:37 
+
+78:37 yo le voy a meter un extremo del cable
+78:41 
+
+78:41 en un shooter,
+78:43 
+
+78:43 en el shooter que me da internet para
+78:44 
+
+78:44 todo. Y yo me voy a la pieza de arriba o
+78:47 
+
+78:47 o la al ambiente de arriba y y tengo
+78:51 
+
+78:51 otro routercito que también se lo
+78:53 
+
+78:53 enchufo al cable eh atrás para que me me
+78:57 
+
+78:57 pase la señal del router master al
+79:00 
+
+79:00 esclavo.
+79:03 
+
+79:03 Eso en una casa está bien. Eh
+79:07 
+
+79:07 eh pero el concepto vendría a ser es muy
+79:10 
+
+79:10 similar eh
+79:14 
+
+79:14 eh porque en en en eso sería el
+79:17 
+
+79:17 backbond, ¿sí? Eh en una instalación
+79:20 
+
+79:20 profesional la PC no se conecta
+79:24 
+
+79:24 directamente al switch con un cable
+79:25 
+
+79:25 largo como hice en mi casa.
+79:28 
+
+79:28 ¿Por qué? Porque ahí entra un concepto
+79:30 
+
+79:30 que ya lo van a ver bien con el profe
+79:31 
+
+79:31 Martín, que hay una una infraestructura
+79:35 
+
+79:35 de cableado estructurado.
+79:37 
+
+79:37 Sí, ese cable ahí en la en la en la
+79:40 
+
+79:40 figura ven como está bien peinadito,
+79:42 
+
+79:42 bien bonito los los cables. Suele haber
+79:45 
+
+79:45 eh así literal plato de tallarines con
+79:48 
+
+79:48 en algunas instalaciones.
+79:50 
+
+79:50 Eh, entonces, ¿qué me hace un cable
+79:53 
+
+79:53 estructurado? me organiza, me protege y
+79:56 
+
+79:56 me documenta todas las las conexiones.
+79:59 
+
+79:59 Lo que yo le hablaba de etiquetar. Está
+80:01 
+
+80:01 bien, lo etiqueté. Bueno, pero ¿dónde lo
+80:03 
+
+80:03 documenté?
+80:04 
+
+80:04 Entonces, ¿cómo sería el recorrido este?
+80:08 
+
+80:08 Bueno, ah, como como dice acá, ¿ves? Yo
+80:11 
+
+80:11 tengo la PC de escritorio, eh, y de ahí,
+80:14 
+
+80:14 ¿dónde lo enchufo? De acá atrás de la
+80:17 
+
+80:17 atrás de la de la CPU tengo la placa de
+80:20 
+
+80:20 shed. ¿Qué le pongo? Le pongo un patch y
+80:22 
+
+80:22 a dónde lo enchufo? Lo enchufo en una R
+80:24 
+
+80:24 Z. Sí. ¿Qué es un arroz Z? Es el eh es
+80:28 
+
+80:28 el punto viene el cable largo. Eh yo yo
+80:32 
+
+80:32 le decía recién en la casa tenemos un
+80:34 
+
+80:34 cable largo que lo enchufamos en las
+80:36 
+
+80:36 conexiones de atrás de los routercitos
+80:39 
+
+80:39 en en en
+80:42 
+
+80:42 instalaciones profesionales. Eso no se
+80:44 
+
+80:44 hace.
+80:47 
+
+80:47 En el puesto de trabajo yo dejo el el
+80:49 
+
+80:49 RJ45.
+80:51 
+
+80:51 hembra y y dejo la roseta hacia al lado
+80:54 
+
+80:54 del enchufe de corriente. Pongo una
+80:56 
+
+80:56 roseta y ahí voy a enchufar el patch y
+80:60 
+
+80:60 ese patch lo voy a lo voy a meter en la
+81:02 
+
+81:02 PC. ¿Por qué? Porque el backb o el cable
+81:08 
+
+81:08 largo ese no lo estoy moviendo. Eso lo
+81:10 
+
+81:10 tengo que lo puse una vez y no lo toco
+81:12 
+
+81:12 más. Pero si yo muevo el patch, el path
+81:15 
+
+81:15 lo muevo todo lo que yo quiera, pero el
+81:17 
+
+81:17 backbon no.
+81:19 
+
+81:19 ¿Por qué? Porque imagínense que si yo lo
+81:21 
+
+81:21 estoy moviendo, se me sale el se me sale
+81:23 
+
+81:23 un un pin de la de la
+81:26 
+
+81:26 del RJ45,
+81:29 
+
+81:29 se me corta el cable, se me rompe el
+81:31 
+
+81:31 cable o lo que sea. Yo tengo que hacer
+81:32 
+
+81:32 toda la instalación de nuevo. Entonces,
+81:35 
+
+81:35 para evitar eso, yo pongo una roseta del
+81:38 
+
+81:38 lado de la PC,
+81:42 
+
+81:42 de ahí meto todo el cableado y cuando
+81:45 
+
+81:45 voy al rack lo dejo terminar en un patch
+81:48 
+
+81:48 panel. que vendría a ser una roseta con
+81:50 
+
+81:50 o una roseta grande con mucho con muchas
+81:53 
+
+81:53 bocas, digamos, y van terminando ahí
+81:56 
+
+81:56 atrás. Tac, tac, tac. 24. ¿Cuánto tiene
+81:58 
+
+81:58 este? 1, dos.
+82:00 
+
+82:00 ¿Cuánto tiene? 1 2 3 4 5 6
+82:07 
+
+82:07 18. No, no suele ser así. Bueno, e
+82:12 
+
+82:12 acá tengo para para esa cantidad de
+82:14 
+
+82:14 boca. Y de acá, de la misma manera, de
+82:18 
+
+82:18 la misma manera saco esto, esto vendría
+82:20 
+
+82:20 a ser, ¿ves? Está toda la roseta y saco
+82:25 
+
+82:25 uno, va a dar la vuelta, tac, y lo meto.
+82:28 
+
+82:28 Entonces yo cuando estoy al frente del
+82:29 
+
+82:29 shack, yo no estoy tocando acá atrás del
+82:32 
+
+82:32 atrás de la del el atrás de del patch
+82:35 
+
+82:35 panel todos los backbond, no lo toco
+82:37 
+
+82:37 más. Yo lo instalé y no lo toqué más y
+82:39 
+
+82:39 me muevo con los patche. Sí. Entonces,
+82:44 
+
+82:44 eh ese sería el recorrido en una en una
+82:47 
+
+82:47 en una instalación profesional. Sí.
+82:52 
+
+82:52 Este, bueno,
+82:59 
+
+82:59 eh, y bueno, ¿qué hace el switch? El
+83:02 
+
+83:02 switch, como le decía recién, recibe las
+83:03 
+
+83:03 conexiones provenientes de todos los
+83:05 
+
+83:05 puestos y permite que los dispositivos
+83:08 
+
+83:08 se conecten se conectan a la LAN. Sí. Si
+83:11 
+
+83:11 yo veo el el shack, ahí tenemos también
+83:16 
+
+83:16 eh organizadores de cable. Sí, acá
+83:20 
+
+83:20 tienen que tener tienen que tener un
+83:22 
+
+83:22 orden. Eh, acá tenemos eh
+83:26 
+
+83:26 eh tengo que tener un flujo de aire.
+83:28 
+
+83:28 ¿Por qué? Porque yo tengo acá,
+83:30 
+
+83:30 imagínense,
+83:32 
+
+83:32 ya no es tan así. ya no están así, eh,
+83:36 
+
+83:36 porque ahora
+83:38 
+
+83:38 eh por ejemplo, hay un gran servidor que
+83:43 
+
+83:43 virtualiza
+83:45 
+
+83:45 muchas máquinas. Entonces, antes, ¿qué
+83:47 
+
+83:47 se tenía? se tenían muchas máquinas
+83:48 
+
+83:48 físicas en cada uno de estos rack y
+83:51 
+
+83:51 podríamos llegar a tener eh, no sé, eh,
+83:53 
+
+83:53 10 rack con
+83:56 
+
+83:56 con 100 máquinas físicas, con 100
+83:58 
+
+83:58 servidores de de 100 servidores de este
+84:01 
+
+84:01 tipo. Por ejemplo, esta es una UPS. Eh,
+84:07 
+
+84:07 e entonces ya ya se pone uno solo y
+84:11 
+
+84:11 tiene un factor de consolidación. se
+84:13 
+
+84:13 llama que en un solo son equipos de
+84:17 
+
+84:17 tanta capacidad que en un solo equipo
+84:19 
+
+84:19 físico podría llegar a tener 100
+84:22 
+
+84:22 máquinas virtuales, por ejemplo.
+84:23 
+
+84:23 Entonces, ya me desaparecieron 90
+84:26 
+
+84:26 máquinas físicas. Entonces, pero ¿qué
+84:29 
+
+84:29 pasa eso? al tener tanta capacidad,
+84:31 
+
+84:31 tanta tanta potencia,
+84:34 
+
+84:34 eh me genera mucho calor. Entonces, yo
+84:38 
+
+84:38 tengo que tener un un
+84:43 
+
+84:43 equipo de refrigeración
+84:46 
+
+84:46 que me sople aire frío y me chupe el
+84:48 
+
+84:48 aire caliente. Entonces, acá tenemos
+84:50 
+
+84:50 dentro del dentro del data center
+84:52 
+
+84:52 tenemos lo que que ya lo vamos a ver.
+84:54 
+
+84:54 Hay un presente un proyecto de extensión
+84:57 
+
+84:57 para ir a visitar un data center del
+84:58 
+
+84:58 Banco Rioja y sé que el profe Cobre
+85:00 
+
+85:00 tiene
+85:02 
+
+85:02 un proyecto de extensión para ir a
+85:03 
+
+85:03 visitar el data center de de internet
+85:05 
+
+85:05 para todo. son modelo de negocio
+85:07 
+
+85:07 totalmente diferente y uno va a ver una
+85:09 
+
+85:09 cosa en internet para todos porque el
+85:12 
+
+85:12 modelo de negocio de ello es dar
+85:14 
+
+85:14 conexión al público y el Banco Rioja es
+85:18 
+
+85:18 recibir conexión de de afuera para para
+85:21 
+
+85:21 dar un servicio que es totalmente
+85:23 
+
+85:23 diferente el modelo de negocio y por eso
+85:25 
+
+85:25 puede haber puede ser similar el data
+85:27 
+
+85:27 center, pero diferente los los equipos.
+85:31 
+
+85:31 Bueno, y ahí tenemos lo todo eso, lo que
+85:34 
+
+85:34 las UPS, este, los servidores, todo esa
+85:38 
+
+85:38 parte.
+85:42 
+
+85:42 Me estoy quedando sin voz.
+85:49 
+
+85:49 E
+85:51 
+
+85:51 bueno,
+85:56 
+
+85:56 entonces si yo en una oficina tengo, no
+85:60 
+
+85:60 sé, o en un laboratorio de red, como
+86:02 
+
+86:02 venimos hablando o el decanato de la
+86:04 
+
+86:04 UNLAR, ese el departamento de ciencia
+86:07 
+
+86:07 exacta de la UNLAR, tengo, no sé, no sé
+86:10 
+
+86:10 cuánto, 20, 50 dispositivos cableados,
+86:14 
+
+86:14 eh, como decíamos recién, Todos van a un
+86:16 
+
+86:16 punto que es el patch panel y de ahí lo
+86:19 
+
+86:19 tengo que comunicar a algo que tenga una
+86:22 
+
+86:22 cierta inteligencia. El patch panel no
+86:24 
+
+86:24 tiene ninguna inteligencia, simplemente
+86:25 
+
+86:25 es un terminador de conexión y de ahí lo
+86:28 
+
+86:28 de ahí lo voy a lo voy a lo voy a
+86:31 
+
+86:31 conectar a un punto eh a dónde
+86:34 
+
+86:34 conectarse, que eso me va a permitir
+86:37 
+
+86:37 comunicar a las máquinas entre sí. Esa
+86:40 
+
+86:40 eso, esa función lo hace el switch. Sí.
+86:44 
+
+86:44 ¿Y qué hace? interconecta dispositivo
+86:46 
+
+86:46 dentro de la LAN. ¿Sí? ¿Qué vemos en el
+86:49 
+
+86:49 switch? Y bueno, vemos los los puertos
+86:52 
+
+86:52 Ethernet, eh podemos encontrar este eh
+86:59 
+
+86:59 eh de de diferentes tamaños de de 8, 16,
+87:03 
+
+87:03 24, 48 puertos. Sí. Este y bueno, y de
+87:07 
+
+87:07 ahí cada uno trabaja a diferentes
+87:09 
+
+87:09 velocidades. 10 Mbit, 100 MB, 1 GB. Sí.
+87:13 
+
+87:13 Eh, bueno, y y
+87:17 
+
+87:17 este y también tiene otros otros tipos
+87:20 
+
+87:20 de diferentes tipos de puerto. Acá acá
+87:24 
+
+87:24 vemos los puertos RJ45
+87:27 
+
+87:27 que conectan los dispositivos de la red,
+87:29 
+
+87:29 los comunes, los que estamos trabajando
+87:31 
+
+87:31 ahora. Pero eh también tenemos
+87:36 
+
+87:36 otro tipo de puerto, otro tipo de puerto
+87:38 
+
+87:38 que son los puertos UPL link.
+87:42 
+
+87:42 Eh, ese puerto eh se usan para conectar
+87:46 
+
+87:46 a otro, o sea, yo lo quiero escalar a
+87:48 
+
+87:48 este switch o conectar con otro switch y
+87:51 
+
+87:51 bueno, ¿por dónde lo voy a conectar? Por
+87:52 
+
+87:52 el por el app link. Entonces, lo conecto
+87:55 
+
+87:55 a otro switch, a otro router, al core de
+87:57 
+
+87:57 la red, a un enlace de fibra. Sí. Eh, ¿y
+88:02 
+
+88:02 ese qué tipo de conexión puede ser? Y
+88:04 
+
+88:04 puede ser un NJ45 o lo que veníamos
+88:07 
+
+88:07 hablando del SFP.
+88:09 
+
+88:09 Y también tiene una una característica
+88:13 
+
+88:13 los puertos o mejor dicho los switch.
+88:16 
+
+88:16 Uno cuando compra un switch dice, "Es
+88:18 
+
+88:18 poe
+88:20 
+
+88:20 qué quiere decir poe bueno lo están
+88:22 
+
+88:22 leyendo, pero escucharon la habla de poe
+88:30 
+
+88:30 No, profe.
+88:31 
+
+88:31 Bien,
+88:33 
+
+88:33 es power over etnet. Por ejemplo, yo
+88:36 
+
+88:36 puedo conectar una cámara
+88:38 
+
+88:38 y no la enchufo en ningún lado.
+88:41 
+
+88:41 ¿Por qué? Porque a la a la a la a la
+88:46 
+
+88:46 electricidad, digamos, me la da el
+88:48 
+
+88:48 puerto.
+88:50 
+
+88:50 ¿Sí? Entonces, yo estoy llevando
+88:52 
+
+88:52 potencia o power sobre Ethernet.
+88:55 
+
+88:55 Entonces, sobre el mismo cable yo llevo
+88:58 
+
+88:58 los datos y la alimentación eléctrica.
+89:02 
+
+89:02 Por eso es muy importante a la hora de
+89:04 
+
+89:04 elegir un o depende lo que de la obra
+89:07 
+
+89:07 que yo esté haciendo, eh yo puedo decir
+89:11 
+
+89:11 yo puedo decir eh qué para qué vas a
+89:13 
+
+89:13 utilizar este eh
+89:16 
+
+89:16 no porque yo quiero meter este eh PC
+89:19 
+
+89:19 nada más. Ah, bueno, seguro. Sí, bueno,
+89:21 
+
+89:21 cómpreme un Switch barato, qué sé yo,
+89:23 
+
+89:23 bla bla bla. Y después dice, "No, ¿sabes
+89:25 
+
+89:25 qué? Quiero meter una cámara allá arriba
+89:27 
+
+89:27 y y ya tenés que llevar una conexión
+89:29 
+
+89:29 eléctrica para allá arriba." En cambio,
+89:31 
+
+89:31 si vos hubieras tenido un puerto eh un
+89:33 
+
+89:33 un switch con capacidad POE, eh ya
+89:37 
+
+89:37 puedes conectar cámaras.
+89:39 
+
+89:39 Eh eh bueno, y esto es muy práctico para
+89:43 
+
+89:43 para tanto para las cámaras, para los
+89:47 
+
+89:47 para los access point, para los bueno,
+89:51 
+
+89:51 los teléfonos, qué sé yo, teléfono IP.
+89:53 
+
+89:53 [resoplido]
+89:58 
+
+89:58 sin profundizar cómo trabaja un un
+90:00 
+
+90:00 switch a grandes rasgos. Eh,
+90:04 
+
+90:04 e bueno, ahí también entra el concepto
+90:08 
+
+90:08 de la macadres, que eso ya lo vamos a
+90:10 
+
+90:10 ver más adelante.
+90:16 
+
+90:16 El hub antes han escuchado hablar
+90:18 
+
+90:18 ustedes de hubo
+90:26 
+
+90:26 hablar de hube.
+90:32 
+
+90:32 Nos explicó el profe.
+90:35 
+
+90:35 Bueno, eso ya no se usa, pero ahí
+90:39 
+
+90:39 eh copiaba la misma información a todos
+90:42 
+
+90:42 los puerto. Entonces era ineficiente.
+90:44 
+
+90:44 Acá el switch más inteligente, lo voy a
+90:46 
+
+90:46 decir muy rápido, el switch más
+90:47 
+
+90:47 inteligente y le hace llegar la
+90:49 
+
+90:49 información solamente aquel que le que
+90:51 
+
+90:51 la tiene que escuchar. ¿Sí? Entonces
+90:54 
+
+90:54 este esto mejora el rendimiento, la la
+90:57 
+
+90:57 la eficiencia y todas esas cosas.
+91:03 
+
+91:03 Bueno, después le voy a dar un un
+91:04 
+
+91:04 pequeño práctico. Este, bueno, esto
+91:07 
+
+91:07 porque desapareció el hub. Esto es lo
+91:10 
+
+91:10 que decía, era un repetidor multipuerto
+91:12 
+
+91:12 que cuando una señal una señal se
+91:16 
+
+91:16 recibía por un puerto, lo repetía para
+91:18 
+
+91:18 todos los otros los otros puertos.
+91:21 
+
+91:21 Entonces, a ver, yo tenía una yo tengo
+91:23 
+
+91:23 cuatro PC en un hub
+91:26 
+
+91:26 y el PC1 quiere enviar un
+91:29 
+
+91:29 un dato a la PS2.
+91:32 
+
+91:32 El hub no analiza quién es PS2,
+91:34 
+
+91:34 simplemente eh le copia la PS2, a la
+91:37 
+
+91:37 PS3, a la PS2, a la PS3 y a la PS4. Sí.
+91:41 
+
+91:41 No no toma decisiones. Eso eso está
+91:44 
+
+91:44 puesto dentro del vamos a mover lo que
+91:46 
+
+91:46 es un modelo
+91:48 
+
+91:48 el modelo OSI. Por eso se dice que
+91:51 
+
+91:51 trabaja en la capa física del modelo OSI
+91:55 
+
+91:55 porque recibe recibe,
+91:58 
+
+91:58 ¿cómo se llama? recibe señales y la y la
+92:01 
+
+92:01 replica, no hace más nada.
+92:04 
+
+92:04 Sí. Eh,
+92:06 
+
+92:06 bueno, y ahí está lo que se llamaba la
+92:09 
+
+92:09 colisión, toda una serie de una una
+92:12 
+
+92:12 serie de de cuestiones que que no lo
+92:15 
+
+92:15 hacían eficiente. Eh, y el en cambio el
+92:19 
+
+92:19 Switch puede tomar decisiones de
+92:21 
+
+92:21 reenvío,
+92:22 
+
+92:22 eh,
+92:24 
+
+92:24 no no copia la información a todos los
+92:28 
+
+92:28 puertos. va aprendiendo, por eso eso mo
+92:31 
+
+92:31 ver en la macadre, va aprendiendo qué
+92:33 
+
+92:33 dispositivos están conectados detrás de
+92:35 
+
+92:35 cada puerto y cuando conoce el destino
+92:38 
+
+92:38 envía al que lo al que le corresponde.
+92:41 
+
+92:41 Sí. Y ahí bueno, entra lo el concepto de
+92:44 
+
+92:44 dominio de colisión, como decíamos
+92:46 
+
+92:46 nosotros recién, todos los en un
+92:48 
+
+92:48 hubertos forman un único dominio de
+92:51 
+
+92:51 colisión, eh, es decir, comparten el
+92:55 
+
+92:55 mismo medio y la transmisión puede
+92:56 
+
+92:56 interferir con otra. En cambio, con un
+92:58 
+
+92:58 switch, cada puerto eh es un dominio de
+93:02 
+
+93:02 colision independiente. Entonces eh no
+93:05 
+
+93:05 no se produce esa esa esa
+93:11 
+
+93:11 es esa esas esas colisiones. Eh bueno,
+93:14 
+
+93:14 en internet eh después vamos a ir viendo
+93:17 
+
+93:17 más concepto. Eh normalmente trabajamos
+93:20 
+
+93:20 con con full duplic. ¿Han escuchado
+93:22 
+
+93:22 hablar lo que es e eh simplex, eh half
+93:26 
+
+93:26 duplex y full duplex?
+93:31 
+
+93:31 Sí, profe.
+93:32 
+
+93:32 ¿Qué sería un simplex?
+93:35 
+
+93:35 La comunicación va en un solo sentido.
+93:38 
+
+93:38 Bien. Un half duplex,
+93:41 
+
+93:41 eh, la que va en ambos.
+93:44 
+
+93:44 Entendido.
+93:44 
+
+93:44 Pero
+93:45 
+
+93:45 pero uno uno habla y el otro tiene que
+93:47 
+
+93:47 esperar.
+93:48 
+
+93:48 Claro, exactamente.
+93:49 
+
+93:49 Y el full duplex era el que va ir y
+93:52 
+
+93:52 vuelta.
+93:53 
+
+93:53 Bueno, este es un full duplex.
+93:54 
+
+93:54 Este es un full duplex. Estamos hablando
+93:57 
+
+93:57 y nos podemos interrumpir porque cada
+93:59 
+
+93:59 uno tiene un canal.
+94:02 
+
+94:02 Estamos compartiendo el canal, pero cada
+94:04 
+
+94:04 uno puede ir volver sin sin
+94:09 
+
+94:09 restricciones. En cambio, el H duplex,
+94:11 
+
+94:11 por ejemplo, cuando estamos hablando con
+94:12 
+
+94:12 el handy, eh, yo aprieto el botoncito.
+94:15 
+
+94:15 Hola, hola. Sí. Eh, acá el profe Gustavo
+94:20 
+
+94:20 cambio y y allá del otro lado me va a
+94:23 
+
+94:23 decir cuando cuando escucho que yo dije
+94:25 
+
+94:25 cambio, quiere decir que libero el el
+94:30 
+
+94:30 medio, el canal y ustedes tienen que
+94:33 
+
+94:33 agarrar el otro handy y apretar y y
+94:36 
+
+94:36 decir, "Sí, acá el alumno tal cambio,
+94:39 
+
+94:39 ¿qué necesita cambio?"
+94:41 
+
+94:41 Y ahí no estamos con ese protocolo.
+94:43 
+
+94:43 Estamos utilizando un único canal eh que
+94:46 
+
+94:46 puede que puede ser bidireccional,
+94:48 
+
+94:48 pero pero uno a la vez.
+94:53 
+
+94:53 En cambio, el full duple puede recibir y
+94:54 
+
+94:54 transmitir en forma simultánea.
+94:58 
+
+94:58 Eh,
+94:59 
+
+94:59 bueno,
+95:02 
+
+95:02 em
+95:04 
+
+95:04 y bueno, ¿y por qué desapareció el hub?
+95:05 
+
+95:05 Bueno, porque el switch solucionó todas
+95:09 
+
+95:09 las limitaciones e las limitaciones que
+95:12 
+
+95:12 tenía o las o la o la ineficiencia que
+95:15 
+
+95:15 tenía el hub y antes era muy caro y
+95:19 
+
+95:19 después bajo mucho de precio.
+95:22 
+
+95:22 A uno, yo me acuerdo cuando cuando
+95:27 
+
+95:27 primera vez vi qué era TCP,
+95:31 
+
+95:31 uno iba y compraba compraba un jab en en
+95:34 
+
+95:34 el Kosco de Informática de la esquina,
+95:36 
+
+95:36 así como hoy lo hace con un con un con
+95:38 
+
+95:38 un router o con un switch. eh era
+95:41 
+
+95:41 barato, eh
+95:44 
+
+95:44 pero a medida que o era lo que se
+95:47 
+
+95:47 conseguía, pero a medida que el que el
+95:49 
+
+95:49 switch se hicieron más accesible, ya me
+95:50 
+
+95:50 dejaba, me daba mayor rendimiento, no
+95:53 
+
+95:53 tenía tantas colisiones, mucho más
+95:55 
+
+95:55 eficiencia, full duple, mayor control y
+95:58 
+
+95:58 todas esas cuestiones que hacen que que
+95:60 
+
+95:60 que
+96:04 
+
+96:04 bueno que se que se que permita utilizar
+96:07 
+
+96:07 este tipo de tecnología.
+96:10 
+
+96:10 Eh,
+96:12 
+
+96:12 bueno, vamos haciendo todo el caminito.
+96:16 
+
+96:16 Llegamos, salimos de la PC, eh, de la de
+96:20 
+
+96:20 la de la de la placa de red, fuimos por
+96:23 
+
+96:23 el cable, fuimos por un por un router,
+96:27 
+
+96:27 por un switch, eh, y ahora eh queremos
+96:31 
+
+96:31 salir a internet.
+96:33 
+
+96:33 ¿Cómo salimos a internet?
+96:36 
+
+96:36 Eh,
+96:38 
+
+96:38 bueno, el switch conecta los
+96:41 
+
+96:41 dispositivos dentro de una misma red.
+96:44 
+
+96:44 Tenemos un puerto que se llama el app
+96:46 
+
+96:46 link y ahí lo puedo conectar a un
+96:50 
+
+96:50 router. ¿Qué me permite el router?
+96:52 
+
+96:52 Conectar a redes distintas. Eh,
+96:56 
+
+96:56 entonces e
+97:00 
+
+97:00 el router me va a tomar los paquetes que
+97:02 
+
+97:02 salen de la LAN. LAN es local area
+97:05 
+
+97:05 network, que si yo tengo laboratorio de
+97:08 
+
+97:08 redes de la UNLAR, eh dijimos que eh
+97:12 
+
+97:12 tiene todo el cableado y si tenemos
+97:14 
+
+97:14 cable estructurado va a ir a una sala de
+97:16 
+
+97:16 comunicaciones. Sala de comunicaciones
+97:18 
+
+97:18 va a terminar en una en una pachera. Esa
+97:21 
+
+97:21 pachera la conecto al al switch y de ahí
+97:25 
+
+97:25 eh
+97:27 
+
+97:27 eh analiza a qué red debe ir y lo
+97:30 
+
+97:30 reenvía por la por la por una interfaz.
+97:34 
+
+97:34 este
+97:35 
+
+97:35 eh
+97:39 
+
+97:39 y bueno y el router este determina a qué
+97:42 
+
+97:42 red va a ir y lo envía por una interfaz
+97:44 
+
+97:44 esto y dijimos que después vamos a ver
+97:46 
+
+97:46 un hay un modelo teórico que se llama el
+97:49 
+
+97:49 modelo el módulo de referencia o este
+97:53 
+
+97:53 que el router estaría en en capa tres,
+97:57 
+
+97:57 ¿sí?
+97:58 
+
+97:58 E y bueno, no vamos a entrar todavía en
+98:02 
+
+98:02 eso, pero si eh si está dentro de la
+98:05 
+
+98:05 misma red, no necesito salir por el
+98:07 
+
+98:07 router. Si el destino está en otra red
+98:10 
+
+98:10 necesito salir por una puerta de salida.
+98:12 
+
+98:12 ¿Ustedes en la computadora, ¿cómo lo
+98:14 
+
+98:14 cómo lo ven a eso? Eh, hay un cuando
+98:17 
+
+98:17 ustedes están configurando TSP, que ya
+98:19 
+
+98:19 lo vamos a ver más adelante, se llama
+98:21 
+
+98:21 una puerta de enlace o getway. Sí.
+98:25 
+
+98:25 Eh, por ejemplo, ustedes tienen, no sé,
+98:28 
+
+98:28 en la PC tiene la la dirección 192,
+98:31 
+
+98:31 168.10.10
+98:35 
+
+98:35 y el getway capa que sea la 10 192 168
+98:39 
+
+98:39 10.1. ¿Quién suele ser el gateway? El
+98:42 
+
+98:42 gateway suele ser el el routercito que
+98:45 
+
+98:45 que le da que le da internet para todo.
+98:49 
+
+98:49 Sí. Y bueno, ahí nos muestra estamos
+98:52 
+
+98:52 estamos haciendo un repaso, pero ahí nos
+98:54 
+
+98:54 muestra lo que lo que se llama una LAN,
+98:57 
+
+98:57 que es nuestra red local y sale a la
+98:60 
+
+98:60 one, que es la red externa a la que nos
+99:02 
+
+99:02 queremos conectar. Entonces, ¿cómo sería
+99:04 
+
+99:04 el la conexión? LAN router y salimos a
+99:09 
+
+99:09 la one. ¿Qué es One? Es internet. en la
+99:13 
+
+99:13 parte
+99:17 
+
+99:17 bueno eh
+99:20 
+
+99:20 bueno, los dispositivos que podemos
+99:21 
+
+99:21 encontrar ahí dice eh eh puertos l
+99:25 
+
+99:25 puertos one sí salimos salimos por ahí e
+99:31 
+
+99:31 en en un router hogareño.
+99:34 
+
+99:34 Esto es básicamente
+99:36 
+
+99:36 eh
+99:38 
+
+99:38 toda esta lógica que estamos hablando se
+99:40 
+
+99:40 se se concentra en una sola cosa. ¿Por
+99:43 
+
+99:43 qué? Porque el e tiene tiene
+99:49 
+
+99:49 todo en uno, digamos. tiene eh wifi, eh
+99:53 
+
+99:53 tiene puertos l para para y hace como un
+99:58 
+
+99:58 como como un como un switch y tiene
+100:00 
+
+100:00 puertos one para para salir afuera como
+100:03 
+
+100:03 un router. Entonces tiene se se es eh un
+100:08 
+
+100:08 alling one, digamos, todo eso. Este
+100:11 
+
+100:11 eh así funciona un un un switchecito, un
+100:14 
+
+100:14 routercito de los que nos dan de los que
+100:17 
+
+100:17 nos dan este
+100:19 
+
+100:19 de los que nos dan este
+100:22 
+
+100:22 eh eh del proveedor del ISP.
+100:26 
+
+100:26 Bueno, eh
+100:28 
+
+100:28 eh access point y router.
+100:32 
+
+100:32 Bueno, y ahí está. Ahí la idea es
+100:35 
+
+100:35 mostrar este
+100:38 
+
+100:38 eh qué hace cada uno. En access point
+100:40 
+
+100:40 permite que dispositivos inalámbricos se
+100:42 
+
+100:42 conecten a una LAN, ¿sí? A una LAN
+100:45 
+
+100:45 cableada. Por ejemplo, yo como le decía
+100:47 
+
+100:47 recién, eh el caso del asador en el en
+100:50 
+
+100:50 el fondo, eh yo tengo mi conexión a
+100:54 
+
+100:54 internet y quiero llevar internet al
+100:57 
+
+100:57 asador. Bueno, o puedo llevar otro
+101:00 
+
+101:00 router
+101:03 
+
+101:03 eh con
+101:06 
+
+101:06 eh o puedo llevar un access point, por
+101:09 
+
+101:09 ejemplo, y yo llevo un cable, un
+101:11 
+
+101:11 backbond, llego de llevo, lo saco de mi
+101:13 
+
+101:13 router principal, lo llevo al fondo y le
+101:15 
+
+101:15 meto, en este caso, de ejemplo, le voy a
+101:18 
+
+101:18 meter un access point para que cuando
+101:20 
+
+101:20 hagamos un asado en el fondo tengamos
+101:22 
+
+101:22 todo, todos nos podamos conectar a
+101:23 
+
+101:23 internet. ¿Por qué? Porque no me llega
+101:25 
+
+101:25 la señal. Bueno, esa la esa la idea.
+101:29 
+
+101:29 Este eh por eso el shooter compra eh o
+101:33 
+
+101:33 compra eh cumple otra
+101:36 
+
+101:36 otra otra función que interconecta redes
+101:41 
+
+101:41 diferentes, la LAN
+101:44 
+
+101:44 shooter a internet. Sí.
+101:48 
+
+101:48 Este, y bueno, de acá, bueno, de ahí
+101:51 
+
+101:51 sigue, ya se me está acabando el tiempo,
+101:53 
+
+101:53 por eso voy, voy muy rápido. El tema de
+101:55 
+
+101:55 la del firework, eh, que que eso sería
+101:60 
+
+101:60 la por ahí una de la de la de la última
+102:03 
+
+102:03 parte del del caminito que venimos
+102:05 
+
+102:05 hablando. ¿Por qué? Porque hablamos de
+102:07 
+
+102:07 la conectividad, nick o placa de red,
+102:11 
+
+102:11 cable, switch, router, access point. Y
+102:14 
+
+102:14 ahora eh yo tengo que ver eh una parte,
+102:20 
+
+102:20 digamos, entre
+102:22 
+
+102:22 entre poder conectarnos
+102:25 
+
+102:25 y estar autorizado
+102:27 
+
+102:27 a conectarse eh
+102:31 
+
+102:31 o o a comunicarse. justamente acá eso,
+102:35 
+
+102:35 ahí entra el el firewall.
+102:40 
+
+102:40 El hecho de que dos redes estén
+102:42 
+
+102:42 conectadas
+102:45 
+
+102:45 eh físicamente
+102:46 
+
+102:46 no significa que debamos permitir
+102:50 
+
+102:50 cualquier comunicación entre ellas. Por
+102:51 
+
+102:51 ejemplo, a ver, yo tengo yo estoy en mi
+102:54 
+
+102:54 oficina, yo estoy en la oficina, soy
+102:56 
+
+102:56 administrador de red o soy
+102:59 
+
+102:59 o soy de seguridad informática y
+103:03 
+
+103:03 y yo quiero que los empleados eh puedan
+103:06 
+
+103:06 este
+103:10 
+
+103:10 puedan
+103:11 
+
+103:11 eh navegar por internet, pero que usen
+103:15 
+
+103:15 tráfico o que o que ese tráfico sea sea
+103:19 
+
+103:19 este
+103:20 
+
+103:20 ¿cómo se dice? Que sea
+103:23 
+
+103:23 eh
+103:25 
+
+103:25 productivo e
+103:28 
+
+103:28 y por ejemplo y ahí yo en el en el
+103:32 
+
+103:32 firewall yo le puedo poner eh un punto
+103:35 
+
+103:35 de control y que observe el tráfico y
+103:39 
+
+103:39 que me diga y y le voy a poner una una
+103:42 
+
+103:42 unas reglas. Una regla. Entonces, e
+103:49 
+
+103:49 qué le qué le puedo decir, a ver, eh
+103:52 
+
+103:52 todo lo que sea eh Infobe, lo que sea
+103:56 
+
+103:56 Instagram, lo que sea YouTube, lo que
+103:59 
+
+103:59 sea redes sociales, qué sé yo, no lo
+104:02 
+
+104:02 deje pasar.
+104:03 
+
+104:03 Entonces, eh ahí me está me está por eso
+104:07 
+
+104:07 la pared de fuego me está me cuáles son
+104:10 
+
+104:10 las funciones que tiene inspecciona el
+104:12 
+
+104:12 tráfico,
+104:14 
+
+104:14 compara la regla. Por ejemplo, yo le di
+104:15 
+
+104:15 inspecciona el tráfico, detecta que
+104:17 
+
+104:17 viene YouTube. Entonces, eh pregunta,
+104:22 
+
+104:22 ¿qué tengo que hacer con YouTube? ¿Lo
+104:23 
+
+104:23 tengo que dejar pasar o lo o lo o lo
+104:25 
+
+104:25 bloqueo? Lo bloqueo. Bien, y ahí no más
+104:28 
+
+104:28 genero un registro. Esas cuatro cosas
+104:30 
+
+104:30 hace. Entonces, inspecciona, compara con
+104:33 
+
+104:33 regla, permite o bloquea y registra el
+104:36 
+
+104:36 evento. ¿Y dónde dónde se lo instala
+104:38 
+
+104:38 realmente?
+104:42 
+
+104:42 Esto suele estar entre la LAN a
+104:45 
+
+104:45 internet. Por eso muchas veces el el
+104:48 
+
+104:48 router tiene
+104:51 
+
+104:51 es un router firewall, ¿sí?
+104:53 
+
+104:53 e
+104:56 
+
+104:56 puede estar en eh en diferentes lados,
+104:59 
+
+104:59 ¿no?
+105:00 
+
+105:00 En en segmentos internos, delante de
+105:03 
+
+105:03 servidores críticos, dentro de una
+105:05 
+
+105:05 máquina. Por ejemplo, todo en en en
+105:07 
+
+105:07 nuestra máquina en Windows hay un
+105:09 
+
+105:09 firewar que la mayoría les da seguro que
+105:11 
+
+105:11 lo debe tener desactivado para que no me
+105:12 
+
+105:12 moleste. ¿Cómo lo tienen ustedes?
+105:19 
+
+105:19 y está activado, pero cuando jode lo
+105:21 
+
+105:21 desactivo. [risas]
+105:23 
+
+105:23 Error. Bueno, e ya no, ya nos quedamos
+105:28 
+
+105:28 sin tiempo. Eh, a ver, quiero ver si
+105:37 
+
+105:37 por eso una regla, una mejor práctica.
+105:40 
+
+105:40 tienen que
+105:42 
+
+105:42 tienen que que tener el firewall
+105:46 
+
+105:46 y activado y y los y los y los parches
+105:49 
+
+105:49 de seguridad.
+105:51 
+
+105:51 Eso es fundamental.
+105:55 
+
+105:55 Muchas veces, oh, ya me está jodiendo de
+105:57 
+
+105:57 nuevo el
+105:59 
+
+105:59 me está jodiendo de nuevo el
+106:02 
+
+106:02 Windows Update y lo sacan.
+106:05 
+
+106:05 Esorazo.
+106:08 
+
+106:08 ¿Ustedes hacen eso?
+106:13 
+
+106:13 Pasa que últimamente vienen todas rotas
+106:16 
+
+106:16 los parches, tipo
+106:19 
+
+106:19 no viene roto
+106:21 
+
+106:21 la comp anda de 10, la actualizas y
+106:24 
+
+106:24 empiezan a far cosas. Entonces hasta que
+106:27 
+
+106:27 no se estabiliza ahí recién la actualizo
+106:29 
+
+106:29 yo.
+106:32 
+
+106:32 M.
+106:33 
+
+106:33 ¿Qué qué usas? Windows.
+106:36 
+
+106:36 Sí, profe. Windows 11
+106:38 
+
+106:38 es comprado.
+106:40 
+
+106:40 Sí.
+106:45 
+
+106:45 [resoplido]
+106:46 
+
+106:46 A ver si lo puedo hacer.
+107:28 
+
+107:28 Ah, no lo hicimos eso.
+107:41 
+
+107:41 Bueno, a los que voy nombrando ya se
+107:42 
+
+107:42 pueden ir retirando.
+107:44 
+
+107:44 Valentín Agüero.

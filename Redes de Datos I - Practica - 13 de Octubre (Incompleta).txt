@@ -1,0 +1,4672 @@
+00:12 Bueno, ¿cómo le
+00:14 
+
+00:14 ¿cómo le fue en el parcial?
+00:20 
+
+00:20 A mí mal, profe.
+00:22 
+
+00:22 Ah, no sé cuánto saqué.
+00:25 
+
+00:25 ¿Qué pasó?
+00:27 
+
+00:27 Nada, yo no estudié.
+00:30 
+
+00:30 Aún no han dado todavía, profe.
+00:34 
+
+00:34 Faltan los resultados.
+00:42 
+
+00:42 ¿Fue complicado?
+00:51 
+
+00:51 ¿Por qué? ¿Por qué dice que no le fue
+00:52 
+
+00:52 bien?
+00:56 
+
+00:56 No, yo digo eso porque
+00:58 
+
+00:58 me faltaron
+01:00 
+
+01:00 los los ejercicios prácticos
+01:04 
+
+01:04 y y bueno, y otros multiple choice
+01:06 
+
+01:06 después que yo borré y le pifié.
+01:10 
+
+01:10 Mmm.
+01:11 
+
+01:11 Bien.
+01:13 
+
+01:13 Bueno, eh
+01:15 
+
+01:15 disculpen la demora, eh tenía un
+01:18 
+
+01:18 problema con la máquina, tuve que
+01:19 
+
+01:19 cambiar máquina
+01:21 
+
+01:21 y la estaba terminando de configurar,
+01:23 
+
+01:23 así que
+01:24 
+
+01:24 terminamos así
+01:25 
+
+01:25 muy sobre la hora.
+01:29 
+
+01:29 Vamos a tratar de ir más rápido.
+01:32 
+
+01:32 Bueno.
+01:33 
+
+01:33 Ehm
+01:37 
+
+01:37 Bueno, la vez pasada habíamos visto
+01:39 
+
+01:39 eh básicamente lo que
+01:43 
+
+01:43 lo que era
+01:45 
+
+01:45 a ver si me deja esto.
+01:48 
+
+01:48 Ay, no.
+01:52 
+
+01:52 Bueno.
+01:58 
+
+01:58 Ah, ahí está, eh yo no no estoy viendo
+01:60 
+
+01:60 el el el cambio de
+02:03 
+
+02:03 de slide, ¿lo están viendo ustedes el
+02:04 
+
+02:04 cambio de slide?
+02:07 
+
+02:07 Sí, profe.
+02:07 
+
+02:07 Sí, profe.
+02:08 
+
+02:08 Sí, profe.
+02:10 
+
+02:10 Bien, bueno.
+02:11 
+
+02:11 Entonces, yo no lo estoy viendo a
+02:13 
+
+02:13 ustedes.
+02:15 
+
+02:15 Eh,
+02:19 
+
+02:19 bueno, la vez pasada habíamos
+02:23 
+
+02:23 eh,
+02:24 
+
+02:24 habíamos visto una
+02:26 
+
+02:26 una
+02:28 
+
+02:28 eh, em, cómo cómo
+02:33 
+
+02:33 cómo lo estoy viendo, y si no entro en
+02:35 
+
+02:35 el subidito.
+02:36 
+
+02:36 Pedito.
+02:44 
+
+02:44 Bien.
+02:45 
+
+02:45 Este,
+02:49 
+
+02:49 ahora vamos a enfrentarnos con
+02:54 
+
+02:54 o intentar yo yo resolver un nuevo un
+02:56 
+
+02:56 nuevo problema
+02:58 
+
+02:58 que que se nos presenta
+03:01 
+
+03:01 em,
+03:04 
+
+03:04 a la hora
+03:12 
+
+03:12 como visto, bueno, está un una red de
+03:14 
+
+03:14 ejemplo
+03:16 
+
+03:16 268
+03:20 
+
+03:20 que y que
+03:22 
+
+03:22 ¿qué hacíamos?
+03:23 
+
+03:23 Eh, hacíamos una relación entre el
+03:26 
+
+03:26 prefijo y la máscara.
+03:28 
+
+03:28 Eh, eh, y le calculábamos el salto.
+03:32 
+
+03:32 Eh, es decir, cada a dónde estaba la
+03:34 
+
+03:34 frontera de
+03:37 
+
+03:37 la de cada red, eh,
+03:39 
+
+03:39 podíamos determinar eh, la red
+03:45 
+
+03:45 as, eh, determinar cuántos host entraban
+03:48 
+
+03:48 en en
+03:50 
+
+03:50 en cada red
+03:52 
+
+03:52 y elegíamos una máscara según la
+03:54 
+
+03:54 cantidad de host.
+03:58 
+
+03:58 Eh, entonces, era un problema o el
+04:00 
+
+04:00 problema que que que intentábamos
+04:02 
+
+04:02 resolver en ese momento era
+04:04 
+
+04:04 em, calcular
+04:07 
+
+04:07 una
+04:08 
+
+04:08 una subred.
+04:10 
+
+04:10 Eh, pero ahora
+04:12 
+
+04:12 es como que vamos a tener
+04:14 
+
+04:14 un nuevo nivel de decisión.
+04:18 
+
+04:18 Eh, ya que no nos vamos a o o o o la
+04:21 
+
+04:21 pregunta sería
+04:23 
+
+04:23 o la pregunta la pregunta antes era,
+04:25 
+
+04:25 ¿cómo divido una red o cómo divido esta
+04:28 
+
+04:28 red que se me presenta?
+04:31 
+
+04:31 Y ahora vamos a trabajar un poco en la
+04:33 
+
+04:33 en la optimización de los recursos.
+04:37 
+
+04:37 Eh, recuerden que habíamos hablado de
+04:40 
+
+04:40 de la
+04:41 
+
+04:41 de la de la de la
+04:43 
+
+04:43 de la
+04:45 
+
+04:45 de la escasez de la de de la de la
+04:47 
+
+04:47 dirección IP.
+04:49 
+
+04:49 Bueno, entonces ahora
+04:51 
+
+04:51 lo que vamos a a a preguntarnos es
+04:54 
+
+04:54 eh
+04:56 
+
+04:56 eh, ¿cómo conviene dividir
+04:59 
+
+04:59 una red
+05:01 
+
+05:01 si diferentes sectores
+05:04 
+
+05:04 o o lo que me toca a mí eh diseñar esa
+05:07 
+
+05:07 red necesitan diferentes cantidad
+05:10 
+
+05:10 de host? La habíamos planteado un poco,
+05:13 
+
+05:13 pero ahora lo vamos a ver de
+05:17 
+
+05:17 logía, ¿sí? Entonces, eh, hay Bueno, ahí
+05:20 
+
+05:20 sigue estando el ejemplo. Eh, eh,
+05:23 
+
+05:23 192.168.10.0/24
+05:27 
+
+05:28 [resoplido]
+05:28 
+
+05:28 y teníamos los sectores de
+05:29 
+
+05:29 administración que necesitaba 50 host,
+05:31 
+
+05:31 sistema 30 y ahí lo que están viendo.
+05:33 
+
+05:33 Eh, entonces,
+05:35 
+
+05:35 eh, ahí que que la vez pasada asignamos
+05:40 
+
+05:40 para para administración un barra 26,
+05:42 
+
+05:42 para sistema un barra 27 y así.
+05:45 
+
+05:45 Em,
+05:47 
+
+05:47 no no no vamos a volver a calcular esos
+05:49 
+
+05:49 prefijos, sino que
+05:52 
+
+05:52 Eh
+05:54 
+
+05:54 Eh, sino que acá vamos a trabajar en
+05:56 
+
+05:56 preguntarnos por qué tiene sentido que
+05:58 
+
+05:58 no todas las subredes tengan el mismo
+06:01 
+
+06:01 tamaño, ¿sí? Porque y porque sus
+06:03 
+
+06:03 necesidades son diferentes a la vida
+06:05 
+
+06:05 real.
+06:10 
+
+06:10 El problema que que intentamos
+06:13 
+
+06:13 Que intentamos cubrir o que intentamos
+06:17 
+
+06:17 Entonces, si si en el caso de que a
+06:19 
+
+06:19 todos los a todos los sectores le damos
+06:21 
+
+06:21 una barra 26
+06:23 
+
+06:23 Una barra, recordamos que una barra 26
+06:25 
+
+06:25 nos nos daba 62 host.
+06:29 
+
+06:29 ¿Sí? Entonces
+06:31 
+
+06:31 Eh, en este ejemplo, si yo necesito 50
+06:34 
+
+06:34 host para administración
+06:36 
+
+06:36 Y y y y y con 62 host utilizables y sí,
+06:41 
+
+06:41 es razonable que le asigne.
+06:43 
+
+06:43 Pero para sistema necesito 30.
+06:46 
+
+06:46 Eh, entonces ya me están sobrando
+06:49 
+
+06:49 32 direcciones. Para ventas ventas neces
+06:54 
+
+06:54 Eh, o o o 30 también. Ve 20 host dice
+06:57 
+
+06:57 ahí, ventas. Eh, para ventas necesito eh
+07:00 
+
+07:00 20 host, entonces me sobran más. Y para
+07:03 
+
+07:03 invitados 10, me están sobrando mucho
+07:06 
+
+07:06 más.
+07:07 
+
+07:07 Entonces, la red va a funcionar
+07:10 
+
+07:10 Pero el diseño de la red ya no sería
+07:13 
+
+07:13 óptimo o no sería
+07:16 
+
+07:16 Eficiente.
+07:17 
+
+07:17 ¿Sí? Entonces, ya no nos alcanza
+07:19 
+
+07:19 solamente con o sea, eh eh
+07:22 
+
+07:22 no queremos solamente que la red
+07:23 
+
+07:23 funcione, sino que esté bien
+07:25 
+
+07:25 dimensionada, ¿sí?
+07:28 
+
+07:28 Entonces, antes nos preguntamos cuántas
+07:30 
+
+07:30 cuántas eh subredes obtengo
+07:33 
+
+07:33 O cuántos host tiene cada una. Sí, y
+07:36 
+
+07:36 ahora nos tenemos que preguntar
+07:38 
+
+07:38 Qué tamaño necesita cada sector
+07:41 
+
+07:41 O cada área o cada sede o lo que sea que
+07:44 
+
+07:44 yo esté diseñando,
+07:46 
+
+07:46 qué prefijo le le le le vamos a asignar,
+07:49 
+
+07:49 cuánto espacio estoy utilizando,
+07:53 
+
+07:53 eh eh esto cuánto estoy des
+07:56 
+
+07:56 perdiciando,
+07:59 
+
+07:59 dejar reservado para el crecimiento.
+08:01 
+
+08:01 Entonces, todas esas preguntas nos nos
+08:03 
+
+08:03 vamos a hacer. Y la vez pasada también
+08:06 
+
+08:06 había una compañera que preguntó si era
+08:08 
+
+08:08 eh
+08:09 
+
+08:09 si era eh la metodología eh CIDR CIDR.
+08:15 
+
+08:15 Em
+08:18 
+
+08:18 eh en realidad
+08:20 
+
+08:20 estamos empezando
+08:22 
+
+08:22 a
+08:24 
+
+08:24 a trabajar con eso, no no en su
+08:26 
+
+08:26 totalidad, ¿sí? Eh entonces, ahora nos
+08:29 
+
+08:29 vamos a encontrar con CIDR y VLSM, que
+08:32 
+
+08:32 ya vamos a ver qué es,
+08:34 
+
+08:34 este,
+08:36 
+
+08:36 pero em
+08:37 
+
+08:37 eh la la idea es que es que vamos
+08:43 
+
+08:43 eh eh adentrándonos en este tema.
+08:46 
+
+08:46 Bueno, eh no sé si el profe Obresiles
+08:50 
+
+08:50 habrá
+08:51 
+
+08:51 explicado de ya ya o ya si vieron el
+08:55 
+
+08:55 tema de la
+08:56 
+
+08:56 de las clases de las redes, ¿sí?
+08:58 
+
+08:58 Porque antes se hablaba antes y parece
+09:00 
+
+09:00 que fuera hace
+09:02 
+
+09:02 prehistoria, pero
+09:04 
+
+09:04 relativamente está hace poco,
+09:08 
+
+09:08 las redes se hablaba de clase de redes,
+09:11 
+
+09:11 ¿sí? Entonces,
+09:13 
+
+09:13 em
+09:15 
+
+09:15 el modelo original de IPv4 eh las redes
+09:18 
+
+09:18 se se organizaban en clases, teníamos la
+09:20 
+
+09:20 clase A, la clase B y la clase C, y cada
+09:23 
+
+09:23 una tenía una división fija entre bits
+09:26 
+
+09:26 de red y bits de host, ¿sí? Entonces,
+09:29 
+
+09:29 una clase A, bueno, como está ahí, eh eh
+09:32 
+
+09:32 el primer octeto estaba en el rango de 1
+09:34 
+
+09:34 a 126 y el prefijo natural es el barra
+09:37 
+
+09:37 8. Eh, eso significa que 8 bits de red y
+09:42 
+
+09:42 24 de host. Y la máscara por defecto,
+09:45 
+
+09:45 255.0.0,
+09:48 
+
+09:48 eh, tres veces cero.
+09:50 
+
+09:50 Eh, bueno, en la clase B
+09:53 
+
+09:53 el rango del primer octeto era de 128 a
+09:56 
+
+09:56 191, el prefijo natural barra 16 y así.
+10:01 
+
+10:01 Y la máscara 255 255
+10:04 
+
+10:04 00. Y la C es la que es la que usamos,
+10:07 
+
+10:07 es la que usamos de ejemplo, la que
+10:08 
+
+10:08 usamos en nuestra casa, ¿sí? Eh, es de
+10:11 
+
+10:11 192
+10:14 
+
+10:14 al 223 y el prefijo natural un barra 24.
+10:17 
+
+10:17 Entonces, ¿qué quiere decir eso? Es lo
+10:18 
+
+10:18 que venimos trabajando, 24 bits de red,
+10:20 
+
+10:20 ocho de host. Y la máscara triple 255.0.
+10:25 
+
+10:25 Este, bueno, y ahí usamos un término,
+10:27 
+
+10:27 prefijo natural, eh, es simplemente
+10:30 
+
+10:30 eh eh, porque nos referimos al prefijo
+10:33 
+
+10:33 que corresponde por por defecto a cada
+10:36 
+
+10:36 clase A, B y C. Y solamente vamos a
+10:38 
+
+10:38 hablar de A, B y C. Después hay otras
+10:40 
+
+10:40 clases, una clase D y una clase E para
+10:42 
+
+10:42 para para otros fines, pero como ya no
+10:44 
+
+10:44 se usa el concepto de clase, simplemente
+10:47 
+
+10:47 vamos a decir que eh eh, hay tres clases
+10:51 
+
+10:51 y que eh y que el sistema original
+10:55 
+
+10:55 imponía eh tamaño de
+10:58 
+
+10:58 tamaño de red predeterminada.
+11:04 
+
+11:04 Bueno.
+11:06 
+
+11:06 Em
+11:08 
+
+11:08 Bueno, como decíamos recién, hubo hubo
+11:11 
+
+11:11 había tamaños predeterminados
+11:14 
+
+11:14 y como tal, como lo habíamos mencionado
+11:17 
+
+11:17 antes, no no teníamos, eh, o no era
+11:20 
+
+11:20 óptimo esa esa división, ¿sí? Este,
+11:25 
+
+11:25 em [resoplido] en barra 8, barra 16,
+11:27 
+
+11:27 barra 24. Eh, empezó ese ese modelo dejó
+11:31 
+
+11:31 de ser práctico.
+11:33 
+
+11:33 ¿Por qué?
+11:34 
+
+11:34 Eh porque como como comenzamos diciendo
+11:37 
+
+11:37 un
+11:39 
+
+11:39 la necesidad real de una empresa, de una
+11:41 
+
+11:41 organización, de la universidad, de un
+11:43 
+
+11:43 kiosco o donde nos toque
+11:45 
+
+11:45 no siempre coincide con el tamaño fijo
+11:47 
+
+11:47 que ofrecía una clase. ¿Sí? Hay hay ahí
+11:52 
+
+11:52 se hablaba ah bueno, ahí dice ejemplo,
+11:54 
+
+11:54 una empresa necesita aproximadamente 500
+11:56 
+
+11:56 host en su red.
+11:59 
+
+11:59 Una clase C
+12:00 
+
+12:00 con eh barra 24
+12:02 
+
+12:02 me va a dar 200 host utilizables.
+12:06 
+
+12:06 Entonces, yo necesito 500 y una clase C
+12:08 
+
+12:08 me ofrece 254, no me alcanza. Diga.
+12:12 
+
+12:12 Disculpe que lo interrumpa, pero se ve
+12:14 
+
+12:14 muy borrosa la
+12:15 
+
+12:15 la diapositiva.
+12:17 
+
+12:17 Muy borrosa.
+12:19 
+
+12:19 Ay ay ay, a ver.
+12:21 
+
+12:21 Cada tanto se le corta, profe, también
+12:23 
+
+12:23 se lo escucha medio mal.
+12:26 
+
+12:26 Ah, medio mal.
+12:28 
+
+12:28 Estamos mal entonces.
+12:29 
+
+12:29 A ver, que voy a cambiar de red.
+12:32 
+
+12:32 Bueno, denme un segundo. Me me
+12:33 
+
+12:33 desconecto dos segundos.
+16:37 
+
+16:37 Bien.
+16:38 
+
+16:38 Eh, bueno, decíamos que que había clase
+16:42 
+
+16:42 A, clase B y clase C.
+16:44 
+
+16:44 Eh, todos con
+16:46 
+
+16:46 eh, todos con
+16:48 
+
+16:48 [resoplido]
+16:48 
+
+16:48 con un direccionamiento fijo. ¿Sí? Eh,
+16:52 
+
+16:52 eh, y decíamos que si yo tenía que que
+16:54 
+
+16:54 de tenía un problema de 500 hosts, por
+16:56 
+
+16:56 ejemplo, de 500 máquinas
+16:58 
+
+16:58 o 500 dispositivos,
+17:00 
+
+17:00 eh,
+17:12 
+
+17:12 500 dispositivos, este,
+17:16 
+
+17:16 eh, una clase C era demasiado pequeña
+17:20 
+
+17:20 porque tenía 254 host, no alcanzaba. Si
+17:24 
+
+17:24 tenía una clase B
+17:26 
+
+17:26 tenía 65,534
+17:28 
+
+17:28 y si era una clase A, 16 millones.
+17:31 
+
+17:31 Y si yo le restaba los 500 host, en una
+17:35 
+
+17:35 clase A me me res me me sobraban.
+17:39 
+
+17:39 Eh, me sobraban 16 16 millones, 65,034
+17:44 
+
+17:44 en una clase B y en una clase C
+17:46 
+
+17:46 directamente no alcanza. Entonces,
+17:49 
+
+17:49 ahí eh en en ese en ese
+17:54 
+
+17:54 eh en en en en en esa
+18:00 
+
+18:00 en esa distribución, en el en ese
+18:03 
+
+18:03 esquema rígido,
+18:04 
+
+18:04 eh no había una una alternativa eh
+18:08 
+
+18:08 intermedia que se ajusta a la a la a la
+18:11 
+
+18:11 necesidad real, o era o era A, B o C.
+18:14 
+
+18:14 Entonces,
+18:17 
+
+18:17 eh no es que las clases estuvieran mal,
+18:19 
+
+18:19 sino que
+18:23 
+
+18:23 no es que las clases estuvieran mal,
+18:25 
+
+18:25 sino que opa.
+18:30 
+
+18:30 ¿Cuántos son en
+18:32 
+
+18:32 no se están terminando de de ingresar?
+18:37 
+
+18:37 Em,
+18:41 
+
+18:41 como le decía, no es que la la las
+18:43 
+
+18:43 clases estuvieran mal, el problema era
+18:44 
+
+18:44 que a medida que que que que fue
+18:46 
+
+18:46 creciendo Internet y la cantidad de de
+18:49 
+
+18:49 de de de organizaciones conectadas, esa
+18:51 
+
+18:51 falta de flexibilidad hizo que que no
+18:54 
+
+18:54 sea no sea no sea eficiente el espacio
+18:58 
+
+18:58 de de de de Internet de versión 4, ¿sí?
+19:02 
+
+19:02 Entonces, había un un desperdicio o una
+19:05 
+
+19:05 mala o una o no un o una utilización que
+19:08 
+
+19:08 no era del todo óptima de las de las
+19:11 
+
+19:11 direcciones, de las direcciones IP.
+19:14 
+
+19:14 Bien.
+19:16 
+
+19:16 Entonces,
+19:17 
+
+19:17 con el con el con el el el eh CIDR,
+19:22 
+
+19:22 eh enrutamiento interdominio sin clase
+19:25 
+
+19:25 significa,
+19:26 
+
+19:26 eh Classless Inter-Domain Routing.
+19:29 
+
+19:29 Con el CIDR,
+19:31 
+
+19:31 em
+19:33 
+
+19:33 eh ya ya dejamos de de
+19:40 
+
+19:40 ya dejamos de
+19:43 
+
+19:43 de de de de trabajar con con
+19:48 
+
+19:48 con un una un una asigna una asignación
+19:50 
+
+19:50 fija, ¿sí?
+19:52 
+
+19:52 Entonces, eh eh
+19:56 
+
+19:56 ya ya no necesitamos la la lo la
+19:58 
+
+19:58 los tamaños naturales de la del
+20:02 
+
+20:02 del direccionamiento de clase A, B o C.
+20:04 
+
+20:04 ¿Qué cambia acá con esta incorporación?
+20:06 
+
+20:06 Bueno, la vez pasada lo habíamos visto,
+20:08 
+
+20:08 eh eh las redes se identifican a través
+20:12 
+
+20:12 de un prefijo, eh barra N, porque puede
+20:15 
+
+20:15 puede
+20:17 
+
+20:17 puede valer de 1 a 32.
+20:23 
+
+20:23 Eh
+20:24 
+
+20:24 eh
+20:27 
+
+20:27 este
+20:32 
+
+20:32 Y bueno, por ejemplo, ahí tenemos el
+20:34 
+
+20:34 ejemplo de la red 10.0/26.
+20:37 
+
+20:37 Ese 26 significa que son 26 bits que
+20:41 
+
+20:41 pertenecen a la red y 6 y 6 y 6 que
+20:45 
+
+20:45 pertenecen al host. Recuerden que IPV4
+20:48 
+
+20:48 tiene 32 bits, entonces, eh eh cuando
+20:52 
+
+20:52 hablamos cuando hablamos del sufijo,
+20:54 
+
+20:54 siempre le tenemos que restar de 32. En
+20:56 
+
+20:56 este caso, 32 - 26 eh va a ser 6.
+21:01 
+
+21:01 Entonces, el prefijo pasa a ser el
+21:02 
+
+21:02 elemento que nos dice dónde termina la
+21:03 
+
+21:03 parte de red y dónde comienza la parte
+21:06 
+
+21:06 de host. Eh eh ya no dependemos de, como
+21:09 
+
+21:09 decíamos recién, ya no dependemos de 8,
+21:11 
+
+21:11 16, de barra 8, barra 16 o barra 24.
+21:14 
+
+21:14 Este, ahora ya tenemos
+21:17 
+
+21:17 ya tenemos, eh, eh,
+21:20 
+
+21:20 eh, que era, era muy fijo, 8, 16, 24,
+21:23 
+
+21:23 era fijo. Y ahora ya tenemos prefijos
+21:26 
+
+21:26 intermedios, barra 20, barra 22, 26, 28,
+21:30 
+
+21:30 eso nos, eso nos da mucha más, más
+21:32 
+
+21:32 flexibilidad.
+21:34 
+
+21:34 Este,
+21:36 
+
+21:36 y qué, mmm,
+21:38 
+
+21:38 eh, bueno, como les decía recién, qué,
+21:41 
+
+21:41 qué significa el, o qué representa ese
+21:43 
+
+21:43 prefijo, bueno, eh, ya no es una
+21:45 
+
+21:45 abreviatura de máscara, eh, nos está
+21:47 
+
+21:47 diciendo que es, cómo se divide la
+21:51 
+
+21:51 Chicos, pónganse un, un, un mensaje en
+21:53 
+
+21:53 el grupo, eh, eh,
+21:56 
+
+21:56 porque están entrando a desorden, a des,
+21:59 
+
+21:59 eh, desincronizados todos, eh, a cada
+22:02 
+
+22:02 rato.
+22:03 
+
+22:03 Así ya entran todos de una sola vez.
+22:08 
+
+22:08 El, bueno,
+22:10 
+
+22:10 ese barra 26 nos está diciendo cómo se
+22:12 
+
+22:12 divide la dirección. Recién lo dijimos,
+22:14 
+
+22:14 26 bits de red y 6 de, y 6 de host, ¿sí?
+22:18 
+
+22:18 Eh, qué, qué problema viene a resolver
+22:20 
+
+22:20 esto.
+22:22 
+
+22:22 Bueno,
+22:23 
+
+22:23 como, como en el ejemplo anterior, que
+22:25 
+
+22:25 decíamos que había una,
+22:29 
+
+22:29 una,
+22:32 
+
+22:32 que había una,
+22:33 
+
+22:33 una, una empresa, una organización que
+22:35 
+
+22:35 necesita 500 host, entonces, en el, en
+22:38 
+
+22:38 el, y como decíamos recién, en el, en el
+22:41 
+
+22:41 sistema por clase, 24 no alcanza, 16
+22:45 
+
+22:45 sobra. Con CIDR tenemos puntos
+22:47 
+
+22:47 intermedios.
+22:50 
+
+22:50 ¿Sí?
+22:50 
+
+22:50 Eh, entonces, eh, ahora tenemos que
+22:54 
+
+22:54 entender eh, ese contexto de lo que, de
+22:56 
+
+22:56 lo que hablamos la clase pasada, que no,
+22:58 
+
+22:58 no eran
+22:59 
+
+22:59 máscaras raras, digamos, sino que forman
+23:01 
+
+23:01 parte de un direccionamiento sin clases,
+23:04 
+
+23:04 o sea, eso tenemos que entender, ya no
+23:05 
+
+23:05 trabajamos con clases. Eh, las clases A,
+23:09 
+
+23:09 B y C ya dejaron, ya no sé si ustedes
+23:12 
+
+23:12 eh, en algún momento eh, por ahí yo lo
+23:15 
+
+23:15 nombro como que
+23:16 
+
+23:16 eh, para ustedes
+23:18 
+
+23:18 si no lo conocen es algo natural eh, ya
+23:21 
+
+23:21 trabajar con
+23:23 
+
+23:23 con con los con los prefijos, pero eh, o
+23:26 
+
+23:26 o ustedes trabajaron en algún momento
+23:28 
+
+23:28 con clases de dirección, clase A, clase
+23:30 
+
+23:30 B o clase C.
+23:35 
+
+23:35 ¿Alguno trabajó con con direccionamiento
+23:38 
+
+23:38 clase A, B o C?
+23:45 
+
+23:45 En mi caso no, profe.
+23:45 
+
+23:45 Pregunta.
+23:46 
+
+23:46 No, profe.
+23:47 
+
+23:47 ¿Trabajaron con clase A?
+23:49 
+
+23:49 No, bien, entonces para ustedes natural
+23:50 
+
+23:50 esto.
+23:51 
+
+23:51 Entonces,
+23:53 
+
+23:53 pero bueno, en algún lado
+23:55 
+
+23:55 pueden llegar a leer que que le pueden
+23:59 
+
+23:59 decir una clase A, una clase B o una
+24:00 
+
+24:00 clase C. Si leen eso, eso ya ya
+24:04 
+
+24:04 dejó de ser, ¿sí?
+24:07 
+
+24:07 Eh,
+24:08 
+
+24:08 entonces, este hm, bueno,
+24:12 
+
+24:12 bueno, eso básicamente repite lo mismo
+24:15 
+
+24:15 que venimos que venimos hablando, o sea,
+24:17 
+
+24:17 el tamaño depende del prefijo. Y acá hay
+24:20 
+
+24:20 una relación directa, ustedes vean eh,
+24:23 
+
+24:23 cuando
+24:24 
+
+24:24 cuanto más chico es el prefijo
+24:28 
+
+24:28 el bloque más grande y cuando más grande
+24:30 
+
+24:30 el prefijo el bloque el bloque es más
+24:33 
+
+24:33 chico. Eh, por ejemplo, ahí dice barra
+24:36 
+
+24:36 20
+24:37 
+
+24:37 4096 direcciones, a medida que le voy
+24:39 
+
+24:39 pasando un bit se va reduciendo a la
+24:41 
+
+24:41 mitad, barra 21 2048, barra 22 1024,
+24:46 
+
+24:46 barra 20 y así, ¿ven? Que se va
+24:47 
+
+24:47 reduciendo a la mitad. Eh, no,
+24:51 
+
+24:51 la idea no es que se memoricen esta
+24:52 
+
+24:52 tabla, es es que reconozcan el patrón. A
+24:55 
+
+24:55 medida que su que sumo un bit lo divido
+24:58 
+
+24:58 a la mitad, a la mi, a la, a la mitad la
+24:60 
+
+24:60 cantidad de direcciones en el bloque.
+25:02 
+
+25:02 ¿Sí?
+25:03 
+
+25:03 Este,
+25:06 
+
+25:06 ca, eh,
+25:08 
+
+25:08 bueno, eh, básicamente eso tienen que
+25:10 
+
+25:10 que tener en cuenta.
+25:12 
+
+25:12 Em,
+25:17 
+
+25:17 bueno, y de ahí
+25:19 
+
+25:19 vamos a
+25:21 
+
+25:21 am,
+25:22 
+
+25:22 e, este, em, a incorporar
+25:27 
+
+25:27 el concepto de ve, BLSM,
+25:30 
+
+25:30 ¿sí?
+25:31 
+
+25:31 Eh,
+25:33 
+
+25:33 bueno, como habíamos dicho, eh, CIDR
+25:36 
+
+25:36 significa, em, eh,
+25:39 
+
+25:39 eh, rute, enrutamiento interdominio sin
+25:41 
+
+25:41 clases, ¿sí? ¿Y cuál es, y cuál es lo
+25:44 
+
+25:44 que no, y qué es lo que nos deja hacer?
+25:46 
+
+25:46 Es, em,
+25:55 
+
+25:55 em,
+25:57 
+
+25:57 que lo que nos deja, que lo que nos deja
+25:59 
+
+25:59 hacer es, es expresarlo mediante una
+26:01 
+
+26:01 red, es, expresarlo mediante un prefijo,
+26:04 
+
+26:04 barra N.
+26:06 
+
+26:06 ¿Qué pasa que siguen entrando tan tarde?
+26:08 
+
+26:08 Eh, ¿han quedado todos descolgados? ¿Qué
+26:10 
+
+26:10 pasó?
+26:12 
+
+26:12 ¿Están entrando tarde o o quedaron
+26:14 
+
+26:14 descolgados?
+26:16 
+
+26:16 No, cuando cuando usted se desconectó,
+26:18 
+
+26:18 nos sacó a todos directamente, por eso
+26:20 
+
+26:20 están volviendo a entrar todos, ¿no?
+26:25 
+
+26:25 Bien.
+26:29 
+
+26:29 No queda nadie ya por entrar, pasa que,
+26:31 
+
+26:31 em, eh, me está llegando cada rato la
+26:33 
+
+26:33 notificación y me, y, y me, me
+26:35 
+
+26:35 desconcentro.
+26:36 
+
+26:36 ¿No queda nadie ya por entrar?
+26:40 
+
+26:40 Aparentemente no, ven, 81.
+26:43 
+
+26:43 80.
+26:44 
+
+26:44 Em,
+26:49 
+
+26:49 bueno, habíamos dicho que, em, CIDR,
+26:54 
+
+26:54 em,
+26:56 
+
+26:56 una red se expresa mediante mediante un
+26:58 
+
+26:58 prefijo, un barra N, ¿sí?
+27:00 
+
+27:00 Eh, bueno, ahí ahí tenemos los ejemplos,
+27:03 
+
+27:03 eh,
+27:04 
+
+27:04 172 16 0 0 barra 20, 170 192 168 10 0
+27:11 
+
+27:11 26. Eh
+27:15 
+
+27:15 eh, entonces, cuando usamos CIDR
+27:20 
+
+27:20 em
+27:22 
+
+27:22 lo tenemos que usar cuando se
+27:25 
+
+27:25 cuando nos sirva como respuesta a la
+27:27 
+
+27:27 pregunta, ¿cómo representamos y
+27:30 
+
+27:30 dimensionamos redes sin sin estar atado
+27:34 
+
+27:34 a una clase fija? Es decir, eh, eh,
+27:38 
+
+27:38 vuelvo a repetir, clase A, clase B,
+27:39 
+
+27:39 clase nos da un
+27:41 
+
+27:41 un un un barra 8 16 24. Y acá podemos
+27:45 
+
+27:45 tener alternativas, ¿sí?
+27:48 
+
+27:48 ¿Y qué hace VLSM?
+27:51 
+
+27:51 VLSM
+27:52 
+
+27:52 es eh variable length subnet mask,
+27:55 
+
+27:55 máscara de subred de longitud variable.
+27:58 
+
+27:58 Y acá la función es diferente.
+28:03 
+
+28:03 Permite que dentro de un mismo espacio
+28:05 
+
+28:05 de direccionamiento
+28:06 
+
+28:06 podamos crear subredes de distintos
+28:09 
+
+28:09 tamaños.
+28:10 
+
+28:10 ¿Sí?
+28:11 
+
+28:11 Eh, por ejemplo
+28:13 
+
+28:13 eh, en la en en una red 192 168 10 0 24
+28:20 
+
+28:20 barra 24
+28:23 
+
+28:23 podemos tener
+28:25 
+
+28:25 subredes
+28:26 
+
+28:26 una barra 20 10 10 192 168 10 0 barra 25
+28:31 
+
+28:31 barra 26 barra 27, ¿sí?
+28:35 
+
+28:35 Hay
+28:37 
+
+28:37 eh
+28:38 
+
+28:38 como dice ahí, ¿ven? Va eh 192 168 10
+28:42 
+
+28:42 192 barra 27 192 168 10 224 barra 28,
+28:49 
+
+28:49 ¿sí? Entonces, y no todas las redes van
+28:52 
+
+28:52 a tener la la misma máscara.
+28:54 
+
+28:54 Entonces,
+28:56 
+
+28:56 eh,
+28:57 
+
+28:57 para que quede claro, CIDR trabaja con
+28:60 
+
+28:60 la idea de pre de prefijo flexible
+29:03 
+
+29:03 y rompe con el modelo rígido de clase.
+29:06 
+
+29:06 Y VLSM
+29:08 
+
+29:08 utiliza la flexibilidad esta de de de de
+29:12 
+
+29:12 encontrar alternativas intermedias
+29:16 
+
+29:16 para crear subredes de distinto tamaño,
+29:19 
+
+29:19 ¿sí?
+29:20 
+
+29:20 Bueno, y ahí y ahí tienen algunos
+29:22 
+
+29:22 ejemplos. Em,
+29:29 
+
+29:29 y eh cuándo se usa cada uno o para qué
+29:31 
+
+29:31 es cada uno.
+29:34 
+
+29:34 Eh, bien.
+29:37 
+
+29:37 Em, bueno, también teníamos un
+29:40 
+
+29:40 subnetting un subnetting
+29:43 
+
+29:43 eh el el subnetting fijo. Y ahí es donde
+29:46 
+
+29:46 viene
+29:47 
+
+29:47 eh,
+29:48 
+
+29:48 o o o o donde conviene utilizar
+29:52 
+
+29:52 o entra la solución que implica usar
+29:55 
+
+29:55 VLSM.
+29:56 
+
+29:56 Este, si todas las subredes tienen, por
+29:59 
+
+29:59 ejemplo, si todas las subredes tienen el
+30:01 
+
+30:01 mismo tamaño, aunque las necesidades
+30:03 
+
+30:03 sean diferentes,
+30:05 
+
+30:05 podemos ter eh terminar reservando
+30:07 
+
+30:07 muchas direcciones
+30:09 
+
+30:09 que nunca va
+30:10 
+
+30:10 vamos a utilizar, es decir, estamos
+30:12 
+
+30:12 desperdiciando. Ahí tenemos un ejemplo.
+30:14 
+
+30:14 Eh, por ejemplo, está bien en la ULA en
+30:17 
+
+30:17 en no la ULA era una en una en una
+30:19 
+
+30:19 empresa que tiene lo las áreas de
+30:22 
+
+30:22 administración, de ventas, de soporte y
+30:25 
+
+30:25 y si va la gente de los clientes una le
+30:27 
+
+30:27 crea una red para invitados.
+30:29 
+
+30:29 Bueno, puede ser que para administración
+30:32 
+
+30:32 necesite 100 hosts entre entre
+30:34 
+
+30:34 computadoras, impresoras, celulares, eh
+30:37 
+
+30:37 eh servidores. Para ventas, bueno, 40
+30:40 
+
+30:40 hosts, para soporte, 20 hosts, y así,
+30:42 
+
+30:42 ¿ven?
+30:43 
+
+30:43 Entonces, son son necesidades distintas.
+30:48 
+
+30:48 Si le aplicamos un esquema un esquema de
+30:51 
+
+30:51 tamaño fijo,
+30:54 
+
+30:54 todas las subredes tendrían que usar la
+30:56 
+
+30:56 misma máscara.
+30:57 
+
+30:57 Eh eh ese ese enfoque eh recién decíamos
+31:01 
+
+31:01 VLSM, acá sería FLSM,
+31:06 
+
+31:06 fijo.
+31:07 
+
+31:07 Fixed length subnet mask, máscara de
+31:09 
+
+31:09 subred longitud fija.
+31:12 
+
+31:12 Y bueno, eh estamos en lo mismo, lo que
+31:14 
+
+31:14 venimos repitiendo. Si todas las redes
+31:17 
+
+31:17 deben de o deben tener el mismo tamaño,
+31:21 
+
+31:21 eh ese ese tamaño tiene que ser
+31:23 
+
+31:23 suficiente para el sector más grande.
+31:26 
+
+31:26 Entonces, el el el sector más grande,
+31:28 
+
+31:28 ¿cuál es? El de 100 hosts. Entonces, em
+31:33 
+
+31:33 eh qué qué debería tener yo, una una A
+31:37 
+
+31:37 ver, empiezo por una barra 26. Una barra
+31:40 
+
+31:40 26 me va a permitir 62 hosts. ¿Cuánto me
+31:44 
+
+31:44 pide? 100. ¿Me alcanza? No. Entonces,
+31:48 
+
+31:48 voy bajando. Necesito eh una barra 25.
+31:52 
+
+31:52 ¿Qué me permite
+31:54 
+
+31:54 una barra 25? Una barra 25 me permite
+31:58 
+
+31:58 126 hosts. Entonces, ah, bien, para
+32:02 
+
+32:02 administración está bien, me alcanza.
+32:04 
+
+32:04 Pero ¿qué pasa si uso barra 25 para los
+32:07 
+
+32:07 demás sectores? Eh como decíamos recién,
+32:10 
+
+32:10 administración ya lo tengo
+32:12 
+
+32:12 medianamente
+32:14 
+
+32:14 eh eh solucionado. Pero para ventas,
+32:18 
+
+32:18 eh yo yo necesito 40 hosts
+32:21 
+
+32:21 y y voy a tener 126 disponibles.
+32:25 
+
+32:25 Para para para soporte, 20, y también
+32:29 
+
+32:29 voy a tener 126. Y para invitados, 5, y
+32:32 
+
+32:32 también voy a tener
+32:33 
+
+32:33 tener 126. Vuelvo a decir, la red
+32:36 
+
+32:36 funciona. Sí, sí funciona.
+32:39 
+
+32:39 Pero no es no es eficiente. Estoy estoy
+32:41 
+
+32:41 desperdiciando mucha mucha
+32:45 
+
+32:45 mucha dirección, entonces ahí es cuando
+32:48 
+
+32:48 en en en en la fase de diseño nos
+32:51 
+
+32:51 tenemos que preguntar cuántas
+32:53 
+
+32:53 direcciones estamos reservando, cuántas
+32:55 
+
+32:55 vamos a usar realmente
+32:57 
+
+32:57 y y cuánto dejamos para un espacio de
+32:59 
+
+32:59 crecimiento, por ejemplo, a ver, antes
+33:04 
+
+33:04 cuando a mí me tocó me tocó en algún
+33:06 
+
+33:06 momento diseñar una red
+33:08 
+
+33:08 eh uno uno calculaba, o sea, yo vengo de
+33:11 
+
+33:11 la de la época de la época en que
+33:15 
+
+33:15 en que era el tamaño fijo
+33:17 
+
+33:17 o sea, existían las clases no existía
+33:20 
+
+33:20 CIDR, no existía VLSM
+33:25 
+
+33:25 entonces uno uno elegía la red y y y
+33:29 
+
+33:29 calculaba o o o estimaba a ojo el el
+33:33 
+
+33:33 posible crecimiento, por ejemplo,
+33:35 
+
+33:35 nosotros decíamos, dejábamos un un rango
+33:38 
+
+33:38 de direcciones 192.168.1
+33:42 
+
+33:42 eh 1.1 al 1.50
+33:46 
+
+33:46 para posibles eh mmm servidores
+33:50 
+
+33:50 y y vos capaz que usabas 10 y te
+33:52 
+
+33:52 quedaban 40 desperdiciados
+33:55 
+
+33:55 ¿sí?
+33:56 
+
+33:56 Y bueno, y y y de ahí para la sucursal,
+33:59 
+
+33:59 no sé, sucursal Buenos Aires,
+34:00 
+
+34:00 192.168.2.0
+34:04 
+
+34:04 y eran muchos menos, no no es lo mismo,
+34:07 
+
+34:07 por ejemplo, en un banco, no es lo mismo
+34:09 
+
+34:09 una casa central que una sucursal, lo
+34:12 
+
+34:12 mismo que la universidad, no es lo mismo
+34:14 
+
+34:14 el departamento de Ciencias Exactas,
+34:16 
+
+34:16 Físicas y Naturales de de de de sede
+34:19 
+
+34:19 central, de sede de sede de La Rioja que
+34:21 
+
+34:21 la que pueda haber en, no sé, en
+34:23 
+
+34:23 Aimogasta eh es no es lo mismo la
+34:26 
+
+34:26 cantidad de de equipos que pueda haber
+34:29 
+
+34:29 ¿sí? eh entonces
+34:32 
+
+34:32 eh te tenemos que que
+34:35 
+
+34:35 Que ver este
+34:37 
+
+34:37 Que que que que ocurre con con esto.
+34:40 
+
+34:40 Entonces, por ejemplo, si estoy en un
+34:41 
+
+34:41 esquema de de de de de
+34:45 
+
+34:45 De direccionamiento fijo el el FLSM
+34:49 
+
+34:49 Em
+34:51 
+
+34:51 Cada bloque va a reservar una capacidad
+34:53 
+
+34:53 completa aunque el sector no la use
+34:56 
+
+34:56 Entonces, puedo terminar eh consumiendo
+34:59 
+
+34:59 el espacio original y
+35:02 
+
+35:02 Y y eso me va a dar me puede llegar a
+35:06 
+
+35:06 dar un problema cuando trabajemos con un
+35:07 
+
+35:07 bloque limitado
+35:09 
+
+35:09 Este
+35:10 
+
+35:10 ¿Por qué? Porque no tenemos direcciones
+35:11 
+
+35:11 infinitas
+35:13 
+
+35:13 Entonces, si yo dime mal dimensiono un
+35:15 
+
+35:15 bloque
+35:16 
+
+35:16 Me va a condicionar a lo que yo hago
+35:18 
+
+35:18 después. Eso es con con el tamaño fijo y
+35:21 
+
+35:21 ahí es donde entra
+35:23 
+
+35:23 El el tamaño variable
+35:25 
+
+35:25 Eh, entonces, ¿por qué le voy a asignar
+35:29 
+
+35:29 El mismo tamaño a sectores que necesitan
+35:32 
+
+35:32 cantidades diferentes de de host, por
+35:34 
+
+35:34 ejemplo?
+35:35 
+
+35:35 En entonces
+35:37 
+
+35:37 Si si yo tengo un sector grande, le
+35:39 
+
+35:39 asigno un bloque grande. Si tengo un
+35:40 
+
+35:40 sector mediano, un bloque mediano. Si
+35:42 
+
+35:42 tengo un sector chico, un bloque un
+35:43 
+
+35:43 bloque chico Entonces, eh en este caso,
+35:48 
+
+35:48 trayéndolo al ejemplo acá, 100 host, un
+35:50 
+
+35:50 barra 25. 40 host, un barra 26
+35:54 
+
+35:54 Un y 20 host, un un barra 27. Cinco
+35:58 
+
+35:58 host, un barra 29
+35:60 
+
+35:60 ¿Sí? Entonces, eh la idea es
+36:04 
+
+36:04 Eh que cada cada necesidad de de
+36:08 
+
+36:08 asignación debe recibir un un un un
+36:11 
+
+36:11 bloque acuerdo de acuerdo
+36:15 
+
+36:15 Tamaño
+36:17 
+
+36:17 Eso es
+36:19 
+
+36:19 Sería lo que tenemos que que que que
+36:23 
+
+36:23 entender
+36:25 
+
+36:25 Bueno
+36:27 
+
+36:27 Em
+36:30 
+
+36:30 Y acá se seguí se sigue explicando eh
+36:33 
+
+36:33 esto para que lo eh es muy muy muy
+36:36 
+
+36:36 detallado, está ahí, pero le va a servir
+36:38 
+
+36:38 para que lo entiendan. ¿Lo están
+36:39 
+
+36:39 entendiendo lo que le estoy diciendo?
+36:43 
+
+36:43 O yo me hago explicar, mejor dicho.
+36:45 
+
+36:45 Bien.
+36:46 
+
+36:46 Eh entonces,
+36:49 
+
+36:49 teníamos el problema, el
+36:51 
+
+36:51 lo repito porque hay muchos que han
+36:52 
+
+36:52 entrado tarde y no sé si si lo han
+36:54 
+
+36:54 entendido o se lo o se han escuchado,
+36:56 
+
+36:56 por eso lo voy a repetir.
+36:58 
+
+36:58 Em
+37:01 
+
+37:01 Eh tenemos el asignación fija
+37:04 
+
+37:04 que nos permitía eh
+37:06 
+
+37:06 bloque de 8 16 o
+37:09 
+
+37:09 redes 8 16 o barra 24 y nos da y ya
+37:12 
+
+37:12 había una cantidad fija de de de host.
+37:16 
+
+37:16 Entonces,
+37:17 
+
+37:17 eh y y no nos permitía buscar soluciones
+37:20 
+
+37:20 intermedias.
+37:22 
+
+37:22 Este
+37:24 
+
+37:24 Ahora qué estamos haciendo, estamos
+37:26 
+
+37:26 estamos eh incorporando una solución que
+37:30 
+
+37:30 nos permite eh eh asignar este em eh
+37:38 
+
+37:38 algo más flexible, ¿sí? Estamos
+37:40 
+
+37:40 adaptando el tamaño de cada bloque de
+37:42 
+
+37:42 acuerdo a la a la necesidad.
+37:46 
+
+37:46 Entonces, ¿cuál es la ventaja principal
+37:48 
+
+37:48 de este? Eh la ventaja no es solamente
+37:50 
+
+37:50 usar máscara distinta, es decir, usar un
+37:54 
+
+37:54 espacio de direcciones en forma más
+37:56 
+
+37:56 eficiente.
+37:57 
+
+37:57 Eh por ejemplo, en lugar de reservar 126
+38:01 
+
+38:01 126 host para un sector que solamente
+38:04 
+
+38:04 necesita cinco,
+38:06 
+
+38:06 y bueno, entonces reservamos un un un
+38:09 
+
+38:09 tamaño de bloque mucho más chico, ¿sí?
+38:12 
+
+38:12 Entonces, eso nos va a permitir
+38:13 
+
+38:13 conservar direcciones para qué, para
+38:15 
+
+38:15 nuevos sectores, por ejemplo, a ver, eh
+38:18 
+
+38:18 uno puede decir este, no sé,
+38:25 
+
+38:25 Eh, si si uno tiene el el
+38:29 
+
+38:29 el de acuerdo a la sucursal y de acuerdo
+38:31 
+
+38:31 a lo que sea, eh, me va a permitir
+38:33 
+
+38:33 crecer para eh eh o o o o o si voy a
+38:36 
+
+38:36 agregar nuevos servicios
+38:38 
+
+38:38 o si voy a agregar nuevas subredes, o
+38:40 
+
+38:40 sea, yo tengo que ir yo tengo que dejar
+38:42 
+
+38:42 planificado
+38:44 
+
+38:44 yo tengo que dejar planificado un
+38:46 
+
+38:46 crecimiento a futuro, ¿sí? Entonces, eh
+38:50 
+
+38:50 VLSM no no no es que viene a cambiar las
+38:53 
+
+38:53 las las reglas del subnetting que
+38:55 
+
+38:55 habíamos visto la vez pasada, sino que
+38:57 
+
+38:57 acá si sigue siendo válido el tema de lo
+38:59 
+
+38:59 que hablamos de la red, de la tablita
+39:01 
+
+39:01 que habíamos hecho que
+39:02 
+
+39:02 que teníamos las columnas de red, de
+39:04 
+
+39:04 broadcasting, rango de host, el prefijo,
+39:06 
+
+39:06 la máscara, tamaño del bloque, ¿sí? Acá
+39:09 
+
+39:09 lo único que cambia es cómo combinamos
+39:12 
+
+39:12 subredes de distinto tamaño dentro de un
+39:14 
+
+39:14 mismo diseño.
+39:22 
+
+39:22 Bueno, básicamente sigue eh sigue ahí
+39:25 
+
+39:25 explicando un un un
+39:29 
+
+39:29 un
+39:31 
+
+39:31 un la regla que la vez pasa
+39:36 
+
+39:36 la habíamos mencionado. Eh, tenemos que
+39:39 
+
+39:39 comenzar por
+39:41 
+
+39:41 eh o o ordenar los requerimientos de
+39:44 
+
+39:44 mayor a menor, ¿sí? Y así y eso eso es
+39:46 
+
+39:46 una regla una regla escrita en piedra.
+39:53 
+
+39:53 Cuando trabajamos con VLSM, tenemos que
+39:55 
+
+39:55 ordenar los requerimientos de mayor a
+39:57 
+
+39:57 menor, asignar primero la la subred más
+40:00 
+
+40:00 grande.
+40:01 
+
+40:01 Y ahí, ¿y por qué tenemos que empezar
+40:03 
+
+40:03 por la más grande?
+40:05 
+
+40:05 ¿Por qué? Porque un bloque grande
+40:07 
+
+40:07 necesita un espacio continuo mayor, ¿sí?
+40:11 
+
+40:11 Y además tiene menos posiciones válidas
+40:13 
+
+40:13 donde donde donde puede comenzar.
+40:16 
+
+40:16 Entonces,
+40:17 
+
+40:17 eh, si si tomando el ejemplo que venimos
+40:20 
+
+40:20 que venimos que
+40:21 
+
+40:21 que surge la necesidad de que
+40:23 
+
+40:23 administración necesita 100 20 40
+40:26 
+
+40:26 ventas 40 soporte 20 visitante o
+40:29 
+
+40:29 invitados 5,
+40:31 
+
+40:31 eh entonces y ahí lo vamos traduciendo
+40:34 
+
+40:34 en un barra 25, en un barra 26, en un
+40:37 
+
+40:37 barra 27, en un barra 29. Entonces,
+40:40 
+
+40:40 ¿cuál deberíamos asignar primero?
+40:46 
+
+40:46 ¿Cuál prefijo deberíamos asignar
+40:47 
+
+40:47 primero?
+40:50 
+
+40:50 25.
+40:53 
+
+40:53 25, ¿por qué?
+41:01 
+
+41:01 Porque el sería el el barra 25,
+41:03 
+
+41:03 siguiendo la lógica que estamos
+41:04 
+
+41:04 hablando.
+41:05 
+
+41:05 Porque es el que tiene más host.
+41:07 
+
+41:07 Porque es el el que el que el que tiene
+41:09 
+
+41:09 el tamaño más grande.
+41:11 
+
+41:11 Ahora supongamos que hacemos al revés
+41:14 
+
+41:14 y y y ocupamos los bloques más chicos
+41:17 
+
+41:17 primero.
+41:18 
+
+41:18 Bueno, vamos a ir llenando las distintas
+41:20 
+
+41:20 zonas del espacio disponible y vamos
+41:22 
+
+41:22 dejando huecos en el medio.
+41:27 
+
+41:27 Vamos dejando huecos en el medio.
+41:30 
+
+41:30 Eh
+41:31 
+
+41:31 pero eh el problema es que esos huecos
+41:33 
+
+41:33 quizás no sean
+41:35 
+
+41:35 eh no sean lo suficientemente grande eh
+41:40 
+
+41:40 o no estén
+41:42 
+
+41:42 correctamente alineados para después
+41:44 
+
+41:44 asignar una para después asignar una una
+41:47 
+
+41:47 subred grande.
+41:49 
+
+41:49 ¿Sí? Entonces, no es que me van a faltar
+41:52 
+
+41:52 direcciones.
+41:54 
+
+41:54 Las direcciones van a estar, pero ha
+41:55 
+
+41:55 quedado fragmentado el espacio
+41:58 
+
+41:58 eh de una forma que no es útil
+42:01 
+
+42:01 eh para un bloque que necesitamos
+42:03 
+
+42:03 asignar. Entonces, para eh por eso
+42:04 
+
+42:04 necesitamos el los bloques grandes
+42:07 
+
+42:07 primero,
+42:08 
+
+42:08 ocupamos la todos los los los los
+42:11 
+
+42:11 espacios contiguos primero
+42:13 
+
+42:13 Y después vamos ocupando los espacios
+42:16 
+
+42:16 más chicos. Si hacemos al revés, yo
+42:18 
+
+42:18 puedo, puede funcionar, pero cuando me
+42:20 
+
+42:20 tengo que asignar un espacio grande no
+42:22 
+
+42:22 voy a tener, no voy a tener espacios
+42:23 
+
+42:23 contiguos, ¿sí?
+42:25 
+
+42:25 Entonces, eh, por eso se dice que
+42:29 
+
+42:29 Eh Eh, tenemos que, que
+42:32 
+
+42:32 Que, que utilizar los bloques, los
+42:34 
+
+42:34 bloques grandes primero.
+42:36 
+
+42:36 Eh
+42:38 
+
+42:38 Bueno, eh, básicamente ¿qué ganamos con
+42:41 
+
+42:41 ese orden de, de mayor a menor? Tres
+42:43 
+
+42:43 cosas.
+42:45 
+
+42:45 Eh, reducimos la posibilidad de
+42:47 
+
+42:47 fragmentar el espacio.
+42:49 
+
+42:49 Vamos a poder, este, asegurarnos la
+42:52 
+
+42:52 ubicación de los bloques grandes.
+42:54 
+
+42:54 Y
+42:56 
+
+42:56 Y el diseño va a ser
+42:58 
+
+42:58 Más predecible y fácil de verificar. No,
+43:01 
+
+43:01 no, no es una regla de, eh, que
+43:04 
+
+43:04 inventada o, o, o caprichosa. O sea,
+43:07 
+
+43:07 tiene sentido del punto de vista de la
+43:08 
+
+43:08 planificación, ¿sí?
+43:11 
+
+43:11 Y ahí hay que tener en cuenta una cosa.
+43:13 
+
+43:13 Ordenar por
+43:15 
+
+43:15 Por, por, por cantidad de host o por
+43:17 
+
+43:17 bloque más grande
+43:19 
+
+43:19 No tiene que ver
+43:21 
+
+43:21 Eh
+43:23 
+
+43:23 Con que un sector, por ejemplo, a ver,
+43:25 
+
+43:25 yo tengo que ordenar eh, en la
+43:26 
+
+43:26 universidad Y, y, y tengo que ordenar el
+43:30 
+
+43:30 rectorado.
+43:31 
+
+43:31 No quiere decir que porque sea el
+43:33 
+
+43:33 rectorado
+43:34 
+
+43:34 Sea más importante que, que el
+43:37 
+
+43:37 laboratorio, por decirlo de alguna
+43:39 
+
+43:39 manera. No es, eh No estamos priorizando
+43:44 
+
+43:44 jerarquía organizacional.
+43:47 
+
+43:47 Estamos priorizando cantidades, ¿sí? No
+43:50 
+
+43:50 lo veamos, no lo veamos así, o sea, no
+43:53 
+
+43:53 tiene nada que ver la jerarquía acá. Eh,
+43:55 
+
+43:55 quizá, quizá me toque el rectorado el
+43:57 
+
+43:57 último porque tiene menor cantidad de
+43:59 
+
+43:59 host.
+43:60 
+
+43:60 Eh, entonces, eh, para que quede claro,
+44:03 
+
+44:03 no vemos jerarquía organizacional, sino
+44:06 
+
+44:06 estamos priorizando tamaño de bloque
+44:08 
+
+44:08 requerido, ¿sí?
+44:10 
+
+44:10 Eh Entonces, eso eso lo tenemos que
+44:12 
+
+44:12 tener en cuenta.
+44:14 
+
+44:14 Y ahí hablamos también de
+44:17 
+
+44:17 de la frontera, lo que antes hablábamos
+44:21 
+
+44:21 de saltos, ¿sí?
+44:23 
+
+44:23 Ahora vamos a hablar de lo que se llama
+44:25 
+
+44:25 frontera.
+44:27 
+
+44:27 Bueno.
+44:29 
+
+44:29 Em
+44:31 
+
+44:31 Estamos asignando los bloques más
+44:34 
+
+44:34 grandes y ahora vamos a otra regla. No
+44:37 
+
+44:37 puede comenzar en cualquier dirección.
+44:40 
+
+44:40 Y ahí hablamos de frontera válida.
+44:43 
+
+44:43 Bueno, supongamos que estamos trabajando
+44:45 
+
+44:45 con una subred barra 26.
+44:47 
+
+44:47 Una barra 26 contiene
+44:50 
+
+44:50 64 direcciones.
+44:52 
+
+44:52 ¿Por qué 64?
+44:54 
+
+44:54 Em porque
+44:56 
+
+44:56 porque nos quedan en
+44:59 
+
+44:59 Si yo resto 32 menos 26,
+45:03 
+
+45:03 o sea,
+45:04 
+
+45:04 ¿de dónde saco yo el 32?
+45:07 
+
+45:07 ¿De dónde saco yo el 32?
+45:10 
+
+45:10 De los cuatro
+45:12 
+
+45:12 De los cuatro octetos de ocho. ¿Estamos
+45:14 
+
+45:14 de acuerdo?
+45:16 
+
+45:16 8 * 4 = 32.
+45:19 
+
+45:19 Si yo tengo una red barra barra 26,
+45:23 
+
+45:23 y yo aplico la formulita,
+45:25 
+
+45:25 2 elevado a la
+45:28 
+
+45:28 2 elevado a la
+45:30 
+
+45:30 a la 6
+45:32 
+
+45:32 es igual a 64.
+45:34 
+
+45:34 ¿Sí?
+45:36 
+
+45:36 32 - 26 = 6. 2 elevado a la 6 = 64.
+45:42 
+
+45:42 Em
+45:44 
+
+45:44 Este
+45:47 
+
+45:47 Uy, me desconcentré.
+45:48 
+
+45:48 Em
+45:54 
+
+45:54 Entonces,
+45:56 
+
+45:56 en un barra en ahí tenemos en un barra
+45:58 
+
+45:58 24,
+45:59 
+
+45:59 en un barra 24 los comienzos eh,
+46:02 
+
+46:02 posibles aparecen cada 24, cada 64,
+46:06 
+
+46:06 cada 64 direcciones. Entonces, 0, 64,
+46:10 
+
+46:10 128, 192.
+46:12 
+
+46:12 Entonces, para una, para una, una barra
+46:15 
+
+46:15 26,
+46:16 
+
+46:16 voy a tener 190, ahí como dice, como
+46:19 
+
+46:19 dice ahí, 192, 168, 10, 0.
+46:25 
+
+46:25 0 es múltiplo de 64. 192, 168, 10, 64.
+46:30 
+
+46:30 64 es múltiplo de 64.
+46:33 
+
+46:33 192, 168, 10, 128. 128 es múltiplo de
+46:37 
+
+46:37 64. Y así.
+46:39 
+
+46:39 ¿Sí?
+46:40 
+
+46:40 Entonces, no puedo elegir cualquier
+46:43 
+
+46:43 valor. Por ejemplo, si yo elijo una red
+46:46 
+
+46:46 192, 168,
+46:49 
+
+46:49 eh, 70, barra 26,
+46:53 
+
+46:53 no puede ser una dirección de una red
+46:55 
+
+46:55 barra 26. ¿Por qué?
+46:58 
+
+46:58 Porque 70
+47:01 
+
+47:01 eh, está dentro del bloque que corre,
+47:05 
+
+47:05 que, que comenzó en, en 192, 168, 10.
+47:13 
+
+47:13 .64. Entonces,
+47:16 
+
+47:16 eh,
+47:18 
+
+47:18 ese bloque está entre, entre 64 y 127.
+47:23 
+
+47:23 Eh, 192, 168, 10.70,
+47:28 
+
+47:28 eh, es una, es una, una dirección
+47:31 
+
+47:31 interna de la red, pero no es una
+47:34 
+
+47:34 frontera, ¿sí? Entonces, cuando hablamos
+47:36 
+
+47:36 de salto, vendría a ser esto.
+47:38 
+
+47:38 ¿Sí? Entonces, la, la frontera depende
+47:40 
+
+47:40 del tamaño del bloque.
+47:43 
+
+47:43 Eh, es eso, básicamente. No, no, no, no,
+47:45 
+
+47:45 no tiene otro,
+47:47 
+
+47:47 no tiene, no tiene, no tiene otro,
+47:51 
+
+47:51 otro significado. Lo que, lo que antes
+47:53 
+
+47:53 decíamos salto,
+47:54 
+
+47:54 eh, ahora estamos hablando de, de la
+47:58 
+
+47:58 frontera
+47:59 
+
+47:59 o de las posiciones válidas o tamaño del
+48:01 
+
+48:01 bloque,
+48:02 
+
+48:02 eso estamos hablando ahora.
+48:05 
+
+48:05 Eh, bueno, ya ahí hay básicamente se
+48:10 
+
+48:10 le va explicando
+48:11 
+
+48:11 cómo
+48:13 
+
+48:13 Eh, cómo
+48:17 
+
+48:17 Este
+48:19 
+
+48:19 Cómo construir un VL, un VLSM paso a
+48:22 
+
+48:22 paso, ¿sí? Este
+48:27 
+
+48:27 A ver,
+48:28 
+
+48:28 quiero probar acá.
+48:31 
+
+48:31 Este
+48:34 
+
+48:34 Eh, básicamente es es se están uniendo
+48:38 
+
+48:38 lo lo que venimos a a lo que venimos
+48:40 
+
+48:40 hablando, primero y lo que hicimos la
+48:42 
+
+48:42 vez pasada, que ordenar los
+48:45 
+
+48:45 requerimientos de mayor a menor, si yo
+48:47 
+
+48:47 tengo una necesidad de que un sector, un
+48:51 
+
+48:51 área o lo que sea tengo eh 100 host, 40
+48:55 
+
+48:55 host, 20 host y 5, entonces lo ordeno de
+48:59 
+
+48:59 mayor a menor.
+49:01 
+
+49:01 Después elijo el prefijo adecuado,
+49:05 
+
+49:05 entonces que que es elegir el prefijo
+49:08 
+
+49:08 adecuado, el bloque mínimo que puede
+49:10 
+
+49:10 contener cada necesidad. Para 100 host
+49:15 
+
+49:15 Si yo pongo un barra 25, quiere decir
+49:19 
+
+49:19 que tengo 126 host utilizable.
+49:23 
+
+49:23 Para un barra 40 para 40 host, un barra
+49:26 
+
+49:26 26 me da 62 host utilizable, para un
+49:31 
+
+49:31 barra 20 para un para
+49:33 
+
+49:33 20 host, un barra 27 me da 30 host
+49:38 
+
+49:38 utilizable y así para para para 5 host
+49:40 
+
+49:40 tengo que ir a un barra 29 y así, 6 host
+49:43 
+
+49:43 utilizable.
+49:45 
+
+49:45 Este,
+49:46 
+
+49:46 hasta aquí eh no estamos asignando
+49:49 
+
+49:49 direcciones concretas, solo estamos es
+49:52 
+
+49:52 solo estamos definiendo el tamaño de
+49:55 
+
+49:55 cada bloque.
+49:57 
+
+49:57 ¿Sí? Ordenamos de mayor a menor,
+49:59 
+
+49:59 buscamos eh eh el prefijo, cada cada
+50:03 
+
+50:03 prefijo cuánto host nos nos nos permite
+50:07 
+
+50:07 y y vamos definiendo el tamaño que
+50:09 
+
+50:09 necesita cada bloque.
+50:11 
+
+50:11 Bueno,
+50:13 
+
+50:13 el paso tres,
+50:14 
+
+50:14 eh eh asignamos el bloque más grande.
+50:18 
+
+50:18 ¿De dónde empezamos?
+50:19 
+
+50:19 Del eh empezamos de 192 168 10 0.
+50:24 
+
+50:24 Entonces, como la primera red eh o la
+50:27 
+
+50:27 primera subred necesita un barra 25,
+50:31 
+
+50:31 un barra 25 ocupa 128 direcciones,
+50:35 
+
+50:35 una de las cuales es red y la otra
+50:38 
+
+50:38 broadcast.
+50:39 
+
+50:39 Las direcciones disponibles son 126.
+50:46 
+
+50:46 Eh eh eh eh Entonces, la eh eh todo este
+50:50 
+
+50:50 direccionamiento va a ir de la 192 168
+50:55 
+
+50:55 eh s eh eh 10.0
+50:58 
+
+50:58 a la 192 168 10.27.
+51:03 
+
+51:03 Y ahí están ahí están el primer host,
+51:05 
+
+51:05 192 168 10.1, el último host, 192
+51:11 
+
+51:11 168 10.126
+51:14 
+
+51:14 y el broadcast 192 168 10 127.
+51:20 
+
+51:20 ¿Sí?
+51:21 
+
+51:21 Y así y y ahí el siguien- el siguiente
+51:23 
+
+51:23 comienza, el laboratorio, por ejemplo,
+51:25 
+
+51:25 comienza con 192 168 10.128
+51:31 
+
+51:31 y te y le ponemos el prefijo.
+51:34 
+
+51:34 Vamos a la siguiente subred.
+51:36 
+
+51:36 Y así.
+51:37 
+
+51:37 Y lo vamos y lo vamos armando. Eh eso es
+51:40 
+
+51:40 una metodología eh que está bien
+51:42 
+
+51:42 explicadita ahí, ya eh usted le le vamos
+51:45 
+
+51:45 a dar un un trabajo práctico para que lo
+51:47 
+
+51:47 practiquen.
+51:48 
+
+51:48 Este,
+51:49 
+
+51:49 simplemente siguiendo los pasos.
+51:55 
+
+51:55 Simplemente siguiendo los pasos.
+51:57 
+
+51:57 Eh, bueno, ¿y qué pasa cuando
+52:01 
+
+52:01 cuando
+52:05 
+
+52:05 [carraspeo]
+52:05 
+
+52:05 cuando
+52:08 
+
+52:08 vamos vamos vamos asignando bloques del
+52:12 
+
+52:12 más grande al más chico,
+52:15 
+
+52:15 eh, y apare- y tenemos que tener en
+52:17 
+
+52:17 cuenta algo que muchas veces
+52:20 
+
+52:20 no se lo tiene en cuenta,
+52:22 
+
+52:22 eh,
+52:25 
+
+52:25 que es que no todo el espacio
+52:29 
+
+52:29 no todo el espacio tiene que quedar
+52:31 
+
+52:31 ocupado.
+52:32 
+
+52:32 Por ejemplo,
+52:34 
+
+52:34 siguiendo el ejemplo ese,
+52:36 
+
+52:36 eh, estamos con una red 192.168.10.0/24.
+52:43 
+
+52:43 Eh,
+52:45 
+
+52:45 y y tengo que asignar
+52:47 
+
+52:47 una 10.0/25,
+52:49 
+
+52:49 una 10.128/26,
+52:51 
+
+52:51 así como está ahí, una 10,
+52:53 
+
+52:53 una 10, este,
+52:55 
+
+52:55 una 10 192.168.10.192/27
+52:59 
+
+52:59 y /29. Entonces, el último bloque,
+53:03 
+
+53:03 el último bloque utilizado termina
+53:06 
+
+53:06 en dos en 192.168.10.231.
+53:11 
+
+53:11 Entonces, me queda libre
+53:14 
+
+53:14 192.168.10.232
+53:21 
+
+53:21 hasta 192.168.10.255.
+53:26 
+
+53:26 Ahí dice, 24 direcciones.
+53:29 
+
+53:29 ¿Sí?
+53:30 
+
+53:30 Entonces,
+53:32 
+
+53:32 eh,
+53:34 
+
+53:34 ¿qué quiere decir ese
+53:36 
+
+53:36 que que que que el diseño está
+53:37 
+
+53:37 incompleto? No.
+53:40 
+
+53:40 No no está incompleto.
+53:42 
+
+53:42 Eh, un buen diseño no quiere decir que
+53:45 
+
+53:45 voy a ocupar todo desde el primer día,
+53:48 
+
+53:48 ¿sí?
+53:49 
+
+53:49 ¿Por qué? Porque es es una buena
+53:52 
+
+53:52 una una buena práctica
+53:54 
+
+53:54 eh dejar un direccionamiento reservado
+53:57 
+
+53:57 para crecimiento futuro, como recién
+53:59 
+
+53:59 decíamos. Por ejemplo, eh
+54:02 
+
+54:02 yo puedo yo puedo
+54:05 
+
+54:05 estimo yo que que mi que mis servicios
+54:09 
+
+54:09 de
+54:10 
+
+54:10 o mis host destinados a servidores
+54:12 
+
+54:12 pueden crecer.
+54:14 
+
+54:14 Entonces, yo tengo que dejar un un un
+54:16 
+
+54:16 espacio, ese espacio libre, como le
+54:19 
+
+54:19 decía recién. Eh, ¿y por qué puede
+54:21 
+
+54:21 crecer? Y bueno, puede puede crecer
+54:23 
+
+54:23 porque voy a meter más servidores, eh
+54:26 
+
+54:26 voy a meter un nuevo sector, voy a meter
+54:28 
+
+54:28 este, por ejemplo, en una sucursal, eh
+54:33 
+
+54:33 no sé, tomaron
+54:35 
+
+54:35 empleados y y y y y y estoy agregando
+54:39 
+
+54:39 máquinas nuevas nuevas máquinas, eh o o
+54:42 
+
+54:42 o creé un voy a crear una red Wi-Fi, eh
+54:46 
+
+54:46 voy a incorporar este impresora, voy a
+54:49 
+
+54:49 equipamiento de infraestructura,
+54:51 
+
+54:51 eh proyecto puede haber muchas cosas que
+54:54 
+
+54:54 que puedan hacer
+54:55 
+
+54:55 que mi que mi que mi infraestructura de
+54:58 
+
+54:58 red crezca. Por eso, eh ese espacio
+55:02 
+
+55:02 libre no es espacio desperdiciado, es
+55:05 
+
+55:05 una capacidad disponible planificada,
+55:08 
+
+55:08 ¿sí?
+55:09 
+
+55:09 Entonces,
+55:11 
+
+55:11 eh no no no lo tenemos que ver este
+55:15 
+
+55:15 no lo tenemos que ver como como como
+55:17 
+
+55:17 desperdicio. Por ejemplo, eh si yo tengo
+55:21 
+
+55:21 cinco host
+55:23 
+
+55:23 o necesito cinco host
+55:25 
+
+55:25 y asigno [resoplido] una barra 25,
+55:29 
+
+55:29 eh estoy reservando un bloque muy grande
+55:31 
+
+55:31 sin necesidad,
+55:33 
+
+55:33 ¿sí? En cambio, cuando es una reserva
+55:35 
+
+55:35 planificada,
+55:37 
+
+55:37 asigno correctamente eh cada subred y
+55:40 
+
+55:40 dejó una parte del espacio sin sin sin
+55:44 
+
+55:44 sin sin utilizar.
+55:46 
+
+55:46 E- eso eso eso lo tenemos que tener en
+55:49 
+
+55:49 cuenta.
+55:51 
+
+55:51 Y tenemos que documentarlo.
+55:53 
+
+55:53 Eh eh todo lo todo lo lo que nosotros
+55:56 
+
+55:56 hacemos en la en la en la red, no sé si
+55:59 
+
+55:59 em por ejemplo en en algún momento
+56:02 
+
+56:02 cuando no me acuerdo si acá en esta
+56:05 
+
+56:05 materia donde lo se vi- se veía la
+56:07 
+
+56:07 configuración de servidores, uno tiene
+56:09 
+
+56:09 que ir documentando, por ejemplo, el
+56:11 
+
+56:11 tema de la
+56:13 
+
+56:13 de de las particiones, el tema de de la
+56:16 
+
+56:16 versión del sistema operativo, de la
+56:18 
+
+56:18 versión de los aplicativos, todo eso
+56:19 
+
+56:19 tiene que estar documentado en una red
+56:21 
+
+56:21 también.
+56:22 
+
+56:22 En una red también. Eh e- e- no no no
+56:26 
+
+56:26 tengo que dejarlo eh
+56:29 
+
+56:29 en mi mente, ah, creé tal tal red eh o
+56:32 
+
+56:32 tal prefijo eh para casa central le puse
+56:36 
+
+56:36 así, no, todo tiene que estar
+56:37 
+
+56:37 documentado. Eh yo no tengo que des-
+56:40 
+
+56:40 pensar, ¿quedó me quedó algo libre? No.
+56:43 
+
+56:43 Entonces, yo tengo que registrar qué
+56:45 
+
+56:45 rangos están asignados, qué rangos están
+56:46 
+
+56:46 reservados, qué rangos permanecen
+56:48 
+
+56:48 disponibles. Entonces,
+56:51 
+
+56:51 porque puede venir otra el otro
+56:53 
+
+56:53 administrador de red y y y si no tengo
+56:57 
+
+56:57 nada nada documentado va a venir y y va
+56:59 
+
+56:59 a asignar el mismo espacio por error,
+57:01 
+
+57:01 ¿sí? Entonces, es muy importante tener
+57:04 
+
+57:04 esto
+57:05 
+
+57:05 e- esto de de
+57:08 
+
+57:08 de de de la documentación, ¿sí?
+57:11 
+
+57:11 En eh bueno,
+57:13 
+
+57:13 em ahora lo que vamos a hacer vamos en
+57:16 
+
+57:16 esta en esta en esta slide lo que vemos
+57:19 
+
+57:19 em
+57:21 
+
+57:21 eh ¿qué ganamos
+57:23 
+
+57:23 realmente cuando usamos VLSM en lugar de
+57:26 
+
+57:26 asignar subredes del mismo tamaño a
+57:28 
+
+57:28 todos los sectores, eh? Entonces, ahí
+57:31 
+
+57:31 bueno, ahí con el mismo ejemplo, eh ahí
+57:34 
+
+57:34 dice que necesitamos 100, si sumamos 100
+57:37 
+
+57:37 + 40 + 20 + 5, necesitamos 165 host,
+57:40 
+
+57:40 ¿sí?
+57:41 
+
+57:41 Em,
+57:43 
+
+57:43 eh
+57:44 
+
+57:44 y si y si yo usaría
+57:47 
+
+57:47 si yo usaría em el el la longitud
+57:51 
+
+57:51 física, el eh física no, fija,
+57:54 
+
+57:54 la longitud fija FLSM,
+57:58 
+
+57:58 y si uso variable variable VLSM,
+58:03 
+
+58:03 la la necesidad de la misma, tanto si
+58:05 
+
+58:05 uso fijo como variable. Lo que cambia es
+58:09 
+
+58:09 cómo reservamos el espacio de
+58:10 
+
+58:10 direccionamiento. Bien, con con con si
+58:14 
+
+58:14 si usamos el el el el fijo,
+58:18 
+
+58:18 todas las redes van a tener el mismo
+58:20 
+
+58:20 tamaño.
+58:21 
+
+58:21 Como el sector más grande necesita 100
+58:23 
+
+58:23 host,
+58:24 
+
+58:24 cada cada subnet tendría que ser como
+58:27 
+
+58:27 mínimo una barra 25.
+58:30 
+
+58:30 Y una barra 25 te dispone de 128
+58:33 
+
+58:33 direcciones totales,
+58:35 
+
+58:35 de los cuales una es para para para red
+58:38 
+
+58:38 y la otra para
+58:39 
+
+58:39 broadcast, por lo cual 128 - 2 me quedan
+58:44 
+
+58:44 126 direcciones utilizables, ¿sí?
+58:48 
+
+58:48 Entonces,
+58:49 
+
+58:49 eh si yo tengo que utilizar esas 100
+58:52 
+
+58:52 esas 128 direcciones y yo tengo cuatro
+58:56 
+
+58:56 cuatro cuatro sectores, administración,
+58:60 
+
+58:60 soporte, invitado y y venta,
+59:04 
+
+59:04 eh si yo uso fija, 128 * 4, voy a
+59:09 
+
+59:09 utilizar 512 direcciones,
+59:12 
+
+59:12 ¿sí?
+59:14 
+
+59:14 512 direcciones.
+59:18 
+
+59:18 En cambio, si yo uso
+59:20 
+
+59:20 eh VLSM,
+59:23 
+
+59:23 y yo voy poniendo el prefijo variable,
+59:26 
+
+59:26 una barra 25, una barra 26, una barra
+59:29 
+
+59:29 27, una barra 28.
+59:32 
+
+59:32 Eh, y empiezo a sumar 128 direcciones en
+59:36 
+
+59:36 un barra 25,
+59:37 
+
+59:37 64 direcciones en un barra 26, 32
+59:41 
+
+59:41 direcciones en un barra 27.
+59:44 
+
+59:44 Eh, ocho direcciones en un barra 29. Si
+59:48 
+
+59:48 yo lo sumo, tengo 232
+59:51 
+
+59:51 direcciones
+59:54 
+
+59:54 frente a la a la a las 512
+59:58 
+
+59:58 con el con el fijo, ¿sí?
+60:01 
+
+60:01 Entonces, y todo esto entra dentro de
+60:03 
+
+60:03 las 256 direcciones de nuestra barra 24,
+60:07 
+
+60:07 ¿sí? Y nos va a quedar libre 24
+60:10 
+
+60:10 direcciones sin asignar. Y ahí está la
+60:12 
+
+60:12 diferencia entre usar
+60:14 
+
+60:14 un FLSM
+60:17 
+
+60:17 versus un VLSM,
+60:19 
+
+60:19 un fijo en vez de un variable.
+60:22 
+
+60:22 Con
+60:22 
+
+60:22 Entonces, con tamaño fijo,
+60:25 
+
+60:25 y voy a ocupar 512 direcciones para
+60:28 
+
+60:28 reservar los cuatro bloques. Y con el
+60:31 
+
+60:31 tamaño variable, voy a utilizar
+60:36 
+
+60:36 para resolver exactamente el mismo
+60:38 
+
+60:38 problema. Entonces, ahí nos damos cuenta
+60:42 
+
+60:42 [carraspeo]
+60:43 
+
+60:43 ahí nos damos cuenta
+60:44 
+
+60:44 em
+60:46 
+
+60:46 eh, cómo cómo estamos utilizando eh el
+60:49 
+
+60:49 espacio de direcciones. Estamos usando
+60:52 
+
+60:52 uno de una manera óptima. Este
+60:56 
+
+60:56 no estamos aumentando la cantidad de
+60:58 
+
+60:58 direcciones disponibles, solamente lo
+60:60 
+
+60:60 que estamos haciendo es utilizándolas
+61:02 
+
+61:02 mejor.
+61:03 
+
+61:03 ¿Sí?
+61:04 
+
+61:04 Ahí también usamos dos términos, un
+61:06 
+
+61:06 término que es direcciones
+61:09 
+
+61:09 direcciones reservadas y direcciones
+61:12 
+
+61:12 necesarias.
+61:18 
+
+61:18 Y ahí vamos a distinguir esos dos
+61:20 
+
+61:20 conceptos.
+61:22 
+
+61:22 Eh, decíamos que los los sectores
+61:24 
+
+61:24 necesitan en total 165
+61:27 
+
+61:27 host. Empezamos a sumar, 100 + 40 + 20 +
+61:29 
+
+61:29 5, 165
+61:31 
+
+61:31 direcciones.
+61:33 
+
+61:33 Em,
+61:36 
+
+61:36 eh, como eh como como los bloques
+61:39 
+
+61:39 eh,
+61:41 
+
+61:41 eh, de IPV4
+61:44 
+
+61:44 eh, tienen tienen tamaños determinados
+61:47 
+
+61:47 por potencia de dos, por eso reservamos
+61:49 
+
+61:49 8, 32, 64, 128, ¿sí?
+61:54 
+
+61:54 Este, em,
+61:57 
+
+61:57 eh, VLSM existe una una capacidad no
+62:00 
+
+62:00 utilizada dentro de cada subred,
+62:02 
+
+62:02 entonces lo importante es que esa
+62:03 
+
+62:03 diferencia sea lo
+62:05 
+
+62:05 lo menor posible sin dejar de satisfacer
+62:07 
+
+62:07 el requerimiento. Eso eso sería. Este,
+62:11 
+
+62:11 em, de de em,
+62:15 
+
+62:15 eh, en cuando cuando hablamos de la de
+62:17 
+
+62:17 la ganancia real, tenemos beneficios de
+62:20 
+
+62:20 mejor aprovechamiento y todas esas
+62:21 
+
+62:21 cosas.
+62:22 
+
+62:22 Este, entonces,
+62:26 
+
+62:26 no hay que interpretar VLSM como una
+62:28 
+
+62:28 técnica que elimina el desperdicio. No
+62:32 
+
+62:32 no sería lo correcto.
+62:34 
+
+62:34 Eh, ¿por qué? Porque si eh siempre va a
+62:36 
+
+62:36 quedar una capacidad sin utilizar dentro
+62:37 
+
+62:37 de un bloque.
+62:39 
+
+62:39 Em, la diferencia es que eh
+62:44 
+
+62:44 me permite utilizar utilizar mejor cada
+62:47 
+
+62:47 bloque según la necesidad real, ¿sí? No
+62:50 
+
+62:50 hay un aprovechamiento perfecto.
+62:52 
+
+62:52 Bueno, cuando y cuando estamos siguiendo
+62:55 
+
+62:55 todo este este esta metodología,
+62:59 
+
+62:59 nos podemos encontrar
+63:00 
+
+63:00 con ciertos errores.
+63:02 
+
+63:02 Eh, primero, em,
+63:06 
+
+63:06 como decíamos recién,
+63:07 
+
+63:07 eh,
+63:08 
+
+63:08 tenemos que ordenar los requerimientos
+63:10 
+
+63:10 de mayor a menor,
+63:12 
+
+63:12 eh, ¿por qué? Porque si yo utilizo de
+63:14 
+
+63:14 menor a mayor me pueden quedar huecos
+63:16 
+
+63:16 y cuando y cuando me toque asignar un un
+63:19 
+
+63:19 bloque grande, no lo voy a no me va a
+63:21 
+
+63:21 entrar. Entonces, eh eh eso como regla
+63:26 
+
+63:26 como regla número uno, digamos.
+63:27 
+
+63:27 Eh
+63:29 
+
+63:29 que no que que se que que se puede dar
+63:31 
+
+63:31 un error en en el en el
+63:34 
+
+63:34 en el diseño.
+63:36 
+
+63:36 Eh
+63:39 
+
+63:39 Bueno, es lo que hablamos de lo del en
+63:40 
+
+63:40 en en la la vez pasada hablamos de los
+63:43 
+
+63:43 saltos, hablamos ahora hablamos de la
+63:44 
+
+63:44 frontera.
+63:47 
+
+63:47 Si estamos hablando de una barra 26,
+63:49 
+
+63:49 tiene bloques de 64 direcciones.
+63:52 
+
+63:52 Entonces, eh tenemos que ir saltando eh
+63:56 
+
+63:56 en en 64.
+63:58 
+
+63:58 Eh entonces, el tamaño del bloque me va
+64:01 
+
+64:01 a determinar dónde puede comenzar la
+64:02 
+
+64:02 subred.
+64:03 
+
+64:03 Bueno, otro error, superponer bloques.
+64:06 
+
+64:06 Eh ese eso también, asignar primero las
+64:09 
+
+64:09 subredes pequeñas, lo que hablamos hace
+64:10 
+
+64:10 un rato. Eh perder de vista el espacio
+64:13 
+
+64:13 disponible. Bueno, ahí básicamente está
+64:15 
+
+64:15 explicado cuáles son los errores que nos
+64:17 
+
+64:17 podemos encontrar.
+64:19 
+
+64:19 Y de ahí tenemos un un pequeño
+64:23 
+
+64:23 desafío, digamos.
+64:25 
+
+64:25 Eh siguiendo el mismo ejemplo
+64:27 
+
+64:27 de de de diseñar un
+64:32 
+
+64:32 este de de diseñar un un
+64:36 
+
+64:36 un un direccionamiento para un un caso
+64:39 
+
+64:39 un caso hipotético de
+64:42 
+
+64:42 de de la de la universidad. Entonces,
+64:45 
+
+64:45 tenemos ahí ahí nos muestra que tenemos
+64:47 
+
+64:47 una red base
+64:48 
+
+64:48 192.168.
+64:53 
+
+64:53 Eh
+64:56 
+
+64:56 20.20.0.
+64:58 
+
+64:58 ¿Sí?
+64:59 
+
+64:59 Este
+65:03 
+
+65:03 y varios sectores en una dependencia del
+65:05 
+
+65:05 de de la UNLaR
+65:07 
+
+65:07 con distintas necesidades de host.
+65:09 
+
+65:09 ¿Sí?
+65:10 
+
+65:10 Eh
+65:11 
+
+65:11 eh bueno, y ahí tenemos que empezar a a
+65:14 
+
+65:14 analizar los requerimientos y y
+65:16 
+
+65:16 preguntarnos eh cuál sector necesita más
+65:19 
+
+65:19 direcciones y cuál necesita menos. Y
+65:22 
+
+65:22 siguiendo con todo lo que venimos
+65:24 
+
+65:24 hablando, vamos a ordenar los sectores
+65:27 
+
+65:27 con VLSM. Entonces, ya sabemos que si si
+65:30 
+
+65:30 es VLSM, ya sabemos que tenemos que
+65:32 
+
+65:32 trabajar de mayor a menor. Entonces,
+65:35 
+
+65:35 eh eh empezamos a construir mayor
+65:38 
+
+65:38 cantidad de host
+65:40 
+
+65:40 eh a menor cantidad de host. Bueno, eh
+65:44 
+
+65:44 y y ahí también recordar lo que hablamos
+65:47 
+
+65:47 de que acá no estamos hablando de
+65:49 
+
+65:49 jerarquía institucional ni
+65:51 
+
+65:51 organizacional, estamos hablando de
+65:53 
+
+65:53 necesidad de ma de de máquina. Entonces,
+65:56 
+
+65:56 volviendo volviendo de nuevo al al
+65:58 
+
+65:58 ejemplo del rectorado, no es que el
+65:60 
+
+65:60 porque sea rectorado lo tengo que poner
+66:01 
+
+66:01 primero, no, depende la cantidad de
+66:03 
+
+66:03 máquina que necesite. ¿Sí? Se ordena por
+66:06 
+
+66:06 tamaño requerido.
+66:08 
+
+66:08 Elegimos el prefijo para cada sector.
+66:14 
+
+66:14 Eh si un bueno, ahí si un sector
+66:17 
+
+66:17 necesita 70 host, un barra 26 no me
+66:20 
+
+66:20 alcanza, ¿por qué? Porque un barra 26
+66:23 
+
+66:23 tiene
+66:24 
+
+66:24 eh 62 host. Vamos uno menos.
+66:29 
+
+66:29 El eh un barra 25, 126 host, sí, me ahí
+66:32 
+
+66:32 me alcanza.
+66:34 
+
+66:34 Y así, empezamos después a a asignar,
+66:37 
+
+66:37 una vez que tenemos los prefijos,
+66:40 
+
+66:40 eh empezamos eh y y ubicamos el el
+66:43 
+
+66:43 primero el bloque más grande y después
+66:45 
+
+66:45 comi- con- continuamos con el segundo,
+66:48 
+
+66:48 ¿sí?
+66:49 
+
+66:49 Y y bueno, después vamos completando esa
+66:51 
+
+66:51 tabla que está ahí,
+66:53 
+
+66:53 eh así como habíamos hecho la vez
+66:54 
+
+66:54 pasada, eh
+66:57 
+
+66:57 eh es para esto sería eh eh organizar el
+67:02 
+
+67:02 diseño, digamos.
+67:03 
+
+67:03 Eh después este
+67:06 
+
+67:06 eh justificar el diseño.
+67:09 
+
+67:09 Eh, vamos vamos a ver este
+67:12 
+
+67:12 eh, si si elegí un barra 26, y bueno,
+67:15 
+
+67:15 eh, ¿por qué elegí un barra 26? Y bueno,
+67:17 
+
+67:17 elegí un un barra 26 porque el sector
+67:20 
+
+67:20 necesita 50 host y una barra 26 me
+67:24 
+
+67:24 permite 62 host.
+67:26 
+
+67:26 Y
+67:28 
+
+67:28 y si la red comienza en en
+67:31 
+
+67:31 eh en en en en punto [carraspeo] 64, y
+67:34 
+
+67:34 bueno, comienza en punto 64 porque ese
+67:37 
+
+67:37 es un valor de una frontera de una
+67:38 
+
+67:38 frontera válida para un bloque de 64
+67:41 
+
+67:41 direcciones, ¿sí? Entonces, y y así y
+67:44 
+
+67:44 así lo vamos lo vamos
+67:46 
+
+67:46 lo vamos lo vamos trabajando. Y eh, y
+67:50 
+
+67:50 también podemos
+67:52 
+
+67:52 eh, a la hora de de de armarlo a esto
+67:55 
+
+67:55 eh
+67:57 
+
+67:57 eh, no no tenemos que preguntar eh, de
+68:01 
+
+68:01 acuerdo al al a la metodología eh,
+68:03 
+
+68:03 ¿ordené de mayor a menor? Eh, ¿cada
+68:06 
+
+68:06 prefijo me alcanza? Eh, ¿se acuerda de
+68:09 
+
+68:09 los errores posibles? Cada cada sub eh,
+68:12 
+
+68:12 ¿cada subred comienza en una frontera
+68:14 
+
+68:14 válida? ¿Hay solapamiento?
+68:17 
+
+68:17 ¿Queda espacio disponible? ¿Sí?
+68:20 
+
+68:20 Básicamente eso sería diseñar el
+68:23 
+
+68:23 direccionamiento, que eso eso ya lo
+68:25 
+
+68:25 ya lo voy a publicar yo en el en el
+68:28 
+
+68:28 en el
+68:29 
+
+68:29 en el
+68:32 
+
+68:32 en el ¿cómo se llama? En el en el en la
+68:34 
+
+68:34 plataforma.
+68:36 
+
+68:36 Y bueno, y esto último eh, básicamente
+68:39 
+
+68:39 eh, es este
+68:42 
+
+68:42 es un
+68:43 
+
+68:43 un un una un slide que integra todo todo
+68:46 
+
+68:46 lo que se mostró. Este eh, que
+68:50 
+
+68:50 que se se de y se hice se y de r no
+68:55 
+
+68:55 nos muestra cómo
+68:59 
+
+68:59 cómo cómo se deja atrás o cómo se
+69:00 
+
+69:00 soluciona el el el la rigidez del
+69:03 
+
+69:03 direccionamiento por clase. Vuelvo a
+69:04 
+
+69:04 insistir, ustedes no vienen con el vicio
+69:07 
+
+69:07 de, de,
+69:08 
+
+69:08 de direccionamiento por clase y para, y
+69:11 
+
+69:11 para esto, para ustedes esto va a ser lo
+69:12 
+
+69:12 natural, lo normal. Para otra gente eh,
+69:16 
+
+69:16 tiene que, tiene que desaprender y
+69:19 
+
+69:19 aprender de nuevo.
+69:20 
+
+69:20 Eh,
+69:22 
+
+69:22 ¿por qué? Porque son, no son contem,
+69:24 
+
+69:24 son,
+69:25 
+
+69:25 son, son más an, son más viejos y, y
+69:28 
+
+69:28 ustedes son contemporáneos a esta nueva,
+69:31 
+
+69:31 a esta nueva forma y en algún momento a
+69:32 
+
+69:32 ustedes les va a tocar desaprender y
+69:34 
+
+69:34 aprender. Eso es una constante en, en,
+69:38 
+
+69:38 en lo que se, en lo que es tecnología.
+69:40 
+
+69:40 La tecnología va cambiando o la
+69:42 
+
+69:42 velocidad de la transformación va
+69:44 
+
+69:44 cambiando tan rápido que nos obliga
+69:46 
+
+69:46 muchas veces a desaprender y, y aprender
+69:48 
+
+69:48 algo nuevo.
+69:50 
+
+69:50 No sé, eh, eh, lenguajes de
+69:53 
+
+69:53 programación, eh,
+69:55 
+
+69:55 por ejemplo, a ver, yo comencé hace
+69:57 
+
+69:57 muchísimos años con Cobol. Cobol hoy
+69:60 
+
+69:60 sigue, sí, pero lo usan muy pocos. Eh,
+70:03 
+
+70:03 después eh, en su momento Pascal, en su
+70:06 
+
+70:06 momento Fox y, y ahora son lenguajes que
+70:09 
+
+70:09 ni existen. Eh, y bueno, y hay que, hay
+70:12 
+
+70:12 que dejar de, de,
+70:14 
+
+70:14 se, se, lo que hace eso te, te da
+70:17 
+
+70:17 experiencia, pero, pero eh, tenés que
+70:21 
+
+70:21 dejar de, de, actualizarte todo el
+70:23 
+
+70:23 tiempo, ¿sí? Eso sería
+70:26 
+
+70:26 básicamente lo que,
+70:28 
+
+70:28 lo que les quería transmitir. Eh, va,
+70:31 
+
+70:31 eh, bueno, entonces, la idea central,
+70:34 
+
+70:34 este,
+70:36 
+
+70:36 este, es que
+70:38 
+
+70:38 lo resumimos todo así.
+70:40 
+
+70:40 El CIDR me da flexibilidad.
+70:44 
+
+70:44 El VLSM
+70:46 
+
+70:46 me permite adaptarme.
+70:48 
+
+70:48 Y, y cuando yo hago, uso esto para el
+70:51 
+
+70:51 diseño, me permite hacer una
+70:53 
+
+70:53 planificación, ¿sí? Entonces, esto me
+70:57 
+
+70:57 permite construir redes más eficiente,
+71:00 
+
+71:00 más ordenada, más escalable, más fáciles
+71:03 
+
+71:03 de administrar, ¿sí?
+71:05 
+
+71:05 Entonces, este
+71:07 
+
+71:07 eh ahí, bueno, ya le voy a subir yo el
+71:09 
+
+71:09 el trabajo práctico para que lo puedan
+71:13 
+
+71:13 para que lo puedan este completar. Es
+71:15 
+
+71:15 seguir básicamente los pasos que están
+71:17 
+
+71:17 ahí en la slide que
+71:20 
+
+71:20 eh han tomado captura de pantalla, toda
+71:23 
+
+71:23 esa historia
+71:25 
+
+71:25 para ver si tienen el material.
+71:30 
+
+71:30 ¿No puede después subirla, profe, a la a
+71:32 
+
+71:32 la plataforma?
+71:33 
+
+71:33 Bueno, se la voy a subir. Se la voy a
+71:35 
+
+71:35 subir.
+71:36 
+
+71:36 Gracias.
+71:36 
+
+71:36 Se la voy a subir.
+71:38 
+
+71:38 No, no es difícil, es fácil, es fácil.
+71:41 
+
+71:41 Este, solamente le le puede le puede
+71:44 
+
+71:44 resultar complicado, pero una vez lo
+71:46 
+
+71:46 tienen que hacer en papel.
+71:48 
+
+71:48 Lo tienen que hacer en papel, en una
+71:49 
+
+71:49 hoja cuadriculada,
+71:50 
+
+71:50 lo lo hacen.
+71:52 
+
+71:52 Muchas veces, a ver,
+71:54 
+
+71:54 eh
+71:56 
+
+71:56 eh tienen que entender esto, chicos.
+72:01 
+
+72:01 Si la vida me da limones,
+72:05 
+
+72:05 hago limonada.
+72:07 
+
+72:07 Eh muchas veces, muchas ustedes van a
+72:09 
+
+72:09 escuchar y yo estuve en conferencias en
+72:10 
+
+72:10 Buenos Aires eh que me tocó ser este
+72:14 
+
+72:14 disertante.
+72:16 
+
+72:16 Y todo el mundo habla
+72:18 
+
+72:18 eh qué nos va a qué qué nos depara con
+72:21 
+
+72:21 la con la IA,
+72:23 
+
+72:23 eh
+72:24 
+
+72:24 qué va a pasar en el futuro con la IA.
+72:27 
+
+72:27 Y y esto es eh es algo que está.
+72:32 
+
+72:32 No nos viene a reemplazar a nosotros, no
+72:35 
+
+72:35 nos viene a reemplazar a nosotros, nos
+72:37 
+
+72:37 viene a potenciar a nosotros, pero
+72:40 
+
+72:40 tenemos que utilizarla
+72:42 
+
+72:42 bien.
+72:44 
+
+72:44 Eh porque si yo voy a hacer que me haga
+72:46 
+
+72:46 todo y sin yo aprenderlo,
+72:50 
+
+72:50 eh el día que no tenga la IA, no existo
+72:52 
+
+72:52 yo.
+72:53 
+
+72:53 En cambio, si yo lo sé hacer
+72:56 
+
+72:56 y después la uso a la IA para que me lo
+72:59 
+
+72:59 haga más rápido, para que me lo haga
+73:01 
+
+73:01 como un asistente,
+73:03 
+
+73:03 la cosa cambia. Pero
+73:05 
+
+73:05 yo tengo que yo tengo que saber hacerlo.
+73:08 
+
+73:08 Algún momento me va a tocar me va a
+73:10 
+
+73:10 tocar este estar frente de una
+73:13 
+
+73:13 en algún lado sin sin sin IA y
+73:17 
+
+73:17 y no existo.
+73:18 
+
+73:18 Entonces, lo tenemos que saber hacer y
+73:21 
+
+73:21 después le decimos a la IA, ayúdame a
+73:23 
+
+73:23 hacer más rápido o corroboralo o
+73:25 
+
+73:25 corroborame si lo que yo hice está bien.
+73:28 
+
+73:28 Eso.
+73:30 
+
+73:30 Bien, ahora voy a tomar voy a tomar
+73:32 
+
+73:32 asistencia.

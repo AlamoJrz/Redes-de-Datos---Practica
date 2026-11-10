@@ -1,0 +1,4984 @@
+00:01 E ah, tengo que compartir.
+02:07 
+
+02:07 Bueno, em,
+02:12 
+
+02:12 a ver, dónde un momento.
+02:20 
+
+02:20 Bueno, veníamos
+02:23 
+
+02:23 veníamos trabajando con
+02:29 
+
+02:29 la
+02:31 
+
+02:31 con las direcciones IP
+02:34 
+
+02:34 y
+02:36 
+
+02:36 si nos y si nos posicionamos en el
+02:40 
+
+02:40 en el modelo OI
+02:44 
+
+02:44 e
+02:48 
+
+02:48 una
+02:52 
+
+02:52 una dirección IP. Este está en el modelo
+02:56 
+
+02:56 en el modelo en la en la capa tres. Sí.
+02:59 
+
+02:59 Entonces
+03:05 
+
+03:05 este
+03:07 
+
+03:07 eh ahí tenemos un
+03:12 
+
+03:12 un ejemplo.
+03:15 
+
+03:15 Ay, Dios.
+03:18 
+
+03:18 Chicos, tiene que entrar hasta las
+03:19 
+
+03:19 dijimos 20:30 para que entren 20:30 y no
+03:23 
+
+03:23 estén no estén hasta hasta las 21
+03:27 
+
+03:27 entrando. Eso lo tenemos que que tratar
+03:30 
+
+03:30 de respetar. Bien.
+03:35 
+
+03:35 Eh,
+03:39 
+
+03:39 este había dicho que
+03:42 
+
+03:42 que veníamos trabajando eh con la
+03:44 
+
+03:44 dirección IP y que las direcciones IP
+03:46 
+
+03:46 corresponden a la capa 3. Bueno, y ahí
+03:50 
+
+03:50 en la presentación tenemos tenemos una
+03:54 
+
+03:54 una un ejemplo de que queremos enviar eh
+04:01 
+
+04:01 un dato, una trama de la PCA a la PCB
+04:06 
+
+04:06 que tiene eh su dirección IP y su y su
+04:10 
+
+04:10 dirección.
+04:12 
+
+04:12 Bueno, y ahí se ve la la macadre, ¿no?
+04:16 
+
+04:16 Eh,
+04:18 
+
+04:18 si lo tenemos que ver desde un punto de
+04:19 
+
+04:19 vista lógico, es como que ya tendríamos
+04:23 
+
+04:23 es como que ya tendríamos este
+04:26 
+
+04:26 eh ya tendremos lo necesario para saber
+04:29 
+
+04:29 quién origina la comunicación
+04:32 
+
+04:32 y quién es el y quién y dónde es el
+04:34 
+
+04:34 destino.
+04:36 
+
+04:36 Pero si bajamos un nivel, un nivel este
+04:39 
+
+04:39 y vemos qué está pasando dentro de la
+04:42 
+
+04:42 red de internet, e
+04:45 
+
+04:45 vamos a vamos a ver que que nos
+04:48 
+
+04:48 encontramos con un con un problema,
+04:50 
+
+04:50 digamos,
+04:52 
+
+04:52 este Ethernet no como habíamos dicho en
+04:55 
+
+04:55 otro momento, Ethernet no entrega los
+04:58 
+
+04:58 datos eh utilizando solamente
+05:00 
+
+05:00 direcciones IP.
+05:03 
+
+05:03 La información
+05:05 
+
+05:05 debe viajar en capa dos, debe viajar
+05:08 
+
+05:08 dentro de una trama, de una trama
+05:12 
+
+05:12 externa. Y esa trama, ¿qué datos
+05:15 
+
+05:15 necesita? MAC Origen y Mac destino.
+05:20 
+
+05:20 Entonces, si yo estoy trabajando dentro
+05:23 
+
+05:23 de una LAN, esto tiene que quedar muy
+05:25 
+
+05:25 claro, si estoy trabajando dentro de una
+05:27 
+
+05:27 LAN, eh la IP
+05:31 
+
+05:31 o la IP de estilo no sería suficiente
+05:34 
+
+05:34 para para para transmitir. Sí. Este,
+05:39 
+
+05:39 entonces, bueno, ah, y si y si y si me
+05:41 
+
+05:41 hace falta la la
+05:45 
+
+05:45 si sol si no me hace falta solamente la
+05:47 
+
+05:47 direction IP y me hace falta la Mac.
+05:50 
+
+05:50 Bueno, ¿y cómo cómo cuál va a ser la
+05:52 
+
+05:52 direction Mac asociada destino?
+05:58 
+
+05:58 E demo. Ok.
+06:59 
+
+06:59 Eh, bueno, decíamos e qu la direction
+07:02 
+
+07:02 Mac asociada a C destino. Este, eh,
+07:06 
+
+07:06 entonces la trama, la trama de Ethernet
+07:08 
+
+07:08 lleva primero una MAC destino. Si lo
+07:11 
+
+07:11 vemos, si vemos cómo cómo está
+07:13 
+
+07:13 conformada una trama de internet, lleva
+07:16 
+
+07:16 los campos Mac Destinos, MAC Origen,
+07:20 
+
+07:20 luego información del tipo
+07:24 
+
+07:24 eh el tipo de contenido, los datos y un
+07:29 
+
+07:29 campo de control. ¿Sí?
+07:32 
+
+07:32 Entonces, eh acá es como que tenemos dos
+07:36 
+
+07:36 niveles trabajando juntos. En la capa 3,
+07:40 
+
+07:40 no, la IP o la IP nos va a permitir
+07:42 
+
+07:42 conocer o identificar el origen y el
+07:45 
+
+07:45 destino, mientras que en la capa 2
+07:48 
+
+07:48 Ethernet usa direcciones MAC para
+07:50 
+
+07:50 realizar la entrega dentro del enlace
+07:52 
+
+07:52 local. Recuerden, en capa dos, eso, eso
+07:56 
+
+07:56 anótenlo. En capa 2 estamos hablando de
+07:59 
+
+07:59 trama, no se no estamos hablando todavía
+08:01 
+
+08:01 de direcciones IP. Sí. Entonces eh eh
+08:06 
+
+08:06 IP y Mac no compiten eh entre sí,
+08:11 
+
+08:11 digamos, y y y tampoco y tampoco una
+08:16 
+
+08:16 reemplaza la otra, cumplen funciones
+08:19 
+
+08:19 diferentes. Sí.
+08:27 
+
+08:27 Bien.
+08:30 
+
+08:30 Eh,
+08:31 
+
+08:31 entonces me ha dicho que una una
+08:33 
+
+08:33 dirección IP no alcanza para realizar
+08:36 
+
+08:36 una entrega dentro de una red de
+08:37 
+
+08:37 internet.
+08:39 
+
+08:39 Entonces, eh,
+08:43 
+
+08:43 vamos a vamos a ubicar a a dónde ocurre
+08:46 
+
+08:46 esa entrega.
+08:48 
+
+08:48 La capa de enlace o la capa dos.
+08:51 
+
+08:51 trabaja en en un ámbito local, no
+08:54 
+
+08:54 estamos saliendo a internet. Es como si
+08:56 
+
+08:56 yo tuviera yo tuviera un, no sé, en el
+08:60 
+
+08:60 laboratorio
+09:01 
+
+09:01 eh en máquinas y no tengo un router para
+09:04 
+
+09:04 salir afuera. Entonces, eh la función
+09:08 
+
+09:08 principal es permitir en la capa dos, la
+09:11 
+
+09:11 función principal es permitir la
+09:13 
+
+09:13 comunicación nodo a nodo dentro de un
+09:15 
+
+09:15 mismo enlace o segmento de red. Sí,
+09:17 
+
+09:17 cuando hablamos nodo queremos decir que
+09:19 
+
+09:19 la trama debe pasar de una interfaz a
+09:21 
+
+09:21 otra dentro de la lanta, eh, utilizando
+09:24 
+
+09:24 mecanismo de la capa dos. No estamos
+09:25 
+
+09:25 hablando todavía de un router, no
+09:27 
+
+09:27 estamos hablando de nada. Ahí está el
+09:29 
+
+09:29 dibujito. ¿Ven? El el eh si yo quiero
+09:33 
+
+09:33 mandar de la PCA dato de la PCA a la
+09:36 
+
+09:36 PCB, lo lo hago a nivel local. El router
+09:39 
+
+09:39 es cuando ya necesito salir a internet.
+09:42 
+
+09:42 Ya cuando una de las peces pone, por
+09:44 
+
+09:44 ejemplo, W W WW,
+09:46 
+
+09:46 no sé, eh
+09:50 
+
+09:50 unlar.edu. edu.
+09:52 
+
+09:52 Eh, entonces
+09:56 
+
+09:56 en Ethernet, como como estamos en
+09:58 
+
+09:58 Ethernet y no nos hace falta todavía un
+10:01 
+
+10:01 una salida hacia afuera, eh nos
+10:03 
+
+10:03 manejamos en forma local y eso y eso
+10:07 
+
+10:07 utilizando un mecanismo local y
+10:11 
+
+10:11 y ¿cuáles serían esos? Bueno, eh la
+10:13 
+
+10:13 trama Ethernet para que se produzca la
+10:15 
+
+10:15 comunicación, la trama internet, las
+10:17 
+
+10:17 direcciones Mac y el switch. Sí.
+10:20 
+
+10:20 Recuerden, la trama se está trabajando a
+10:24 
+
+10:24 nivel de capa dos. Eh, ¿qué me permiten
+10:28 
+
+10:28 hacer las MAC? Las MAC. Las MAC me
+10:31 
+
+10:31 permiten identificar las interfaces
+10:33 
+
+10:33 involucradas en la entrega local. Eh,
+10:37 
+
+10:37 entonces, y el switch puede usar esas
+10:39 
+
+10:39 direcciones para decidir eh por qué
+10:42 
+
+10:42 puerto reenviar cada trama.
+10:45 
+
+10:45 Eh, bueno, acá en el dibujito tenemos un
+10:48 
+
+10:48 eh una PCA, una PCB, un switch y un
+10:51 
+
+10:51 getway. Entonces, para que quede claro,
+10:54 
+
+10:54 eh
+10:56 
+
+10:56 el switch trabaja con trama y direciones
+11:00 
+
+11:00 Mac, no está tomando, no está tomando
+11:03 
+
+11:03 decisiones de de enrutar entre redes.
+11:05 
+
+11:05 Sí. Entonces, estamos hablando de switch
+11:07 
+
+11:07 de capa 2.
+11:26 
+
+11:26 Ah, ya se fueron los que estaban
+11:27 
+
+11:27 esperando. Ya.
+11:31 
+
+11:31 Bueno, e
+11:39 
+
+11:39 bueno, ahora vamos a
+11:42 
+
+11:42 si si estudiamos o si o si analizamos
+11:45 
+
+11:45 qué eh qué tiene una trama adentro. Sí.
+11:50 
+
+11:50 E
+11:53 
+
+11:53 si lo vemos, si lo vemos así como el
+11:56 
+
+11:56 modelo OSI que viene de una capa 7, capa
+11:60 
+
+11:60 6, capa de la siete hasta la uno. Sí.
+12:05 
+
+12:05 Entonces, cuando estamos en una capa de
+12:08 
+
+12:08 una aplicación, una aplicación va a
+12:11 
+
+12:11 generar datos.
+12:13 
+
+12:13 Esos datos van a ser van a ser este
+12:15 
+
+12:15 procesados por capas superiores y cuando
+12:18 
+
+12:18 llegan a Ethernet este
+12:22 
+
+12:22 no se no se envían solo. ¿Por qué?
+12:24 
+
+12:24 Porque hay Ethernet le agrega
+12:25 
+
+12:25 información de control para queos datos
+12:27 
+
+12:27 puedan viajar en forma correcta dentro
+12:30 
+
+12:30 de la LAN.
+12:31 
+
+12:31 Entonces esa esa información de o ese
+12:35 
+
+12:35 eso esa información de control, digamos,
+12:38 
+
+12:38 eh,
+12:40 
+
+12:40 ¿qué qué
+12:43 
+
+12:43 por qué está compuesta? Bueno, está
+12:44 
+
+12:44 compuesta por la MAC destino [resoplido]
+12:48 
+
+12:48 que tiene
+12:50 
+
+12:50 la MAC Destino es un campo de de 6
+12:52 
+
+12:52 bytes. Sí. Este, esta dirección, ¿qué
+12:55 
+
+12:55 qué me indica? me indica a qué interfaz
+12:58 
+
+12:58 inter y recuerden eso, estoy hablando de
+13:00 
+
+13:00 interfaz, es como que estoy hablando de
+13:02 
+
+13:02 la placa de red. ¿A qué interfaz debe
+13:05 
+
+13:05 llegar la trama dentro del enlace local?
+13:11 
+
+13:11 Eh,
+13:14 
+
+13:14 si la PCA quiere enviar una trama a la
+13:16 
+
+13:16 PCB y conoce que la que la MAC de la PCB
+13:21 
+
+13:21 es tanto,
+13:23 
+
+13:23 entonces esa dirección va a aparecer
+13:25 
+
+13:25 como backd destino.
+13:28 
+
+13:28 Sí. Este e
+13:32 
+
+13:32 y y bueno y puede ser de
+13:36 
+
+13:36 y puede ser de de tres tipos. Eh, la Mac
+13:41 
+
+13:41 destino puede ser eh unicast cuando
+13:44 
+
+13:44 queremos llegar a un solo dispositivo,
+13:47 
+
+13:47 broadcast cuando queremos llegar a todos
+13:49 
+
+13:49 los dispositivos del segmento o
+13:51 
+
+13:51 multicast si quiero llegar a un grupo.
+13:54 
+
+13:54 Sí, más adelante lo vamos a ver lo bien.
+13:58 
+
+13:58 Otro otro campo que tiene la trama es la
+14:03 
+
+14:03 es el campo OMAC origen. También tiene
+14:06 
+
+14:06 side byte ent y esta dirección
+14:09 
+
+14:09 identifica la interfaz que está enviando
+14:12 
+
+14:12 la trama. ¿Sí?
+14:17 
+
+14:17 Entonces, la Mac destino sirve para
+14:21 
+
+14:21 decidir a dónde va a enviar y la MAC
+14:24 
+
+14:24 origen para aprender de dónde vino.
+14:28 
+
+14:28 Después hay otro campo que
+14:30 
+
+14:30 eh otro campo que se llama
+14:36 
+
+14:36 gente eh tratemos de llegar más
+14:38 
+
+14:38 temprano.
+14:40 
+
+14:40 Al principio hemos arreglado de que de
+14:44 
+
+14:44 que comenzamos 8:30 para que se tengan
+14:47 
+
+14:47 tengan el tomen el tiempo de llegar a su
+14:50 
+
+14:50 casa y conectarse tranquilo. Eh, ya pasó
+14:54 
+
+14:54 bastante, ya 20 minutos después. Bueno,
+14:57 
+
+14:57 eh otro otro campo es el es el tipo que
+15:02 
+
+15:02 y tiene 2 bytes. Sí. ¿Y para qué sirve
+15:05 
+
+15:05 eso? La función de de ese campo es
+15:07 
+
+15:07 indicar qué protocolo está encapsulado
+15:09 
+
+15:09 dentro del campo de datos. ¿Sí? Eh, este
+15:17 
+
+15:17 Ethernet cuando transporta información
+15:20 
+
+15:20 necesita saber qué tipo de contenido lo
+15:22 
+
+15:22 lleva para poder entregarlo en la capa
+15:25 
+
+15:25 superior. Bueno, y ahí tenemos unos
+15:27 
+
+15:27 ejemplos. El cuando veamos que dice un
+15:30 
+
+15:30 0x0800
+15:32 
+
+15:32 e una eh si o se transporta un paquete
+15:37 
+
+15:37 IPv4 va a tener ese valor. Si en si en
+15:41 
+
+15:41 cambio si si lo que transportamos un
+15:43 
+
+15:43 mensaje ARP, que ya vamos a ver qué es,
+15:46 
+
+15:46 eh me va me va el el el valor va a ser
+15:52 
+
+15:52 eh 0 e 0x 0806. Y bueno, y después
+15:57 
+
+15:57 también tenemos un eh si si vamos con
+15:60 
+
+15:60 IPVI, pero de acuerdo al tipo,
+16:03 
+
+16:03 al tipo va a llevar uno u otro valor, el
+16:07 
+
+16:07 campo tipo, o sea, el tipo de de dato
+16:09 
+
+16:09 que lleva este.
+16:12 
+
+16:12 Y después eh viene viene efectivamente
+16:16 
+
+16:16 lo el dato que estamos que estamos
+16:18 
+
+16:18 trabajando nosotros o la carga útil.
+16:22 
+
+16:22 Este es es todo la la
+16:26 
+
+16:26 información que estamos que estamos eh
+16:29 
+
+16:29 transportando.
+16:31 
+
+16:31 Eh, no no interpreta el contenido
+16:34 
+
+16:34 completo del paquete IP para decidir
+16:36 
+
+16:36 dónde dónde envía la trama. lo lo que lo
+16:39 
+
+16:39 que utiliza para la entrega son las
+16:41 
+
+16:41 direcciones MAC. Eso tiene que quedar
+16:42 
+
+16:42 claro. Este y bueno, de ahí el el máximo
+16:47 
+
+16:47 eh este también tenemos e el tamaño
+16:52 
+
+16:52 máximo del MTU. ¿Sí? ¿Qué es el MTU? El
+16:55 
+
+16:55 MTU es el tamaño máximo que puede
+16:58 
+
+16:58 transportar esa trama sin fragmentar.
+17:01 
+
+17:01 Por ejemplo, yo pongo yo pongo un tamaño
+17:03 
+
+17:03 máximo de 1500 y empiezo y cuando están
+17:06 
+
+17:06 negociando, por ejemplo, vamos a hablar
+17:07 
+
+17:07 de negociación, cuando están negociando
+17:10 
+
+17:10 entre entre extremos, eh por ahí puede
+17:13 
+
+17:13 haber una congestión, qué sé yo, y van y
+17:15 
+
+17:15 van y se y ese y ese
+17:19 
+
+17:19 ese
+17:21 
+
+17:21 tamaño puede puede variar para abajo,
+17:23 
+
+17:23 ¿no?
+17:25 
+
+17:25 Este y bueno, y si la carga útil es
+17:28 
+
+17:28 demasiada pequeña, esta me puede agregar
+17:30 
+
+17:30 relleno o pading para alcanzar el tamaño
+17:33 
+
+17:33 requerido. Después viene el el frame
+17:35 
+
+17:35 check sequence, que es de 4 bytes, que
+17:38 
+
+17:38 que sirve para detectar errores de
+17:40 
+
+17:40 transmisión. Sí. Entonces, el emisor me
+17:45 
+
+17:45 calcula un No sé si si han sentido
+17:47 
+
+17:47 hablar del código de redundancia cíclica
+17:49 
+
+17:49 o el CRC, han sentido hablar de ese de
+17:52 
+
+17:52 ese algún momento de ese tema.
+17:56 
+
+17:56 No, profe, de mi parte no.
+17:58 
+
+17:58 No, por favor, no.
+18:00 
+
+18:00 Creo que hay una materia, no me acuerdo
+18:04 
+
+18:04 cómo se llama,
+18:06 
+
+18:06 arquitectura de hardware. No, no, no ven
+18:08 
+
+18:08 ahí eso. El CRC,
+18:11 
+
+18:11 el cálculo del CRC,
+18:14 
+
+18:14 esas cosas no ven erradores.
+18:17 
+
+18:17 No vieron eso
+18:20 
+
+18:20 no. Todavía no. Estamos más en parte
+18:22 
+
+18:22 hardware, todo eso.
+18:24 
+
+18:24 Bien. Bueno, entonces el código de, o
+18:28 
+
+18:28 sea, cuando uno cuando uno
+18:31 
+
+18:31 manda datos, eh
+18:34 
+
+18:34 el emisor calcula el un valor de
+18:37 
+
+18:37 verificación y lo coloca en la trama.
+18:40 
+
+18:40 Cuando la trama esa llega al receptor,
+18:43 
+
+18:43 se vuelve a calcular y se compara. Ah,
+18:46 
+
+18:46 mira, eh, es lo lo que me lo que me lo
+18:49 
+
+18:49 que recibí es lo es el mismo que me
+18:51 
+
+18:51 envió. Entonces, si ambos coinciden, la
+18:54 
+
+18:54 trama se considera íntegra y si, o sea,
+18:58 
+
+18:58 tiene tiene integridad y si no coinciden
+19:01 
+
+19:01 significa que alguna alteración hubo en
+19:03 
+
+19:03 la transmisión. En ese caso, ¿qué hay
+19:05 
+
+19:05 que hacer? Se descarta la trama y si
+19:07 
+
+19:07 estoy y me la tiene que retransmitir.
+19:10 
+
+19:10 Sí. No, no, no, no. Acá no vamos a ver
+19:13 
+
+19:13 la matemática del CRC, pero simplemente
+19:15 
+
+19:15 la idea es que comprendan que el front
+19:17 
+
+19:17 check seconds es un mecanismo de
+19:19 
+
+19:19 detención de errores, no de corrección.
+19:21 
+
+19:21 Detect dice, "Ah, hay un error." Eh, y
+19:25 
+
+19:25 la descarga la descarta a la trama en
+19:29 
+
+19:29 caso de que el que quede un error.
+19:31 
+
+19:31 Entonces,
+19:33 
+
+19:33 resumiendo,
+19:36 
+
+19:36 Ethernet me agrega información de
+19:39 
+
+19:39 control para que esos para que esos
+19:40 
+
+19:40 datos eh identificar tanto el origen, el
+19:45 
+
+19:45 origen como el destino, qué protocolo
+19:48 
+
+19:48 transportan, ¿sí? que puede un IPv4, un
+19:50 
+
+19:50 IPv6, puede ir un ARP. Eh, bueno,
+19:53 
+
+19:53 también me va a tener la carga útil, los
+19:55 
+
+19:55 datos realmente que realmente estoy
+19:57 
+
+19:57 transportando y con el FCS me va a decir
+20:01 
+
+20:01 si llegaron con error.
+20:05 
+
+20:05 Este,
+20:07 
+
+20:07 por eso decimos que que la la la trama
+20:12 
+
+20:12 encapsula datos. Sí. Entonces, eso sería
+20:17 
+
+20:17 eh
+20:20 
+
+20:20 bien.
+20:22 
+
+20:22 Bueno, ya ya vimos que
+20:25 
+
+20:25 que todo que toda trama internet
+20:29 
+
+20:29 lleva una MAC origen y una MAC destino,
+20:34 
+
+20:34 pero no nos preguntamos todavía qué es
+20:37 
+
+20:37 una MAC, o sea, o no la definimos
+20:40 
+
+20:40 todavía. Entonces, si lo tuviéramos que
+20:43 
+
+20:43 definir, eh una dirección Mac es un
+20:46 
+
+20:46 identificador asociado a una interfaz de
+20:49 
+
+20:49 red que trabaja en Ethernet. Cuando me
+20:52 
+
+20:52 refiero a interfaz de red, ¿a qué me
+20:54 
+
+20:54 estoy refiriendo?
+20:57 
+
+20:57 A un dispositivo,
+21:02 
+
+21:02 ¿no?
+21:03 
+
+21:03 O a la placa de red sale,
+21:05 
+
+21:05 eh, a la placa de red.
+21:07 
+
+21:07 Y y por qué te digo, ¿qué pasa si tu
+21:09 
+
+21:09 computadora tiene dos dos placas de red?
+21:14 
+
+21:14 Tiene dos direcciones, Mac.
+21:16 
+
+21:16 Claro. Entonces, para que te quede bien
+21:19 
+
+21:19 claro el tema de la respuesta,
+21:21 
+
+21:21 la MAC no identifica a la computadora,
+21:25 
+
+21:25 sino a la placa de red. ¿Quedó claro?
+21:30 
+
+21:30 Sí, profe, gracias.
+21:33 
+
+21:33 Bien.
+21:38 
+
+21:38 Porque, por ejemplo, yo en mi not en mi
+21:40 
+
+21:40 not yo puedo tener eh una una
+21:44 
+
+21:44 interfaz Wi-Fi y una y y y una y una una
+21:48 
+
+21:48 interfaz internet. Sí, como dice Racing,
+21:51 
+
+21:51 cada uno puede tener dos eh cada uno
+21:54 
+
+21:54 puede tener su su propia Mac. Sí.
+21:58 
+
+21:58 Entonces ahí, bueno, ahí hay ahí como
+22:01 
+
+22:01 ahí vemos el formato de la direction
+22:02 
+
+22:02 Mac, eh, tiene 48 bit, ¿sí? Eh,
+22:09 
+
+22:09 y como queda cada bit forma e cada 8 bit
+22:13 
+
+22:13 forman un byte,
+22:16 
+
+22:16 entonces 48 di 8
+22:21 
+
+22:21 es de 6 bytes, ¿sí? Y esos 6 byt se
+22:25 
+
+22:25 representan en hexadecimal.
+22:28 
+
+22:28 Ahí tenemos el ejemplo. Eh, cada bloque
+22:32 
+
+22:32 representa un byte. 0 1 byte. 1a 1 byte.
+22:37 
+
+22:37 2bte y así hasta el cómplice los 6 byes.
+22:43 
+
+22:43 Eh, bueno, exadecimal usa, bueno, eso ya
+22:45 
+
+22:45 lo saben, exadecimal usa 16 símbolos de
+22:49 
+
+22:49 0 al 9 y de la A la F. Sí.
+22:53 
+
+22:53 Este,
+22:55 
+
+22:55 e bueno, y qué y qué me qué me
+22:58 
+
+22:58 identifica la Mac y bueno, este, como
+23:01 
+
+23:01 decíamos recién, la la interfaz de la
+23:04 
+
+23:04 red este y y
+23:11 
+
+23:11 bueno, y como qué otra cosa le podemos
+23:13 
+
+23:13 ver de acá, eh, para que se necesita
+23:17 
+
+23:17 bueno se necesita para entregar la la
+23:19 
+
+23:19 trama al dispositivo correcto dentro de
+23:21 
+
+23:21 lo dentro de segmento local, por
+23:23 
+
+23:23 ejemplo, yo tengo una e ustedes eh ahí
+23:27 
+
+23:27 tienen en su máquina en su máquina si
+23:30 
+
+23:30 ustedes hacen pueden llegar de dos
+23:31 
+
+23:31 maneras, pero más la la manera esta de
+23:35 
+
+23:35 ir desde desde
+23:37 
+
+23:37 inicio, si tienen un Windows, ¿no?
+23:40 
+
+23:40 Inicio, ejecutar cmd y ahí van a y ahí
+23:44 
+
+23:44 van a leer se le va la consola dos y ahí
+23:50 
+
+23:50 ponen IP config. Y ahí les va a decir
+23:53 
+
+23:53 dire esta este ejemplo que sale ahí,
+23:57 
+
+23:57 este
+24:00 
+
+24:00 el le va a decir dirección IP, máscara
+24:03 
+
+24:03 de sub, puerta de enlace y la dirección
+24:06 
+
+24:06 física o Mac. Sí. ¿Y cómo se lee? ¿Cómo
+24:09 
+
+24:09 se lee? E una una MAC. Bueno, los
+24:15 
+
+24:15 primeros 24 bit dijimos que cada cada
+24:22 
+
+24:22 eh eh número exadecimal
+24:26 
+
+24:26 eh son 8 bit.
+24:28 
+
+24:28 Este, entonces
+24:30 
+
+24:30 eh los 24 bit, los primeros eh los
+24:35 
+
+24:35 primeros tres números exadecimales o o
+24:40 
+
+24:40 24 bit
+24:42 
+
+24:42 eh se los utiliza para para identificar
+24:47 
+
+24:47 al fabricante de de la de la interfaz de
+24:52 
+
+24:52 red. No sé, yo yo creo que le había
+24:54 
+
+24:54 comentado en algún momento eso sirve eh
+24:57 
+
+24:57 cuando hay por ahí hay problemas y no
+24:59 
+
+24:59 sabemos de dónde de dónde de dónde dónde
+25:02 
+
+25:02 está el problema y no tenemos cómo
+25:04 
+
+25:04 identificarlo. Esta es una una
+25:06 
+
+25:06 herramienta. Puede ser esto con con a
+25:08 
+
+25:08 partir de los tres este
+25:11 
+
+25:11 de los tres números hexadecimales eh
+25:14 
+
+25:14 empezar a ver e por ejemplo me puede
+25:16 
+
+25:16 decir IBM. Ah, eh,
+25:19 
+
+25:19 y empezó a buscar qué máquinas hay IBM
+25:22 
+
+25:22 en en Milán, la que está ocasionando
+25:25 
+
+25:25 problemas. Este, y los otros 24 bit eh
+25:30 
+
+25:30 corresponde
+25:32 
+
+25:32 al identificador asignado a la placa de
+25:35 
+
+25:35 red dentro del espacio del fabricante.
+25:37 
+
+25:37 Sí. Eh, no, esto no se memoriza.
+25:43 
+
+25:43 Eh, simplemente la idea es entender qué
+25:45 
+
+25:45 es una MAC. Eh, y y que y que entendamos
+25:48 
+
+25:48 que no es un
+25:51 
+
+25:51 un simple eh número. Sí. Este, cada cada
+25:58 
+
+25:58 MAC es es única y es como si fuera el
+26:01 
+
+26:01 DNI de una persona que no es unívoco.
+26:03 
+
+26:03 Bueno, acá también pasa lo mismo, la
+26:05 
+
+26:05 identifica en forma unívoca a una a una
+26:10 
+
+26:10 a una placa de red. ¿Cómo se la
+26:12 
+
+26:12 representa? Bueno, hay como figura ahí
+26:14 
+
+26:14 formato de la direction Max 00 dos
+26:16 
+
+26:16 punos. Por ahí en Windows
+26:20 
+
+26:20 van a ver que en lugar de dos puntos
+26:22 
+
+26:22 tiene un guion. Eh, es la forma de es la
+26:25 
+
+26:25 forma de de
+26:28 
+
+26:28 cómo la representa.
+26:31 
+
+26:31 Si usted ejecuta, bueno, si yo supongo
+26:33 
+
+26:33 que recién ejecutaron el comando
+26:36 
+
+26:36 IP config y le salió eso. Ahora, eh, hay
+26:40 
+
+26:40 un hay un comando
+26:43 
+
+26:43 que se llama ARP de AR ARP.
+26:50 
+
+26:50 Si ustedes ejecutan arpic
+26:54 
+
+26:54 a eh le le va a salir este le va a salir
+26:59 
+
+26:59 una un dato que ya lo mis trabajando,
+27:02 
+
+27:02 pero simplemente para para que se vayan
+27:07 
+
+27:07 para que se vayan este eh amigando con
+27:10 
+
+27:10 esto. ¿Han usado alguna vez el protocolo
+27:12 
+
+27:12 ARP?
+27:18 
+
+27:18 No, profe.
+27:19 
+
+27:19 No, profe.
+27:20 
+
+27:20 Bien, úsenlo. O sea, van a ir
+27:23 
+
+27:23 descubriendo todas estas cosas, eh, eh,
+27:26 
+
+27:26 que le va a servir, le va a servir
+27:28 
+
+27:28 mucho.
+27:30 
+
+27:30 Este,
+27:32 
+
+27:32 bueno,
+27:35 
+
+27:35 habiendo visto ya qué
+27:38 
+
+27:38 es macro y para qué sirve, eh, ahora
+27:42 
+
+27:42 tenemos que comparar eso
+27:45 
+
+27:45 con lo que con lo que nosotros ya
+27:47 
+
+27:47 conocíamos
+27:50 
+
+27:50 que era la dirección IP. Entonces,
+27:55 
+
+27:55 si una computadora ya tiene una
+27:58 
+
+27:58 direction IP,
+28:00 
+
+28:00 ¿por qué necesitaría una MAC? ¿Qué
+28:02 
+
+28:02 piensan ustedes?
+28:15 
+
+28:15 La capa dos,
+28:17 
+
+28:17 las tramas eternet
+28:20 
+
+28:20 con la Mac.
+28:21 
+
+28:21 trabajan en capa dos, una dirección IP
+28:24 
+
+28:24 en capa 3, porque yo dijimos que no
+28:28 
+
+28:28 ninguna reemplaza la otra y que ambas se
+28:31 
+
+28:31 complementan. Bien. E
+28:36 
+
+28:36 qué por qué creen ustedes que
+28:38 
+
+28:38 necesitarían una una
+28:41 
+
+28:41 si una computadora si ya está
+28:43 
+
+28:43 configurado con IP para que necesito una
+28:45 
+
+28:45 Mac
+28:53 
+
+28:53 no se les ocurre.
+29:00 
+
+29:00 A ver, Alan Martorelli, ¿qué opina
+29:02 
+
+29:02 usted?
+29:05 
+
+29:05 para saber a qué dispositivo
+29:06 
+
+29:06 corresponde, profe.
+29:09 
+
+29:09 Eh,
+29:11 
+
+29:11 sí, pero es incompleto. A ver,
+29:16 
+
+29:16 eh,
+29:18 
+
+29:18 la respuesta sería, trabajan en capas
+29:21 
+
+29:21 distintas y resuelven problema distinto.
+29:25 
+
+29:25 La dirección IP pertenece a la capa 3,
+29:28 
+
+29:28 la capa de red. ¿Cuál es la función?
+29:31 
+
+29:31 El direccionamiento lógico, ¿qué qué nos
+29:34 
+
+29:34 permite hacer? Y nos permite identificar
+29:37 
+
+29:37 un h dentro de una red y sobre todo
+29:40 
+
+29:40 permite la comunicación
+29:43 
+
+29:43 entre redes diferentes. Por ejemplo, yo
+29:46 
+
+29:46 puedo tener una una PC como figura y la
+29:49 
+
+29:49 a la PCA 192 168.10 10.20
+29:56 
+
+29:56 y quiere comunicarse
+30:13 
+
+30:13 profe. Se le está cortando un servidor.
+30:17 
+
+30:17 No se entiende lo que está diciendo.
+30:18 
+
+30:18 Que la dirección es 8 8 4 veces 8.
+30:22 
+
+30:22 Entonces,
+30:23 
+
+30:23 eh ahí
+30:28 
+
+30:28 a ver,
+30:30 
+
+30:30 está volviendo mal el internet, profe.
+30:33 
+
+30:33 Diga,
+30:38 
+
+30:38 se le estaba cortando todo el audio.
+30:41 
+
+30:41 Ya, ya lo ya lo veo, ya lo veo.
+30:46 
+
+30:46 Sí, hay hay cambio de red. Hay cambio de
+30:48 
+
+30:48 red. Dame do segundos.
+31:03 
+
+31:03 Ahí estamos.
+31:05 
+
+31:05 Estamos mejor.
+31:07 
+
+31:07 Sí, profe.
+31:08 
+
+31:08 Hola, hola, hola. ¿Me escuchan bien?
+31:11 
+
+31:11 ¿Estamos mejor ahí? Sí,
+31:14 
+
+31:14 sí. Bien, entonces eh yo quiero yo
+31:18 
+
+31:18 quiero
+31:20 
+
+31:20 eh yo quiero decía que si yo tengo una
+31:24 
+
+31:24 PCA que tiene una dirección 192
+31:27 
+
+31:27 168.10.20
+31:29 
+
+31:29 y quiero ir a un servidor que tiene
+31:31 
+
+31:31 8.8.8.8,
+31:34 
+
+31:34 evidentemente estoy yendo a otra red.
+31:36 
+
+31:36 Entonces, eh ese tipo de direcciones, o
+31:39 
+
+31:39 sea, las direcciones IP me van a
+31:40 
+
+31:40 permitir que los router determinen hacia
+31:42 
+
+31:42 qué red debe encaminarse ese paquete.
+31:44 
+
+31:44 Por eso decimos que una dirección IP
+31:48 
+
+31:48 tiene un alcance más amplio. ¿Por qué?
+31:51 
+
+31:51 Porque puede representar un destino
+31:54 
+
+31:54 local en la misma LAN o un destino
+31:57 
+
+31:57 remoto. En cambio, la dirección MAC es
+31:60 
+
+31:60 una es una dirección e que pertenece a
+32:03 
+
+32:03 la capa dos, a la capa de enlace.
+32:06 
+
+32:06 Eh, y su función es permitir la entrega
+32:09 
+
+32:09 local de una trama de Ethernet.
+32:12 
+
+32:12 Por ejemplo, ahí dice, bueno, está la la
+32:15 
+
+32:15 Mac de la de la PSA. Hm.
+32:19 
+
+32:19 Recién ya le había preguntado eh y y me
+32:23 
+
+32:23 me habían dicho que la eh la MAC
+32:26 
+
+32:26 identifica una interfaz dentro de una de
+32:29 
+
+32:29 una LAN. Bien, esa dirección no se
+32:32 
+
+32:32 utiliza para enrutar un paquete por
+32:35 
+
+32:35 internet. Sí, es es mucho más limitada
+32:39 
+
+32:39 la función es hacer llegar la trama al
+32:43 
+
+32:43 siguiente dispositivo dentro enlace de
+32:45 
+
+32:45 internet. Es decir, si yo tengo la en en
+32:48 
+
+32:48 el en el laboratorio de la universidad
+32:50 
+
+32:50 tengo ocho máquinas y va ellos van a van
+32:54 
+
+32:54 a van a estar este
+32:57 
+
+32:57 o se va a estar la MAC va a estar
+32:59 
+
+32:59 transmitiendo a las ocho máquinas que
+33:01 
+
+33:01 están dentro de esa dentro de esa de esa
+33:03 
+
+33:03 red. ¿Sí? Entonces,
+33:06 
+
+33:06 eh para que quede claro,
+33:09 
+
+33:09 la diferencia de alcance
+33:11 
+
+33:11 eh eh o a dónde llega es lo es lo es lo
+33:15 
+
+33:15 es lo más importante. Este eh eh, ¿cómo
+33:20 
+
+33:20 se llama? Este,
+33:22 
+
+33:22 el la dirección IP la puedo utilizar
+33:25 
+
+33:25 para irme a redes remota, por ejemplo,
+33:27 
+
+33:27 quiero eh quiero irme a a a no sé a a
+33:33 
+
+33:33 ver la no sé wwnba.com
+33:37 
+
+33:37 y y ahí voy a me va me va a rotear todo
+33:42 
+
+33:42 el camino para ir allá. En cambio, este
+33:44 
+
+33:44 la Mac tienen tiene un un alcance dentro
+33:48 
+
+33:48 de la red local. Eso tiene que quedar
+33:50 
+
+33:50 muy claro. Eh,
+33:55 
+
+33:55 otra otra diferencia que puede haber es
+33:57 
+
+33:57 que la la IP suele depender de la red
+34:00 
+
+34:00 donde está conectado el equipo. Por
+34:02 
+
+34:02 ejemplo, si una si una notebook yo tengo
+34:05 
+
+34:05 una notebook y cambio de la red wifi a
+34:08 
+
+34:08 otra y muy probablemente cambie la
+34:11 
+
+34:11 direction IP.
+34:13 
+
+34:13 Sí. Por ejemplo, yo yo recién le dije eh
+34:16 
+
+34:16 eh alguien me dijo, "Tiene problema de
+34:18 
+
+34:18 no se la escucha. y yo veo que está
+34:20 
+
+34:20 saturada la red, bueno, entonces eh
+34:23 
+
+34:23 tengo que ver e cambie de cambie de de
+34:27 
+
+34:27 proveedor y seguramente tengo otra
+34:29 
+
+34:29 direction IP. Sí. En cambio, eh,
+34:34 
+
+34:34 la Mac no es como que no cambia. Sí.
+34:39 
+
+34:39 E bien.
+34:51 
+
+34:51 Y cómo
+34:54 
+
+34:54 cómo un switch
+34:57 
+
+34:57 eh va se va dando cuenta de cómo de cómo
+35:02 
+
+35:02 en qué puerto está cada dispositivo.
+35:08 
+
+35:08 No, no hace falta que alguien vaya y
+35:10 
+
+35:10 cargue, tome
+35:14 
+
+35:14 un Excel y se y ponga a cargar cada uno
+35:16 
+
+35:16 de la de la de las direcciones Mac, ¿no?
+35:20 
+
+35:20 Esa esa información él la va aprendiendo
+35:23 
+
+35:23 a medida que que que circula tráfico.
+35:26 
+
+35:26 Por ejemplo, eh ahí en el dibujito que
+35:29 
+
+35:29 está ahí, eh la PCA está conectada al
+35:33 
+
+35:33 puerto uno.
+35:37 
+
+35:37 Entonces estamos hablando de una red
+35:39 
+
+35:39 local. La PCA envía una trama etherneta
+35:44 
+
+35:44 trama entra por el puerto uno a a al
+35:48 
+
+35:48 switch por el puerto uno.
+35:51 
+
+35:51 [carraspeo]
+35:52 
+
+35:52 Y bueno, y recordemos que ¿qué dijimos?
+35:54 
+
+35:54 ¿Cómo está compuesta la MAC? La MAC está
+35:56 
+
+35:56 compuesta por el la trama está compuesta
+35:58 
+
+35:58 por la MAC origen, la MAC destino, el
+36:02 
+
+36:02 tipo, los datos. Sí. Bueno, entonces con
+36:06 
+
+36:06 esos datos de de Mac Origen y Mac
+36:08 
+
+36:08 destino
+36:10 
+
+36:10 ya tiene dos ya tiene dos datos.
+36:12 
+
+36:12 Entonces,
+36:14 
+
+36:14 eh el switch al ver que llega la trama
+36:19 
+
+36:19 por el puerto uno, se va a fijar en el
+36:22 
+
+36:22 campo que dice Mac Origen y va a decir,
+36:25 
+
+36:25 "Ah, la MAC 00 1A, 2B, 3C, 4D, 5E,
+36:30 
+
+36:30 pertenece al puerto 1. Entonces, ¿qué
+36:34 
+
+36:34 hace? Lo va guardando en lo que se llama
+36:36 
+
+36:36 una tabla MAC.
+36:41 
+
+36:41 Eh,
+36:43 
+
+36:43 entonces eh
+36:45 
+
+36:45 ya ya tiene ya tiene un dato. Ya tiene
+36:48 
+
+36:48 un dato.
+36:51 
+
+36:51 Entonces y y a partir de ese momento
+36:54 
+
+36:54 dice, si en el futuro quiero llegar a
+36:56 
+
+36:56 esa MAC, a la a la 00 1A, 2B, 3C, 4D,
+37:01 
+
+37:01 5E, si quiero llegar a esa Mac, ¿por
+37:03 
+
+37:03 dónde voy a salir? ¿Qué dice? ¿Qué dice
+37:06 
+
+37:06 el Switch? ¿Por dónde sale? ¿Por
+37:09 
+
+37:09 qué puerto
+37:13 
+
+37:13 o porque Boca?
+37:17 
+
+37:17 ¿Por qué Boca del Switch va a salir?
+37:25 
+
+37:25 Mm.
+37:27 
+
+37:27 ¿Qué piensan?
+37:31 
+
+37:31 A ver, Agustín de la Fuente. Agustín de
+37:34 
+
+37:34 la Fuente.
+37:37 
+
+37:37 ¿Cómo? Profecó. Yo no lo escuché.
+37:41 
+
+37:41 Bueno,
+37:44 
+
+37:44 estamos diciendo que el switch va
+37:45 
+
+37:45 aprendiendo de forma dinámica
+37:49 
+
+37:49 y a medida que que va que van pasando
+37:52 
+
+37:52 las tramas
+37:54 
+
+37:54 va estudiando los campos. El campo uno
+37:57 
+
+37:57 dice eh Mac Origen y él va ya anotó que
+38:01 
+
+38:01 la Mac Origen viene del puerto tal.
+38:05 
+
+38:05 Entonces eh en el futuro si viene si si
+38:12 
+
+38:12 viene una esa MAC address e por qué
+38:16 
+
+38:16 puerta lo va lo va a saber a dónde
+38:19 
+
+38:19 enviarla. ¿Qué puerto del Switch?
+38:30 
+
+38:30 Míralo, mira el dibujito.
+38:33 
+
+38:33 Sería por el mismo por el uno.
+38:35 
+
+38:35 Claro, claro, porque va asociando, va
+38:38 
+
+38:38 asociando,
+38:40 
+
+38:40 va asociando. Eh eh él le llegó algo de
+38:46 
+
+38:46 de por de la PSA, le llegó algo, una
+38:48 
+
+38:48 trama. Ah, ¿cuál es? dice, eh, la el la
+38:52 
+
+38:52 Mac Origen y se fija cuál es la Mac
+38:55 
+
+38:55 Origen. Ah, ¿por qué puerto llegó eso?
+38:57 
+
+38:57 Por el puerto uno. Ah, perfecto. Lo voy
+38:59 
+
+38:59 a anotando.
+39:02 
+
+39:02 De ahí viene la PCB. La la otra otra PC
+39:05 
+
+39:05 que está en ¿Qué puerto está la PCB?
+39:08 
+
+39:08 ¿En qué puerto está enchufado? Que lo
+39:10 
+
+39:10 están viendo.
+39:10 
+
+39:10 En el tres.
+39:11 
+
+39:11 En el tres, profe.
+39:13 
+
+39:13 En el tres. Entonces, ¿qué es lo primero
+39:14 
+
+39:14 que va a preguntar? El switch.
+39:19 
+
+39:19 Si ya hay algo asociado ahí,
+39:22 
+
+39:22 eh, no hay nada porque está vacío. En el
+39:24 
+
+39:24 punto dos, fíjate, en el punto dos dice
+39:27 
+
+39:27 el Switch aprende de la Mac Origen. Eh,
+39:30 
+
+39:30 no, no hay nada. Solamente solamente
+39:33 
+
+39:33 tiene el paquete el paquete que envió la
+39:37 
+
+39:37 PCA. Ahora envía un paquete la PCB
+39:41 
+
+39:41 no tiene nada. Entonces, ¿qué va a
+39:42 
+
+39:42 hacer?
+39:45 
+
+39:45 Va a estudiar la trama. ¿Y qué se va a
+39:46 
+
+39:46 fijar?
+39:50 
+
+39:50 ¿Qué campo se va a fijar?
+39:58 
+
+39:58 La Mac de destino,
+40:00 
+
+40:00 la Mac Origen. La Mac Origen porque no
+40:03 
+
+40:03 tiene nada. Lo primero que se fija la
+40:05 
+
+40:05 Mac Origen, ¿de dónde viene?
+40:08 
+
+40:08 Se va a fijar el campo dentro de la
+40:10 
+
+40:10 trama.
+40:15 
+
+40:15 Dentro de la trama.
+40:19 
+
+40:19 tiene eh Mac destino, Mac origen, el
+40:24 
+
+40:24 tipo, los datos y y el y el y el check
+40:27 
+
+40:27 zoom.
+40:30 
+
+40:30 Entonces, si viene un
+40:34 
+
+40:34 viene eh no tengo nada, la tabla está
+40:36 
+
+40:36 vacía, ¿qué me voy a fijar? ¿De dónde
+40:39 
+
+40:39 viene?
+40:41 
+
+40:41 Miro eh eh qué Mac viene. Viene una Mac
+40:44 
+
+40:44 tal, ¿de qué puerto? del uno. Ah,
+40:47 
+
+40:47 perfecto. Lo ya voy aprendiendo a medida
+40:49 
+
+40:49 que va va dañando tráfico. Anoto la Mac,
+40:52 
+
+40:52 asocio con un puerto.
+40:54 
+
+40:54 De ahí viene, noto, no tengo nada más en
+40:57 
+
+40:57 mi tabla. Viene otro paquete. Eh, ¿de
+40:60 
+
+41:00 dónde viene? Ah, del puerto 3. ¿Y cuál
+41:02 
+
+41:02 es la Mac? Tal. Ah, la voy anotando. Y
+41:05 
+
+41:05 así va creando su tabla.
+41:09 
+
+41:09 Eso es. va creando su tabla a partir de
+41:13 
+
+41:13 de
+41:16 
+
+41:16 del tráfico que va teniendo.
+41:22 
+
+41:22 Y bueno, de la misma manera
+41:25 
+
+41:25 e
+41:27 
+
+41:27 vamos a la otra mitad del proceso.
+41:29 
+
+41:29 Entonces, cuando llega una trama, el
+41:31 
+
+41:31 switch mira la magna de destino también,
+41:35 
+
+41:35 o sea, ya ya notó, ya notó eh origen de
+41:38 
+
+41:38 dónde viene, asocié con el puerto. Bien,
+41:40 
+
+41:40 ¿a dónde va?
+41:43 
+
+41:43 Eh, ¿a dónde va? Bueno, tengo que leer
+41:45 
+
+41:45 la MAC de destino
+41:48 
+
+41:48 y también entonces aprende con la MAC de
+41:51 
+
+41:51 origen y reenvía según la MAC de
+41:54 
+
+41:54 destino. Y acá puede pasar tres
+41:57 
+
+41:57 escenarios.
+41:59 
+
+41:59 Si la MAC de destino es conocida,
+42:02 
+
+42:02 supongamos que ya tiene cargada la
+42:05 
+
+42:05 tabla, eh, y viene del puerto uno al
+42:08 
+
+42:08 puerto 3,
+42:11 
+
+42:11 entonces la conoce. Entonces el el
+42:14 
+
+42:14 switch consulta su tabla y encuentra una
+42:16 
+
+42:16 coincidencia. Ah, mira, el la Mac Origen
+42:20 
+
+42:20 es tal y la MAC Destino es tal. El
+42:22 
+
+42:22 puerto de la Mac Origen es uno y el
+42:24 
+
+42:24 puerto de la Mac Origen Mac Destino es
+42:26 
+
+42:26 tres. ¿Qué hace? Y bueno, ya envía la la
+42:30 
+
+42:30 lavía la la trama por el puerto tres, no
+42:35 
+
+42:35 la copia todos los otros puertos,
+42:37 
+
+42:37 simplemente la copia al puerto tres,
+42:40 
+
+42:40 porque eso es eso decía la trama. Cuando
+42:44 
+
+42:44 la Mac del Destino es desconocida
+42:47 
+
+42:47 eh este ¿por qué? Porque todavía esa
+42:52 
+
+42:52 eh no no está dentro de la dentro de la
+42:55 
+
+42:55 tabla Mac. El Switch no sabe
+42:59 
+
+42:59 eh en qué puerto está ese dispositivo.
+43:03 
+
+43:03 Y ah dice eh me llega una me llega una
+43:07 
+
+43:07 me llega una una un una trama y tengo
+43:12 
+
+43:12 que reenviarlo, pero no sé no sé en qué
+43:13 
+
+43:13 puerto está. Cuando yo la conozco, la
+43:16 
+
+43:16 mando por un puerto determinado que que
+43:18 
+
+43:18 yo ahí me lo está diciendo en la tabla,
+43:20 
+
+43:20 pero cuando no lo tengo aparece un
+43:23 
+
+43:23 concepto nuevo. Fluding.
+43:25 
+
+43:25 ¿Qué es flu? Fluding
+43:28 
+
+43:28 es cuando el switch reenvía una copia de
+43:31 
+
+43:31 la trama por todos los puertos, excepto
+43:35 
+
+43:35 el puerto por el que ingresó. Entonces,
+43:37 
+
+43:37 si yo si yo tengo en el en el yo tengo
+43:41 
+
+43:41 registrado que la MAC está viene del
+43:44 
+
+43:44 puerto uno, no la voy a mandar al puerto
+43:46 
+
+43:46 uno, la voy a mandar por todos los otros
+43:49 
+
+43:49 menos el uno.
+43:56 
+
+43:56 Este,
+43:58 
+
+43:58 eso eso, bueno, ¿por qué lo hace? porque
+44:00 
+
+44:00 no tiene suficiente información y
+44:03 
+
+44:03 entonces cuando y cuando el y cuando el
+44:06 
+
+44:06 como lo mando para todos, excepto para
+44:08 
+
+44:08 el para él mismo, para el para el puerto
+44:10 
+
+44:10 uno, digamos, eh eh cuando el
+44:13 
+
+44:13 dispositivo destino responda y genere
+44:16 
+
+44:16 tráfico, como el switch aprende a partir
+44:20 
+
+44:20 del tráfico y cuando haya tráfico va a
+44:23 
+
+44:23 aprender la Magda Origen y asociarla y
+44:26 
+
+44:26 la va a asociar al puerto al puerto ese
+44:29 
+
+44:29 sí.
+44:30 
+
+44:30 [resoplido]
+44:30 
+
+44:30 Eso sería. Y de ahí hay este
+44:35 
+
+44:35 quedó claro lo que es floing.
+44:40 
+
+44:40 Sí, profe.
+44:41 
+
+44:41 Sí, profe. Sí. Sí.
+44:42 
+
+44:42 Bien. Y bueno, y de ahí eh
+44:50 
+
+44:50 eh tenemos el caso, el escenario tres
+44:52 
+
+44:52 cuando es un broadcast.
+44:54 
+
+44:54 El este caso ya es distinto, ¿eh? ¿Por
+44:57 
+
+44:57 qué? Porque la el broadcast suele ser F
+44:59 
+
+44:59 f
+45:01 
+
+45:01 este eh esa esa dirección significa que
+45:07 
+
+45:07 eh está eh está dirigida a todos los
+45:10 
+
+45:10 equipos del segmento. Eh no busca no
+45:13 
+
+45:13 busca un único puerto, sino que ya envía
+45:16 
+
+45:16 esa trama a todos los puertos del
+45:18 
+
+45:18 segmento eh también, excepto el del que
+45:21 
+
+45:21 lo del que lo recibió.
+45:27 
+
+45:27 porque no lo conoce. Sí. Bueno, ahí
+45:30 
+
+45:30 está. Eh, es cuándo es e los tipos de
+45:33 
+
+45:33 entrega,
+45:34 
+
+45:34 profe.
+45:34 
+
+45:34 Los diga
+45:36 
+
+45:36 eh, perdón, ¿cómo sería la diferencia
+45:38 
+
+45:38 entonces
+45:39 
+
+45:39 de los anteriores? Porque
+45:43 
+
+45:43 el fluing también envía todo.
+45:45 
+
+45:45 En flooding es por destino desconocido.
+45:48 
+
+45:48 En yo no no lo conozco. En cambio, el
+45:51 
+
+45:51 broadcast yo conozco y no conozco. Se lo
+45:53 
+
+45:53 envío a todo. Yo yo puedo tener e yo
+45:57 
+
+45:57 puedo tener este
+45:59 
+
+45:59 eh
+46:01 
+
+46:01 este,
+46:03 
+
+46:03 ¿cómo se dice? E eh eh yo puedo conocer
+46:07 
+
+46:07 a alguien y se lo voy a mandar al eh a
+46:11 
+
+46:11 los que a los que desconozca.
+46:14 
+
+46:14 En cambio,
+46:16 
+
+46:16 e
+46:18 
+
+46:18 el el broadcast se lo envío a todo el
+46:20 
+
+46:20 mundo, a en cambio, el otro se lo envío
+46:23 
+
+46:23 a los que desconozco. Sí.
+46:27 
+
+46:27 Bien. Eh, y y de ahí tenemos e
+46:32 
+
+46:32 bueno, los diferentes tipos de destino.
+46:34 
+
+46:34 Unicast cuando es un uno es cuando eh de
+46:37 
+
+46:37 la A la B. Broadcast uno a todos. Sí, es
+46:41 
+
+46:41 eso lo que acabamos de decir. Eh eh este
+46:46 
+
+46:46 le envía eh le envía le envía todo y el
+46:49 
+
+46:49 multicast es cuando ha un grupo.
+46:53 
+
+46:53 Bueno, y de ahí viene el tema de el tema
+46:57 
+
+46:57 de
+46:59 
+
+46:59 de ARP, el comando que yo le había dicho
+47:02 
+
+47:02 recién que que lo ejecuten, que lo
+47:03 
+
+47:03 prueben. ¿Qué hace eso?
+47:07 
+
+47:07 Es es un comando y a la vez es un
+47:10 
+
+47:10 protocolo. Sí. Este y qué
+47:14 
+
+47:14 y qué me viene a hacer o qué función
+47:17 
+
+47:17 viene a a cumplir una a un un ARP. Me va
+47:22 
+
+47:22 a relacionar una dirección IP con la
+47:25 
+
+47:25 dirección MAC correspondiente dentro del
+47:28 
+
+47:28 enlace local. Por ejemplo, si yo tengo
+47:30 
+
+47:30 la IP, como dice ahí, 192, 168, 10.20 20
+47:35 
+
+47:35 y quiere comunicarse con la PCB que
+47:39 
+
+47:39 tiene otra dirección.
+47:42 
+
+47:42 Eh
+47:45 
+
+47:45 eh para entonces e la IP
+47:50 
+
+47:50 eh la PCA ya ya eh tiene la PCA y la PCB
+47:54 
+
+47:54 las dos tienen direcciones IP. La PCA
+47:57 
+
+47:57 tiene una MAC, pero la PCB no tiene una
+47:60 
+
+47:60 MAC.
+48:01 
+
+48:01 Entonces, eh hay que eh tiene que para
+48:06 
+
+48:06 construir la trama ethernet necesita
+48:09 
+
+48:09 comprar completar el el campo de para
+48:13 
+
+48:13 saber dónde va a ir. Entonces, ¿qué más
+48:16 
+
+48:16 le corresponde a la 10? A la 192, 168,
+48:20 
+
+48:20 1030. Bueno, eso es lo que viene a
+48:23 
+
+48:23 resolver ARP.
+48:25 
+
+48:25 Eh,
+48:28 
+
+48:28 también el alcance es es a nivel local.
+48:32 
+
+48:32 Sí, es el Destino también va a estar
+48:35 
+
+48:35 siempre dentro de la misma subjet y y y
+48:40 
+
+48:40 me va a buscar la dirección Mac del del
+48:43 
+
+48:43 host de Steam. Sí,
+48:49 
+
+48:49 por ahí se dice e no sé o no sé si he
+48:53 
+
+48:53 escuchado
+48:55 
+
+48:55 e
+48:57 
+
+48:57 eh dice, "¿En en qué capa está ARP?"
+49:01 
+
+49:01 en eh capa del modelo OSI.
+49:06 
+
+49:06 Eh,
+49:08 
+
+49:08 ARP no es un protocolo de de enutamiento
+49:12 
+
+49:12 ni de transporte, tampoco tiene
+49:15 
+
+49:15 direccionamiento de de capa 3 y tampoco
+49:20 
+
+49:20 eh tampoco está solamente en la capa
+49:23 
+
+49:23 dos. Por eso se dice que es un es un
+49:26 
+
+49:26 protocolo de de capa de capa eh 2,5
+49:31 
+
+49:31 dice, porque está entre la dos y la
+49:34 
+
+49:34 tres. Sí, este ARP viaja directamente
+49:39 
+
+49:39 dentro de una trama de Ethernet. Sí.
+49:41 
+
+49:41 Entonces, eh y cuando y cuando viaja en
+49:44 
+
+49:44 una trama de internet, yo le decía hace
+49:47 
+
+49:47 rato cuando veíamos el
+49:49 
+
+49:49 la composición del la composición del,
+49:53 
+
+49:53 ¿cómo se llama? del de la trama o ahí lo
+49:56 
+
+49:56 ven en el punto side. Eh, e el tipo el
+50:00 
+
+50:00 tipo el tipo de qué qué qué qué estás
+50:03 
+
+50:03 transportando. Bueno, si tengo un 0 un 0
+50:07 
+
+50:07 x0800 es una es un tipo de IPv4, pero si
+50:13 
+
+50:13 tengo un 0
+50:16 
+
+50:16 x0806 va un un una un ARP.
+50:29 
+
+50:29 Esto,
+50:31 
+
+50:31 esto cuando ustedes sean o se desempeñen
+50:36 
+
+50:36 eh
+50:37 
+
+50:37 e
+50:39 
+
+50:39 como administrador de red, como
+50:41 
+
+50:41 comunicaciones, van a usar mucho este
+50:43 
+
+50:43 tipo de comand. Eh, bueno, que lo
+50:46 
+
+50:46 importante de esto que es que ARP no
+50:48 
+
+50:48 buscan un IP. ¿Por qué? Porque la IP ya
+50:50 
+
+50:50 es conocida. Lo que hace RP es aparte de
+50:53 
+
+50:53 una IP conocida, obtener la la MAC para
+50:56 
+
+50:56 armar la trama la trama eterna.
+51:01 
+
+51:01 No determina rutas. ARP no me va a
+51:04 
+
+51:04 determinar una ruta. No me va no me va a
+51:07 
+
+51:07 decidir por qué router a través de
+51:09 
+
+51:09 internet. No me va a reemplazar la IP
+51:11 
+
+51:11 porque son complementarias, hemos dicho.
+51:14 
+
+51:14 Sí, son simplemente es resolver la IPB
+51:17 
+
+51:17 en en IPv4. ¿Cuál es la la MAC dentro
+51:21 
+
+51:21 del dentro de la de la red local?
+51:28 
+
+51:28 Bueno, y acá
+51:30 
+
+51:30 eh acá tenemos un
+51:34 
+
+51:34 un
+51:38 
+
+51:38 el ARP Re y el ARP Reply.
+51:43 
+
+51:43 Este,
+51:49 
+
+51:49 a ver,
+51:58 
+
+51:58 entonces, a ver, partiendo de que de que
+52:01 
+
+52:01 de que conocemos una una
+52:06 
+
+52:06 dirección IPv4, pero necesitamos
+52:09 
+
+52:09 la MAC correspondiente
+52:11 
+
+52:11 para construir una trama.
+52:14 
+
+52:14 Entonces, ahora vamos a hacer el camino,
+52:17 
+
+52:17 digamos, que que que se necesita. Bueno,
+52:21 
+
+52:21 y ahí están los pasos. Eh, la la PCA
+52:25 
+
+52:25 quiere comunicarse con una otra PC, en
+52:29 
+
+52:29 este caso una PCB, por ejemplo, eh, que
+52:32 
+
+52:32 tiene una dirección IP, la A 10.20 y la
+52:36 
+
+52:36 y la y la B 10.30.
+52:40 
+
+52:40 Como todavía la la A no conoce
+52:44 
+
+52:44 eh
+52:46 
+
+52:46 la MAC asociada esa IP, antes de
+52:49 
+
+52:49 preguntar en la red, ¿qué hace? Revisa
+52:51 
+
+52:51 su tabla o o el cach ARP. Sí, si ya
+52:57 
+
+52:57 existe no hace ninguna consulta, pero si
+53:02 
+
+53:02 no está debe hacer una resolución ARP y
+53:05 
+
+53:05 de ahí entra lo que se llama ARP
+53:08 
+
+53:08 Request.
+53:09 
+
+53:09 Entonces,
+53:12 
+
+53:12 la PSA genera un ARP request,
+53:16 
+
+53:16 que sería qué qué sería una un ARP, que
+53:20 
+
+53:20 sería quién tiene la direction IP 192,
+53:23 
+
+53:23 168.10.30.
+53:28 
+
+53:28 ¿Por qué? Porque hace esa pregunta
+53:31 
+
+53:31 porque
+53:32 
+
+53:32 conoce la IP que tiene ese que tiene
+53:36 
+
+53:36 conoce la IP, pero no sabe qué Mac tiene
+53:38 
+
+53:38 ese equipo porque no puede enviarla, no
+53:41 
+
+53:41 la puede enviar a la a la
+53:44 
+
+53:44 a la trama porque no no no hay una MAC
+53:47 
+
+53:47 específica. Entonces ahí hace un
+53:49 
+
+53:49 broadcast. Entonces me manda la trama
+53:52 
+
+53:52 Ethernet va a llevar como si es un
+53:55 
+
+53:55 broadcast la trama ethernet va a llevar
+53:57 
+
+53:57 como
+53:58 
+
+53:58 como ¿cómo se llama? Como mag destino.
+54:01 
+
+54:01 F.
+54:03 
+
+54:03 Entonces ese switch, el switch, ¿qué es
+54:05 
+
+54:05 lo que hace? Ah, tiene FF. Bueno, lo
+54:08 
+
+54:08 tengo que reenviar a todos los puertos
+54:11 
+
+54:11 del del switch, del segmento. Sí. Este,
+54:15 
+
+54:15 ¿y qué reciben los otros equipos?
+54:18 
+
+54:18 Todos los otros equipos.
+54:20 
+
+54:20 van a recibir el ARPX,
+54:24 
+
+54:24 pero ¿quién va a responder? Es como que
+54:25 
+
+54:25 yo recién le decía, "A ver, eh, no sé,
+54:30 
+
+54:30 dos veces lo voy a nombrar, Agustín de
+54:32 
+
+54:32 la Fuente. Todos me están escuchando,
+54:35 
+
+54:35 pero me debería responder Agustín de la
+54:37 
+
+54:37 Fuente." Entonces, eso sería
+54:40 
+
+54:40 eso sería e eh yo yo le mando a todos,
+54:45 
+
+54:45 pero responderme. El que el que todos me
+54:47 
+
+54:47 escuchan, pero me va a responder el que
+54:49 
+
+54:49 tiene que responderme. Entonces, cada
+54:51 
+
+54:51 equipo va a comparar la IP preguntada
+54:53 
+
+54:53 por con su propia direction IP. Los que
+54:56 
+
+54:56 no tienen la 192, 168, 10, 30 van a
+54:60 
+
+54:60 ignorar y el equipo que sí la tiene e va
+55:05 
+
+55:05 a saber que la pregunta es para él. ¿Y
+55:07 
+
+55:07 qué pasa? Ah, me están hablando a mí,
+55:11 
+
+55:11 eh, yo PCB o o yo IP 1030.
+55:16 
+
+55:16 Este, ah, me están hablando a mí.
+55:20 
+
+55:20 Entonces, e
+55:22 
+
+55:22 hago un ARP repli, ¿sí?
+55:26 
+
+55:26 Y la respuesta que va a decir es la la
+55:29 
+
+55:29 192 168
+55:31 
+
+55:31 10.30 está asociada a la MAC 001A eh,
+55:36 
+
+55:36 ¿qué? Termina 4D F. Sí.
+55:40 
+
+55:40 Este, entonces ahí se produce se produce
+55:45 
+
+55:45 una
+55:46 
+
+55:46 eh la respuesta que manda la PCB va
+55:51 
+
+55:51 hacia PCA. Entonces eh eh hizo un
+55:56 
+
+55:56 broadcast la PSA, un broadcast hacia
+55:59 
+
+55:59 todas y ¿quién respondió? la PCB a la
+56:04 
+
+56:04 PCA hacia él solo. Entonces, el ARP
+56:08 
+
+56:08 Request es un broadcast, el ARP
+56:11 
+
+56:11 replicast.
+56:13 
+
+56:13 Sí.
+56:16 
+
+56:16 Bueno, y de ahí en en el
+56:22 
+
+56:22 como decíamos está está
+56:28 
+
+56:28 viendo tráfico y ese tráfico dinámico es
+56:32 
+
+56:32 el que hace que el el el router vaya
+56:36 
+
+56:36 prendiendo, vaya aprendiendo. En tal
+56:38 
+
+56:38 puerto está tal Macadre, el puerto uno
+56:41 
+
+56:41 está tal está el Macadre, puerto dos
+56:43 
+
+56:43 está el Macadre, así. y va aprendiendo.
+56:46 
+
+56:46 Y y ¿cómo lo va aprendiendo? ¿Dónde lo
+56:47 
+
+56:47 va registrando? Lo va registrando en su
+56:50 
+
+56:50 tabla de de o en su cach arp. Sí. Y lo
+56:54 
+
+56:54 va anotando ahí. Entonces, la próxima
+56:56 
+
+56:56 vez que haya que que haya que
+56:59 
+
+56:59 transportar o transmitir un paquete a
+57:03 
+
+57:03 tal MACADRES, lo primero que va a hacer
+57:06 
+
+57:06 va a consultar en su caché o en su tabla
+57:08 
+
+57:08 y si está y si lo encuentra ahí ya no
+57:11 
+
+57:11 pregunta, simplemente lo manda porque ya
+57:13 
+
+57:13 aprendió.
+57:19 
+
+57:19 Eh, bueno,
+57:26 
+
+57:26 esto es lo que lo que venimos
+57:28 
+
+57:28 lo que venimos eh conversando.
+57:33 
+
+57:33 Eh,
+57:36 
+
+57:36 bueno, ¿qué qué dice acá seria? La
+57:39 
+
+57:39 pregunta de esto sería, ¿tiene sentido
+57:41 
+
+57:41 que que hagamos todo sin intercambio
+57:44 
+
+57:44 cada vez que quiero comunicarme con el
+57:45 
+
+57:45 mismo equipo? Y no, ¿por qué? Y porque
+57:49 
+
+57:49 estoy consultando la cache. ¿Qué guarda
+57:51 
+
+57:51 la cache? Bueno, la la relación entre la
+57:54 
+
+57:54 dirección IP y la dirección Mac, por
+57:56 
+
+57:56 ejemplo. Bueno, si yo sé que eh dijimos
+58:00 
+
+58:00 que IP trabaja K 3 y Mac a K 2, pero por
+58:04 
+
+58:04 si yo estoy transmitiendo a K2, necesito
+58:05 
+
+58:05 conocer la Mac. Bueno, y ya si ya tengo
+58:07 
+
+58:07 la relación 192, 168.10.30
+58:12 
+
+58:12 con, bueno, ahí dice 001 2B, ¿qué es? 3C
+58:16 
+
+58:16 4D 6F. Entonces, ya aprendió el host eh
+58:22 
+
+58:22 la correspondencia entre la IP y la Mac.
+58:25 
+
+58:25 ¿Sí? Entonces, ya no hace ya no está
+58:28 
+
+58:28 haciendo ese eh ese ese ARP reply o ARP
+58:34 
+
+58:34 reest y el reply. ¿Por qué? Porque ya
+58:38 
+
+58:38 consulta su cache.
+58:40 
+
+58:40 El el tema que el cache es temporal, eh,
+58:44 
+
+58:44 no se no se no se guardan para siempre.
+58:46 
+
+58:46 ¿Por qué? Y porque la red puede cambiar.
+58:49 
+
+58:49 Un equipo se puede desconectar, yo puedo
+58:52 
+
+58:52 cambiar la la interfaz de red, puedo
+58:54 
+
+58:54 cambiar la direction IP, puedo, no sé,
+58:58 
+
+58:58 hacer diferentes cosas que que que
+59:00 
+
+59:00 cambie el estatus. Entonces, eh se
+59:04 
+
+59:04 mantiene durante cierto tiempo y luego
+59:06 
+
+59:06 eh se puede eliminar o las elimina, lo
+59:09 
+
+59:09 va renovando.
+59:14 
+
+59:14 Hay hay comandos, un flush que que que
+59:20 
+
+59:20 me borra un RP
+59:22 
+
+59:22 clear clering creo que era Clarp, que
+59:25 
+
+59:25 eso yo cada vez que hago yo cambios eh
+59:28 
+
+59:28 tengo que borrar la mi tabla para y eh
+59:32 
+
+59:32 para evitar de que de que porque en el
+59:35 
+
+59:35 cache me queda guardado una relación que
+59:37 
+
+59:37 ya no existe, que yo sé que ya no existe
+59:40 
+
+59:40 y en mi cache me puede quedar grabado
+59:43 
+
+59:43 eso y me demorar. Entonces, ¿qué hago? Y
+59:45 
+
+59:45 bueno, lo tengo que lo lo lo puedo lo
+59:49 
+
+59:49 puedo lo puedo borrar.
+59:51 
+
+59:51 Eh, bueno, como recién les decía, si
+59:54 
+
+59:54 ustedes ejecutan ese comando arpio men,
+59:58 
+
+59:58 le va a tirar toda la tabla, la tabla de
+60:01 
+
+60:01 de de
+60:03 
+
+60:03 el cache arp y si ustedes se están
+60:06 
+
+60:06 comunicando con el router o han mandado,
+60:09 
+
+60:09 no sé, un por x motivo, sea con la
+60:12 
+
+60:12 impresora, lo que sea, le va a figurar
+60:14 
+
+60:14 ahí toda la tablita de de los
+60:15 
+
+60:15 dispositivos locales que tiene.
+60:18 
+
+60:18 Bueno,
+60:20 
+
+60:20 hay figura con Windows, con Windows,
+60:22 
+
+60:22 figura con guiones. Windows
+60:26 
+
+60:26 lo toma así, lo representa así, pero no
+60:28 
+
+60:28 es una cuestión de representación nada
+60:29 
+
+60:29 más. Em,
+60:34 
+
+60:34 bueno, ¿qué qué puede ser que encuentren
+60:37 
+
+60:37 siempre ahí? Eh, seguramente la la PC se
+60:42 
+
+60:42 comunicó con el getway o con el
+60:44 
+
+60:44 routercito de internet. Este, entonces
+60:47 
+
+60:47 sí puede ser que que esté cargada ahí en
+60:50 
+
+60:50 su tabla eh en su cache arp
+60:55 
+
+60:55 y ¿por qué lo tiene que tener? Porque eh
+60:58 
+
+60:58 cuando el el el la trama Ethernet se
+61:05 
+
+61:05 se se o funciona en capa 2 que está en
+61:10 
+
+61:10 la red local. Ahora, si yo estoy
+61:11 
+
+61:11 navegando en internet, seguramente voy a
+61:14 
+
+61:14 salir o necesito salir o debo salir de
+61:17 
+
+61:17 la de la red local. ¿A dónde? A
+61:19 
+
+61:19 internet. Y bueno, ¿y cómo salgo? A
+61:21 
+
+61:21 través de la puerta de enlace que es el
+61:23 
+
+61:23 gateway. Sí.
+61:28 
+
+61:28 Bien.
+61:33 
+
+61:33 Em,
+61:35 
+
+61:35 bueno, acá
+61:38 
+
+61:38 acá
+61:41 
+
+61:41 habíamos habíamos conversado de que de
+61:45 
+
+61:45 que
+61:47 
+
+61:47 ARP
+61:49 
+
+61:49 me permite resolver una dirección IP B4.
+61:53 
+
+61:53 ponerle estamos trabajando IPv4 en una
+61:55 
+
+61:55 dirección Mac,
+61:58 
+
+61:58 eh,
+62:02 
+
+62:02 y entonces,
+62:05 
+
+62:05 ¿qué MAC debo resolver? Y bueno, y hay
+62:08 
+
+62:08 eh esa pregunta
+62:12 
+
+62:12 e
+62:14 
+
+62:14 porque si yo le estoy haciendo o estoy
+62:16 
+
+62:16 transmitiendo hacia una máquina que está
+62:18 
+
+62:18 acarlado, o sea, en mi mismo segmento de
+62:21 
+
+62:21 red es una cosa, pero seguramente yo la
+62:24 
+
+62:24 red la tengo para no para solamente eh
+62:29 
+
+62:29 eh eh transmitir o o o o o o conectarme
+62:34 
+
+62:34 con una máquina que está a mi lado, No,
+62:37 
+
+62:37 seguramente que estoy
+62:39 
+
+62:39 navegando en internet o comunicándome
+62:41 
+
+62:41 con internet, entonces,
+62:44 
+
+62:44 ¿qué ma tengo que resolver? Y bueno, la
+62:47 
+
+62:47 respuesta va a depender si el destino
+62:49 
+
+62:49 está en mi misma red o una red remota.
+62:55 
+
+62:55 Bueno, el el destino local es lo que
+62:58 
+
+62:58 venimos viendo.
+63:02 
+
+63:02 Si la PCA se quiere comunicar con la
+63:04 
+
+63:04 PCB,
+63:06 
+
+63:06 eh
+63:08 
+
+63:08 e es todo lo que lo que venimos lo que
+63:12 
+
+63:12 venimos hablando. Pero si es un destino
+63:14 
+
+63:14 remoto,
+63:16 
+
+63:16 entonces una PCA quiere navegar o quiere
+63:21 
+
+63:21 como decíamos recién el 888
+63:24 
+
+63:24 el otro dibujito que vimos antes,
+63:27 
+
+63:27 ese destino no está en la misma subed.
+63:32 
+
+63:32 Entonces, la PCA, en este caso, la PCA,
+63:36 
+
+63:36 eh no puede enviar
+63:40 
+
+63:40 una trama Ethernet al servidor remoto.
+63:46 
+
+63:46 Eh, entonces, ¿qué tiene que hacer? Se
+63:49 
+
+63:49 la entrega
+63:51 
+
+63:51 a su a su a su gateway predeterminado o
+63:55 
+
+63:55 a su default gateway o a su puerta de
+63:56 
+
+63:56 enlace. Sí. Entonces, eh la IP destino
+64:03 
+
+64:03 va a seguir siendo, supongamos que en
+64:06 
+
+64:06 este caso la IP destino 888, que sería
+64:09 
+
+64:09 básicamente eso, 888, una consulta DNS,
+64:13 
+
+64:13 pero supongamos que yo tenga, no sé, eh
+64:15 
+
+64:15 un LAR Edward o lo que sea.
+64:21 
+
+64:21 Entonces,
+64:24 
+
+64:24 la cuestión es que yo quiero salir
+64:25 
+
+64:25 afuera
+64:27 
+
+64:27 afuera de mi segmento de red. La IP
+64:30 
+
+64:30 destino va a seguir siendo 888,
+64:33 
+
+64:33 pero la Mac
+64:36 
+
+64:36 de la trama, ¿de quién va a ser? ¿Qué
+64:39 
+
+64:39 piensan ustedes?
+65:12 
+
+65:12 Me había me había muteado. Yo quiero ir
+65:15 
+
+65:15 a la 888.
+65:17 
+
+65:17 Eh, ¿cuál va a ser la Mac va a figurar?
+65:22 
+
+65:22 La Mac destino.
+65:31 
+
+65:31 ¿Qué piensan? A ver, no me hagan que los
+65:33 
+
+65:33 nombres.
+65:40 
+
+65:40 A ver, Ana Valentina Rodríguez, ¿qué
+65:42 
+
+65:42 opina usted?
+65:47 
+
+65:47 Eh, no sé, profe, la verdad.
+65:50 
+
+65:50 Mira, el sentido común, usemos el
+65:53 
+
+65:53 sentido comum.
+65:57 
+
+65:57 Eh, dijimos que en capa dos, en capa 2
+66:04 
+
+66:04 están están las MAC e del segmento
+66:08 
+
+66:08 local, solamente conoce lo que está en
+66:11 
+
+66:11 Milán.
+66:12 
+
+66:12 Cuando quiero salir afuera, ¿por dónde
+66:14 
+
+66:14 salgo?
+66:15 
+
+66:15 Por el router.
+66:17 
+
+66:17 Por el router. Y y hay ¿qué qué tenía yo
+66:23 
+
+66:23 en capa 3? ¿Qué tengo yo en capa 3 para
+66:25 
+
+66:25 identificar
+66:27 
+
+66:27 el lugar origen y destino? En capa 3,
+66:33 
+
+66:33 en capa 2 yo tengo Mac.
+66:35 
+
+66:35 La IP la IP. Bien, bien, bien. Entonces,
+66:40 
+
+66:40 en capa tr
+66:42 
+
+66:42 y si yo quiero salir afuera del
+66:44 
+
+66:44 segmento, ya no voy a usar eh ya tengo
+66:47 
+
+66:47 que usar este direction IP, pero yo no
+66:51 
+
+66:51 conozco eh la MAC que está en el otro
+66:54 
+
+66:54 extremo.
+66:56 
+
+66:56 ¿Cuál es la MAC que conozco yo? La más
+66:58 
+
+66:58 cercana que me va a permitir salir,
+66:59 
+
+66:59 ¿dónde? ¿Dónde va a estar esa Mac más
+67:02 
+
+67:02 cercana del del dispositivo que me va a
+67:05 
+
+67:05 permitir salir? La MAC del router.
+67:08 
+
+67:08 La MAC del router.
+67:10 
+
+67:10 Entonces,
+67:13 
+
+67:13 a nivel de a nivel IP,
+67:17 
+
+67:17 el destino sigue siendo el servidor
+67:20 
+
+67:20 remoto, el 888,
+67:22 
+
+67:22 pero a nivel Ethernet
+67:25 
+
+67:25 la la entrega local se va a realizar al
+67:28 
+
+67:28 router. Sí.
+67:31 
+
+67:31 Entonces, la IP destino no cambia,
+67:35 
+
+67:35 ¿eh? ¿Y por qué? Porque me va eh yo se
+67:38 
+
+67:38 lo voy a dar al shooter y el shooter
+67:40 
+
+67:40 después él sabrá
+67:42 
+
+67:42 cómo, que después lo vamos a ver cómo
+67:45 
+
+67:45 conversa entre comillas con otros
+67:48 
+
+67:48 routers para para hacer este
+67:53 
+
+67:53 eh todos los saltos que son necesarios
+67:55 
+
+67:55 para llegar al 888. Entonces ahí eh
+68:01 
+
+68:01 ahí entra lo que es el un concepto que
+68:05 
+
+68:05 se llama el el salto siguiente o el next
+68:08 
+
+68:08 hop. Sí.
+68:11 
+
+68:11 Eh, el siguiente salto salto
+68:15 
+
+68:15 es el al dispositivo al que le tengo que
+68:18 
+
+68:18 entregar localmente la trama para que la
+68:20 
+
+68:20 comunicación continúe. Si el destino es
+68:23 
+
+68:23 local, el siguiente salto es el propio
+68:25 
+
+68:25 juego destino. Si el destino si el
+68:27 
+
+68:27 destino es remoto, o sea, si estoy
+68:29 
+
+68:29 hablando de internet, el siguiente salto
+68:31 
+
+68:31 es el gateway. Sí.
+68:37 
+
+68:37 Bien,
+68:38 
+
+68:38 profe, le una consulta que creo que ya
+68:40 
+
+68:40 me perdí. Cuando menciona el 888 a que
+68:43 
+
+68:43 hace referencia.
+68:45 
+
+68:45 A, acá lo están viendo que se mueve acá,
+68:47 
+
+68:47 ¿o no? Ah, a ver, para
+68:50 
+
+68:50 eh ¿dónde tengo el
+68:53 
+
+68:53 donde tengo el láser?
+69:05 
+
+69:05 Ahí está bien.
+69:08 
+
+69:08 Eh, ¿estás viendo que se mueve el mouse?
+69:10 
+
+69:10 Sí, sí, sí.
+69:11 
+
+69:11 Bien. Bueno, eh, yo me referí a 8 8. A
+69:15 
+
+69:15 ver,
+69:19 
+
+69:19 porque me había quedado con un dibujito
+69:21 
+
+69:21 de que no lo estoy encontrando.
+69:27 
+
+69:27 ¿Cuál era? Aquí lo vi acá.
+69:31 
+
+69:31 Tengo la PCA.
+69:33 
+
+69:33 Acá puedo tener la PCB, PS 8, no sé,
+69:36 
+
+69:36 depende la cantidad de boca del del
+69:39 
+
+69:39 Switch. Voy a tener la cantidad de PC y
+69:41 
+
+69:41 estoy en un nivel local. Estoy,
+69:43 
+
+69:43 imagínense que cable una un laboratorio
+69:46 
+
+69:46 de redes ahí en la UNAR.
+69:49 
+
+69:49 Tiene un switch de de 48 boca. Bueno,
+69:52 
+
+69:52 tengo 48
+69:54 
+
+69:54 interfaces de red. Acá
+69:57 
+
+69:57 estamos todos navegando internamente,
+69:59 
+
+69:59 qué sé yo, está todo bien, pero quiero
+70:01 
+
+70:01 salir a internet. ¿Por dónde voy a
+70:03 
+
+70:03 salir? Por el router. Y acá decía
+70:05 
+
+70:05 servidor 888, otra red. Eso se se
+70:09 
+
+70:09 entiende. Simplemente decía eso para
+70:13 
+
+70:13 como ejemplo porque había quedado eso.
+70:16 
+
+70:16 Pero se entiende lo que le estoy
+70:17 
+
+70:17 diciendo o me mejor dicho, me explico lo
+70:19 
+
+70:19 que les trato de decir,
+70:21 
+
+70:21 sí, profe.
+70:22 
+
+70:22 Sí, sí, sí, profe.
+70:23 
+
+70:23 Bien.
+70:25 
+
+70:25 888 porque quedó eso nada más. Acá acá
+70:28 
+
+70:28 dice remota
+70:30 
+
+70:30 y puede ser este WW un Eduar o lo que
+70:34 
+
+70:34 sea.
+70:37 
+
+70:37 Claro. O la IP de la PCB como tiene ahí
+70:39 
+
+70:39 que termina en 2030.
+70:41 
+
+70:41 Claro. O eh eh pero vos fíjate
+70:46 
+
+70:46 192 168 10 20 y acá tiene 20 30. Es
+70:52 
+
+70:52 otra.
+70:54 
+
+70:54 Si ustedes, por ejemplo, se preguntan,
+70:56 
+
+70:56 ya le mandan un WhatsApp a un compañero,
+70:58 
+
+70:58 le preguntan, "Si vos haces un IP
+70:60 
+
+70:60 config, ¿qué IP tenés?"
+71:03 
+
+71:03 Y capa que tenga la misma IP que
+71:06 
+
+71:06 que que el que pregunta con el que
+71:08 
+
+71:08 responde capa, que tenga la misma IP
+71:10 
+
+71:10 porque estamos hablando de direcciones
+71:12 
+
+71:12 IP. Bueno, lo que visto la vez pasada,
+71:16 
+
+71:16 entre comillas de clase A, de clase C,
+71:21 
+
+71:21 que son las IP privadas.
+71:22 
+
+71:22 [carraspeo]
+71:24 
+
+71:24 Y entonces siempre detrás del detrás del
+71:27 
+
+71:27 del shooter de del ISP tenemos IP
+71:30 
+
+71:30 privada
+71:32 
+
+71:32 y si se preguntan por probablemente eh
+71:36 
+
+71:36 tengan 192 168 del tipo 1.0 cero y acá
+71:43 
+
+71:43 en este caso para diferenciarlo figura
+71:46 
+
+71:46 192 168 20 que me indica la red y el
+71:49 
+
+71:49 host pun 30 y acá 192 168 10.20 20.
+71:56 
+
+71:56 Bueno,
+72:01 
+
+72:01 em,
+72:06 
+
+72:06 bueno, eh,
+72:10 
+
+72:10 ¿cómo sabe
+72:12 
+
+72:12 e cómo sabe un host si una dirección IP
+72:16 
+
+72:16 pertenece a su misma red o a otra?
+72:21 
+
+72:21 Bueno, acá podemos tener tres elementos,
+72:25 
+
+72:25 la propia dirección IP, su propia
+72:28 
+
+72:28 máscara de red y la IP destino.
+72:33 
+
+72:33 E
+72:39 
+
+72:39 digamos que que la decisión se va a
+72:42 
+
+72:42 basar en la red, ¿sí?
+72:46 
+
+72:46 eh no en mirar la IP.
+72:51 
+
+72:51 Eh, ¿por qué? Porque muchas veces eh o
+72:55 
+
+72:55 entendemos que que simplemente compara
+72:58 
+
+72:58 visualmente las direcciones, ¿no? Eh,
+73:01 
+
+73:01 por ejemplo, ahí tengo 192, 168
+73:05 
+
+73:05 10.20.
+73:09 
+
+73:09 La puesto. Está mal acá.
+73:12 
+
+73:12 IP destino. Ah, no, está bien, está
+73:14 
+
+73:14 bien, está bien.
+73:17 
+
+73:17 Y la IP de destino 1050.
+73:20 
+
+73:20 Sí.
+73:21 
+
+73:21 Eh,
+73:25 
+
+73:25 están en las mismas red
+73:31 
+
+73:31 1020, 1050.
+73:37 
+
+73:37 Sí.
+73:38 
+
+73:38 Bien. Entonces ahí hace una operación
+73:41 
+
+73:41 lógica utilizando la máscara de red. El
+73:43 
+
+73:43 host no no decide eh eh a verme él lo
+73:50 
+
+73:50 que lo que hace una compara la máscara
+73:52 
+
+73:52 de red. Entonces la máscara indica qué
+73:55 
+
+73:55 bit representan la red. Eh, bueno, una
+73:59 
+
+73:59 barra 24. Esto significa que los 24
+74:01 
+
+74:01 primeros 24 primeros bit me van a
+74:05 
+
+74:05 corresponder a la parte de red.
+74:09 
+
+74:09 Entonces, para saber cuál es su propia
+74:11 
+
+74:11 red, eh hace operaciones del tipo
+74:14 
+
+74:14 operaciones lógicas. ¿Ustedes vieron la
+74:16 
+
+74:16 operaciones lógicas? A, or, nor, todas
+74:19 
+
+74:19 esas operaciones.
+74:22 
+
+74:22 Sí, profe.
+74:25 
+
+74:25 Bien, va haciendo operaciones lógicas
+74:28 
+
+74:28 del tipo AN, bit a bit entre su IP y la
+74:31 
+
+74:31 máscara.
+74:32 
+
+74:32 Entonces, eh hace IP eh
+74:37 
+
+74:37 IP propia an máscara
+74:41 
+
+74:41 me va a dar la dirección de red propia.
+74:43 
+
+74:43 Eh, ¿qué hace el AN? El AN compara eh
+74:47 
+
+74:47 cada par de bit y cuando da
+74:51 
+
+74:51 solo y me va a decir me va a dar uno
+74:53 
+
+74:53 cuando ambos bits son uno. Es un ADN,
+74:55 
+
+74:55 una aparece un AND. Y si alguno es cero,
+74:56 
+
+74:56 el resultado es cero. Bueno, hace ese
+74:58 
+
+74:58 tipo de ese tipo de comparaciones para
+75:00 
+
+75:00 determinar este cuál cuál es la cuál es
+75:04 
+
+75:04 la
+75:07 
+
+75:07 eh cuál es la red destino. Bueno, ahora
+75:09 
+
+75:09 supongamos que el destino
+75:12 
+
+75:12 un que la misma PC quiere comunicarse eh
+75:15 
+
+75:15 bueno, sigamos el ejemplo con 888.
+75:18 
+
+75:18 Entonces eh 888 representa un un ¿cómo
+75:23 
+
+75:23 se llama? un
+75:25 
+
+75:25 una
+75:27 
+
+75:27 red este remota.
+75:29 
+
+75:29 Entonces, la red propia va a seguir
+75:31 
+
+75:31 siendo 192, 168 1020 y hace una
+75:37 
+
+75:37 operación
+75:38 
+
+75:38 255 255 25.
+75:42 
+
+75:42 Bueno, si hago esa operación me va a dar
+75:46 
+
+75:46 [carraspeo]
+75:47 
+
+75:47 192, 168 10.0 cer y después el host toma
+75:52 
+
+75:52 la IP del destino 888 y aplica su su
+75:57 
+
+75:57 propia máscara barra 24. Entonces me va
+75:60 
+
+75:60 a quedar eh eh hace el an me va a quedar
+76:04 
+
+76:04 888 0.
+76:07 
+
+76:07 Entonces, eh y porque
+76:11 
+
+76:11 eh ella ella me está me está diciendo
+76:13 
+
+76:13 que que que no está no pertenece a su
+76:16 
+
+76:16 misma
+76:18 
+
+76:18 a su misma
+76:20 
+
+76:20 a su misma a su mismo segmento, porque
+76:23 
+
+76:23 con si si me daba todo igual me decía
+76:26 
+
+76:26 que era uno, pero si me daba si me da
+76:28 
+
+76:28 algo diferente es cero. Entonces es como
+76:31 
+
+76:31 que bueno, estoy haciendo una operación
+76:33 
+
+76:33 matemática y y
+76:36 
+
+76:36 no no me da exactamente lo que me
+76:39 
+
+76:39 debería dar para dar saber si pertenece
+76:42 
+
+76:42 a mi misma LAN. Me da diferente. Ah, ya
+76:45 
+
+76:45 no es mi misma LAN. Este
+76:49 
+
+76:49 no está preguntando acá qué máscara de
+76:51 
+
+76:51 red usa la ¿Qué máscara usa la red 888?
+76:56 
+
+76:56 solo necesita determinar si si el
+76:59 
+
+76:59 destino pertenece o no pertenece a su
+77:01 
+
+77:01 red local. Como no pertenece,
+77:04 
+
+77:04 entonces dice, "Ah, no pertenece,
+77:09 
+
+77:09 entonces se lo voy a mandar por el
+77:11 
+
+77:11 gateway." ¿Sí? O sea, básicamente
+77:15 
+
+77:15 ustedes qué tienen que entender? tiene
+77:16 
+
+77:16 que entender que eh
+77:20 
+
+77:20 hace una operación, una operación
+77:23 
+
+77:23 entre entre la dirección IP y la máscara
+77:26 
+
+77:26 de subjet. Si si me da si me dice eh es
+77:31 
+
+77:31 eh eh
+77:35 
+
+77:35 pertenece al eh si me da todo uno,
+77:37 
+
+77:37 digamos, quiere decir que ah es es este
+77:39 
+
+77:39 es válido, es pertenece a mi misma red.
+77:42 
+
+77:42 Y si yo si yo pongo la dirección IP con
+77:45 
+
+77:45 con otro con la otra dirección IP con mi
+77:50 
+
+77:50 máscara me va no me va a dar el mismo
+77:52 
+
+77:52 número. Entonces dice, "Ah, no pertenece
+77:54 
+
+77:54 a mi mismo segmento."
+77:56 
+
+77:56 Ahí dice comparación
+77:58 
+
+77:58 no pertenece distintas. Entonces el no
+78:01 
+
+78:01 pertenece a red local y bueno, si no es
+78:03 
+
+78:03 A, es B. pertenece al al sistema Remote.
+78:11 
+
+78:11 Y acá
+78:13 
+
+78:13 hay un pequeño un pequeño laboratorio
+78:16 
+
+78:16 [resoplido] que la idea es este,
+78:20 
+
+78:20 ¿qué sabe el equipo?
+78:23 
+
+78:23 eh borrar esa información, generar
+78:26 
+
+78:26 tráfico y observar si aprende
+78:27 
+
+78:27 nuevamente. Sería básicamente eso.
+78:30 
+
+78:30 Entonces, eh si yo si si alguien ejecuta
+78:35 
+
+78:35 el comando ese arp- a
+78:40 
+
+78:40 qué nos va a dar la IP del gateway,
+78:44 
+
+78:44 eh algunas direcciones de otro de otro
+78:47 
+
+78:47 host que tengamos.
+78:53 
+
+78:53 e
+78:55 
+
+78:55 y el tipo de entrada. Eso básicamente es
+78:58 
+
+78:58 lo que no lo que lo que no no nos
+79:01 
+
+79:01 devuelve el ARP men- A. Y si yo, por
+79:04 
+
+79:04 ejemplo, estuve haciendo cambios en la
+79:06 
+
+79:06 red porque no sé, se me ha ocurrido,
+79:09 
+
+79:09 ¿no? Yo a mi máquina quiero tenerle que
+79:11 
+
+79:11 en lugar de que tenga la IP 192,
+79:14 
+
+79:14 168.10.11,
+79:17 
+
+79:17 11. No, yo le quiero poner las las las
+79:21 
+
+79:21 192 168 10.1. Así yo la identifico y se
+79:26 
+
+79:26 queda lejos y no sé porque me gusta la
+79:29 
+
+79:29 100.
+79:31 
+
+79:31 Bueno, la cambié y y probablemente
+79:35 
+
+79:35 en los primeros minutos no me va no me
+79:39 
+
+79:39 va
+79:40 
+
+79:40 no la aprendió todavía. Bueno, entonces,
+79:43 
+
+79:43 ¿qué puedo hacer yo para para acelerar
+79:45 
+
+79:45 todo eso? Bueno, ¿puedo borrar el caché?
+79:48 
+
+79:48 ¿Cómo lo borro? ARP -10 asterisco. Sí.
+79:53 
+
+79:53 Entonces, ¿qué estoy haciendo con eso?
+79:55 
+
+79:55 Estoy eliminando toda la toda la tabla.
+79:59 
+
+79:59 ¿Sí? Entonces, de lo que de lo que había
+80:03 
+
+80:03 aprendido, ¿sí? Estoy eliminando toda la
+80:05 
+
+80:05 tabla.
+80:07 
+
+80:07 Si y si después necesita comunicarse con
+80:10 
+
+80:10 alguno de su destino y va a empezar a
+80:12 
+
+80:12 resolver de nuevo la Mac. Sí.
+80:15 
+
+80:15 Este, bueno, acá no hace falta
+80:17 
+
+80:17 privilegio de de administrador, eh, pero
+80:21 
+
+80:21 si están trabajando con Linux Capa que
+80:22 
+
+80:22 le permita o o le solicite eh hacer un
+80:27 
+
+80:27 con un con otro con otro con uso de
+80:30 
+
+80:30 mayores privilegio hacer ese comando.
+80:33 
+
+80:33 Bueno, entonces yo cambio la IP,
+80:37 
+
+80:37 quiero quiero que se actualice rápido,
+80:39 
+
+80:39 se sincronice rápido todo esto o que
+80:42 
+
+80:42 aprenda rápido.
+80:43 
+
+80:43 Eh, ya la borré, borré mi tabla de cache
+80:47 
+
+80:47 y bueno, y ahora, ¿qué tengo que hacer?
+80:49 
+
+80:49 Y tengo dijimos que el que el que el
+80:52 
+
+80:52 switch este aprende a medida que que que
+80:56 
+
+80:56 hay tráfico. ¿Y cómo puedo generar
+80:58 
+
+80:58 tráfico con un comando ping? ¿Qué es un
+81:01 
+
+81:01 comando pink? ¿Alguien sabe lo que es un
+81:02 
+
+81:02 comando ping?
+81:04 
+
+81:04 No, yo no, profe.
+81:06 
+
+81:06 Ping es un comando.
+81:09 
+
+81:09 Ustedes se paran ahí en el dick y gritan
+81:12 
+
+81:12 hola.
+81:13 
+
+81:13 y capa que le venga el eco. Hola, hola,
+81:16 
+
+81:16 hola, hola. Sí. Bueno, el Comando PIN es
+81:20 
+
+81:20 justamente eso, es un eco.
+81:23 
+
+81:23 Manda un paquete,
+81:26 
+
+81:26 rebota, entre comillas, rebota en la
+81:29 
+
+81:29 máquina destino y me va a decir, eh, eh,
+81:34 
+
+81:34 a ver, hagan ustedes e
+81:40 
+
+81:40 han hecho ustedes arp, ¿cuál es figura
+81:43 
+
+81:43 la del getway? ¿Cuál era la dirección
+81:45 
+
+81:45 del getway?
+81:48 
+
+81:48 Uno, uno, dígame, no, porque si no me
+81:50 
+
+81:50 decir todo porque sean diferentes. Uno.
+81:53 
+
+81:53 A ver, ¿quién quién quién ha hecho eso?
+81:56 
+
+81:56 ARP men- A y me tiene que figurar
+81:59 
+
+81:59 la IP del getway. ¿Cuál sería?
+82:03 
+
+82:03 O o o si hacemos IP config ahí me va a
+82:06 
+
+82:06 decir default getway. También me va a
+82:08 
+
+82:08 decir
+82:10 
+
+82:10 si ejecutan IP config
+82:14 
+
+82:14 le sale del getway.
+82:23 
+
+82:23 Vamos de uno. Vamos. No me hagan que los
+82:26 
+
+82:26 llame.
+82:31 
+
+82:31 Sería profe el que dice interfaz
+82:34 
+
+82:34 default getway. Te voy a decir y te voy
+82:37 
+
+82:37 a decir una IP 192, 168 o 10 10, no sé.
+82:42 
+
+82:42 Cuando vos hac IP, IP config,
+82:49 
+
+82:49 ¿quieres compartir tu máquina, tu
+82:51 
+
+82:51 pantalla?
+82:55 
+
+82:55 Bueno, ahí comparto, profe.
+82:57 
+
+82:57 Dale.
+82:58 
+
+82:58 Puede ser, profe, que sea puerta de
+82:60 
+
+82:60 enlace predeterminada.
+83:02 
+
+83:02 Eso, eso. Default gateway, puerta de
+83:04 
+
+83:04 enlace pr
+83:05 
+
+83:05 me sale 26.0.0.1.
+83:09 
+
+83:09 26. Mira vos. Bueno, ahora hácele un
+83:12 
+
+83:12 ping p, así como figura ahí en la en la
+83:16 
+
+83:16 pantallita, en la Ah, no, acá no hay
+83:18 
+
+83:18 figura ningún eh
+83:21 
+
+83:21 ahí en en el punto 5 dice ping y está la
+83:26 
+
+83:26 192 168. Vos ponerle la IP tuya, la
+83:29 
+
+83:29 ¿Cómo es?
+83:31 
+
+83:31 26.0.0.1.
+83:33 
+
+83:33 Sí. Please ping, espacio y el número que
+83:37 
+
+83:37 te figura.
+83:41 
+
+83:41 Eh, me dice que está haciendo el ping
+83:44 
+
+83:44 con 32 by de datos.
+83:46 
+
+83:46 Respuesta.
+83:48 
+
+83:48 Se agostó el tiempo de espera.
+83:51 
+
+83:51 No te está no te está dando respuesta
+83:53 
+
+83:53 desde no te dice
+83:55 
+
+83:55 no me hice tiempo de espera Gustavo para
+83:57 
+
+83:57 su solicitud y lo repití todo el rato.
+84:00 
+
+84:00 Ahí está. Estadística de ping para
+84:02 
+
+84:02 26.0.01.
+84:04 
+
+84:04 Paquetes enviados cuatro, recibidos cero
+84:07 
+
+84:07 y perdidos cuatro. 100%.
+84:08 
+
+84:08 Claro, porque puede ser que vos tengas
+84:11 
+
+84:11 un firew, algo de eso y no te está
+84:12 
+
+84:12 dejando salir. Alguien que tenga eh
+84:16 
+
+84:16 alguien que lo tenga. A ver,
+84:18 
+
+84:18 ¿quiere que desactive el profe?
+84:20 
+
+84:20 No, eh no no lo desactives. No lo
+84:22 
+
+84:22 desactives. Eh, simplemente es para para
+84:26 
+
+84:26 para yo le quiero mostrar qué es lo que
+84:29 
+
+84:29 hace.
+84:30 
+
+84:30 Profe, ¿quiere que le comparta pantalla
+84:32 
+
+84:32 y usted me indica? Bueno, bueno, hay hay
+84:34 
+
+84:34 veces que el hoy se ha complicado todo
+84:37 
+
+84:37 el el ping.
+84:41 
+
+84:41 Hay una máxima de la seguridad que dice,
+84:44 
+
+84:44 "Si yo no veo la puerta, no la voy a
+84:47 
+
+84:47 intentar abrir. Si yo veo una puerta que
+84:49 
+
+84:49 está cerrada, la voy a intentar abrir."
+84:53 
+
+84:53 Entonces, eh, ¿qué hace el ping? El pin
+84:56 
+
+84:56 son ecos. Yo tiro y si alguien me
+84:59 
+
+84:59 responde, ah, hay alguien del otro lado.
+85:02 
+
+85:02 Y de ahí me pongo a ver cómo violar esa
+85:05 
+
+85:05 seguridad del otro lado. Entonces, mucha
+85:08 
+
+85:08 gente opta porque los los paquetes de o
+85:15 
+
+85:15 el protocolo de PIN lo desactivan.
+85:21 
+
+85:21 Default getway dice 192 16801
+85:25 
+
+85:25 ping.
+85:27 
+
+85:27 Ahí está ping
+85:31 
+
+85:31 espacio.
+85:35 
+
+85:35 Sí.
+85:35 
+
+85:35 Y pone ese número.
+85:37 
+
+85:37 Ah, okay.
+85:47 
+
+85:47 Enter.
+85:48 
+
+85:48 Ven, respuesta DD.
+85:51 
+
+85:51 Entonces, ahí, ¿qué hago yo con eso?
+85:54 
+
+85:54 Genero tráfico. Entonces, ¿qué hice? Eh,
+85:57 
+
+85:57 ¿qué hice yo? Eh, hice, volvendo a la Ya
+86:02 
+
+86:02 está, Juan Carlos, muchas gracias.
+86:04 
+
+86:04 Okay.
+86:06 
+
+86:06 Mira, e acá, ¿qué qué hicimos? El punto
+86:10 
+
+86:10 uno, ARP men- A, me figura esto. Ah,
+86:13 
+
+86:13 pero yo cambié la dirección IP de mi
+86:15 
+
+86:15 máquina. Quiero quiero borrar todo el
+86:17 
+
+86:17 cach bien. ARP - D. ¿Para qué? Para que
+86:20 
+
+86:20 se borre todo. Eh, después hago de nuevo
+86:24 
+
+86:24 ARP - A. Ah, solamente me figura la que
+86:27 
+
+86:27 estaba que es el router. Eh, bueno, e
+86:32 
+
+86:32 seguramente ya hubo alguna conversación
+86:34 
+
+86:34 entre entre equipos. hago de nuevo arp-
+86:37 
+
+86:37 a y ya hay hay un equipo que que se
+86:41 
+
+86:41 actualizó porque tuvo una conversación
+86:44 
+
+86:44 bien, pero resulta que hay otros equipos
+86:46 
+
+86:46 que que no se actualizaron. Bueno, eh
+86:50 
+
+86:50 voy a generar tráfico, ¿cómo? Eh, voy a
+86:53 
+
+86:53 hacer un pin al al bueno, en este caso
+86:55 
+
+86:55 al getway, pero le puedo hacer un pin a
+86:57 
+
+86:57 la otra máquina que que le cambie la IP,
+86:59 
+
+86:59 por ejemplo, y y lo al haber tráfico, el
+87:04 
+
+87:04 router, el router, el switch aprendió y
+87:07 
+
+87:07 lo fue cargando en mi tablita.
+87:10 
+
+87:10 Eh
+87:12 
+
+87:12 eh el eh la tablita está dentro de
+87:18 
+
+87:18 dentro de de la PC también, ¿no?
+87:22 
+
+87:22 Bien.
+87:26 
+
+87:26 Bueno, y acá hay un hay un hay un, ¿cómo
+87:30 
+
+87:30 se llama? un un ¿A dónde se me ha ido el
+87:34 
+
+87:34 doc?
+87:36 
+
+87:36 Un un caso integrador para que lo
+87:41 
+
+87:41 para que lo
+87:44 
+
+87:44 pasó acá.
+87:50 
+
+87:50 Dame un segundo. No.
+88:28 
+
+88:28 Bueno,
+88:29 
+
+88:29 eh hay un caso un caso integrador,
+88:32 
+
+88:32 digamos, de cómo de cómo este
+88:36 
+
+88:36 todo este
+88:38 
+
+88:38 circuito. Eh
+88:42 
+
+88:42 fuimos resolviendo o viendo cada parte
+88:44 
+
+88:44 por separado, digamos. Entonces vimos
+88:46 
+
+88:46 qué es una Mac, eh cómo cómo aprende el
+88:49 
+
+88:49 switch, cómo funciona RP, eh cómo cómo
+88:53 
+
+88:53 determina si es una
+88:55 
+
+88:55 es un destino local, un destino un
+88:57 
+
+88:57 destino remoto y qué Mac se necesita en
+89:01 
+
+89:01 cada caso. Cuando yo le preguntaba eh si
+89:03 
+
+89:03 tengo que salir afuera, ¿cuál Mac va a
+89:05 
+
+89:05 ser? Eh, bueno, toma la MAC del del
+89:08 
+
+89:08 default gateway o la puerta de enlace
+89:10 
+
+89:10 predeterminado.
+89:12 
+
+89:12 Eh, bueno, y ahí básicamente e es todo
+89:15 
+
+89:15 lo que hemos todo lo que hemos visto. Ya
+89:17 
+
+89:17 lo veéanlo ustedes
+89:20 
+
+89:20 ustedes este
+89:22 
+
+89:22 eh
+89:24 
+
+89:24 con más tiempo más tranquilo y
+89:26 
+
+89:26 básicamente eso se está se está
+89:29 
+
+89:29 integrando todo lo que
+89:33 
+
+89:33 todo lo que lo que acabamos de explicar.
+89:35 
+
+89:35 Y bueno, y acá como como última
+89:40 
+
+89:40 como como última slide también este ya
+89:45 
+
+89:45 eh estamos viendo todo todo una todo
+89:48 
+
+89:48 junto, digamos, este explicando la IP
+89:52 
+
+89:52 destino define el tipo de entrega,
+89:54 
+
+89:54 compara su IP y la IP destino usando la
+89:57 
+
+89:57 máscara de red. Eso es lo que decíamos.
+89:59 
+
+89:59 Hace un AND. Si la misma red destino
+90:01 
+
+90:01 local, si no me si no me da me da cero,
+90:05 
+
+90:05 ah, es una red este una una red remota,
+90:10 
+
+90:10 eh, tengo que poner el gateway. ARP
+90:12 
+
+90:12 resolve resolve la IP e eh resolve la
+90:18 
+
+90:18 MAC de la IP. Bueno, y así
+90:22 
+
+90:22 está bien explicadito para que lo lo
+90:25 
+
+90:25 entiendan. Y yo le ah dos cosas. Una, le
+90:28 
+
+90:28 tengo que pasar e le tengo que pasar la
+90:33 
+
+90:33 la presentación de la de la anterior
+90:36 
+
+90:36 porque le dije que había error y y de
+90:38 
+
+90:38 esto también se lo puedo pasar si lo
+90:40 
+
+90:40 quieren y le voy y le voy le voy a sumar
+90:42 
+
+90:42 un trabajo práctico. Sí.
+90:47 
+
+90:47 Bueno, ahora, ¿cómo le fue con el profe?
+90:49 
+
+90:49 Ahora sí que están viendo, ¿no? Al final
+90:51 
+
+90:51 no le yo creo que le pregunte cómo fue
+90:52 
+
+90:52 en el examen, pero no cómo cómo le fue
+90:56 
+
+90:56 en el
+90:58 
+
+90:58 ¿Qué están viendo, quiero decir?
+91:01 
+
+91:01 Todo lo que es inalámbrico.
+91:05 
+
+91:05 Ah, bien.
+91:06 
+
+91:06 Redes inalámbrica creo que se llamaba.
+91:09 
+
+91:09 Bien.
+91:10 
+
+91:10 Uh, estoy con un problema.
+91:20 
+
+91:20 Vton
+91:27 
+
+91:27 802 puntos
+91:31 
+
+91:31 sería eso.
+91:40 
+
+91:40 Punto 11.
+91:47 
+
+91:47 A ver, a ver.
+91:51 
+
+91:51 Hola.
+91:59 
+
+91:59 Denme un segundo. No.
+93:09 
+
+93:09 No lo puedo. A ver,
+93:12 
+
+93:12 estoy encontrándolo.
+93:22 
+
+93:22 Me pueden escribir acá en el mismo.

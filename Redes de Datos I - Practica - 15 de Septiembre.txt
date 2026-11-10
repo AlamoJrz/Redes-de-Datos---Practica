@@ -1,0 +1,5851 @@
+00:07 Bien. E nada faltan acá
+00:15 
+
+00:15 8.
+00:28 
+
+00:28 Cuént un poco
+00:30 
+
+00:30 qué vieron con el profe cobre. Sí,
+00:33 
+
+00:33 así ver si siguen en la misma línea.
+00:36 
+
+00:36 [carraspeo]
+00:43 
+
+00:43 El lunes estuvieron, ¿no?
+00:54 
+
+00:54 Sí, profe.
+00:56 
+
+00:56 Bien. ¿Qué vieron con el profe?
+01:03 
+
+01:03 Ya estuvieron viendo.
+01:07 
+
+01:07 Eh, vimos cableo estructurado,
+01:10 
+
+01:10 redes ópticas y
+01:12 
+
+01:12 hardware del red.
+01:14 
+
+01:14 Bien.
+01:19 
+
+01:19 Eh, bueno,
+01:22 
+
+01:22 nosotros vamos a entrar ya
+01:26 
+
+01:26 en en la parte de
+01:29 
+
+01:29 e,
+01:32 
+
+01:32 o sea, vamos un un un sal un salto muy
+01:36 
+
+01:36 rápido de de la capa dos a la capa 3, la
+01:39 
+
+01:39 capa dos por ahí se se
+01:44 
+
+01:44 [carraspeo] se
+01:51 
+
+01:51 expande un poco más en la en en en
+01:54 
+
+01:54 telemática en cuarto año.
+01:58 
+
+01:58 Eh, ahora simplemente vamos a hacer una
+02:01 
+
+02:01 mención con para que más o menos
+02:04 
+
+02:04 entienda, pero la idea es es desglosarlo
+02:08 
+
+02:08 más en
+02:10 
+
+02:10 en
+02:12 
+
+02:12 redes en red de
+02:16 
+
+02:16 en telemáticas.
+02:20 
+
+02:20 A ver, un segundo.
+03:11 
+
+03:11 Muy
+04:50 
+
+04:50 Hago la.
+05:04 
+
+05:04 Ok.
+05:21 
+
+05:21 Se le cortó, profe. Puede ser.
+05:25 
+
+05:25 Sí, es que mi está inestable. Con eso
+05:28 
+
+05:28 estoy cambiando acá. Dame dos segundos,
+05:30 
+
+05:30 por favor.
+05:31 
+
+05:31 Ah, bueno.
+05:40 
+
+05:40 [carraspeo]
+05:41 
+
+05:41 Bien.
+05:44 
+
+05:44 Bueno, e
+05:46 
+
+05:46 como decía recién, nosotros vamos a,
+05:52 
+
+05:52 bueno, todo el tema de cableado, eh, esa
+05:56 
+
+05:56 eso sería la parte de electricidad, toda
+06:01 
+
+06:01 esa parte de la capa un
+06:07 
+
+06:07 eh y después está a medida que Vamos,
+06:13 
+
+06:13 la medida que vamos ascendiendo,
+06:14 
+
+06:14 digamos, cuando como veíamos la vez
+06:17 
+
+06:17 pasada, a partir un evento,
+06:21 
+
+06:21 yo lo tengo que representar, por
+06:23 
+
+06:23 ejemplo, un simple hola mundo, como son
+06:27 
+
+06:27 los ejemplos de de carga informática, un
+06:30 
+
+06:30 simple hola.
+06:32 
+
+06:32 Eh, yo lo tengo que lo tengo que hacer,
+06:37 
+
+06:37 lo tengo que representar a ese evento.
+06:40 
+
+06:40 Eh, primero en la en un texto, por
+06:43 
+
+06:43 ejemplo, con con el alfabeto
+06:48 
+
+06:48 el español, en este caso, porque
+06:51 
+
+06:51 hablamos en español y de ahí lo vamos
+06:53 
+
+06:53 este lo vamos convirtiendo o codificando
+06:58 
+
+06:58 y se lo puede codificar e no me acuerdo
+07:02 
+
+07:02 si acá lo hab dicho o en telemática, en
+07:05 
+
+07:05 lo vamos codificando en ASKI. ¿Usted
+07:07 
+
+07:07 sabe lo que es el ASKI? La codificación
+07:09 
+
+07:09 ASKI,
+07:14 
+
+07:14 ¿me han escuchado hablar de ASK?
+07:16 
+
+07:16 A S C I.
+07:23 
+
+07:23 ¿Escucharon hablar o no?
+07:27 
+
+07:27 Son como las letras que toma el teclado
+07:29 
+
+07:29 de manera básica, digamos.
+07:32 
+
+07:32 Eh,
+07:35 
+
+07:35 sí.
+07:36 
+
+07:36 Eh, es muy general eso. Eh, y el y el
+07:39 
+
+07:39 UTF8 lo han visto, lo han visto al menos
+07:43 
+
+07:43 cuando le aparece un mensaje en la
+07:45 
+
+07:45 computadora que que no reconoce los
+07:48 
+
+07:48 caracteres porque no tiene instalado
+07:49 
+
+07:49 UTF8, por ejemplo, UTF-8.
+07:58 
+
+07:58 Yo lo vi eso, profe, en algo de HTML, me
+08:01 
+
+08:01 parece. Claro. Bueno, la codificación
+08:04 
+
+08:04 ASKI es una es una codificación
+08:08 
+
+08:08 e hay un hay un una tabla, si ustedes la
+08:12 
+
+08:12 buscan en internet la van a encontrar,
+08:14 
+
+08:14 eh, donde cada
+08:16 
+
+08:16 letra
+08:18 
+
+08:18 del abecedario, pero en este caso es el
+08:20 
+
+08:20 abecedario,
+08:22 
+
+08:22 el el inglés,
+08:24 
+
+08:24 cada letra tiene una codificación en
+08:28 
+
+08:28 binario. Sí.
+08:31 
+
+08:31 Eh,
+08:33 
+
+08:33 entonces este
+08:36 
+
+08:36 entonces este
+08:39 
+
+08:39 eh se se lo va representando con eso. el
+08:42 
+
+08:42 UTF8 o el UTF-8
+08:45 
+
+08:45 es una codificación, pero ya incluye
+08:50 
+
+08:50 eh eh varios eh idiomas, por ejemplo,
+08:54 
+
+08:54 porque a ver, eh al ser inglés e el
+08:58 
+
+08:58 asqul
+08:60 
+
+08:60 tiene eh letras como la, por ejemplo,
+09:04 
+
+09:04 que son propias del alfabeto español.
+09:08 
+
+09:08 Entonces, eh si se seguía trabajando con
+09:11 
+
+09:11 con aski, no era posible representar eh
+09:15 
+
+09:15 todos los signos o todas las letras o
+09:17 
+
+09:17 todos los símbolos. Entonces, eh se está
+09:21 
+
+09:21 el UTF8 que incluye toda esa letra o
+09:25 
+
+09:25 símbolo.
+09:28 
+
+09:28 Eh, entonces había que representar un un
+09:33 
+
+09:33 evento eh con texto español, con ASKI o
+09:38 
+
+09:38 con UTF8
+09:40 
+
+09:40 y de ahí estaba la la bueno, depende
+09:43 
+
+09:43 cómo se cómo se transmite la
+09:45 
+
+09:45 codificación de línea y qué s ahí vienen
+09:47 
+
+09:47 todos los cómo se representan los bits
+09:50 
+
+09:50 en el medio
+09:52 
+
+09:52 y eso ese medio
+09:55 
+
+09:55 e
+09:57 
+
+09:57 es justamente la la capa dos. Entonces,
+10:01 
+
+10:01 la capa dos o llamada capa de enlace de
+10:04 
+
+10:04 datos e
+10:09 
+
+10:09 es la que organiza esa transmisión
+10:12 
+
+10:12 física para que los equipos puedan
+10:14 
+
+10:14 comunicarse dentro de la local y y tomen
+10:19 
+
+10:19 y y tomen esa parte dentro de la red
+10:22 
+
+10:22 local.
+10:23 
+
+10:23 ¿Por qué? Porque una la capa dos permite
+10:27 
+
+10:27 que los dispositivos, las computadoras,
+10:29 
+
+10:29 o sea, cuando me y cuando me refiero a
+10:30 
+
+10:30 dispositivo, me refo me refiero a
+10:32 
+
+10:32 computadora, impresora, celular, todo lo
+10:35 
+
+10:35 que pueda ser parte de una red. Entonces
+10:38 
+
+10:38 la capa dos me va a permitir que los
+10:41 
+
+10:41 dispositivos de una misma LAN
+10:43 
+
+10:43 intercambien tramas utilizando
+10:46 
+
+10:46 direcciones Mac. Simplemente tómenlo a
+10:49 
+
+10:49 eso o o saben ya lo que es una dirección
+10:51 
+
+10:51 Mac.
+10:53 
+
+10:53 hab escuchado o lo habíamos hablado
+10:55 
+
+10:55 nosotros el tema de la direction Mac
+10:58 
+
+10:58 o conocen lo que es la direction Mac.
+11:00 
+
+11:00 Ayer lo mencionó el profe, dijo que era
+11:02 
+
+11:02 la dirección de la placa
+11:06 
+
+11:06 que es única en el mundo para cada
+11:07 
+
+11:07 placa.
+11:08 
+
+11:08 Claro, los tres primeros
+11:11 
+
+11:11 está escrito en hexadecimal, pero los
+11:12 
+
+11:12 tres primeros representan a la a la
+11:15 
+
+11:15 marca. Sí. Bueno, a ver,
+11:19 
+
+11:19 por ejemplo, una vez hace muchos tiempos
+11:21 
+
+11:21 tuvimos un inconveniente de de que no
+11:24 
+
+11:24 sabíamos, había una máquina que estaba
+11:26 
+
+11:26 haciendo un un loop, es decir, cuando se
+11:29 
+
+11:29 enchufa mal en eh en en un en un en un
+11:33 
+
+11:33 switch, por ejemplo, eh empieza a ver un
+11:36 
+
+11:36 loop y te tira toda la red. Entonces,
+11:39 
+
+11:39 vos empezabas a buscar a buscar, pero no
+11:41 
+
+11:41 sabía cuál era la máquina. Había un
+11:43 
+
+11:43 desorden en en en un lado que me tocó
+11:46 
+
+11:46 ir.
+11:47 
+
+11:47 y y cómo la empiezas a descubrir, eh,
+11:51 
+
+11:51 empiezas a te tira la MAC y empiezas a a
+11:57 
+
+11:57 investigar, eh, y los tres primeros
+11:59 
+
+11:59 dígitos te dice qué marca es y si es una
+12:03 
+
+12:03 notebook, por ejemplo, ya por lo menos
+12:04 
+
+12:04 ya va cerrando eh el dominio de del
+12:08 
+
+12:08 problema. Entonces vos decís, mira, eh,
+12:11 
+
+12:11 no sé,
+12:14 
+
+12:14 fxx a no sé, por decir algo, pertenece a
+12:18 
+
+12:18 del. Ah, mira. Entonces empezaron a
+12:20 
+
+12:20 buscar todas lasqu empezamos a buscar
+12:22 
+
+12:22 todas las máquinas del y y la y el
+12:26 
+
+12:26 dominio del problema se se
+12:28 
+
+12:28 reduce y es más fácil encontrarlo al
+12:31 
+
+12:31 problema después. Bueno, e eso sería la
+12:35 
+
+12:35 lo que le dijo el profe ayer más esto
+12:38 
+
+12:38 como como dato de color para que sepan
+12:40 
+
+12:40 para que me puede llevar llegar a servir
+12:42 
+
+12:42 también una una dirección Mac.
+12:46 
+
+12:46 E bueno, ¿qué es la capa dos? dijimos
+12:50 
+
+12:50 que la capa uno transmite bits,
+12:54 
+
+12:54 eh,
+12:56 
+
+12:56 pero una secuencia de bits aislada
+12:59 
+
+12:59 no tiene ningún significado para la red,
+13:03 
+
+13:03 pero y y ahí es cuando entra la capa la
+13:06 
+
+13:06 capa dos, toma esos bits y los organiza
+13:10 
+
+13:10 en una estructura que se llama trama. A
+13:14 
+
+13:14 medida que va subiendo, va cambiando eh
+13:16 
+
+13:16 la PDU, digamos, la unidad, ¿sí? El
+13:20 
+
+13:20 nombre de la unidad, trama, paquete y
+13:22 
+
+13:22 así. Entonces, la capa uno transmite
+13:26 
+
+13:26 bit, la capa dos toma esos bit y los
+13:30 
+
+13:30 organiza para que puedan eh para que
+13:33 
+
+13:33 esos bits se puedan entregar
+13:35 
+
+13:35 correctamente dentro de la LAN. ¿Sí?
+13:38 
+
+13:38 Entonces, dentro de esa trama
+13:42 
+
+13:42 vamos a tener datos como la direction
+13:44 
+
+13:44 MAC de origen, la direction MAC de
+13:47 
+
+13:47 destino, la información de control, eh
+13:50 
+
+13:50 qué datos estamos transportando. Sí.
+13:54 
+
+13:54 Entonces, como dijo el compañero, ahí la
+13:57 
+
+13:57 la dirección MAC me va a identificar una
+14:01 
+
+14:01 interfaz de red dentro de la LAN. Sí.
+14:05 
+
+14:05 Por ejemplo, acá
+14:08 
+
+14:08 ahí tenemos un ejemplo abajo de PC1, ahí
+14:11 
+
+14:11 dice, ¿ves? Mac
+14:13 
+
+14:13 1A 2B
+14:16 
+
+14:16 y y esos tres primeros dígitos
+14:20 
+
+14:20 me me indican me indican la la red,
+14:24 
+
+14:24 [carraspeo] la red, la empresa que la
+14:26 
+
+14:26 fábrica y y cada sería como el DNI, es
+14:30 
+
+14:30 único, es único para cada máquina.
+14:33 
+
+14:33 Bien.
+14:35 
+
+14:35 Entonces,
+14:37 
+
+14:37 cuando en este caso la PC1 quiere enviar
+14:41 
+
+14:41 información a la PC2 dentro de la misma
+14:44 
+
+14:44 LAN,
+14:46 
+
+14:46 la trama que dijimos que es cómo que
+14:50 
+
+14:50 toma los bit y cómo lo organiza a esos
+14:52 
+
+14:52 bits en en en la capa dos, entonces la
+14:57 
+
+14:57 trama va a incluir información de la MAC
+15:00 
+
+15:00 de destino. Entonces, ¿qué pasa? tomo un
+15:04 
+
+15:04 grupo de bits y le dice, estos bits
+15:07 
+
+15:07 entre la información que tengo, ma viene
+15:10 
+
+15:10 de tal lado, se va a tal lado, eh, es de
+15:14 
+
+15:14 tipo tal, los datos son tal y y y estos
+15:18 
+
+15:18 son los estos son los datos de control
+15:20 
+
+15:20 de error.
+15:22 
+
+15:22 Entonces y esa e
+15:26 
+
+15:26 y eso viaja puede me puede permitir que
+15:30 
+
+15:30 ese dato, ese paquete de datos o esa
+15:32 
+
+15:32 trama de datos sería viaje a la otra PC.
+15:36 
+
+15:36 Entonces, para que quede claro,
+15:39 
+
+15:39 eh la MAC es la identificación
+15:43 
+
+15:43 de la interfaz o de la placa de red
+15:47 
+
+15:47 dentro de la red local. Todavía no
+15:49 
+
+15:49 estamos hablando de IP, estamos hablando
+15:52 
+
+15:52 de un de un nivel más bajo en el modelo
+15:55 
+
+15:55 OSI. Ustedes sáquenlo al modelo OSI,
+15:57 
+
+15:57 mírenlo de arriba para abajo, del siete
+15:59 
+
+15:59 al uno y van a ver que estamos
+16:01 
+
+16:01 trabajando en la capa dos.
+16:04 
+
+16:04 Bien, ahí en el dibujito tenemos también
+16:07 
+
+16:07 un switch, ¿sí? Eh, que es sería el
+16:10 
+
+16:10 protagonista, digamos, de la capa dos,
+16:12 
+
+16:12 el switch. ¿Qué hace el switch? recibe
+16:15 
+
+16:15 las tramas,
+16:17 
+
+16:17 aprende qué dirección están asociadas a
+16:20 
+
+16:20 sus puertos. Sí. Por ejemplo, eh puedo
+16:25 
+
+16:25 decir que el puerto uno está enchufado
+16:28 
+
+16:28 eh la PC1, en el puerto dos la PC2, en
+16:32 
+
+16:32 el puerto 3 el servidor ese que está ahí
+16:35 
+
+16:35 y en el puerto cuatro la impresora.
+16:39 
+
+16:39 Entonces, él sabe que cada puerto está
+16:43 
+
+16:43 conectado a través de un cable del pass
+16:46 
+
+16:46 vendría ser e
+16:51 
+
+16:51 el dispositivo
+16:53 
+
+16:53 o la MAC correspondiente a ese
+16:55 
+
+16:55 dispositivo.
+16:57 
+
+16:57 Entonces, ¿qué qué tiene el switch?
+16:59 
+
+16:59 Tiene una tabla MAC.
+17:01 
+
+17:01 Una tabla Mac.
+17:03 
+
+17:03 Entonces, si si la PS1 quiere enviar una
+17:07 
+
+17:07 trama al PS2,
+17:09 
+
+17:09 eh el Switch, ¿qué va a hacer? La v
+17:11 
+
+17:11 enviar solamente por el puerto donde
+17:12 
+
+17:12 está la PS2, porque él consulta la
+17:14 
+
+17:14 tablita. Ah, la P la la PS2 con con la
+17:17 
+
+17:17 Mac tanto está en el puerto tanto. Sí.
+17:21 
+
+17:21 Entonces, y eso eso es mucho más
+17:23 
+
+17:23 eficiente que enviarlo a todos, como
+17:25 
+
+17:25 antes hacía antes hacía el hub. el hub
+17:28 
+
+17:28 recibía
+17:30 
+
+17:30 y se lo mandaba todo. Y el que es como
+17:32 
+
+17:32 decir es como que
+17:35 
+
+17:35 ahora, por ejemplo, yo estoy yo estoy
+17:39 
+
+17:39 hablando
+17:41 
+
+17:41 y por ejemplo yo voy a decir a ver el
+17:44 
+
+17:44 primero que me figuré acá Abigail Torres
+17:47 
+
+17:47 yo está Abigail Torres
+17:56 
+
+17:56 Abig Torres.
+18:04 
+
+18:04 No está.
+18:10 
+
+18:10 Bueno,
+18:13 
+
+18:13 mira, e
+18:18 
+
+18:18 a ver, Agustín Gaitán está
+18:24 
+
+18:24 Agustín Gaitán.
+18:32 
+
+18:32 Chicos, contesten, por favor, si están.
+18:34 
+
+18:34 Si no, yo eh si no están, si han dejado
+18:36 
+
+18:36 la máquina prendida, yo les pongo
+18:38 
+
+18:38 ausente y y lo estoy llamando para para
+18:41 
+
+18:41 evaluarlo.
+18:43 
+
+18:43 ¿Están o no están?
+18:47 
+
+18:47 Bien, voy anotando. Voy a
+18:50 
+
+18:50 diga.
+18:53 
+
+18:53 me habló, disculpe.
+18:54 
+
+18:54 Sí, sí, hablé.
+18:57 
+
+18:57 Eh,
+18:59 
+
+18:59 a ver, para que quede claro, yo creo que
+19:01 
+
+19:01 ya se lo dije una vez y se lo voy a
+19:03 
+
+19:03 repetir ahora que hay 88
+19:06 
+
+19:06 y no se lo voy a repetir de nu.
+19:09 
+
+19:09 Cuando yo los llame, me tienen que
+19:12 
+
+19:12 contestar. Primero por una cuestión de
+19:15 
+
+19:15 de educación y de respeto,
+19:18 
+
+19:18 eh, y segundo porque lo estoy llamando,
+19:20 
+
+19:20 estamos participando en una clase.
+19:24 
+
+19:24 Entonces, cuando yo los llame, al menos
+19:26 
+
+19:26 contesten.
+19:28 
+
+19:28 y no contestan. En el caso, por ejemplo,
+19:30 
+
+19:30 que yo llamé a una persona y le repetí
+19:33 
+
+19:33 varias veces el nombre y no me
+19:35 
+
+19:35 respondió,
+19:37 
+
+19:37 eh, entonces yo lo voy anotando acá y
+19:40 
+
+19:40 pongo que no me respondió cuando yo le
+19:41 
+
+19:41 yo le le hice una consulta. Esto es nota
+19:45 
+
+19:45 de concepto. Sí,
+19:48 
+
+19:48 1596.
+19:55 
+
+19:55 Bien, ahora estamos haciendo un
+19:59 
+
+19:59 ejercicio. Eh, yo te yo pregunté,
+20:02 
+
+20:02 Agustín Gaitán, ¿estás?
+20:06 
+
+20:06 Sí.
+20:07 
+
+20:07 Bien, todos escucharon que yo yo nombré
+20:11 
+
+20:11 a la persona que se llama Agustín Gaitán
+20:15 
+
+20:15 y respondió él. Sí, lo mismo pasaba
+20:19 
+
+20:19 antes con el Jub.
+20:22 
+
+20:22 El mensaje le llegaba todo, pero
+20:25 
+
+20:25 respondía la máquina que que le
+20:26 
+
+20:26 correspondía el mensaje. Entonces, eso
+20:29 
+
+20:29 hacía que no sea eficiente porque había
+20:31 
+
+20:31 mucho tráfico.
+20:33 
+
+20:33 Eh, entonces el switch, ¿qué hace? ¿Qué
+20:36 
+
+20:36 hace el switch? Eh,
+20:40 
+
+20:40 trayendo un poco, haciendo esta
+20:42 
+
+20:42 comparación para para que entendamos.
+20:46 
+
+20:46 Eh, solamente le va a enviar la es como
+20:50 
+
+20:50 que yo le mando un mensaje privado y no
+20:52 
+
+20:52 se lo mando. Hablando en términos de
+20:54 
+
+20:54 WhatsApp, eh, yo te mando un mensaje
+20:56 
+
+20:56 privado y no lo mando al grupo,
+20:58 
+
+20:58 solamente le va a esa persona.
+21:01 
+
+21:01 Eso es mucho más eficiente que enviar
+21:04 
+
+21:04 todo a todos. Por eso se dice que el
+21:07 
+
+21:07 Switch toma decisiones de reenvío
+21:09 
+
+21:09 basándose en direcciones Mac.
+21:12 
+
+21:12 Entonces, ¿pero qué pasa si no la
+21:14 
+
+21:14 conoce? ¿A dónde está esa Mac? ¿A dónde
+21:16 
+
+21:16 está la MAC destino?
+21:19 
+
+21:19 Entonces, lo que lo que hace puede
+21:22 
+
+21:22 enviar temporalmente la trama por varios
+21:25 
+
+21:25 puertos para para ver cuál es. Se llama
+21:28 
+
+21:28 fluding. Sí. Bueno, y ahí tenemos la que
+21:31 
+
+21:31 se llama la bueno, la trama de internet
+21:33 
+
+21:33 ahí abajo.
+21:35 
+
+21:35 E como recién decíamos tiene eh o o
+21:42 
+
+21:42 es una representación simplificada de lo
+21:44 
+
+21:44 que de la información que lleva la
+21:46 
+
+21:46 trama. Es como lo mismo que decíamos
+21:49 
+
+21:49 cuando hacíamos el ejemplo de de de un
+21:52 
+
+21:52 paquete que va por Mercadolibbre. eh
+21:54 
+
+21:54 tiene el el remitente, el destinatario,
+21:59 
+
+21:59 me puede decir qué datos hay, ¿sí? O qué
+22:02 
+
+22:02 qué trae el qué trae el paquete. Bueno,
+22:05 
+
+22:05 algo así sería. Entonces, pero lo más
+22:08 
+
+22:08 importante es que que que
+22:11 
+
+22:11 tenemos que saber que tiene una MAC
+22:13 
+
+22:13 origen, una MAC destino y los datos.
+22:16 
+
+22:16 Y el FCS ese que figura ahí es el es un
+22:20 
+
+22:20 un control de errores que se utiliza.
+22:22 
+
+22:22 Eso se lo ve en la arquitectura avanzada
+22:23 
+
+22:23 de hardware, me parece.
+22:27 
+
+22:27 Entonces, la capa dos no solo no va a
+22:31 
+
+22:31 identificar
+22:32 
+
+22:32 a quién le va a entregar la información
+22:35 
+
+22:35 dentro de la LAN, sino que me va a
+22:38 
+
+22:38 incorporar también eh mecanismos para
+22:41 
+
+22:41 asegurarme la que la trama no haya
+22:43 
+
+22:43 llegado no haya llegado alterada. Sí.
+22:49 
+
+22:49 Eh,
+22:51 
+
+22:51 bueno, y si,
+22:55 
+
+22:55 pero por ejemplo, si yo quiero salir a
+22:57 
+
+22:57 internet acá como como dicen las
+22:59 
+
+22:59 limitaciones de la de la capa dos, eh,
+23:04 
+
+23:04 internet, ya estoy saliendo
+23:07 
+
+23:07 para fuera, digamos, estoy saliendo para
+23:12 
+
+23:12 estoy saliendo para para fuera de los de
+23:16 
+
+23:16 los límites de Milán.
+23:18 
+
+23:18 Y entonces cuando haya que la la la MAC
+23:22 
+
+23:22 identifica interfaces dentro de la misma
+23:24 
+
+23:24 red, pero no nos dice
+23:27 
+
+23:27 a qué red pertenece un dispositivo ni
+23:29 
+
+23:29 cómo llegar, entonces ahí es cuando ya
+23:31 
+
+23:31 empiezan a a hacer falta otro tipo de
+23:35 
+
+23:35 dispositivo que lo ya lo vamos a ver más
+23:37 
+
+23:37 adelante.
+23:42 
+
+23:42 Bueno, y acá bueno, una aclaración
+23:45 
+
+23:45 e
+23:47 
+
+23:47 eh
+23:49 
+
+23:49 todavía no hablamos de IP, pero no
+23:51 
+
+23:51 quiere decir que e
+23:55 
+
+23:55 que que la que la IP la reemplace a la
+23:58 
+
+23:58 MAC o que la MAC la reemplace a la IP,
+24:00 
+
+24:00 no quiere decir eso. Sí. Entonces, para
+24:03 
+
+24:03 que solamente yo quiero que por el
+24:05 
+
+24:05 momento vamos teniendo la idea esta. La
+24:07 
+
+24:07 capa 2, como dijimos, organiza los bits
+24:11 
+
+24:11 en tram.
+24:12 
+
+24:12 utiliza las direcciones Mac y permite
+24:15 
+
+24:15 que los dispositivos dentro de la misma
+24:17 
+
+24:17 LAN se se comuniquen a través de switch.
+24:21 
+
+24:21 Si no, si si yo no tuviera un switch,
+24:23 
+
+24:23 ¿qué tipo de R sería
+24:27 
+
+24:27 si yo no tuviera un switch? ¿Qué tipo de
+24:29 
+
+24:29 Y las máquinas se están conectando unas
+24:31 
+
+24:31 con otras? ¿Qué tipo de red serie?
+24:33 
+
+24:33 Peer toer.
+24:34 
+
+24:34 Peer to. Bien.
+24:45 
+
+24:45 Sería una red topografía anillo o red
+24:49 
+
+24:49 topografía bus.
+24:50 
+
+24:50 No, no, no, no, no, porque en en An y yo
+24:55 
+
+24:55 tenemos un un token, eh, todo y y como
+24:59 
+
+24:59 esta estamos hablando de que la red no
+25:03 
+
+25:03 tiene un un dispositivo, valga la
+25:06 
+
+25:06 redundancia, de red, llámese switch, por
+25:08 
+
+25:08 ejemplo, o Hub, por ejemplo, eh las
+25:11 
+
+25:11 máquinas están conectadas una a otra con
+25:14 
+
+25:14 cables de red, por eso es una una peer
+25:16 
+
+25:16 to peer. No, no tengo, no tengo un token
+25:21 
+
+25:21 en el med y boost es una
+25:26 
+
+25:26 Bueno, sí podría llegar a ser un bus si
+25:29 
+
+25:29 las máquinas están conectadas.
+25:31 
+
+25:31 Sí, podría ser un bus. Está bien, te la
+25:34 
+
+25:34 te la compro es podría ser un bus.
+25:38 
+
+25:38 Em,
+25:41 
+
+25:41 bueno,
+25:43 
+
+25:43 de la capa dos a la capa tres, eh,
+25:47 
+
+25:47 dijimos que en la capa dos solamente
+25:51 
+
+25:51 tenemos
+25:52 
+
+25:52 Este,
+26:11 
+
+26:11 bien.
+26:13 
+
+26:13 Dijimos que la capa dos solamente
+26:15 
+
+26:15 tenemos direcciones Mac y en la capa 3
+26:18 
+
+26:18 ya empezamos a
+26:23 
+
+26:23 ya empezamos a
+26:25 
+
+26:25 a complejizar un poco la cosa. Entonces,
+26:29 
+
+26:29 si yo tengo una dirección MAC y puedo eh
+26:33 
+
+26:33 comunicarme dentro de la red local,
+26:36 
+
+26:36 ¿para qué creen ustedes que voy a
+26:37 
+
+26:37 necesitar una IP?
+26:41 
+
+26:41 Sería para
+26:42 
+
+26:42 para identificar los dispositivos, ¿no?
+26:44 
+
+26:44 Sería
+26:46 
+
+26:46 eh Sí, sí, pero eh recuerden qué
+26:51 
+
+26:51 decíamos antes. Miren acá,
+26:54 
+
+26:54 ¿qué decíamos?
+26:56 
+
+26:56 Una limitación de la capa dos. Las
+26:58 
+
+26:58 direcciones MAC solo tienen sentido
+27:01 
+
+27:01 dentro de una misma de un entorno local.
+27:04 
+
+27:04 Sería entonces para que viajen entre
+27:05 
+
+27:05 diferentes redes. Puede ser.
+27:06 
+
+27:06 Exactamente. Si el destino está en otra
+27:08 
+
+27:08 red, por ejemplo, si yo quiero
+27:10 
+
+27:10 conectarla a internet, la Mac no me va a
+27:13 
+
+27:13 alcanzar.
+27:15 
+
+27:15 Ahora entra en juego la capa 3, que es
+27:18 
+
+27:18 la IP y el router. Sí.
+27:22 
+
+27:22 Entonces, ¿ustedes ven que yo muevo el
+27:24 
+
+27:24 mouse o no ven nada? No, no ven que se
+27:25 
+
+27:25 mueve el mouse
+27:28 
+
+27:28 No, profe, no se lo ve.
+27:29 
+
+27:29 No, profe,
+27:30 
+
+27:30 no se ve, prof. Entonces, lo que pasa es
+27:32 
+
+27:32 que si yo yo me voy a la presentación,
+27:34 
+
+27:34 ya no lo veo a usted. Ahí ven que se
+27:36 
+
+27:36 mueve el mouse,
+27:39 
+
+27:39 ¿no?
+27:39 
+
+27:39 No, tampoco.
+27:40 
+
+27:40 No, profe.
+27:45 
+
+27:45 Ahí se ve.
+27:46 
+
+27:46 Ahí estoy.
+27:48 
+
+27:48 Ahí se lo ve.
+27:49 
+
+27:49 Ahora sí.
+27:49 
+
+27:49 Ahora sí.
+27:51 
+
+27:51 Bueno, yo no lo estoy viendo a ustedes,
+27:52 
+
+27:52 entonces que me voy a la presentación.
+27:55 
+
+27:55 Eh,
+27:59 
+
+27:59 bueno,
+28:01 
+
+28:01 eh por eso le decía recién e si estamos
+28:04 
+
+28:04 dentro de la misma red, dentro de la
+28:07 
+
+28:07 misma red me alcanza con la Mac,
+28:10 
+
+28:10 sí, pero ya cuando quiero salir a otra
+28:13 
+
+28:13 red, supongamos que yo me estoy, bueno,
+28:14 
+
+28:14 la otra red la casa, supongamos, si yo
+28:18 
+
+28:18 le quiero, yo estoy en mi misma casa y
+28:20 
+
+28:20 no me va a hacer falta un shooter, pero
+28:22 
+
+28:22 si quiero salir a internet, ya me va a
+28:24 
+
+28:24 hacer falta un shoot. Sí. Entonces,
+28:28 
+
+28:28 em
+28:30 
+
+28:30 bueno, acá por ejemplo dice PC1 y le da
+28:34 
+
+28:34 signo una direction IP y tiene una Mac.
+28:36 
+
+28:36 La PS2.
+28:39 
+
+28:39 La PS2. Em,
+28:43 
+
+28:43 den un segundo.
+29:28 
+
+29:28 Bien, disculpe. E
+29:32 
+
+29:32 bueno, en este caso dijimos que la PC1 y
+29:35 
+
+29:35 la PC2 están conectadas al mismo switch
+29:37 
+
+29:37 y pertenecen a una a la misma red.
+29:40 
+
+29:40 Entonces, eh, pero como estamos en la
+29:43 
+
+29:43 red local, el Switch trabaja trabaja con
+29:46 
+
+29:46 las direcciones MAC para reenviar las
+29:47 
+
+29:47 tramas al puerto que le corresponde.
+29:50 
+
+29:50 Entonces, el problema o o mejor dicho,
+29:52 
+
+29:52 no tengo un problema en la en la LAN, en
+29:56 
+
+29:56 la capa dos, mientras yo no quiera salir
+29:59 
+
+29:59 para fuera, no quiera no quiera ir a un
+30:02 
+
+30:02 a internet, por ejemplo. Pero, ¿qué
+30:05 
+
+30:05 ocurre si quiero salir a a internet?
+30:07 
+
+30:07 Ahora la PC1 quiere quiere, no sé,
+30:10 
+
+30:10 quiere hacer ww.
+30:13 
+
+30:13 clarin.com.ar.
+30:16 
+
+30:16 Entonces ya con ya la direction IP, la
+30:18 
+
+30:18 direction Mac ya no me va a alcanzar.
+30:20 
+
+30:20 ¿Por qué? Porque no me va a alcanzar.
+30:28 
+
+30:28 Porque solo trabaja en una red local.
+30:31 
+
+30:31 Porque solo trabaja en la red local.
+30:33 
+
+30:33 Bien.
+30:35 
+
+30:35 Entonces, y si el destino está en en
+30:38 
+
+30:38 otra red, no va no va a saber cómo qué
+30:41 
+
+30:41 camino elegir. Entonces, ¿quién tiene
+30:44 
+
+30:44 que intervenir ahí?
+30:46 
+
+30:46 La dirección IP,
+30:48 
+
+30:48 ¿no? Un dispositivo.
+30:50 
+
+30:50 Ah, bien.
+30:51 
+
+30:51 ¿Qué dispositivo?
+30:53 
+
+30:53 El router.
+30:54 
+
+30:54 El router. Sí. Entonces ahí ya empieza a
+30:57 
+
+30:57 participar el router.
+31:05 
+
+31:05 Yo lo voy anotando. Yo así les digo para
+31:09 
+
+31:09 que sepan. Yo voy anotando los que van
+31:11 
+
+31:11 participando,
+31:13 
+
+31:13 eh, y el día que rindan el final, el día
+31:16 
+
+31:16 que que le falte un puntito más para la
+31:20 
+
+31:20 para la nota, para promocionar o para lo
+31:22 
+
+31:22 que sea, ese puntito vale. Así que yo
+31:26 
+
+31:26 les recomiendo que participen y que no
+31:29 
+
+31:29 se quede mudo.
+31:32 
+
+31:32 Bien, ¿qué decía? No sé quién quién
+31:34 
+
+31:34 estaba hablando.
+31:35 
+
+31:35 Bueno, profe, una consulta. El shooter y
+31:38 
+
+31:38 el proveedor de internet son capas
+31:39 
+
+31:39 distintas o están siendo dentro de la
+31:41 
+
+31:41 misma capa de la tres.
+31:43 
+
+31:43 Lo que pasa es que e el shooter eh viene
+31:48 
+
+31:48 eh de,
+31:51 
+
+31:51 o sea, eh viene e el el proveedor de
+31:54 
+
+31:54 internet se conecta al shooter
+31:56 
+
+31:56 directamente. Sí. Y y él él es el que el
+32:01 
+
+32:01 los shooter son los que nos dan
+32:04 
+
+32:04 tienen la inteligencia para conocer los
+32:07 
+
+32:07 caminos. No sé si con ustedes hicimos el
+32:09 
+
+32:09 otro día el trasert. Hicimos el trazert
+32:11 
+
+32:11 acá, un ejercicio trasert
+32:14 
+
+32:14 eh a un lar.
+32:16 
+
+32:16 Sí. Ah, bueno, bueno. Y ahí nos indicaba
+32:19 
+
+32:19 los diferentes saltos o routers que
+32:22 
+
+32:22 tiene que ir eh haciendo el paquete o la
+32:25 
+
+32:25 o la trama, paquete, ¿cómo se va
+32:27 
+
+32:27 llamando? medida que va subiendo. Eh,
+32:30 
+
+32:30 entonces sería eso bien. Em,
+32:35 
+
+32:35 entonces dijimos que eh ahí tiene que
+32:38 
+
+32:38 intervenir un dispositivo que se llama
+32:41 
+
+32:41 router y
+32:46 
+
+32:46 y necesitamos ahí un tipo un un un
+32:48 
+
+32:48 direccionamiento lógico. Sí. Ahí aparece
+32:51 
+
+32:51 la capa tres, la capa, la capa tres que
+32:54 
+
+32:54 se llama capa de red y dentro de ella la
+32:57 
+
+32:57 famosa IP.
+32:59 
+
+32:59 ¿Qué es IP? Internet Protocol. ¿Quién me
+33:03 
+
+33:03 permite
+33:05 
+
+33:05 eh identificar eh la IP?
+33:11 
+
+33:11 ¿Quién me permite identificar la IP? Dos
+33:13 
+
+33:13 cosas, la red.
+33:16 
+
+33:16 la red
+33:19 
+
+33:19 y
+33:23 
+
+33:23 una una, o sea, una red y el host dentro
+33:27 
+
+33:27 de esa red. Sí.
+33:30 
+
+33:30 ¿Qué host? ¿Qué entienden ustedes que es
+33:32 
+
+33:32 un host?
+33:35 
+
+33:35 Es el sistema terminal.
+33:39 
+
+33:39 Podría ser el sistema terminal, pero
+33:41 
+
+33:41 básicamente lo que un host es una así
+33:45 
+
+33:45 por hablar en término vulgar, una
+33:46 
+
+33:46 computadora, un host de red. Entonces,
+33:50 
+
+33:50 para que entendamos, cuando se habla de
+33:52 
+
+33:52 host, estamos hablando de un Sí, como
+33:56 
+
+33:56 dijo el compañero, un sistema terminal,
+33:58 
+
+33:58 un un extremo que puede ser
+34:02 
+
+34:02 eh
+34:03 
+
+34:03 como un servidor,
+34:05 
+
+34:05 un servidor, una notebook, una
+34:07 
+
+34:07 impresora, todo lo que se le pueda poner
+34:10 
+
+34:10 una IP es, o sea, es un host, digamos.
+34:14 
+
+34:14 Entonces, y la red
+34:17 
+
+34:17 e
+34:19 
+
+34:19 es el dominio, digamos, de
+34:23 
+
+34:23 todas esas máquinas que pertenecen o que
+34:25 
+
+34:25 están configuradas dentro de la misma
+34:26 
+
+34:26 red. Ya vamos a ver un poquito más.
+34:30 
+
+34:30 Em
+34:35 
+
+34:35 bueno, eh para que quede claro, el
+34:37 
+
+34:37 switch trabaja en capa 2 y el router en
+34:41 
+
+34:41 capa tres. Si el destino está dentro de
+34:43 
+
+34:43 la misma LAN, el tráfico se puede
+34:46 
+
+34:46 resolver localmente. Pero si el destino
+34:48 
+
+34:48 está en otra red, necesitamos el router.
+34:50 
+
+34:50 Eso eso la la idea principal. Bueno, y
+34:53 
+
+34:53 ahí tenemos la relación de OSIS con con
+34:56 
+
+34:56 TCP.
+34:58 
+
+34:58 Este [carraspeo]
+34:59 
+
+34:59 en OSIS
+35:01 
+
+35:01 está
+35:06 
+
+35:06 en OSI la
+35:09 
+
+35:09 están separadas las funciones. Por
+35:11 
+
+35:11 ejemplo, Enosi dice K2 enlace de datos y
+35:13 
+
+35:13 K 3 red. En cambio, en el modelo TSP lo
+35:16 
+
+35:16 unifica,
+35:20 
+
+35:20 unifica la la enlace y la física, ¿no?
+35:23 
+
+35:23 Este, bueno, eh,
+35:31 
+
+35:31 bueno, y ahí vamos a ver lo que es una
+35:34 
+
+35:34 una
+35:37 
+
+35:37 IP B4.
+35:39 
+
+35:39 Eso, ¿qué quiere decir IPB4? IP versión
+35:43 
+
+35:43 4.
+35:46 
+
+35:46 Este,
+35:48 
+
+35:48 bueno, habíamos visto que porque
+35:50 
+
+35:50 necesitamos una IP para ya cuando
+35:52 
+
+35:52 necesitamos ir de una red a otra.
+35:56 
+
+35:56 Este, pero ahora vamos a ver cómo está
+35:57 
+
+35:57 formada esa dirección IP.
+36:01 
+
+36:01 Entonces, básicamente una direction IP
+36:05 
+
+36:05 de de la version 4 tiene 32 bits
+36:09 
+
+36:09 dividida en cuatro grupos de 8 bits. Sí,
+36:14 
+
+36:14 ven
+36:16 
+
+36:16 [carraspeo]
+36:18 
+
+36:18 el 192.
+36:21 
+
+36:21 El 192
+36:24 
+
+36:24 eh, que se representa en forma binaria.
+36:27 
+
+36:27 Ahí lo estamos viendo. El 16, el 168, el
+36:31 
+
+36:31 1 y el 25 están representados ahí eh en
+36:35 
+
+36:35 forma binaria y en forma decimal. El Oct
+36:40 
+
+36:40 está conformado por cuatro obtetos
+36:41 
+
+36:41 comienzan de la izquierda a la derecha.
+36:45 
+
+36:45 ¿Sí? Entonces ustedes seguramente han
+36:47 
+
+36:47 visto en su casas cuando o o si ya ahora
+36:49 
+
+36:49 ejecutan ejecutan el comando
+36:54 
+
+36:54 IP config,
+36:55 
+
+36:55 eh IP config nada más, lo pueden
+36:58 
+
+36:58 ejecutar en Windows, inicio, ejecutar
+36:59 
+
+36:59 cmd, se le abre la consola do y ponen IP
+37:04 
+
+37:04 config,
+37:06 
+
+37:06 IP configuración, vendría a ser truncada
+37:10 
+
+37:10 IP config el comando, le va a decir
+37:13 
+
+37:13 dirección IP y le va a mostrar ¿Qué qué
+37:15 
+
+37:15 dirección IP le asignó el servidor de
+37:17 
+
+37:17 HCP a su computadora dentro de la casa?
+37:23 
+
+37:23 Bien,
+37:25 
+
+37:25 y ahí van a ver y ahí van a ver que cada
+37:27 
+
+37:27 máquina tiene su propio su propia
+37:33 
+
+37:33 su propia numeración, digamos. Este,
+37:38 
+
+37:38 bien, no son
+37:42 
+
+37:42 cuatro números.
+37:44 
+
+37:44 eh elegido al azar, o sea, eso tiene
+37:49 
+
+37:49 tiene un por qué, ¿no? Ya lo vamos a ir
+37:51 
+
+37:51 viendo. Eh,
+37:58 
+
+37:58 bueno, porque eh cada obteto va de 0 a
+38:02 
+
+38:02 255.
+38:04 
+
+38:04 Entonces, como cada obteto tiene 8 bits,
+38:08 
+
+38:08 ¿sí? 2 a la 8, ¿cuánto sería 2 a la 8? 2
+38:13 
+
+38:13 elevado 8
+38:14 
+
+38:14 256 combinaciones.
+38:16 
+
+38:16 Sí. Eh, 256 combinación combinación.
+38:21 
+
+38:21 Entonces, ¿qué quiere decir? Que estos
+38:22 
+
+38:22 valores va del ahí. Por ejemplo, si
+38:25 
+
+38:25 tomamos el 192 es 1 y después el resto
+38:29 
+
+38:29 cer.
+38:31 
+
+38:31 Pero entonces eso quiere decir que me
+38:34 
+
+38:34 puede variar de, bueno, acá tengo el
+38:36 
+
+38:36 uno, el tercer o teto, pero el octeto 3
+38:40 
+
+38:40 eh eh va del cer de los ocho veces 0
+38:45 
+
+38:45 a las 8 veces 1, o sea, es decir, del 00
+38:49 
+
+38:49 al 1 1. El 00 implica un 0, el 1 los 8
+38:54 
+
+38:54 veces 1 implica un 25.
+38:59 
+
+38:59 Por eso e
+39:02 
+
+39:02 eh en cada uno de los cuatro números de
+39:04 
+
+39:04 la dirección IP puede estar entre 0 y
+39:07 
+
+39:07 255.
+39:09 
+
+39:09 Por eso, bueno, a ver, eh 192
+39:12 
+
+39:12 si yo le digo e si yo le digo una IP,
+39:16 
+
+39:16 por ejemplo, 192.168.1.300
+39:22 
+
+39:22 es válida.
+39:25 
+
+39:25 No, profe.
+39:26 
+
+39:26 No.
+39:26 
+
+39:26 ¿Por qué? Porque pasa de los 255.
+39:31 
+
+39:31 Bien,
+39:35 
+
+39:35 [carraspeo]
+39:36 
+
+39:36 está muy complicado la garganta.
+39:40 
+
+39:40 Bien.
+39:44 
+
+39:44 Bueno, entonces ejemplos de IPB4 como
+39:46 
+
+39:46 tenemos ahí 101001
+39:50 
+
+39:50 son diferentes son diferentes
+39:53 
+
+39:53 eh tipos de red que tenemos. Sí, pero
+39:57 
+
+39:57 todos tienen la misma son diferentes eh
+40:00 
+
+40:00 notaciones, digamos, pero eh tienen la
+40:03 
+
+40:03 misma estructura, cuatro octetos
+40:06 
+
+40:06 separados por punto. Sí, este todavía no
+40:11 
+
+40:11 vamos a ver porque no sé si habrán
+40:13 
+
+40:13 escuchado eh si las direcciones son
+40:16 
+
+40:16 privadas, públicas, de red o de host,
+40:18 
+
+40:18 como decíamos recién. Eso lo vamos a ir
+40:20 
+
+40:20 viendo más adelante. Solamente ahora
+40:22 
+
+40:22 estamos viendo la estructura. Sí, va de
+40:24 
+
+40:24 00 a 1 1 y ahí puede variar entre 0 y
+40:29 
+
+40:29 255.
+40:34 
+
+40:34 Por ahí nosotros decimos eh,
+40:38 
+
+40:38 ¿qué identifica una una dirección IP?
+40:43 
+
+40:43 ¿Qué identifica una dirección IP?
+40:48 
+
+40:48 dispositivo.
+40:51 
+
+40:51 Eh, eso es lo que decimos nosotros
+40:52 
+
+40:52 siempre, pero técnicamente lo correcto
+40:54 
+
+40:54 sería que una dirección IP identifica a
+40:58 
+
+40:58 una interfaz de red, es decir, a la
+41:00 
+
+41:00 placa de red de la computadora que
+41:02 
+
+41:02 tengan, porque básicamente es eso. Ahora
+41:05 
+
+41:05 que la placa de red esté enchufada en la
+41:09 
+
+41:09 computadora, usted no sé, eh, venga
+41:13 
+
+41:13 dentro de la placa madre, es otra cosa,
+41:15 
+
+41:15 pero no identifica a la placa de red.
+41:18 
+
+41:18 Eso tiene que quedar claro. Está buena
+41:20 
+
+41:20 la Está bien lo que dijo el compañero,
+41:23 
+
+41:23 es un dispositivo al fin, sí, pero
+41:25 
+
+41:25 técnicamente lo que identifica es la
+41:27 
+
+41:27 interfaz de red.
+41:29 
+
+41:29 ¿Por qué? Porque
+41:32 
+
+41:32 ustedes
+41:34 
+
+41:34 qué piensan una computadora solamente
+41:37 
+
+41:37 puede tener una placa o puede tener más
+41:40 
+
+41:40 puede tener más por el puerto, profe.
+41:44 
+
+41:44 Puede tener más. Por ejemplo, eh todos
+41:48 
+
+41:48 tienen muchos tienen una máquina de
+41:50 
+
+41:50 escritorio en la casa o o todos tienen
+41:52 
+
+41:52 notebook.
+41:55 
+
+41:55 Pero también notebook es un buen
+41:56 
+
+41:56 ejemplo. Por ejemplo, en mi notebook yo
+41:59 
+
+41:59 puedo tener mi placa de red que viene eh
+42:04 
+
+42:04 que viene el anook, digamos, para yo
+42:07 
+
+42:07 enchufarle un
+42:09 
+
+42:09 para yo enchufarle un un un cable de
+42:13 
+
+42:13 red. Sí, para una red cable. es el
+42:16 
+
+42:16 internet,
+42:18 
+
+42:18 pero también puede tener eh el Wi-Fi
+42:23 
+
+42:23 y también puedo tener tiene un USB que
+42:26 
+
+42:26 si yo compro una antenita eh Wi-Fi en
+42:30 
+
+42:30 USB,
+42:32 
+
+42:32 yo puedo en es ¿Cuántas placas de R
+42:33 
+
+42:33 puedo tener ahí o cuántas direcciones de
+42:34 
+
+42:34 R puedo tener ahí?
+42:37 
+
+42:37 Se puede tener, profe, todas las que eh
+42:39 
+
+42:39 la placa madre aguante, digamos. Claro,
+42:42 
+
+42:42 pero en este caso, como yo le digo, son
+42:44 
+
+42:44 tres, por ejemplo, en caso real.
+42:47 
+
+42:47 Entonces, entonces si vos me decís eh
+42:51 
+
+42:51 identifica el dispositivo y ahí es como
+42:54 
+
+42:54 que ya empieza a quedar débil el el
+42:56 
+
+42:56 argumento, sino que no identifica la
+42:59 
+
+42:59 placa de red de ese dispositivo. ¿Por
+43:01 
+
+43:01 qué? Porque podemos tener varias placas
+43:03 
+
+43:03 de red de en la computadora, por
+43:05 
+
+43:05 ejemplo.
+43:08 
+
+43:08 O sea, que tendríamos varias IP
+43:10 
+
+43:10 dependiendo de qué placa de red estemos
+43:12 
+
+43:12 hablando.
+43:12 
+
+43:12 Claro, yo cada placa de red le puedo
+43:14 
+
+43:14 poner una dirección IP diferente.
+43:16 
+
+43:16 Ah, bien. Muchas gracias.
+43:19 
+
+43:19 Por eso si ustedes hacen y ahora
+43:22 
+
+43:22 seguramente eh si hacen IP configo barra
+43:27 
+
+43:27 all cap que le muestre dos direcciones,
+43:31 
+
+43:31 una por la placa por la placa
+43:35 
+
+43:35 por la placa de red que no utilizamos
+43:37 
+
+43:37 que es la cableada y nos va a mostrar la
+43:40 
+
+43:40 IP que está dando en el wifi.
+43:44 
+
+43:44 Entonces, naturalmente ya podemos tener
+43:46 
+
+43:46 dos, por ejemplo.
+43:53 
+
+43:53 [carraspeo]
+43:57 
+
+43:57 Bien.
+43:59 
+
+43:59 E
+44:05 
+
+44:05 bueno, recién decíamos
+44:07 
+
+44:07 eh
+44:09 
+
+44:09 que que los números pueden variar de 0
+44:12 
+
+44:12 de 00 a 255
+44:16 
+
+44:16 en notación en notación binaria, pero
+44:20 
+
+44:20 después vemos normalmente vemos un
+44:23 
+
+44:23 número 192.168.1
+44:27 
+
+44:27 1 punto x, no sé, 10, 15, 30.
+44:32 
+
+44:32 E
+44:34 
+
+44:34 y bueno, ya hemos dicho que esa esos
+44:36 
+
+44:36 números son la representación decimal
+44:39 
+
+44:39 del grupo de 8 bits.
+44:42 
+
+44:42 Entonces, cada obteto,
+44:46 
+
+44:46 cada obteto, acá veamos en el ángulo
+44:49 
+
+44:49 superior derecho de las del de la
+44:51 
+
+44:51 presentación, cada obteto tiene ocho
+44:54 
+
+44:54 posiciones. La posición uno
+44:58 
+
+44:58 e
+45:01 
+
+45:01 tiene un tiene un valor, digamos. Sí.
+45:06 
+
+45:06 [carraspeo]
+45:07 
+
+45:07 Ah, demo que demo. Estoy un poquito mal
+45:10 
+
+45:10 de la carga.
+46:17 
+
+46:17 Discut.
+46:18 
+
+46:18 Voy a buscar la rope, amigo.
+46:21 
+
+46:21 Este,
+46:23 
+
+46:23 [carraspeo]
+46:24 
+
+46:24 bueno, cada obteto tiene ocho posiciones
+46:27 
+
+46:27 y tiene un y cada posición tiene un
+46:30 
+
+46:30 valor y como dice ahí la posición 1, 2,
+46:35 
+
+46:35 4, 16, 32, 64 y 128.
+46:46 
+
+46:46 Bueno, eso se corresponde con, ¿cómo
+46:48 
+
+46:48 dice ahí? Con la Ah, no dice ahí con la
+46:53 
+
+46:53 se corresponde con la con las potencias
+46:56 
+
+46:56 de de dos. Entonces, no hay que hay una
+46:59 
+
+46:59 formulita ahí, no hay que no hay que no
+47:02 
+
+47:02 hay que memor la fórmula sinent lógica.
+47:07 
+
+47:07 Si el valor del, por ejemplo, acá
+47:10 
+
+47:10 tenemos la representación del 192,
+47:14 
+
+47:14 la posición uno vale 0, la posición 2 0,
+47:18 
+
+47:18 hasta la posición 7 y la posición 8o. La
+47:21 
+
+47:21 posición
+47:22 
+
+47:22 La posición 8o sería
+47:25 
+
+47:25 e
+47:28 
+
+47:28 sería eh 128.
+47:31 
+
+47:31 La posición 7 sería 64
+47:34 
+
+47:34 y de ahí y eso y si hago la sumatoria me
+47:37 
+
+47:37 da el número 192.
+47:40 
+
+47:40 Lo mismo pasa con el tteto 4
+47:44 
+
+47:44 e de 192 a 168 10. eleto 4 que vale 10
+47:50 
+
+47:50 también eh tomo eh
+47:54 
+
+47:54 las posiciones donde está el valor uno y
+47:57 
+
+47:57 lo y y
+47:59 
+
+47:59 lo reemplazo por el valor. Entonces ahí
+48:01 
+
+48:01 en este caso mi figura 8 + 2 10. De ahí
+48:05 
+
+48:05 va saliendo, de ahí se va convirtiendo
+48:07 
+
+48:07 la
+48:10 
+
+48:10 se va convirtiendo la
+48:13 
+
+48:13 la el décim el el binario en décima. Sí.
+48:18 
+
+48:18 Eh, básicamente es eso.
+48:21 
+
+48:21 Este,
+48:23 
+
+48:23 bueno, ¿por qué el máximo es 255? ¿Por
+48:25 
+
+48:25 qué el máximo 255? ¿Qué piensan ustedes?
+48:31 
+
+48:31 Porque es de 8 bits.
+48:33 
+
+48:33 Mm.
+48:35 
+
+48:35 Y la suma de todos los valores de cada
+48:37 
+
+48:37 posición debería dar 255.
+48:41 
+
+48:41 Claro.
+48:43 
+
+48:43 Bien.
+48:45 
+
+48:45 Si sumo 128 + 64 + 32 bla bla bla, le va
+48:48 
+
+48:48 a dar 255.
+48:52 
+
+48:52 Eh, por eso justamente eso es lo que que
+48:56 
+
+48:56 yo le preguntaba, si tengo las la la IP
+49:01 
+
+49:01 192.168.1.300
+49:05 
+
+49:05 no es algo válido porque no
+49:08 
+
+49:08 el máximo 25.
+49:12 
+
+49:12 Bueno, ustedes han ejecutado el comando
+49:15 
+
+49:15 ese. Yo les decía IP config en la
+49:17 
+
+49:17 computadora.
+49:19 
+
+49:19 Lo han ejecutado.
+49:27 
+
+49:27 Y profe, ¿qué sería la IPv6?
+49:34 
+
+49:34 Eso
+49:39 
+
+49:39 IPv6. es la IP version side, ¿no?
+49:42 
+
+49:42 Estamos hablando de la IP version 4. Ya
+49:44 
+
+49:44 vamos a llegar a eso. Es por una eso se
+49:46 
+
+49:46 da por una cuestión
+49:50 
+
+49:50 de agotamiento del de la IP. Eh, tuvo un
+49:54 
+
+49:54 crecimiento tan grande el tema de
+49:56 
+
+49:56 internet que ahora
+49:58 
+
+49:58 eh ustedes escucharon hablar de internet
+50:00 
+
+50:00 de las cosas.
+50:03 
+
+50:03 Sí, profe.
+50:04 
+
+50:04 ¿Qué es internet de las cosas?
+50:08 
+
+50:08 un ejemplo que el internet está presente
+50:11 
+
+50:11 en casi todos los dispositivos de la
+50:13 
+
+50:13 casa hoy en día,
+50:15 
+
+50:15 de la casa y del mundo. Entonces,
+50:16 
+
+50:16 imagínense, eh, esto no estaba pensado
+50:19 
+
+50:19 para eso. Y ahora un foco, un foco puede
+50:23 
+
+50:23 tener una dirección IP, una cafetera,
+50:25 
+
+50:25 puede tener una dirección IP, un portón
+50:27 
+
+50:27 para que se automático, puede tener una
+50:29 
+
+50:29 dirección IP. Entonces
+50:32 
+
+50:32 son tantas las cosas que pueden tener
+50:34 
+
+50:34 direction IP que se han acabado,
+50:36 
+
+50:36 obviamente. ¿Por qué? porque este es un
+50:37 
+
+50:37 número finito, [resoplido] tiene un
+50:39 
+
+50:39 límite.
+50:40 
+
+50:40 Entonces hubo que pensar otra solución
+50:43 
+
+50:43 que ya la vamos a ver más adelante.
+50:46 
+
+50:46 [carraspeo]
+50:47 
+
+50:47 Entonces,
+50:49 
+
+50:49 eh todavía para para no confundir,
+50:52 
+
+50:52 seguramente usted han escuchado hablar
+50:55 
+
+50:55 de la parte de red y la parte de host
+50:59 
+
+50:59 del direccionamiento IP.
+51:05 
+
+51:05 H,
+51:07 
+
+51:07 ¿han escuchado esa parte o no? Yo no he
+51:09 
+
+51:09 escuchado, no hay problema, estamos
+51:11 
+
+51:11 aprendiendo todo.
+51:13 
+
+51:13 Yo no, profe, no,
+51:14 
+
+51:14 no.
+51:15 
+
+51:15 Tampoco
+51:16 
+
+51:16 no, profe,
+51:18 
+
+51:18 tampoco
+51:19 
+
+51:19 una dirección,
+51:22 
+
+51:22 o sea, el famoso ese que vemos en todos
+51:24 
+
+51:24 lados, 192, 268.1
+51:28 
+
+51:28 punto
+51:29 
+
+51:29 pun 25 en este caso
+51:32 
+
+51:32 e
+51:34 
+
+51:34 me representa una parte me representa la
+51:37 
+
+51:37 red y otra parte me representa el host.
+51:42 
+
+51:42 ¿Qué es eso?
+52:02 
+
+52:02 La red puede hacer, por ejemplo, todas
+52:04 
+
+52:04 las conexiones,
+52:09 
+
+52:09 que hable otro chico. Eh, sí, disculpa.
+52:12 
+
+52:12 El host sería como la parte a la que se
+52:15 
+
+52:15 quiere llegar.
+52:17 
+
+52:17 Claro. Bueno, ahí ahí vamos para que no
+52:21 
+
+52:21 para para que tratemos de entenderlo
+52:22 
+
+52:22 todo.
+52:25 
+
+52:25 Partiendo de la base, la IPv4 tiene 32
+52:29 
+
+52:29 bit dividido en cuatro octetas. ¿Sí?
+52:34 
+
+52:34 Entonces, pero cuando ya empezamos a
+52:35 
+
+52:35 trabajar en direccionamiento IP,
+52:39 
+
+52:39 e una dirección IP tiene una parte que
+52:43 
+
+52:43 identifica a la shed y otra que
+52:46 
+
+52:46 identifica al host. ¿Qué dijimos que era
+52:48 
+
+52:48 un host?
+52:51 
+
+52:51 Un dispositivo que tiene asinada una IP.
+52:55 
+
+52:55 El host, como recién dijimos, es un
+52:59 
+
+52:59 dispositivo efectivamente, pero la IP eh
+53:03 
+
+53:03 eh está asignada a la placa de red de
+53:07 
+
+53:07 ese dispositivo.
+53:09 
+
+53:09 dijimos que un dispositivo puede tener
+53:11 
+
+53:11 así hicimos un caso muy normal, digamos,
+53:15 
+
+53:15 puede tener ustedes ya en su máquina
+53:18 
+
+53:18 tienen al menos dos direcciones IP
+53:21 
+
+53:21 o si le pongo una una una antenita USB
+53:26 
+
+53:26 Wi-Fi y ya puedo tener tres IP en el
+53:28 
+
+53:28 mismo dispositivo, por ejemplo, en el o
+53:33 
+
+53:33 en tres IP asignadas a cada dispositivo
+53:35 
+
+53:35 de red, a cada interfaz de red o acá la
+53:39 
+
+53:39 placa de red de la máquina, ¿verdad?
+53:43 
+
+53:43 Entonces, eh
+53:46 
+
+53:46 y y esa y ese direccionamiento, ¿para
+53:48 
+
+53:48 qué me sirve?
+53:50 
+
+53:50 e para que un equipo sepa si el destino,
+53:54 
+
+53:54 por ejemplo, si yo estoy transmitiendo
+53:55 
+
+53:55 tramas o o ya me salto
+53:60 
+
+53:60 eh a a otra capa cuando quiero pasar a
+54:03 
+
+54:03 otra red,
+54:05 
+
+54:05 eso me va a permitir saber si un equipo
+54:07 
+
+54:07 eh o para que un equipo sepa si el
+54:09 
+
+54:09 destino está en su misma red
+54:13 
+
+54:13 o si necesita enviar el tráfico a través
+54:16 
+
+54:16 de quién.
+54:18 
+
+54:18 ¿A
+54:21 
+
+54:21 través de quién? De un router. Si no
+54:24 
+
+54:24 está en la misma red de un router. Sí.
+54:29 
+
+54:29 Entonces,
+54:31 
+
+54:31 eh
+54:33 
+
+54:33 entonces eh normalmente nosotros vamos a
+54:35 
+
+54:35 ver vamos a ver este
+54:39 
+
+54:39 [carraspeo]
+54:40 
+
+54:40 en este caso es una es una clase C
+54:44 
+
+54:44 y ahí dice 192 168 1 pun 25. Entonces,
+54:52 
+
+54:52 los tres los tres primeros oetos en una
+54:55 
+
+54:55 red clase C, el los tres primeros
+54:58 
+
+54:58 octetos 192 168
+55:01 
+
+55:01 1,
+55:03 
+
+55:03 o sea, 192.168.1
+55:07 
+
+55:07 me identifican la red
+55:10 
+
+55:10 y el último obteto me identifica el
+55:13 
+
+55:13 host. Por eso si estamos en una misma
+55:16 
+
+55:16 red, por ejemplo, yo puedo tener la
+55:19 
+
+55:19 dirección IP 192 168 1.1.10
+55:25 
+
+55:25 y el que está al lado mío puede tener la
+55:28 
+
+55:28 la dirección IP 192 168.1.11
+55:33 
+
+55:33 y el compañero, si estamos en el mismo
+55:35 
+
+55:35 laboratorio de puede tener la el host.
+55:39 
+
+55:39 ¿Y cuál sería en este caso? ¿Cuál sería
+55:41 
+
+55:41 el el oteo que identifica el host?
+55:47 
+
+55:47 El obteto cuatro.
+55:48 
+
+55:48 Eleto cuatro. Entonces, eso es lo que va
+55:51 
+
+55:51 ir variando. Hay hay 30 máquinas y puede
+55:54 
+
+55:54 ser que varíe del, no sé, del 10 al si
+55:58 
+
+55:58 si yo digo si yo lo configuro que el
+56:00 
+
+56:00 servidor de HCP me asigna direcciones IP
+56:03 
+
+56:03 a cada uno de de los dispositivos que
+56:05 
+
+56:05 está conectado o de las placas de red
+56:07 
+
+56:07 que representan los dispositivos que
+56:08 
+
+56:08 están conectados en la red.
+56:11 
+
+56:11 y parten del 10. Y si yo tengo 30
+56:13 
+
+56:13 dispositivos asignados, eh, partiendo
+56:17 
+
+56:17 del 10, si yo tengo 30 dispositivos
+56:19 
+
+56:19 asignados,
+56:21 
+
+56:21 ¿cómo va a variar el direccionamiento
+56:23 
+
+56:23 IP? 192 punto, ¿cómo sería?
+56:30 
+
+56:30 Y se habría modificado el octeto 4 del
+56:32 
+
+56:32 10 al 40, ¿no?
+56:34 
+
+56:34 Exactamente. Y pero ¿qué te quedaría
+56:36 
+
+56:36 siempre lo mismo?
+56:39 
+
+56:39 La la parte de de red.
+56:42 
+
+56:42 ¿Y cuál sería la parte de red?
+56:44 
+
+56:44 Los tres primeros octetos,
+56:45 
+
+56:45 ¿cuáles serían? C
+56:47 
+
+56:47 192.168.1.
+56:50 
+
+56:50 Claro. Y y o sea, y si yo hago un IP
+56:54 
+
+56:54 config en mi computadora, en a mí me va
+56:57 
+
+56:57 a figurar 192, 168.1.10,
+57:00 
+
+57:00 por ejemplo, y el compañero si hace el
+57:03 
+
+57:03 IP config le figura 192 168.1.11.
+57:07 
+
+57:07 11.15.18.40.
+57:11 
+
+57:11 Lo que varía es el cuarto si estamos en
+57:15 
+
+57:15 una red tipo C.
+57:17 
+
+57:17 ¿Se entiende, Magomel?
+57:23 
+
+57:23 Profe.
+57:26 
+
+57:26 Do.
+57:58 
+
+57:58 Bueno, em
+58:05 
+
+58:05 acá,
+58:08 
+
+58:08 acá hay una ahí dice
+58:11 
+
+58:11 sí e cómo notación
+58:15 
+
+58:15 de R.
+58:17 
+
+58:17 Eso significa
+58:19 
+
+58:19 e
+58:24 
+
+58:24 eh cómo e
+58:27 
+
+58:27 routing classless interdomin routing eh
+58:34 
+
+58:34 enrutamiento interdominios sin clases.
+58:38 
+
+58:38 Sería así,
+58:41 
+
+58:41 es un método de un método de asignación
+58:43 
+
+58:43 de direcciones IP este que que
+58:48 
+
+58:48 es la evolución
+58:50 
+
+58:50 que a a lo que
+58:53 
+
+58:53 a lo que era un esquema rígido
+58:57 
+
+58:57 de las clases A, B y C. Hoy en día e
+59:03 
+
+59:03 eh eso yo yo les yo le decía recién que
+59:07 
+
+59:07 en una clase C
+59:10 
+
+59:10 e
+59:12 
+
+59:12 eso es más
+59:15 
+
+59:15 académico, digamos, por decirlo de
+59:17 
+
+59:17 alguna manera, eh pero ya ya no se está
+59:20 
+
+59:20 usando eso, ¿sí? ¿Por qué? porque se
+59:22 
+
+59:22 perdía eh se perdía muchas este
+59:28 
+
+59:28 muchas direcciones, no no se la
+59:30 
+
+59:30 aprovechaba de la mejor manera. Sí.
+59:32 
+
+59:32 Entonces, por eso ustedes ustedes van a
+59:34 
+
+59:34 van a escuchar e eh el direccionamiento
+59:39 
+
+59:39 IP, el clase A, el clase B o las
+59:41 
+
+59:41 direcciones o las direcciones IP, clase
+59:43 
+
+59:43 A, clase B y clase C. Sí,
+59:47 
+
+59:47 pero ahora también van a escuchar eso de
+59:51 
+
+59:51 CR.
+59:53 
+
+59:53 Ese bo ese basa bar 24
+59:59 
+
+59:59 es el prefijo
+60:01 
+
+60:01 6 y nos y nos muestra o nos indica
+60:06 
+
+60:06 cuántos bits pertenecen a la red. Por
+60:10 
+
+60:10 ejemplo,
+60:11 
+
+60:11 en este caso me dice barra 24. ¿Qué
+60:15 
+
+60:15 quiere decir eso? Que hay 24 bits que
+60:18 
+
+60:18 corresponden a la red. Entonces, ¿qué? A
+60:21 
+
+60:21 ver, ¿cuáles seren los 24 bits que
+60:23 
+
+60:23 pertenecen a la red?
+60:28 
+
+60:28 Los del octeto 1, dos y 3.
+60:30 
+
+60:30 Los del octeto 1, dos y 3 que tienen eh
+60:33 
+
+60:33 me indica e que tiene 24 bit de red.
+60:39 
+
+60:39 Ya lo vamos a ver bien a eso más
+60:40 
+
+60:40 adelante, pero ahora le tiene que servir
+60:42 
+
+60:42 esto. Eh, el barra 24 me está diciendo
+60:46 
+
+60:46 qué qué qué retener una barra 24. van a
+60:49 
+
+60:49 escuchar en la jerga. Bueno, en la barra
+60:52 
+
+60:52 24 quiere decir, ah, que el 192 168
+60:57 
+
+60:57 pun un, por ejemplo, si yo estoy viendo
+60:59 
+
+60:59 que que es de tipo ese, tipo red, este
+61:07 
+
+61:07 pertenece los tres primeros oetos
+61:09 
+
+61:09 pertenecen a la red y el último teto
+61:11 
+
+61:11 pertenecen al host. Bien.
+61:14 
+
+61:14 Y bueno, ahí tenemos ahí tenemos varios
+61:17 
+
+61:17 ejemplos. Acá el dibujito de abajo dice
+61:19 
+
+61:19 representación en la red 19218.1.10.
+61:24 
+
+61:24 La PS1 eh barra24, la PS2/24,
+61:29 
+
+61:29 la PS3 o el servidor barra24,
+61:33 
+
+61:33 el shooter
+61:35 
+
+61:35 barra 24. Si ustedes hacen ya un IP
+61:37 
+
+61:37 config,
+61:39 
+
+61:39 eh, un IP configol,
+61:42 
+
+61:42 van a ver que default gateway le dice
+61:45 
+
+61:45 default gateway es por donde es el
+61:48 
+
+61:48 router por donde salen los las tramas o
+61:52 
+
+61:52 los paquetes cuando busca una red que
+61:56 
+
+61:56 está fuera de su LAN. Sí, cuando ya
+61:59 
+
+61:59 busca ir afuera sale por ahí. Eso ya le
+62:02 
+
+62:02 está diciendo vos. Ah. Eh, dice, por
+62:05 
+
+62:05 ejemplo, yo tengo, yo estoy en la PC1,
+62:07 
+
+62:07 en mi casa, yo tengo la dirección
+62:09 
+
+62:09 192.168.1.10.
+62:14 
+
+62:14 Bien,
+62:16 
+
+62:16 quiero ir a www.clarin.com.ar
+62:19 
+
+62:19 o a unlar.edu.ar
+62:20 
+
+62:20 y me metieron una dirección 10 tanto.
+62:24 
+
+62:24 Entonces, lo primero que va a comparar,
+62:26 
+
+62:26 vos tenés mi dirección es 192 168.1.10.
+62:31 
+
+62:31 La de la UNLAR, ¿cuánto es? 172
+62:34 
+
+62:34 Xx. Ah, no es mi red. Entonces tiene que
+62:38 
+
+62:38 ir por el router
+62:40 
+
+62:40 y el router ya empiezan a conversar con
+62:42 
+
+62:42 los router y eso es otra parte de
+62:44 
+
+62:44 encaminamiento, pero ya empiezan a
+62:47 
+
+62:47 conversar entre los routers y ya saben
+62:49 
+
+62:49 por qué camino lo va a mandar para que
+62:51 
+
+62:51 llegue al destino que que estoy
+62:54 
+
+62:54 solicitando o o que estoy consultando.
+62:58 
+
+62:58 [resoplido]
+63:01 
+
+63:01 Entonces,
+63:03 
+
+63:03 e
+63:06 
+
+63:06 bueno, los tres octos me dice que
+63:08 
+
+63:08 pertenece eh a la misma red.
+63:12 
+
+63:12 Este,
+63:14 
+
+63:14 si yo cambio
+63:17 
+
+63:17 eh el último obteto,
+63:20 
+
+63:20 por ejemplo, yo tengo eh no sé, la PC1
+63:24 
+
+63:24 con el servidor, la ahí tenemos el
+63:27 
+
+63:27 dibujito PC1 con el servidor. Si yo
+63:30 
+
+63:30 cambio
+63:32 
+
+63:32 el último obteto
+63:35 
+
+63:35 y tengo
+63:37 
+
+63:37 el barra 24 constante,
+63:41 
+
+63:41 estamos dentro de las mismas red.
+63:50 
+
+63:50 ¿Puedes repetir la pregunta, profe?
+63:52 
+
+63:52 Miremos la IP, la dirección IP
+63:55 
+
+63:55 del dibujito de ahí abajo, ángulo ángulo
+63:57 
+
+63:57 inferior izquierdo.
+63:59 
+
+63:59 Representación de la red. En la red, la
+64:03 
+
+64:03 PC1 tiene la dirección IP
+64:06 
+
+64:06 110/24.
+64:08 
+
+64:08 El servidor tiene 150/24.
+64:13 
+
+64:13 Si
+64:16 
+
+64:16 si
+64:20 
+
+64:20 eh cambio el último el último octeto
+64:25 
+
+64:25 sigue perteneciendo a la misma red.
+64:27 
+
+64:27 Sí,
+64:28 
+
+64:28 no
+64:29 
+
+64:29 el v 24 es el indicador de la anotación,
+64:31 
+
+64:31 no más.
+64:33 
+
+64:33 Claro, o sea, eh, claro, solamente
+64:36 
+
+64:36 cambio la parte del host.
+64:39 
+
+64:39 Me me está diciendo, estoy dentro de las
+64:41 
+
+64:41 mismas red.
+64:42 
+
+64:42 Pero eh estoy en estoy dentro de la
+64:47 
+
+64:47 misma red, lo que cambio es el host.
+64:49 
+
+64:49 Ahora,
+64:51 
+
+64:51 si yo supongamos que yo en la PC1 tengo
+64:55 
+
+64:55 192, 168.1.10
+64:59 
+
+64:59 y en la PC2 tengo 192 168.2
+65:05 
+
+65:05 punto25.
+65:09 
+
+65:09 Ahí ya estaría en una red distinta.
+65:11 
+
+65:11 Otra red.
+65:12 
+
+65:12 Estamos en una red distinta.
+65:15 
+
+65:15 Ahí estamos en una red distinta. Por
+65:18 
+
+65:18 ejemplo,
+65:20 
+
+65:20 yo les explico un ejemplo práctico que,
+65:23 
+
+65:23 bueno, en su momento en el Banco Rioja
+65:26 
+
+65:26 allá hace muchos años atrás,
+65:29 
+
+65:29 cuando comenzamos con esto,
+65:32 
+
+65:32 eh, por ejemplo, Casa Central, cuando
+65:34 
+
+65:34 eran poquitas máquinas también, ¿no?
+65:36 
+
+65:36 Casa Central tenía la red 192 168.1.
+65:41 
+
+65:41 1.0. Yo cuando digo
+65:44 
+
+65:44 eh los tres obtetos y me refiero a un
+65:47 
+
+65:47 número y el último teto como cero,
+65:52 
+
+65:52 me estoy refiriendo que es una clase C y
+65:55 
+
+65:55 los tres octetos estoy me estoy me estoy
+65:57 
+
+65:57 refiriendo a la red. Entonces yo digo
+66:01 
+
+66:01 192 168.1.0
+66:04 
+
+66:04 es una red clase C y me estoy refiriendo
+66:06 
+
+66:06 a la red. Si digo 192 168 2.0
+66:12 
+
+66:12 sigue siendo una clase C, pero lo que
+66:14 
+
+66:14 estoy variando es la red. En lugar de
+66:16 
+
+66:16 estar en la red uno está en la red dos.
+66:19 
+
+66:19 Sí. ¿Y para qué me servía eso? Por
+66:21 
+
+66:21 ejemplo, la Rja Casa Central tenía la
+66:25 
+
+66:25 notación 190 o la red la red 1 192
+66:30 
+
+66:30 168.1.0
+66:32 
+
+66:32 cero
+66:34 
+
+66:34 y Chilecito, la sucursal Chilecito tenía
+66:38 
+
+66:38 192, 168.3.0.
+66:43 
+
+66:43 ¿Ven? Entonces, ¿qué cambiaba? La red. Y
+66:47 
+
+66:47 eso me Entonces si si
+66:51 
+
+66:51 yo quería mandar un paquete de una
+66:53 
+
+66:53 computadora A a una computadora B,
+66:57 
+
+66:57 supongamos y hacen el mismo ejercicio
+67:01 
+
+67:01 192 160 de la máquina 1 192 168.1.10
+67:08 
+
+67:08 quiere mandar un mensaje, un paquete, un
+67:11 
+
+67:11 archivo, lo que sea, a la 192 168.3.
+67:16 
+
+67:16 3.10.
+67:19 
+
+67:19 Hay a dónde estoy
+67:22 
+
+67:22 en en la misma red, estoy en diferentes
+67:24 
+
+67:24 redes y por dónde debería salir
+67:29 
+
+67:29 el router no se tendría que comunicar
+67:31 
+
+67:31 con el otro servidor para comunicarle a
+67:32 
+
+67:32 la otra PC. Claro, porque eh la el P se
+67:36 
+
+67:36 nota o se da cuenta que se compara,
+67:40 
+
+67:40 estoy mandando la misma red, ¿no? Ah,
+67:42 
+
+67:42 tengo que ir por el default gateway, por
+67:43 
+
+67:43 el shooter para que salga a otra red.
+67:53 
+
+67:53 [carraspeo]
+67:55 
+
+67:55 Bien.
+67:56 
+
+67:56 E
+68:01 
+
+68:01 bueno, eso es lo que lo que veníamos
+68:03 
+
+68:03 hablando. ¿Cómo sabe cómo sabe una
+68:05 
+
+68:05 computadora? También
+68:09 
+
+68:09 en el directamente IPv4 tenemos una
+68:12 
+
+68:12 parte de red y una parte de host.
+68:15 
+
+68:15 Entonces, ¿cómo sabe la computadora qué
+68:17 
+
+68:17 bit pertenece a la red y cuál es el
+68:19 
+
+68:19 host? Sí.
+68:22 
+
+68:22 Entonces acá la respuesta dice por la
+68:26 
+
+68:26 máscara de subset. Sí, eso que decimos
+68:30 
+
+68:30 el barra 24
+68:33 
+
+68:33 eh significa que lo los primeros los
+68:36 
+
+68:36 primeros bit o los primeros 24 bits son
+68:39 
+
+68:39 de red. Sí.
+68:41 
+
+68:41 Entonces,
+68:44 
+
+68:44 eh una máscara de sub marca eh
+68:48 
+
+68:48 el concepto, una máscara de de sub marca
+68:51 
+
+68:51 qué parte de la dirección IP identifica
+68:53 
+
+68:53 la red y qué parte queda disponible para
+68:55 
+
+68:55 los host. Bien, en el ejemplo tenemos
+68:59 
+
+68:59 192 168.1.25/24.
+69:07 
+
+69:07 Los primeros 24 bit son de la red. Y los
+69:10 
+
+69:10 últimos al host
+69:13 
+
+69:13 en forma decimal
+69:15 
+
+69:15 sería
+69:17 
+
+69:17 255 255 255 0. Es decir, para que para
+69:22 
+
+69:22 que no tengamos barra 24 es eh el triple
+69:27 
+
+69:27 255.0.
+69:30 
+
+69:30 Eh, bueno, y ahí eh recordemos el el 255
+69:33 
+
+69:33 es porque todos son uno, digamos. Sí.
+69:38 
+
+69:38 Entonces, quiere decir que es si si lo
+69:41 
+
+69:41 yo lo estoy viendo en en ¿cómo se llama?
+69:45 
+
+69:45 En
+69:46 
+
+69:46 en bin en binario 1 1 1 1 1 Todos todos
+69:50 
+
+69:50 los 81, los tres primeros autetos con
+69:52 
+
+69:52 81.
+69:54 
+
+69:54 Eh
+69:56 
+
+69:56 em
+70:02 
+
+70:02 bueno, eh
+70:07 
+
+70:07 bueno, ya tenemos ejemplo de máscaras
+70:08 
+
+70:08 comunes. Un barra 8, un barra8.
+70:13 
+
+70:13 Los bit de red son los primeros los
+70:16 
+
+70:16 primeros
+70:18 
+
+70:18 los primeros ocho, digamos, del octeto
+70:20 
+
+70:20 barra 16 barra 24. Sí. Y ya. Y después
+70:25 
+
+70:25 entramos a otra parte, eh, cuando
+70:28 
+
+70:28 cambiamos la máscara, que eso lo vamos a
+70:29 
+
+70:29 ver más adelante, cuando ya tenemos una
+70:32 
+
+70:32 cuando ya empezamos a trabajar con con
+70:36 
+
+70:36 subshads.
+70:38 
+
+70:38 Sí.
+70:40 
+
+70:40 Eh,
+70:43 
+
+70:43 bueno, ahí por ejemplo dice un barra
+70:49 
+
+70:49 un barra 26, por ejemplo.
+70:51 
+
+70:51 E
+70:53 
+
+70:53 si usamos más bit para identificar la
+70:56 
+
+70:56 red, nos van a quedar
+70:59 
+
+70:59 menos bits para los host. Entonces, más
+71:03 
+
+71:03 bit de red menos host. Una barra 26.
+71:11 
+
+71:11 ¿Qué quiere decir eso? Barra 26 tiene
+71:14 
+
+71:14 más bit que una barra 24.
+71:17 
+
+71:17 Entonces, ¿qué quiere decir eso? Que voy
+71:19 
+
+71:19 a tener menos redes. Sí.
+71:22 
+
+71:22 o o o o dividir el espacio en redes más
+71:24 
+
+71:24 pequeña. Eso sería este eso lo vamos a
+71:28 
+
+71:28 ver más adelante. Simplemente eh la idea
+71:30 
+
+71:30 es que la máscara de red nos define eh
+71:34 
+
+71:34 qué bit van a van a identificar la red y
+71:37 
+
+71:37 qué bit van a identificar al cost.
+71:41 
+
+71:41 E
+71:43 
+
+71:43 bueno,
+71:47 
+
+71:47 recapitulando, eh,
+71:50 
+
+71:50 eh, tenemos la la parte de red, la parte
+71:54 
+
+71:54 de host y de ahí este
+71:58 
+
+71:58 habíamos dicho que una computadora
+72:01 
+
+72:01 sabe o si la computadora A quiere mandar
+72:04 
+
+72:04 un mensaje, un archivo o lo que sea a
+72:07 
+
+72:07 una computadora B o una computadora de
+72:09 
+
+72:09 destino,
+72:10 
+
+72:10 Y si ese destino está en su misma red,
+72:15 
+
+72:15 eh, no hace falta un router. Y si está
+72:18 
+
+72:18 en otra red, sí hace falta un router.
+72:21 
+
+72:21 Sí. ¿Cómo se da cuenta si le va a hacer
+72:24 
+
+72:24 falta un router o no? Compara la parte
+72:27 
+
+72:27 de red de su propia dirección con la
+72:29 
+
+72:29 parte de red del destino. Sí.
+72:33 
+
+72:33 Este
+72:35 
+
+72:35 e
+72:39 
+
+72:39 en el caso que la que dos máquinas en la
+72:41 
+
+72:41 misma red
+72:43 
+
+72:43 se comunican directamente.
+72:46 
+
+72:46 Eso no quiere decir que haya un cable
+72:48 
+
+72:48 directo entre la PC1 y la PC2,
+72:52 
+
+72:52 sino significa que eh
+72:57 
+
+72:57 desde el punto de vista de la capa 3,
+73:01 
+
+73:01 eh el Origen reconoce que el defino
+73:04 
+
+73:04 pertenece a su misma red y no necesita
+73:05 
+
+73:05 usar el default gateway. Eso quiere
+73:07 
+
+73:07 decir, no no está diciendo que hay un
+73:09 
+
+73:09 cable. Sí, es eso lo tenemos que que
+73:12 
+
+73:12 tener en cuenta. Bueno, hay ejemplitos
+73:15 
+
+73:15 ahí.
+73:17 
+
+73:17 E
+73:20 
+
+73:20 ahí, por ejemplo, eh eh el razonamiento
+73:23 
+
+73:23 que hace un host eh
+73:30 
+
+73:30 eh bueno, la red de no igual a la de mi
+73:33 
+
+73:33 red. Si sí es así envío directamente
+73:36 
+
+73:36 dentro LAN. Si no, lo envío a través del
+73:38 
+
+73:38 del gateway, o sea, básicamente eso.
+73:43 
+
+73:43 E bueno, ya entramos, seguimos viendo el
+73:46 
+
+73:46 tema de la de la del default gateway. El
+73:49 
+
+73:49 default gateway es o sea, nosotros lo
+73:52 
+
+73:52 vemos en la configuración. Por ejemplo,
+73:54 
+
+73:54 si vamos a a nuestra máquina Windows y
+73:56 
+
+73:56 vamos a a a
+73:60 
+
+73:60 a panel de control red, o sea, eh por
+74:03 
+
+74:03 ahí está esa parte que dice propiedades
+74:05 
+
+74:05 de la red y voy a IPvb y le doy
+74:07 
+
+74:07 propiedades direction IP B4
+74:11 
+
+74:11 y ahí vamos a ver que yo le pongo o lo
+74:13 
+
+74:13 puedo configurar manual o lo puedo
+74:16 
+
+74:16 configurar con con servidor DHCP que en
+74:20 
+
+74:20 este en nuestra casa normalmente el
+74:23 
+
+74:23 server servidor de HCP es el router del
+74:25 
+
+74:25 proveedor de internet. Sí, nosotros qué
+74:27 
+
+74:27 hacemos, la conectamos a la PC y ya nos
+74:29 
+
+74:29 da y ya tenemos conectividad.
+74:31 
+
+74:31 Ya magia fue, ¿no? Hay un servidor de
+74:34 
+
+74:34 HCP que está asignando direcciones IP a
+74:38 
+
+74:38 cada uno de los dispositivos que se
+74:39 
+
+74:39 conectan a ese a ese shooter.
+74:44 
+
+74:44 Entonces, eh
+74:47 
+
+74:47 y y ¿por qué está eso ese default
+74:49 
+
+74:49 gateway? Bueno, justamente porque yo
+74:52 
+
+74:52 estoy yo estoy conectando internet para
+74:54 
+
+74:54 poder navegar a internet y si yo estoy
+74:57 
+
+74:57 en mi redareña,
+74:59 
+
+74:59 eh me voy a poder comunicar entre pares,
+75:03 
+
+75:03 entre entre computadoras que están eh
+75:07 
+
+75:07 entre computadoras que están en forma
+75:09 
+
+75:09 local. Pero si yo quiero empezar a
+75:10 
+
+75:10 navegar por defecto, a navegar por
+75:13 
+
+75:13 defecto, le tengo que meter un default
+75:14 
+
+75:14 gateway, ¿sí? Que es la puerta de salida
+75:16 
+
+75:16 de nuestra red local. Eso quiere decir
+75:19 
+
+75:19 Getway es una puerta puerta de salida de
+75:22 
+
+75:22 nuestra local.
+75:25 
+
+75:25 E bueno, este
+75:38 
+
+75:38 bueno y y ¿qué pasa si por ejemplo no
+75:42 
+
+75:42 configuro un getway en mi PC y no voy a
+75:44 
+
+75:44 poder salir? Si el está mal configurado
+75:46 
+
+75:46 y tampoco voy a poder salir. Y si el
+75:49 
+
+75:49 router no tiene router hacia hacia la
+75:51 
+
+75:51 red destino, bueno, ya empieza empieza
+75:55 
+
+75:55 Bueno, hay router que tiene la
+75:56 
+
+75:56 inteligencia de de empezar a agregar a
+75:58 
+
+75:58 empezar a a buscar quién a buscar un par
+76:02 
+
+76:02 que la tenga. Sí. Eh, ¿han escuchado
+76:05 
+
+76:05 hablar de la dirección 888
+76:07 
+
+76:07 o lo han configurado en algún momento?
+76:11 
+
+76:11 No, profe. No, prof. Tampoco.
+76:14 
+
+76:14 Bien.
+76:15 
+
+76:15 No es la de Google esa.
+76:16 
+
+76:16 Sí. Bueno, e si ustedes hacen e
+76:23 
+
+76:23 si ustedes hacen este esta es la
+76:25 
+
+76:25 configuración completa de un de un host.
+76:29 
+
+76:29 Eh, bueno, habíamos visto lo que es la
+76:31 
+
+76:31 IP, para qué sirve la máscara, cuándo
+76:34 
+
+76:34 interviene un gateway, ¿sí?
+76:36 
+
+76:36 Este,
+76:38 
+
+76:38 y esos son, si lo vemos e desde un punto
+76:42 
+
+76:42 de vista, son simples parámetros. Sí.
+76:45 
+
+76:45 Entonces,
+76:46 
+
+76:46 eh para que mi mi máquina
+76:53 
+
+76:53 pueda
+76:54 
+
+76:54 pueda navegar por por internet, por
+76:58 
+
+76:58 ejemplo, yo lo que necesito no es
+77:01 
+
+77:01 solamente una direction IP, necesita un
+77:05 
+
+77:05 conjunto de parámetros,
+77:07 
+
+77:07 ¿sí?
+77:09 
+
+77:09 para para para configurar esa red. Por
+77:12 
+
+77:12 ejemplo,
+77:14 
+
+77:14 una cosa que siempre el profe Covers les
+77:16 
+
+77:16 pide, eh, ¿han escuchado hablar el SSID?
+77:19 
+
+77:19 ¿Qué es el SSID?
+77:24 
+
+77:24 Yo no, profe, no escuché hablar. Yo
+77:27 
+
+77:27 tampoco, profe.
+77:27 
+
+77:27 Si si ustedes se ponen ya a buscar eh
+77:32 
+
+77:32 e
+77:35 
+
+77:35 lo que se llama A ver, ustedes
+77:38 
+
+77:38 preguntan, ¿tenés internet? Sí. A ver,
+77:40 
+
+77:40 habilito mi Wi-Fi y me y me empiezan a
+77:43 
+
+77:43 figurar un montón de redes.
+77:47 
+
+77:47 Esa redes
+77:48 
+
+77:48 es el nombre que tienen la Wifi,
+77:50 
+
+77:50 digamos.
+77:50 
+
+77:50 Claro. El identificador.
+77:52 
+
+77:52 Exactamente. Esos son los SSID. Sí.
+77:55 
+
+77:55 Entonces, cuando yo quiero configurar mi
+77:57 
+
+77:57 máquina, yo tengo diferente
+78:02 
+
+78:02 parámetro, como decía recién, cuáles
+78:04 
+
+78:04 sería la direction IP, la máscara de
+78:07 
+
+78:07 subshad, el getway, el DNS primario, un
+78:10 
+
+78:10 DNS secundario. Sí. Y cada uno de esos
+78:14 
+
+78:14 cumple una función diferente. Bueno, ya
+78:17 
+
+78:17 estamos viendo la dirección IP 192, 168,
+78:22 
+
+78:22 como el ejemplo de ahí. E
+78:27 
+
+78:27 es como decir, ¿quién soy dentro de la
+78:29 
+
+78:29 red? Este es mi DNI. Soy yo. No puede
+78:32 
+
+78:32 haber otro otro igual que yo. Porque si
+78:34 
+
+78:34 hay otro igual que yo empiezan a chocar
+78:35 
+
+78:35 los packet.
+78:38 
+
+78:38 sirve para identificar la red y para
+78:41 
+
+78:41 transmitir señal.
+78:44 
+
+78:44 Sí.
+78:45 
+
+78:45 E justamente estamos en en capa de red.
+78:50 
+
+78:50 Entonces dentro de la LAN puede haber
+78:53 
+
+78:53 solamente una máquina con la misma IP.
+78:57 
+
+78:57 No puede haber dos máquinas con la misma
+78:58 
+
+78:58 IP. Si hay dos máquinas con la misma IP,
+79:01 
+
+79:01 eh, la red se empieza a fallar y se
+79:04 
+
+79:04 puede llegar a caer. Sí. Bien. Eh,
+79:08 
+
+79:08 máscara y ya empezamos a a preguntar,
+79:10 
+
+79:10 ¿qué pasa que que se cae? ¿Que se cae?
+79:12 
+
+79:12 Bueno, tenes una DP duplicada.
+79:15 
+
+79:15 Bueno, después la máscara de subjetamos
+79:19 
+
+79:19 hablando. 255 255 o barra 24. Sí. ¿Quién
+79:23 
+
+79:23 me va a permitir la máscara? La máscara
+79:26 
+
+79:26 me eh me me permite decir qué parte de
+79:29 
+
+79:29 mi dirección corresponde a la red y qué
+79:31 
+
+79:31 parte corresponde al host. ¿Sí?
+79:35 
+
+79:35 Entonces, gracias a a esa a ese
+79:39 
+
+79:39 parámetro, digamos, o a esa sí, ese
+79:42 
+
+79:42 parámetro, eh la PC puede saber si el
+79:45 
+
+79:45 destino está en su propia red o en otra
+79:49 
+
+79:49 red.
+79:52 
+
+79:52 Sí, el getware. ¿Para qué dijimos que
+79:55 
+
+79:55 era el el getw?
+79:59 
+
+79:59 Es la puerta de salida de las redes
+80:01 
+
+80:01 locales.
+80:02 
+
+80:02 La puerta de salida de las redes.
+80:03 
+
+80:03 Entonces, ¿qué va a hacer la IP? Yo
+80:06 
+
+80:06 tengo la 192 168.1,
+80:09 
+
+80:09 ¿ya? O sea, estoy viendo la parte de la
+80:11 
+
+80:11 red. ¿Y dónde quiero salir? A la 192
+80:15 
+
+80:15 168.2.
+80:17 
+
+80:17 Ah, ya tenés que usar un getway. Bueno,
+80:20 
+
+80:20 y ahí es la puerta de salida para otras
+80:22 
+
+80:22 redes. Entonces, como como decimos, si
+80:25 
+
+80:25 yo quiero salir a otra red, le le tengo
+80:29 
+
+80:29 que poner un gateway.
+80:33 
+
+80:33 Pero si quiero si quiero si quiero
+80:38 
+
+80:38 eh por ejemplo si quiero llegar a
+80:46 
+
+80:46 a a a una IP, a ver, déjenme déjenme
+80:49 
+
+80:49 probar una cosita. No quiero ver.
+81:12 
+
+81:12 Yo quiero que vayan
+81:16 
+
+81:16 si yo quiero ir a 170.210.
+81:20 
+
+81:20 punto 152.12.
+81:26 
+
+81:26 ¿A dónde estoy yendo?
+81:37 
+
+81:37 Si quiero ir a 170,
+81:40 
+
+81:40 a la IP. 170.210.152.122.
+81:49 
+
+81:49 ¿A dónde estoy yendo?
+81:54 
+
+81:54 O hay en el ejemplo, bueno, ya puse otro
+81:56 
+
+81:56 ejemplo. En el ejemplo hay ángulo
+81:58 
+
+81:58 superior
+81:60 
+
+81:60 a la de la universidad.
+82:01 
+
+82:01 A la universidad.
+82:03 
+
+82:03 Bueno, están yendo a la universidad.
+82:05 
+
+82:05 Pero, ¿cómo cómo se dieron cuenta?
+82:09 
+
+82:09 Lo puse al buscador. [resoplido]
+82:12 
+
+82:12 Bueno,
+82:14 
+
+82:14 peroén quién empezó a trabajar.
+82:20 
+
+82:20 El router.
+82:23 
+
+82:23 El router. Sí. Y después hay otra hay
+82:25 
+
+82:25 hay un trabajo conjunto entre diferentes
+82:27 
+
+82:27 protocolos que nos hacen la vida más
+82:30 
+
+82:30 fácil.
+82:35 
+
+82:35 El DNS será, profe.
+82:37 
+
+82:37 Es el DNS. Exactamente. Es lo mismo que
+82:39 
+
+82:39 yo le decía el otro día, creo que a
+82:40 
+
+82:40 ustedes le decía, "Tengo tantas clases
+82:42 
+
+82:42 que ya no sé a quién se lo digo, pero
+82:45 
+
+82:45 eh no sé si a ustedes se lo decía, es lo
+82:48 
+
+82:48 mismo que cuando ustedes hacen una
+82:49 
+
+82:49 transferencia, ya que transferir ya es
+82:52 
+
+82:52 parte de nuestra vida y es parte de lo
+82:54 
+
+82:54 más nos parece lo más natural del mundo,
+82:56 
+
+82:56 te transfiero."
+82:58 
+
+82:58 Y yo les digo que en otros países de
+82:60 
+
+82:60 Latinoamérica,
+83:02 
+
+83:02 eh, esto que nosotros hacemos, pásame el
+83:05 
+
+83:05 el alias,
+83:07 
+
+83:07 inclusive en algunos lugares de Europa,
+83:10 
+
+83:10 no es tan común.
+83:12 
+
+83:12 Es es yo creo creo y se lo voy a decir
+83:15 
+
+83:15 para que estoy hablando más cana, pero
+83:16 
+
+83:16 yo creo que el alias es un invento
+83:18 
+
+83:18 argentino.
+83:20 
+
+83:20 Entonces, si yo le digo, ¿qué es más
+83:23 
+
+83:23 fácil? Eh, te doy mi CBU. O te doy mi
+83:27 
+
+83:27 alias. ¿Qué es más fácil?
+83:30 
+
+83:30 El alias.
+83:30 
+
+83:30 El alias.
+83:32 
+
+83:32 Bueno, acá pasa lo mismo.
+83:35 
+
+83:35 Eh, es más fácil que yo te diga
+83:38 
+
+83:38 www.unlar.edu.ar
+83:40 
+
+83:40 a que te pase la IP. Usted corrado. Yo
+83:44 
+
+83:44 le decía, "Te paso la IP." Y nadie sabía
+83:46 
+
+83:46 de qué se trataba hasta que lo han
+83:48 
+
+83:48 probado y el DNS empezó a trabajar y no
+83:51 
+
+83:51 dio esa esa respuesta. Sí.
+83:55 
+
+83:55 Entonces, ¿qué hace el DNS?
+83:58 
+
+83:58 Eh, traduce la la dirección IP.
+84:01 
+
+84:01 Claro. Entonces, nosotros tenemos que
+84:03 
+
+84:03 tener siempre deberíamos tener
+84:06 
+
+84:06 configurado un DNS primario y un DNS
+84:09 
+
+84:09 secundario.
+84:11 
+
+84:11 ¿Por qué? Y porque si el primero no está
+84:14 
+
+84:14 o el primario no está, para que esté
+84:16 
+
+84:16 disponible el secundario. ¿Sí?
+84:20 
+
+84:20 Entonces, e
+84:23 
+
+84:23 cómo bueno, ahí ya más o menos hicimos
+84:25 
+
+84:25 el caminito. Tenemos los parámetro cómo
+84:28 
+
+84:28 o cómo trabajan juntos todos los
+84:30 
+
+84:30 parámetros. La IP dijimos 192, 168, 125,
+84:35 
+
+84:35 la máscara 255 255 2550. El gateway
+84:40 
+
+84:40 normalmente 192, 168.1.1,
+84:43 
+
+84:43 un el DNS o podemos tener el DNS que nos
+84:46 
+
+84:46 da nuestro proveedor como internet para
+84:47 
+
+84:47 todo o directamente le ponemos el de
+84:50 
+
+84:50 Google o le puedo poner el de Google el
+84:52 
+
+84:52 primero y el de internet para todo
+84:53 
+
+84:53 segundo. ¿Sí? Entonces yo quiero acceder
+84:56 
+
+84:56 como en el ejemplo que dice ahí eh
+84:59 
+
+84:59 wwgogle.com
+85:01 
+
+85:01 y sigo el razonamiento.
+85:04 
+
+85:04 Traduce Google con como la direction IP.
+85:07 
+
+85:07 La PC compara IP con con su propia red
+85:11 
+
+85:11 utilizando la máscara.
+85:13 
+
+85:13 Y ahí va a determinar, no está en la
+85:16 
+
+85:16 192, 168.1.0,
+85:20 
+
+85:20 está en otra red, es una 142.
+85:24 
+
+85:24 Ah, entonces lo tengo que enviar al
+85:26 
+
+85:26 tráfico a través de dónde?
+85:31 
+
+85:31 A través de dónde lo enviaría al
+85:32 
+
+85:32 tráfico,
+85:33 
+
+85:33 del router.
+85:34 
+
+85:34 Del router o del default gateway. Sí.
+85:37 
+
+85:37 Entonces, el y el router se encarga del
+85:39 
+
+85:39 del encaminamiento
+85:41 
+
+85:41 o de encaminarlo hacia internet. Sí.
+85:49 
+
+85:49 Bueno, y ahí tenemos un ejemplo práctico
+85:52 
+
+85:52 del del IP config all. Sí, eso es lo que
+85:56 
+
+85:56 yo le venía diciendo. Si yo ejecuto el
+85:59 
+
+85:59 comando IP config all, este
+86:04 
+
+86:04 no nos va a permitir ver la
+86:05 
+
+86:05 configuración completa de de las
+86:07 
+
+86:07 interfaz de red. Sí. Este, bueno, eso
+86:11 
+
+86:11 eso ya lo lo practican ustedes en su en
+86:15 
+
+86:15 su en su computador.
+86:20 
+
+86:20 [carraspeo] IPv4
+86:22 
+
+86:22 privadas y públicas.
+86:25 
+
+86:25 Eh, bueno, no todas las las direcciones
+86:27 
+
+86:27 IPv4 pueden usarse en internet.
+86:31 
+
+86:31 Existen lo que se llama las direcciones
+86:33 
+
+86:33 privadas
+86:35 
+
+86:35 que son están pensadas para redes
+86:37 
+
+86:37 internas. Por ejemplo, eh lo que yo le
+86:40 
+
+86:40 decía recién, 192, 168.1.0
+86:44 
+
+86:44 cer es una red privada, eh, y y están
+86:49 
+
+86:49 las direcciones públicas que ya ven que
+86:51 
+
+86:51 tiene otra, ¿no? Por ejemplo, en el
+86:52 
+
+86:52 ejemplito de de recién decía Google
+86:56 
+
+86:56 comenzaba con un 142.
+87:00 
+
+87:00 Bueno, entonces las direcciones privadas
+87:04 
+
+87:04 se utilizan dentro de bueno, de nuestra
+87:06 
+
+87:06 casa, de las oficina, de las empresas, o
+87:08 
+
+87:08 sea, hay un shooter y del router para
+87:11 
+
+87:11 dentro
+87:12 
+
+87:12 están las la direcciones privadas y hay
+87:17 
+
+87:17 tres grandes rangos e
+87:21 
+
+87:21 eh que son [carraspeo] reservados,
+87:23 
+
+87:23 digamos, el 10000, el 17216
+87:28 
+
+87:28 y el 192 168. Sí. Entonces, eso están
+87:33 
+
+87:33 son direcciones privadas
+87:35 
+
+87:35 eh no son enrutables directamente en
+87:37 
+
+87:37 internet, es una característica.
+87:39 
+
+87:39 Entonces, eh eso qué quiere decir, que
+87:42 
+
+87:42 un shooter de internet no debería
+87:43 
+
+87:43 intentar llegar a una a una PC con
+87:47 
+
+87:47 eh por ejemplo con el 192, 168, 1.25.
+87:53 
+
+87:53 ¿Por qué? Eh, como si fuera una
+87:56 
+
+87:56 dirección global. ¿Por qué? porque son
+87:57 
+
+87:57 direcciones IP privadas. Eh, el router
+88:01 
+
+88:01 eh el router no va a ir a esa IP. Sí.
+88:05 
+
+88:05 Este,
+88:09 
+
+88:09 por ejemplo, si yo tengo,
+88:14 
+
+88:14 si yo tengo, si yo hago ya IP config,
+88:20 
+
+88:20 IP config
+88:22 
+
+88:22 para ver la configuración de mi de mi de
+88:25 
+
+88:25 mi de mi red o cómo está configurado mi
+88:28 
+
+88:28 mi computadora en el red y a mí me sale
+88:32 
+
+88:32 192 168 8.1.25.
+88:37 
+
+88:37 Y si una uno de ustedes también hace IP
+88:41 
+
+88:41 config y le sale 192 168.1.25,
+88:47 
+
+88:47 ¿se puede dar?
+88:57 
+
+88:57 Yo recién le decía que ser priv.
+88:60 
+
+88:60 Claro. Yo recién le decía que las IP son
+89:02 
+
+89:02 únicas. Sí.
+89:06 
+
+89:06 Es así. Le dije eso o no.
+89:09 
+
+89:09 Sí, sí, sí, profe.
+89:11 
+
+89:11 Entonces les vuelvo a preguntar. Si yo
+89:13 
+
+89:13 hago ya IP config en mi máquina, yo acá
+89:16 
+
+89:16 y me tira que
+89:18 
+
+89:18 la respuesta del al comando es que tengo
+89:21 
+
+89:21 la IP 192 168 125 y ustedes hacen lo
+89:25 
+
+89:25 mismo y le da 192 168 125. ¿Se puede
+89:28 
+
+89:28 dar?
+89:29 
+
+89:29 No, profe.
+89:30 
+
+89:30 No,
+89:32 
+
+89:32 no.
+89:33 
+
+89:33 No,
+89:34 
+
+89:34 porque son únicas.
+89:36 
+
+89:36 Bien, pero pero, ¿cuál es la diferencia?
+89:39 
+
+89:39 Son privadas.
+89:43 
+
+89:43 Estamos hablando de redes privadas.
+89:44 
+
+89:44 Entonces, yo puedo tener mi red privada.
+89:47 
+
+89:47 Entonces, estoy estoy en mi casa
+89:51 
+
+89:51 y puedo tener mi red 192 168
+89:55 
+
+89:55 1 0 y de ahí le pongo todas las ustedes
+89:59 
+
+89:59 en su casa también pueden tener
+90:01 
+
+90:01 exactamente la misma configuración.
+90:03 
+
+90:03 porque es una red privada, está para su
+90:05 
+
+90:05 casa. Ahora, del router para afuera ya
+90:10 
+
+90:10 no se puede repetir, pero adentro sí.
+90:13 
+
+90:13 ¿Por qué? Porque cuando yo mande un
+90:16 
+
+90:16 mensaje, yo no voy a mandar un mensaje a
+90:18 
+
+90:18 la 192.
+90:20 
+
+90:20 Sí, lo voy a mandar a la 125,
+90:23 
+
+90:23 pero pero antes, ¿quién está?
+90:28 
+
+90:28 No, no se me identifica a mí. Como yo
+90:31 
+
+90:31 tengo el router
+90:33 
+
+90:33 y yo llego al router y dentro del
+90:35 
+
+90:35 router, como eso es un no ining one,
+90:37 
+
+90:37 digamos, tiene todas las funciones, es
+90:39 
+
+90:39 un router, un switch, es todo el el
+90:41 
+
+90:41 aparato que tenemos de internet, eh
+90:46 
+
+90:46 es como que le va sacando, ¿se acuerdan
+90:48 
+
+90:48 que hablamos de la de la
+90:50 
+
+90:50 encapsulamiento?
+90:55 
+
+90:55 Bueno, entonces no eh se puede dar, sí,
+90:58 
+
+90:58 sí se puede dar. hay conflicto, ¿no?
+91:00 
+
+91:00 ¿Por qué? Porque esas direcciones
+91:03 
+
+91:03 existen dentro de redes privadas.
+91:06 
+
+91:06 En cambio, la redes públicas
+91:09 
+
+91:09 eh
+91:11 
+
+91:11 es así, no se pueden repetir, no se
+91:14 
+
+91:14 pueden repetir eh
+91:17 
+
+91:17 del router para afuera, digamos. ¿Me
+91:20 
+
+91:20 explico lo que le estoy diciendo o no o
+91:21 
+
+91:21 no me entiende o o no me hago explicar?
+91:23 
+
+91:23 Sí, sí, profe, sí se
+91:24 
+
+91:24 sí, profe, se entiende
+91:26 
+
+91:26 bien. Entonces, puede haber millones de
+91:30 
+
+91:30 personas que en este preciso momento
+91:32 
+
+91:32 tenga la IP 192, 168.1.25.
+91:37 
+
+91:37 Pero, ¿dónde lo tienen? En su casa, en
+91:39 
+
+91:39 su oficina. Es una red privada. Sí.
+91:45 
+
+91:45 Y mientras la red estén separadas, por
+91:47 
+
+91:47 ejemplo, yo en mi casa, yo tengo mi red,
+91:50 
+
+91:50 eh, no sé, eh, ahí estoy viendo los
+91:52 
+
+91:52 chicos que están ahí. Matías Toquef, por
+91:54 
+
+91:54 ejemplo, él puede estar en su casa y
+91:56 
+
+91:56 puede tener exactamente la misma
+91:57 
+
+91:57 configuración, pero somos redes
+91:59 
+
+91:59 separadas que no se están, no se ven, no
+92:02 
+
+92:02 se ven. Y si yo intento mandar un
+92:04 
+
+92:04 mensaje, no le estoy en el fondo sí le
+92:07 
+
+92:07 estoy mandando a la 125, pero yo le
+92:09 
+
+92:09 estoy mandando, yo voy a llegar primero
+92:11 
+
+92:11 al shooter y el shooter se va a encargar
+92:13 
+
+92:13 de de traducir eso después. Entonces,
+92:15 
+
+92:15 ¿qué es una dirección pública? Es una
+92:17 
+
+92:17 dirección eh IPv4 utilizada en internet
+92:21 
+
+92:21 y es así que debe ser única en el
+92:24 
+
+92:24 espacio de internet. ¿Sí? Por ejemplo,
+92:27 
+
+92:27 acá, ¿dónde está? ¿Dónde está? ¿Dónde
+92:29 
+
+92:29 está?
+92:32 
+
+92:32 Bueno, acá dice la IP pública, ejemplo
+92:35 
+
+92:35 de direcciones, dice pública 181 50 72.
+92:42 
+
+92:42 Sí.
+92:44 
+
+92:44 Eh, esa dirección
+92:47 
+
+92:47 puede ser asignada por, no sé, por
+92:50 
+
+92:50 internet para todo, por flow, por el que
+92:52 
+
+92:52 tengamos nosotros como proveedor de
+92:54 
+
+92:54 internet, a la interfaz one del router.
+92:57 
+
+92:57 Si ustedes ustedes lo ven al router,
+92:58 
+
+92:58 ahora, van a ver que atrás
+93:02 
+
+93:02 eh atrás tiene una una
+93:07 
+
+93:07 a donde a donde viene el cable de
+93:10 
+
+93:10 afuera. Esa la interfaz one. Sí.
+93:13 
+
+93:13 Entonces tiene tiene ese shooter está
+93:16 
+
+93:16 uniendo dos mundos.
+93:19 
+
+93:19 La LAN privada
+93:22 
+
+93:22 que yo tengo del tipo 192, 168, 1 tanto
+93:27 
+
+93:27 es internet que yo puedo tener 181, 50,
+93:31 
+
+93:31 72, 34. ¿Se entiende?
+93:36 
+
+93:36 ¿Me me explico eso o no? ¿O no me
+93:38 
+
+93:38 entiend o no me haga? Sí, sí,
+93:39 
+
+93:39 sí,
+93:40 
+
+93:40 sí, profe.
+93:41 
+
+93:41 Entonces, el router me está uniendo dos
+93:43 
+
+93:43 mundos. Sí,
+93:46 
+
+93:46 desde internet se ve la dirección
+93:49 
+
+93:49 pública del router, no se ven las
+93:52 
+
+93:52 direcciones privadas de cada dispositivo
+93:55 
+
+93:55 interno. Entonces, si yo hoy me quiero
+93:57 
+
+93:57 le quiero enviar un mensaje a alguien,
+93:59 
+
+93:59 yo voy a ver al router y de ahí el
+94:03 
+
+94:03 router se va a encarndarlo al paquetito.
+94:06 
+
+94:06 O sea, eh eh es lo que hablamos del
+94:08 
+
+94:08 encapsuramiento.
+94:11 
+
+94:11 Yo estoy mandando, yo estoy mandando
+94:15 
+
+94:15 eh eh a la 192 168.
+94:20 
+
+94:20 Este,
+94:22 
+
+94:22 pero a medida que va saliendo le va le
+94:25 
+
+94:25 va poniendo paquetes paquetes eh
+94:28 
+
+94:28 envoltorio, digamos, o etiquetas o o
+94:30 
+
+94:30 rótulos.
+94:32 
+
+94:32 Este,
+94:39 
+
+94:39 ahí estoy con profe cobre.
+95:03 
+
+95:03 Bien,
+95:06 
+
+95:06 em bueno, decíamos eso de la dirección
+95:09 
+
+95:09 IP pública y la dirección IP privada y
+95:12 
+
+95:12 eso es lo que yo lo que le lo que le
+95:14 
+
+95:14 estoy diciendo del tema de
+95:22 
+
+95:22 este
+95:24 
+
+95:24 el tema de de cómo de cómo de cómo una
+95:28 
+
+95:28 red privada sale a internet.
+95:32 
+
+95:32 Sí, es lo que con ustedes van a ver esa
+95:35 
+
+95:35 palabra NAT o van a escuchar nateo. Sí,
+95:40 
+
+95:40 recién dijimos las direcciones IP
+95:44 
+
+95:44 privadas, por ejemplo, la 192, 168.1.25,
+95:51 
+
+95:51 no se enrutan directamente en internet.
+95:56 
+
+95:56 Entonces, si y yo me pregunto si mi IP o
+95:59 
+
+95:59 mi PC tiene una
+96:03 
+
+96:03 si mi PC tiene una IP privada, ¿cómo
+96:07 
+
+96:07 hace para navegar por internet?
+96:12 
+
+96:12 Entonces ahí entra
+96:15 
+
+96:15 otro
+96:22 
+
+96:22 integrante
+96:25 
+
+96:25 de toda esta ingeniería que es el NAT.
+96:28 
+
+96:28 El NAT es el network address translation
+96:32 
+
+96:32 [carraspeo]
+96:35 
+
+96:35 network address translation.
+96:38 
+
+96:38 ¿Qué viene a resolver el NAT?
+96:40 
+
+96:40 Supongamos
+96:43 
+
+96:43 en la casa de cada uno tienen un solo
+96:45 
+
+96:45 dispositivo conectado a internet o
+96:47 
+
+96:47 tienen varios dispositivos.
+96:50 
+
+96:50 Varios.
+96:51 
+
+96:51 Bueno,
+96:51 
+
+96:51 varios.
+96:52 
+
+96:52 Varios. Entonces cada uno de si si
+96:55 
+
+96:55 ustedes hacen se ponen a revisar o
+96:57 
+
+96:57 entran al router de internet y ven los
+97:01 
+
+97:01 clientes conectados, van a ver que por
+97:02 
+
+97:02 ejemplo va a decir PC, si yo les pongo
+97:05 
+
+97:05 una etiqueta, no me puede decir PC
+97:08 
+
+97:08 escritorio 192 168.1.10,
+97:12 
+
+97:12 notebook 192 168 120 celular 192
+97:18 
+
+97:18 168.1.30
+97:20 
+
+97:20 y así.
+97:22 
+
+97:22 Hay como el dibujito, la red privada,
+97:27 
+
+97:27 todas pertenecen a una red privada, a mi
+97:31 
+
+97:31 land de mi casa.
+97:34 
+
+97:34 El shooter tiene dos interfaces. Recién
+97:36 
+
+97:36 dijimos que el shooter une los dos
+97:38 
+
+97:38 mundos, el mundo privado con el mundo
+97:40 
+
+97:40 público. ¿Quién es el mundo público?
+97:42 
+
+97:42 Internet. ¿Quién es el mundo privado? Mi
+97:43 
+
+97:43 casa. Entonces, yo tengo el router,
+97:48 
+
+97:48 tiene dos interfaces.
+97:50 
+
+97:50 la interface LAN
+97:52 
+
+97:52 que que y ahí y ahí es cuando ustedes
+97:56 
+
+97:56 ven que dice default gateway en su
+97:57 
+
+97:57 configuración de Windows. Entonces la
+98:00 
+
+98:00 interfaz LAN dice 192 168 11. Entonces
+98:06 
+
+98:06 cuando cualquiera de esos dispositivos,
+98:09 
+
+98:09 la PC, la notebook o el celular quiera
+98:11 
+
+98:11 navegar por internet,
+98:13 
+
+98:13 él va a decir, "Ah, me quiero ir a una a
+98:16 
+
+98:16 una red que no soy yo, entonces tengo
+98:19 
+
+98:19 que salir por el default gateway. se va
+98:21 
+
+98:21 a ir por la 192 16811
+98:26 
+
+98:26 e
+98:30 
+
+98:30 que sería la red privada.
+98:32 
+
+98:32 El router se va a encargar de que ese
+98:35 
+
+98:35 paquete que que sale
+98:38 
+
+98:38 a
+98:41 
+
+98:41 que que viene de la red privada, de la
+98:42 
+
+98:42 red privada va a ir por internet. Ahí
+98:45 
+
+98:45 realiza lo que se llama un NAT o un
+98:48 
+
+98:48 NATO.
+98:51 
+
+98:51 Entonces, eh bueno, este es el caso. Por
+98:54 
+
+98:54 ejemplo, ahí dice
+98:56 
+
+98:56 el proceso paso a paso.
+98:59 
+
+98:59 La PC quiere la PC quiere la PC1 quiere
+99:05 
+
+99:05 quiere ir a a la IP 142 250
+99:10 
+
+99:10 7268, que sería Google. Yo pongo, ¿qué
+99:13 
+
+99:13 estoy haciendo yo en mi PC?
+99:14 
+
+99:14 ww.google.com.
+99:17 
+
+99:17 Como el destino está fuera de su red,
+99:20 
+
+99:20 sale el tráfico. ¿Por dónde?
+99:28 
+
+99:28 ¿Por dónde saldría?
+99:32 
+
+99:32 Eh,
+99:33 
+
+99:33 ¿puedes repetir la pregunta, profe?
+99:35 
+
+99:35 El Yo estoy en mi PCoogle.com.
+99:39 
+
+99:39 Quiero, estoy poniendo así mi navegador
+99:41 
+
+99:41 y estoy en la red privada,
+99:43 
+
+99:43 pero estoy conectado a internet.
+99:46 
+
+99:46 ¿Qué va a ser el eh por dónde por dónde
+99:48 
+
+99:48 va a sal?
+99:51 
+
+99:51 Por el router.
+99:52 
+
+99:52 Por el router.
+99:53 
+
+99:53 Por router.
+99:54 
+
+99:54 Entonces yo puse wwgoogle.com.
+99:58 
+
+99:58 Eh, la la red dice esa red está en la
+100:02 
+
+100:02 misma tiene la misma red. Esa esa ese
+100:05 
+
+100:05 esa dirección. No, está en otra red. Ah,
+100:08 
+
+100:08 tengo que ir por el por el gateway. Eh,
+100:10 
+
+100:10 no puedo enviarlo por por la 192 168
+100:14 
+
+100:14 110 porque esa dirección es privada.
+100:18 
+
+100:18 Entonces ahí lo lo mando por el por el
+100:22 
+
+100:22 gateway. ¿Y qué hace el gateway? Hace
+100:25 
+
+100:25 una traducción. Sí. Entonces reemplaza
+100:29 
+
+100:29 la dirección de origen 192 168. Bueno,
+100:32 
+
+100:32 acá dice 110. Y lo va a reemplazar por
+100:34 
+
+100:34 su dirección IP pública 181 72 34.
+100:41 
+
+100:41 Sí.
+100:43 
+
+100:43 Y ahora el paquete ya está preparado. O
+100:45 
+
+100:45 sea, le al paquete que yo envié es como
+100:49 
+
+100:49 que hace así como Mercadolibbre. Le ha
+100:51 
+
+100:51 puesto una bolsa negra, otra otro
+100:53 
+
+100:53 envoltorio más y le ha puesto un un,
+100:57 
+
+100:57 ¿cómo se dice? Un un rótulo, digamos, un
+101:01 
+
+101:01 con otros datos. Entonces, eh para qué,
+101:05 
+
+101:05 para que ya se lo reconozca
+101:08 
+
+101:08 afuera.
+101:10 
+
+101:10 Entonces,
+101:12 
+
+101:12 desde el punto de vista del servidor
+101:14 
+
+101:14 remoto,
+101:17 
+
+101:17 la
+101:19 
+
+101:19 el paquete viene de la 181 50 72 34.
+101:26 
+
+101:26 No viene de la 192 168 110 porque él no
+101:31 
+
+101:31 la está viendo para él. El es eso ya se
+101:34 
+
+101:34 le puso un emoltorio nuevo con el rótul.
+101:37 
+
+101:37 Ahora yo ah para mí vení de la 181 50 72
+101:41 
+
+101:41 a la 192 168 110 no la conozco. ¿Por
+101:44 
+
+101:44 qué? Porque existe solamente dentro de
+101:46 
+
+101:46 la L.
+101:49 
+
+101:49 Entonces, ¿cómo sabe el shooter a qué PC
+101:51 
+
+101:51 va a devoluver la respuesta? Bueno,
+101:54 
+
+101:54 entonces, ¿por qué? Porque hay muchos
+101:56 
+
+101:56 equipos que dijimos, yo recién le
+101:58 
+
+101:58 pregunté, ¿cuántos equipos tienen en su
+101:59 
+
+101:59 casa? Tenemos varios.
+102:01 
+
+102:01 Entonces, pero si tenemos varios equipos
+102:03 
+
+102:03 compartiendo una misma hiperpública que
+102:06 
+
+102:06 es la del shooter,
+102:08 
+
+102:08 entonces, ¿cómo vas a saber el shooter
+102:10 
+
+102:10 si la respuesta corresponde a la PC, a
+102:13 
+
+102:13 la notebook o al o al celular?
+102:16 
+
+102:16 Entonces, ¿qué hace ahí? Mantiene una
+102:19 
+
+102:19 tabla de traducción. ¿Sí? Entonces, por
+102:23 
+
+102:23 ejemplo,
+102:25 
+
+102:25 eh eh
+102:28 
+
+102:28 tiene un puerto, ustedes van a ver una
+102:31 
+
+102:31 notación que se llama 192, 168.1.10
+102:35 
+
+102:35 10 2 punto Bueno, ahí dice el puerto
+102:39 
+
+102:39 origen 52 341 dice ahí
+102:43 
+
+102:43 y va al puerto destino o a la dirección
+102:46 
+
+102:46 IP destino 181 52 70 181 50 72 34001
+102:54 
+
+102:54 por ejemplo eh entonces hay una hay una
+102:58 
+
+102:58 asociación con los puertos dirección IP
+103:01 
+
+103:01 y puerto. Entonces, el router registra
+103:04 
+
+103:04 esa asociación y cuando vuelve consulta
+103:08 
+
+103:08 su tabla y sabe a quién lo tiene que
+103:09 
+
+103:09 entregar.
+103:11 
+
+103:11 ¿Se entiende esa parte?
+103:15 
+
+103:15 Sí.
+103:15 
+
+103:15 Sí, profe.
+103:17 
+
+103:17 Entonces es una en términos en término
+103:21 
+
+103:21 en términos de de base de datos es una
+103:25 
+
+103:25 clave compuesta. shooter puerto.
+103:29 
+
+103:29 Entonces, bueno, e
+103:37 
+
+103:37 acá, bueno, voy a hacer una salveda que
+103:40 
+
+103:40 no sé si lo voy a complicar o no, pero e
+103:44 
+
+103:44 para ser un poquito más preciso, sin
+103:47 
+
+103:47 ánimo de complicarlo,
+103:49 
+
+103:49 cuando muchos equipos comparten
+103:53 
+
+103:53 una misma IP pública
+103:55 
+
+103:55 y se diferencian mediante el puerto,
+103:58 
+
+103:58 Estamos utilizando una técnica que se
+103:60 
+
+103:60 llama PAT
+104:02 
+
+104:02 y no NAT.
+104:04 
+
+104:04 NAT es network address translation.
+104:08 
+
+104:08 Pat es port address translation. Sí. O
+104:14 
+
+104:14 también lo podemos ver como NAT
+104:15 
+
+104:15 overload. Sí. Pero nosotros vamos a
+104:19 
+
+104:19 hablar de NAT. O sea, yo simplemente le
+104:21 
+
+104:21 quiero hacer esa aclaración,
+104:25 
+
+104:25 pero pero
+104:27 
+
+104:27 bueno, este
+104:32 
+
+104:32 eh es algo que que que que que está
+104:38 
+
+104:38 eh ya 10.
+104:45 
+
+104:45 Bueno, me falta me falta como
+104:48 
+
+104:48 40 minutos más. Me quedo corto. ¿Quiere
+104:52 
+
+104:52 que cortemos acá y sigamos el martes que
+104:54 
+
+104:54 viene.
+104:58 
+
+104:58 Bueno, profe.
+104:60 
+
+104:60 Sí, profe,
+105:01 
+
+105:01 no llegamos.
+105:03 
+
+105:03 No sé por qué no que empezado y medio.
+105:27 
+
+105:27 Ah.
+105:32 
+
+105:32 Como siempre está lentísimo el campo.
+106:27 
+
+106:27 Eh, Yeah.
